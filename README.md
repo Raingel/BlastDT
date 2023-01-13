@@ -1,7 +1,8 @@
 # BlastDT模型
 
-BlastDT模型是基於決策樹(Decision Tree)設計之稻熱病(Rice Blast)預警模型。
-
+1. BlastDT模型是基於決策樹(Decision Tree)設計之稻熱病(Rice Blast)預警模型。
+2. 欲介接預測結果，請見prediction資料夾中之檔案。檔案以氣象站站號及年份分類。
+3. Github Actions功能會自動執行每日預測。
 
 
 # 計算流程
