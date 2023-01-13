@@ -113,7 +113,7 @@ if __name__ == "__main__":
     WINDOWS_LENGTH = args.WINDOWS_LENGTH   #Rolling windows length
     SPAN = (args.START_YEAR, args.END_YEAR)   #Set the year range
     OUTPUT_DIR = args.OUTPUT_DIR   #Set the output directory
-
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     #Initialize the predictor
     predictor = nian(RH_THRESHOLD, T_THRESHOLD, WINDOWS_LENGTH)
     #Load weather station
