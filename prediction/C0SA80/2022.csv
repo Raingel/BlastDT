@@ -1,0 +1,4 @@
+Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling
+2021-12-29,,,,,92.0,True,
+2021-12-30,,19.9,False,,88.0,True,
+2021-12-31,,21.2,False,,84.0,True,1.0

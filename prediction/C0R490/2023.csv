@@ -1,0 +1,16 @@
+Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling
+2022-12-29,,,,,80.0,False,
+2022-12-30,,24.5,True,,87.0,True,
+2022-12-31,,25.5,True,,87.0,True,0.0
+2023-01-01,True,24.0,True,1.0,92.0,True,1.0
+2023-01-02,True,24.5,True,1.0,97.0,True,1.0
+2023-01-03,True,24.1,True,1.0,97.0,True,1.0
+2023-01-04,True,27.7,True,1.0,89.0,True,1.0
+2023-01-05,True,26.2,True,1.0,91.0,True,1.0
+2023-01-06,True,28.6,True,1.0,91.0,True,1.0
+2023-01-07,True,27.2,True,1.0,88.0,True,1.0
+2023-01-08,True,31.3,True,1.0,86.0,True,1.0
+2023-01-09,True,28.3,True,1.0,84.0,True,1.0
+2023-01-10,True,27.0,True,1.0,89.0,True,1.0
+2023-01-11,True,28.2,True,1.0,87.0,True,1.0
+2023-01-12,True,29.5,True,1.0,87.0,True,1.0
