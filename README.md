@@ -7,9 +7,7 @@
 
 # 計算流程
 1. [氣象站列表](https://github.com/Raingel/weather_station_list)及[氣象資料](https://github.com/Raingel/historical_weather)會即時自github下載下來
-2. 根據下面的流程計算結果
-3. 結果會根據站號及年份建檔於prediction資料夾
-(每日由github action功能自動執行更新)
+2. 根據以下的流程進行預報
 
 ```mermaid
 graph LR
@@ -28,6 +26,10 @@ Prediction{Prediction} --True/False-->0(0)
 Prediction{Prediction} --False/True-->0(0)
 Prediction{Prediction} --False/False-->0(0)
 ```
+
+3. 結果會根據站號及年份建檔於prediction資料夾
+(每日由github action功能自動執行更新)
+
 ## 備註
 1. 本稻熱病決策樹公式(BlastDT)由行政院農業委員會農業試驗所陳繹年助理研究員開發
 2. 原始氣象資料來源為[中央氣象局](https://www.cwb.gov.tw/)
