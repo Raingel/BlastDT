@@ -148,4 +148,5 @@ if __name__ == "__main__":
             df_p.to_csv("{}/{}/{}.csv".format(OUTPUT_DIR, sta_no,year), index=False)
 
 
-
+    if os.path.exists("weather_data"):
+        shutil.rmtree("weather_data")
