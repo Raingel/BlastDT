@@ -7,6 +7,8 @@ Be aware that the weather data is from the github repo, which might not be the m
 import pandas as pd
 import os
 from datetime import datetime, timedelta
+from git import Repo
+import shutil
 class nian:
     #Some basic parameters
     #RH_threshold: Set the lower bound of relative humidity for rice blast disease
@@ -29,7 +31,7 @@ class nian:
             end_year = end.year + 1
 
         for year in range(start_year, end_year+1):
-            RESOURCE = f"https://raw.githubusercontent.com/Raingel/historical_weather/main/data/{sta_no}/{sta_no}_{year}_daily.csv"
+            RESOURCE = f"./weather_data/data/{sta_no}/{sta_no}_{year}_daily.csv"
             try:
                 if year == start_year:
                     df = pd.read_csv(RESOURCE)
@@ -41,6 +43,8 @@ class nian:
         try:
             df['Unnamed: 0'] = pd.to_datetime(df['Unnamed: 0'])
             df = df.set_index('Unnamed: 0')
+            #remove duplicated index
+            df = df[~df.index.duplicated(keep='first')]
             df.reindex(pd.date_range(start=df.index.min(), end=df.index.max()))
             df['Unnamed: 0'] = df.index.astype(str)
             df.reset_index(drop=True, inplace=True)
@@ -107,6 +111,10 @@ if __name__ == "__main__":
     parser.add_argument("--END_YEAR", type=int, default=datetime.now().year, help="End at which year")
     parser.add_argument("--OUTPUT_DIR", type=str, default="prediction", help="Output directory")
     args, _ = parser.parse_known_args()
+    #Download weather data
+    if os.path.exists("weather_data"):
+    shutil.rmtree("weather_data")
+        Repo.clone_from("https://github.com/Raingel/historical_weather.git", "weather_data")
     #Set custom parameters HERE
     RH_THRESHOLD = args.RH_THRESHOLD   #Set the lower bound of relative humidity for rice blast disease
     T_THRESHOLD = args.T_THRESHOLD   #Set the upper bound of temperature for rice blast disease
