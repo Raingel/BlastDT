@@ -145,6 +145,9 @@ if __name__ == "__main__":
             os.makedirs("{}/{}".format(OUTPUT_DIR,sta_no), exist_ok=True)
             df_p['Date'] = df_p['Unnamed: 0']
             df_p = df_p[['Date', 'nian_prediction', 'TxMaxAbs', 'TxMaxAbs_condition', 'TxMaxAbs_condition_rolling', 'RH',  'RH_condition',  'RH_condition_rolling']]
+            df_p["站號"] = sta_no
+            df_p["lat"] = row["緯度"]
+            df_p["lon"] = row["經度"]
             df_p.to_csv("{}/{}/{}.csv".format(OUTPUT_DIR, sta_no,year), index=False)
 
 
