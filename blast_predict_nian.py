@@ -113,8 +113,8 @@ if __name__ == "__main__":
     args, _ = parser.parse_known_args()
     #Download weather data
     if os.path.exists("weather_data"):
-    shutil.rmtree("weather_data")
-        Repo.clone_from("https://github.com/Raingel/historical_weather.git", "weather_data")
+        shutil.rmtree("weather_data")
+    Repo.clone_from("https://github.com/Raingel/historical_weather.git", "weather_data")
     #Set custom parameters HERE
     RH_THRESHOLD = args.RH_THRESHOLD   #Set the lower bound of relative humidity for rice blast disease
     T_THRESHOLD = args.T_THRESHOLD   #Set the upper bound of temperature for rice blast disease
