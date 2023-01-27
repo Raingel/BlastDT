@@ -357,7 +357,6 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2022-12-19,False,18.7,False,0.0,68.0,False,0.0
 2022-12-20,False,23.2,False,0.0,67.0,False,0.0
 2022-12-21,False,18.4,False,0.0,82.0,True,0.0
-2022-12-22,False,19.7,False,0.0,59.0,False,0.0
 2022-12-23,False,15.9,False,0.0,64.0,False,0.0
 2022-12-24,False,15.9,False,0.0,61.0,False,0.0
 2022-12-25,False,15.8,False,0.0,62.0,False,0.0
