@@ -33,3 +33,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-01-29,False,20.3,False,0.0,68.0,False,0.0,C0G650,23.946503,120.585597
 2023-01-30,False,22.4,False,0.0,74.0,False,0.0,C0G650,23.946503,120.585597
 2023-01-31,False,22.9,False,0.0,74.0,False,0.0,C0G650,23.946503,120.585597
+2023-02-01,False,28.0,True,0.0,60.0,False,0.0,C0G650,23.946503,120.585597
