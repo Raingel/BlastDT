@@ -60,7 +60,7 @@ class nian:
         df[df.select_dtypes(include=['float64','int64']).columns] = df[df.select_dtypes(include=['float64','int64']).columns].apply(lambda x: x.mask(x < -99))
         #Interpolate all vertical columns
         #Note: Interpolation might significantly change the data. Use with caution.
-        df = df.interpolate(method='linear', axis=0).ffill().bfill()
+        df = df.interpolate(method='linear', axis=0, limit_area='inside')
         #Preserve only desired date range
         df = df[(df['Unnamed: 0'] >= start.strftime("%Y-%m-%d")) & (df['Unnamed: 0'] <= end.strftime("%Y-%m-%d"))]
         df.reset_index(drop=True, inplace=True)
