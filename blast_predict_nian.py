@@ -133,6 +133,7 @@ if __name__ == "__main__":
 
     for i, row in stations[:].iterrows():
         sta_no = row['站號']
+        sta_name = row['站名']
         print("Processing {} for year {}".format(sta_no, SPAN))
         for year in range(SPAN[0], SPAN[1]+1):
             try:
@@ -146,6 +147,7 @@ if __name__ == "__main__":
             df_p['Date'] = df_p['Unnamed: 0']
             df_p = df_p[['Date', 'nian_prediction', 'TxMaxAbs', 'TxMaxAbs_condition', 'TxMaxAbs_condition_rolling', 'RH',  'RH_condition',  'RH_condition_rolling']]
             df_p["站號"] = sta_no
+            df_p["站名"] = sta_name
             df_p["lat"] = row["緯度"]
             df_p["lon"] = row["經度"]
             df_p.to_csv("{}/{}/{}.csv".format(OUTPUT_DIR, sta_no,year), index=False)
