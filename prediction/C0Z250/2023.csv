@@ -1,7 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,lat,lon
-2022-12-29,,,,,100.0,True,,C0Z250,23.49284,121.30688
-2022-12-30,,16.2,False,,96.0,True,,C0Z250,23.49284,121.30688
-2022-12-31,,17.0,False,,97.0,True,1.0,C0Z250,23.49284,121.30688
+2022-12-31,,,,,97.0,True,1.0,C0Z250,23.49284,121.30688
 2023-01-01,False,14.0,False,0.0,100.0,True,1.0,C0Z250,23.49284,121.30688
 2023-01-02,False,14.5,False,0.0,100.0,True,1.0,C0Z250,23.49284,121.30688
 2023-01-03,False,14.6,False,0.0,100.0,True,1.0,C0Z250,23.49284,121.30688
