@@ -42,3 +42,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-02-09,False,23.0,False,0.0,99.0,True,1.0,C0T9M0,靜浦,23.455167,121.495028
 2023-02-10,True,26.6,True,1.0,97.0,True,1.0,C0T9M0,靜浦,23.455167,121.495028
 2023-02-11,True,27.4,True,1.0,90.0,True,1.0,C0T9M0,靜浦,23.455167,121.495028
+2023-02-12,True,30.1,True,1.0,88.0,True,1.0,C0T9M0,靜浦,23.455167,121.495028
