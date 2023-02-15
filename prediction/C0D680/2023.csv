@@ -44,3 +44,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-02-11,False,18.6,False,0.0,95.0,True,1.0,C0D680,香山濕地,24.783581,120.914988
 2023-02-12,True,25.5,True,1.0,95.0,True,1.0,C0D680,香山濕地,24.783581,120.914988
 2023-02-13,True,29.3,True,1.0,88.0,True,1.0,C0D680,香山濕地,24.783581,120.914988
+2023-02-14,False,14.0,False,0.0,84.0,True,1.0,C0D680,香山濕地,24.783581,120.914988

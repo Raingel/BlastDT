@@ -44,3 +44,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-02-11,True,24.7,True,1.0,83.0,True,1.0,467650,日月潭,23.881325,120.90805
 2023-02-12,True,26.4,True,1.0,83.0,True,1.0,467650,日月潭,23.881325,120.90805
 2023-02-13,False,27.4,True,1.0,78.0,False,0.0,467650,日月潭,23.881325,120.90805
+2023-02-14,False,18.6,False,0.0,99.0,True,1.0,467650,日月潭,23.881325,120.90805

@@ -44,3 +44,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-02-11,False,18.6,False,0.0,68.0,False,0.0,C0I480,梅峰,24.085272,121.173572
 2023-02-12,False,19.5,False,0.0,54.0,False,0.0,C0I480,梅峰,24.085272,121.173572
 2023-02-13,False,19.0,False,0.0,58.0,False,0.0,C0I480,梅峰,24.085272,121.173572
+2023-02-14,False,10.8,False,0.0,95.0,True,1.0,C0I480,梅峰,24.085272,121.173572
