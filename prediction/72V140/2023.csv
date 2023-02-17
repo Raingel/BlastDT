@@ -46,3 +46,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-02-13,False,33.1,True,1.0,76.0,False,0.0,72V140,旗南農改,22.857861,120.516667
 2023-02-14,False,21.8,False,0.0,87.0,True,1.0,72V140,旗南農改,22.857861,120.516667
 2023-02-15,False,20.3,False,0.0,71.0,False,0.0,72V140,旗南農改,22.857861,120.516667
+2023-02-16,False,24.3,True,1.0,67.0,False,0.0,72V140,旗南農改,22.857861,120.516667
