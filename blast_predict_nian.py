@@ -80,12 +80,12 @@ class nian:
         df.loc[0,'TxMaxAbs'] = float("NaN")
         #check if daily TxMaxAbs > T_threshold
         df['TxMaxAbs'] = df['TxMaxAbs'].astype(float)
-        df['TxMaxAbs_condition'] = df['TxMaxAbs'] > self.T_threshold
+        df['TxMaxAbs_condition'] = df['TxMaxAbs'] >= self.T_threshold
         #if "TxMaxAbs" is NaN, then set "TxMaxAbs_nian" to NaN
         df['TxMaxAbs_condition'] = df['TxMaxAbs_condition'].where(df['TxMaxAbs'].notnull(), float("NaN"))
         #check if daily RH > RH_threshold, if RH is Nan then set to Nan
         df['RH'] = df['RH'].astype(float)
-        df['RH_condition'] = df['RH'] > self.RH_threshold
+        df['RH_condition'] = df['RH'] >= self.RH_threshold
         #if "RH" is NaN, then set "RH_nian" to NaN
         df['RH_condition'] = df['RH_condition'].where(df['RH'].notnull(), float("NaN"))
 
