@@ -51,3 +51,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-02-18,False,24.9,True,1.0,79.0,False,0.0,466940,基隆,25.133314,121.740475
 2023-02-19,False,19.4,False,0.0,90.0,True,1.0,466940,基隆,25.133314,121.740475
 2023-02-20,False,16.2,False,0.0,66.0,False,0.0,466940,基隆,25.133314,121.740475
+2023-02-21,False,16.1,False,0.0,68.0,False,0.0,466940,基隆,25.133314,121.740475
