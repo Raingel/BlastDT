@@ -1,5 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2022-12-31,,,,,80.0,False,0.0,C0W160,烏坵,24.9944,119.44956
+2022-12-31,,,,,80.0,True,1.0,C0W160,烏坵,24.9944,119.44956
 2023-01-01,False,13.4,False,0.0,81.0,True,1.0,C0W160,烏坵,24.9944,119.44956
 2023-01-02,False,13.3,False,0.0,83.0,True,1.0,C0W160,烏坵,24.9944,119.44956
 2023-01-03,False,12.4,False,0.0,84.0,True,1.0,C0W160,烏坵,24.9944,119.44956
