@@ -54,3 +54,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-02-21,False,12.8,False,0.0,99.0,True,1.0,C0K240,草嶺,23.59555,120.693461
 2023-02-22,False,18.7,False,0.0,87.0,True,1.0,C0K240,草嶺,23.59555,120.693461
 2023-02-23,False,22.9,False,0.0,52.0,False,0.0,C0K240,草嶺,23.59555,120.693461
+2023-02-24,False,24.2,True,1.0,60.0,False,0.0,C0K240,草嶺,23.59555,120.693461
