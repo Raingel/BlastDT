@@ -60,3 +60,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-02-27,False,23.1,False,0.0,71.0,False,0.0,U2HA50,臺大竹山,23.756972,120.681556
 2023-02-28,True,23.7,True,1.0,82.0,True,1.0,U2HA50,臺大竹山,23.756972,120.681556
 2023-03-01,False,25.2,True,1.0,76.0,False,0.0,U2HA50,臺大竹山,23.756972,120.681556
+2023-03-02,False,24.0,True,1.0,71.0,False,0.0,U2HA50,臺大竹山,23.756972,120.681556
