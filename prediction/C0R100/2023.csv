@@ -61,3 +61,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-02-28,False,20.3,False,0.0,74.0,False,0.0,C0R100,尾寮山,22.833111,120.683889
 2023-03-01,False,22.0,False,0.0,63.0,False,0.0,C0R100,尾寮山,22.833111,120.683889
 2023-03-02,False,21.7,False,0.0,77.0,False,0.0,C0R100,尾寮山,22.833111,120.683889
+2023-03-03,,,,,84.0,True,1.0,C0R100,尾寮山,22.833111,120.683889

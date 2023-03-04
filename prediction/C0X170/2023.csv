@@ -61,3 +61,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-02-28,True,24.5,True,1.0,88.0,True,1.0,C0X170,關廟,22.963017,120.327797
 2023-03-01,False,26.2,True,1.0,75.0,False,0.0,C0X170,關廟,22.963017,120.327797
 2023-03-02,False,25.5,True,1.0,74.0,False,0.0,C0X170,關廟,22.963017,120.327797
+2023-03-03,False,24.6,True,1.0,74.0,False,0.0,C0X170,關廟,22.963017,120.327797
