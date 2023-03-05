@@ -62,3 +62,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-01,False,26.5,True,1.0,66.0,False,0.0,E2P990,林試扇平站,22.9677,120.6857
 2023-03-02,False,24.9,True,1.0,70.0,False,0.0,E2P990,林試扇平站,22.9677,120.6857
 2023-03-03,False,22.7,False,0.0,80.0,True,1.0,E2P990,林試扇平站,22.9677,120.6857
+2023-03-04,False,22.3,False,0.0,75.0,False,0.0,E2P990,林試扇平站,22.9677,120.6857
