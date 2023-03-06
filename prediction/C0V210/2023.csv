@@ -63,3 +63,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-02,False,25.6,True,1.0,60.0,False,0.0,C0V210,復興,23.222403,120.806089
 2023-03-03,False,23.2,False,0.0,65.0,False,0.0,C0V210,復興,23.222403,120.806089
 2023-03-04,False,23.5,True,1.0,64.0,False,0.0,C0V210,復興,23.222403,120.806089
+2023-03-05,False,25.1,True,1.0,55.0,False,0.0,C0V210,復興,23.222403,120.806089
