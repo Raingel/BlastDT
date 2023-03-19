@@ -76,3 +76,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-15,True,23.9,True,1.0,89.0,True,1.0,C0R760,南仁湖,22.084681,120.863353
 2023-03-16,False,22.6,False,0.0,93.0,True,1.0,C0R760,南仁湖,22.084681,120.863353
 2023-03-17,True,23.5,True,1.0,93.0,True,1.0,C0R760,南仁湖,22.084681,120.863353
+2023-03-18,False,21.3,False,0.0,99.0,True,1.0,C0R760,南仁湖,22.084681,120.863353
