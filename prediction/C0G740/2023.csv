@@ -78,3 +78,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-17,True,24.1,True,1.0,82.0,True,1.0,C0G740,大城,23.852487,120.320935
 2023-03-18,False,23.1,False,0.0,80.0,True,1.0,C0G740,大城,23.852487,120.320935
 2023-03-19,False,23.2,False,0.0,80.0,True,1.0,C0G740,大城,23.852487,120.320935
+2023-03-20,True,24.6,True,1.0,83.0,True,1.0,C0G740,大城,23.852487,120.320935
