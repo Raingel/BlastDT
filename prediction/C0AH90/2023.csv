@@ -79,3 +79,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-18,False,16.1,False,0.0,97.0,True,1.0,C0AH90,福山植物園,24.760717,121.58135
 2023-03-19,False,17.6,False,0.0,98.0,True,1.0,C0AH90,福山植物園,24.760717,121.58135
 2023-03-20,False,22.8,False,0.0,92.0,True,1.0,C0AH90,福山植物園,24.760717,121.58135
+2023-03-21,True,24.4,True,1.0,91.0,True,1.0,C0AH90,福山植物園,24.760717,121.58135
