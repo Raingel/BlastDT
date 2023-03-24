@@ -81,3 +81,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-20,True,26.8,True,1.0,80.0,True,1.0,E2H360,蓮華池,23.918333,120.885278
 2023-03-21,False,29.1,True,1.0,79.0,False,0.0,E2H360,蓮華池,23.918333,120.885278
 2023-03-22,False,31.0,True,1.0,77.0,False,0.0,E2H360,蓮華池,23.918333,120.885278
+2023-03-23,False,30.0,True,1.0,77.0,False,0.0,E2H360,蓮華池,23.918333,120.885278
