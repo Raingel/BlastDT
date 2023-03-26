@@ -83,3 +83,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-22,False,26.6,True,1.0,78.0,False,0.0,72C440,桃園農改場,24.950944,121.030583
 2023-03-23,True,27.6,True,1.0,80.0,True,1.0,72C440,桃園農改場,24.950944,121.030583
 2023-03-24,True,26.0,True,1.0,86.0,True,1.0,72C440,桃園農改場,24.950944,121.030583
+2023-03-25,False,22.8,False,0.0,91.0,True,1.0,72C440,桃園農改場,24.950944,121.030583

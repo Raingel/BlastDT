@@ -81,3 +81,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-22,True,26.2,True,1.0,80.0,True,1.0,12J990,口湖工作站,23.589978,120.180394
 2023-03-23,False,27.2,True,1.0,77.0,False,0.0,12J990,口湖工作站,23.589978,120.180394
 2023-03-24,False,28.0,True,1.0,75.0,False,0.0,12J990,口湖工作站,23.589978,120.180394
+2023-03-25,False,25.8,True,1.0,77.0,False,0.0,12J990,口湖工作站,23.589978,120.180394
