@@ -84,3 +84,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-23,False,6.8,False,0.0,32.0,False,0.0,C0I520,玉山風口,23.470489,120.955994
 2023-03-24,False,6.0,False,0.0,62.0,False,0.0,C0I520,玉山風口,23.470489,120.955994
 2023-03-25,False,4.5,False,0.0,65.0,False,0.0,C0I520,玉山風口,23.470489,120.955994
+2023-03-26,,,,,89.0,True,1.0,C0I520,玉山風口,23.470489,120.955994
