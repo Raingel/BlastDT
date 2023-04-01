@@ -89,3 +89,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-28,False,19.8,False,0.0,100.0,True,1.0,C0UA60,樟樹山,24.41393,121.78325
 2023-03-29,False,20.9,False,0.0,100.0,True,1.0,C0UA60,樟樹山,24.41393,121.78325
 2023-03-30,True,24.3,True,1.0,100.0,True,1.0,C0UA60,樟樹山,24.41393,121.78325
+2023-03-31,False,17.3,False,0.0,100.0,True,1.0,C0UA60,樟樹山,24.41393,121.78325
