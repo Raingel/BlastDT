@@ -92,3 +92,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-31,False,19.0,False,0.0,98.0,True,1.0,42HA10,萬大發電廠,23.978875,121.139639
 2023-04-01,False,16.0,False,0.0,100.0,True,1.0,42HA10,萬大發電廠,23.978875,121.139639
 2023-04-02,True,26.1,True,1.0,86.0,True,1.0,42HA10,萬大發電廠,23.978875,121.139639
+2023-04-03,True,26.2,True,1.0,83.0,True,1.0,42HA10,萬大發電廠,23.978875,121.139639
