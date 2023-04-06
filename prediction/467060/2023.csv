@@ -89,3 +89,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-03-28,False,20.6,False,0.0,94.0,True,1.0,467060,蘇澳,24.596736,121.857372
 2023-03-29,False,23.1,False,0.0,95.0,True,1.0,467060,蘇澳,24.596736,121.857372
 2023-03-30,True,26.2,True,1.0,84.0,True,1.0,467060,蘇澳,24.596736,121.857372
+2023-03-31,False,21.0,False,0.0,83.0,True,1.0,467060,蘇澳,24.596736,121.857372

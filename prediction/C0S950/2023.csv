@@ -94,3 +94,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-02,True,23.8,True,1.0,96.0,True,1.0,C0S950,七塊厝,22.954453,121.229922
 2023-04-03,False,23.0,False,0.0,93.0,True,1.0,C0S950,七塊厝,22.954453,121.229922
 2023-04-04,False,21.8,False,0.0,92.0,True,1.0,C0S950,七塊厝,22.954453,121.229922
+2023-04-05,False,23.0,False,0.0,92.0,True,1.0,C0S950,七塊厝,22.954453,121.229922

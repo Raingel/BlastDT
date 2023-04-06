@@ -94,3 +94,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-02,True,24.7,True,1.0,97.0,True,1.0,C0S700,知本,22.684866,121.005642
 2023-04-03,False,22.0,False,0.0,97.0,True,1.0,C0S700,知本,22.684866,121.005642
 2023-04-04,False,21.0,False,0.0,93.0,True,1.0,C0S700,知本,22.684866,121.005642
+2023-04-05,True,24.2,True,1.0,93.0,True,1.0,C0S700,知本,22.684866,121.005642

@@ -94,3 +94,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-02,False,26.0,True,1.0,73.0,False,0.0,467110,金門,24.407306,118.289281
 2023-04-03,False,23.9,True,1.0,72.0,False,0.0,467110,金門,24.407306,118.289281
 2023-04-04,True,23.6,True,1.0,88.0,True,1.0,467110,金門,24.407306,118.289281
+2023-04-05,False,23.3,False,0.0,95.0,True,1.0,467110,金門,24.407306,118.289281
