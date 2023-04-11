@@ -99,3 +99,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-07,True,26.1,True,1.0,84.0,True,1.0,C0R890,山海,21.9878,120.7091
 2023-04-08,False,24.6,True,1.0,67.0,False,0.0,C0R890,山海,21.9878,120.7091
 2023-04-09,False,24.5,True,1.0,65.0,False,0.0,C0R890,山海,21.9878,120.7091
+2023-04-10,False,26.5,True,1.0,65.0,False,0.0,C0R890,山海,21.9878,120.7091
