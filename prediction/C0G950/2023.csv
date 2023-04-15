@@ -103,3 +103,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-11,False,25.3,True,1.0,75.0,False,0.0,C0G950,防潮門,24.1835,120.4871
 2023-04-12,True,25.1,True,1.0,83.0,True,1.0,C0G950,防潮門,24.1835,120.4871
 2023-04-13,True,25.1,True,1.0,90.0,True,1.0,C0G950,防潮門,24.1835,120.4871
+2023-04-14,True,28.2,True,1.0,84.0,True,1.0,C0G950,防潮門,24.1835,120.4871
