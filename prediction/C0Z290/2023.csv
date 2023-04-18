@@ -106,3 +106,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-14,True,26.3,True,1.0,93.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
 2023-04-15,True,24.1,True,1.0,99.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
 2023-04-16,True,24.9,True,1.0,96.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
+2023-04-17,False,27.3,True,1.0,44.0,False,0.0,C0Z290,赤柯山,23.36893,121.38293
