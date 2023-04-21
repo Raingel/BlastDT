@@ -109,3 +109,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-17,False,35.3,True,1.0,68.0,False,0.0,72Q010,高雄農改場,22.709333,120.525889
 2023-04-18,False,35.8,True,1.0,64.0,False,0.0,72Q010,高雄農改場,22.709333,120.525889
 2023-04-19,False,33.9,True,1.0,74.0,False,0.0,72Q010,高雄農改場,22.709333,120.525889
+2023-04-20,True,29.7,True,1.0,82.0,True,1.0,72Q010,高雄農改場,22.709333,120.525889
