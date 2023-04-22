@@ -110,3 +110,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-18,False,34.9,True,1.0,70.0,False,0.0,C0O840,王爺宮,23.222064,120.40085
 2023-04-19,False,32.2,True,1.0,76.0,False,0.0,C0O840,王爺宮,23.222064,120.40085
 2023-04-20,False,30.1,True,1.0,79.0,False,0.0,C0O840,王爺宮,23.222064,120.40085
+2023-04-21,True,30.2,True,1.0,83.0,True,1.0,C0O840,王爺宮,23.222064,120.40085
