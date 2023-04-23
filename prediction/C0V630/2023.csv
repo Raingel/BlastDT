@@ -111,3 +111,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-19,True,29.4,True,1.0,83.0,True,1.0,C0V630,茄萣,22.906642,120.182608
 2023-04-20,True,29.4,True,1.0,83.0,True,1.0,C0V630,茄萣,22.906642,120.182608
 2023-04-21,True,28.2,True,1.0,82.0,True,1.0,C0V630,茄萣,22.906642,120.182608
+2023-04-22,False,28.6,True,1.0,78.0,False,0.0,C0V630,茄萣,22.906642,120.182608
