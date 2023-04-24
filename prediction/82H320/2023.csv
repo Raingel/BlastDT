@@ -112,3 +112,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-20,False,19.2,False,0.0,99.0,True,1.0,82H320,魚池分場,23.875611,120.913583
 2023-04-21,True,24.2,True,1.0,98.0,True,1.0,82H320,魚池分場,23.875611,120.913583
 2023-04-22,False,22.7,False,0.0,98.0,True,1.0,82H320,魚池分場,23.875611,120.913583
+2023-04-23,True,27.0,True,1.0,91.0,True,1.0,82H320,魚池分場,23.875611,120.913583
