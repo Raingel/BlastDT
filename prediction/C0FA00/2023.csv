@@ -120,3 +120,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-28,False,27.0,True,1.0,79.0,False,0.0,C0FA00,烏石坑,24.2735,120.94762
 2023-04-29,True,26.1,True,1.0,81.0,True,1.0,C0FA00,烏石坑,24.2735,120.94762
 2023-04-30,False,23.2,False,0.0,84.0,True,1.0,C0FA00,烏石坑,24.2735,120.94762
+2023-05-01,False,26.2,True,1.0,79.0,False,0.0,C0FA00,烏石坑,24.2735,120.94762
