@@ -121,3 +121,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-29,True,30.1,True,1.0,80.0,True,1.0,C0AI20,白沙灣,25.283128,121.519058
 2023-04-30,False,20.3,False,0.0,84.0,True,1.0,C0AI20,白沙灣,25.283128,121.519058
 2023-05-01,False,22.6,False,0.0,68.0,False,0.0,C0AI20,白沙灣,25.283128,121.519058
+2023-05-02,False,27.7,True,1.0,78.0,False,0.0,C0AI20,白沙灣,25.283128,121.519058
