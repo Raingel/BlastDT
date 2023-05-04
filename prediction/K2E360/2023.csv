@@ -122,3 +122,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-30,False,23.4,False,0.0,88.0,True,1.0,K2E360,苗栗農改場,24.495722,120.829111
 2023-05-01,False,28.6,True,1.0,77.0,False,0.0,K2E360,苗栗農改場,24.495722,120.829111
 2023-05-02,True,30.2,True,1.0,87.0,True,1.0,K2E360,苗栗農改場,24.495722,120.829111
+2023-05-03,True,30.3,True,1.0,89.0,True,1.0,K2E360,苗栗農改場,24.495722,120.829111

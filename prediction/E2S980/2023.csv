@@ -122,3 +122,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-04-30,True,30.1,True,1.0,86.0,True,1.0,E2S980,林試太麻里1,22.598922,120.980044
 2023-05-01,True,26.6,True,1.0,81.0,True,1.0,E2S980,林試太麻里1,22.598922,120.980044
 2023-05-02,False,30.5,True,1.0,78.0,False,0.0,E2S980,林試太麻里1,22.598922,120.980044
+2023-05-03,False,31.5,True,1.0,78.0,False,0.0,E2S980,林試太麻里1,22.598922,120.980044
