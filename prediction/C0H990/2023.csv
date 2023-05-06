@@ -123,3 +123,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-01,False,12.7,False,0.0,86.0,True,1.0,C0H990,昆陽,24.121322,121.273642
 2023-05-02,False,15.9,False,0.0,73.0,False,0.0,C0H990,昆陽,24.121322,121.273642
 2023-05-03,False,17.0,False,0.0,75.0,False,0.0,C0H990,昆陽,24.121322,121.273642
+2023-05-04,,,,,,,,C0H990,昆陽,24.121322,121.273642

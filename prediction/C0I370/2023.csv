@@ -123,3 +123,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-01,False,28.2,True,1.0,77.0,False,0.0,C0I370,魚池,23.895703,120.94135
 2023-05-02,False,28.8,True,1.0,74.0,False,0.0,C0I370,魚池,23.895703,120.94135
 2023-05-03,False,30.1,True,1.0,76.0,False,0.0,C0I370,魚池,23.895703,120.94135
+2023-05-04,,32.9,True,1.0,,,,C0I370,魚池,23.895703,120.94135
