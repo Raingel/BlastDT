@@ -127,3 +127,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-05,True,31.1,True,1.0,87.0,True,1.0,C0R140,瑪家,22.682903,120.686639
 2023-05-06,False,30.5,True,1.0,79.0,False,0.0,C0R140,瑪家,22.682903,120.686639
 2023-05-07,True,26.4,True,1.0,92.0,True,1.0,C0R140,瑪家,22.682903,120.686639
+2023-05-08,True,23.6,True,1.0,99.0,True,1.0,C0R140,瑪家,22.682903,120.686639
