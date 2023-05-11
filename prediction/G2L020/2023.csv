@@ -129,3 +129,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-07,True,27.8,True,1.0,93.0,True,1.0,G2L020,嘉義分所,23.485028,120.473806
 2023-05-08,True,26.9,True,1.0,85.0,True,1.0,G2L020,嘉義分所,23.485028,120.473806
 2023-05-09,False,26.0,True,1.0,75.0,False,0.0,G2L020,嘉義分所,23.485028,120.473806
+2023-05-10,False,27.5,True,1.0,76.0,False,0.0,G2L020,嘉義分所,23.485028,120.473806
