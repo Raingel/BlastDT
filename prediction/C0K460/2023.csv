@@ -130,3 +130,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-08,True,26.3,True,1.0,88.0,True,1.0,C0K460,斗南,23.678734,120.478359
 2023-05-09,False,25.1,True,1.0,75.0,False,0.0,C0K460,斗南,23.678734,120.478359
 2023-05-10,False,26.2,True,1.0,75.0,False,0.0,C0K460,斗南,23.678734,120.478359
+2023-05-11,True,29.2,True,1.0,83.0,True,1.0,C0K460,斗南,23.678734,120.478359
