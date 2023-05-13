@@ -131,3 +131,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-09,False,22.2,False,0.0,89.0,True,1.0,C0S940,石寧山,23.223772,121.406639
 2023-05-10,True,26.0,True,1.0,82.0,True,1.0,C0S940,石寧山,23.223772,121.406639
 2023-05-11,False,30.9,True,1.0,74.0,False,0.0,C0S940,石寧山,23.223772,121.406639
+2023-05-12,True,30.1,True,1.0,82.0,True,1.0,C0S940,石寧山,23.223772,121.406639
