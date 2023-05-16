@@ -134,3 +134,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-12,False,30.1,True,1.0,69.0,False,0.0,C0V660,岡山,22.7971,120.295
 2023-05-13,False,30.5,True,1.0,71.0,False,0.0,C0V660,岡山,22.7971,120.295
 2023-05-14,False,30.0,True,1.0,71.0,False,0.0,C0V660,岡山,22.7971,120.295
+2023-05-15,,28.3,True,1.0,,,,C0V660,岡山,22.7971,120.295

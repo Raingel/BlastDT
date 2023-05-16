@@ -134,3 +134,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-12,True,26.0,True,1.0,89.0,True,1.0,C0Z220,和平林道,24.3439,121.6563
 2023-05-13,False,21.9,False,0.0,98.0,True,1.0,C0Z220,和平林道,24.3439,121.6563
 2023-05-14,False,22.3,False,0.0,97.0,True,1.0,C0Z220,和平林道,24.3439,121.6563
+2023-05-15,,26.3,True,1.0,,,,C0Z220,和平林道,24.3439,121.6563
