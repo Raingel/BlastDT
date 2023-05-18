@@ -135,4 +135,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-13,False,16.5,False,0.0,100.0,True,1.0,C0U960,翠峰湖,24.5109,121.608
 2023-05-14,False,15.5,False,0.0,98.0,True,1.0,C0U960,翠峰湖,24.5109,121.608
 2023-05-15,False,18.6,False,0.0,96.0,True,1.0,C0U960,翠峰湖,24.5109,121.608
-2023-05-16,,21.0,False,0.0,,,,C0U960,翠峰湖,24.5109,121.608
+2023-05-16,False,21.0,False,0.0,95.0,True,1.0,C0U960,翠峰湖,24.5109,121.608
+2023-05-17,False,21.2,False,0.0,98.0,True,1.0,C0U960,翠峰湖,24.5109,121.608
