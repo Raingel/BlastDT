@@ -138,3 +138,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-16,False,29.3,True,1.0,71.0,False,0.0,C0A860,大坪,25.1659,121.633
 2023-05-17,False,30.3,True,1.0,78.0,False,0.0,C0A860,大坪,25.1659,121.633
 2023-05-18,False,30.6,True,1.0,73.0,False,0.0,C0A860,大坪,25.1659,121.633
+2023-05-19,True,26.7,True,1.0,95.0,True,1.0,C0A860,大坪,25.1659,121.633
