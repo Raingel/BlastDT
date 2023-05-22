@@ -140,3 +140,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-18,False,34.6,True,1.0,72.0,False,0.0,C0AD40,土城,24.9732,121.4452
 2023-05-19,True,28.9,True,1.0,90.0,True,1.0,C0AD40,土城,24.9732,121.4452
 2023-05-20,True,27.4,True,1.0,86.0,True,1.0,C0AD40,土城,24.9732,121.4452
+2023-05-21,,,,,84.0,True,1.0,C0AD40,土城,24.9732,121.4452
