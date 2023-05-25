@@ -143,3 +143,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-21,True,34.5,True,1.0,83.0,True,1.0,C0R590,里港,22.7792,120.4946
 2023-05-22,True,34.0,True,1.0,87.0,True,1.0,C0R590,里港,22.7792,120.4946
 2023-05-23,True,30.8,True,1.0,100.0,True,1.0,C0R590,里港,22.7792,120.4946
+2023-05-24,,,,,98.0,True,1.0,C0R590,里港,22.7792,120.4946

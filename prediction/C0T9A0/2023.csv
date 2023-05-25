@@ -143,3 +143,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-21,True,28.8,True,1.0,97.0,True,1.0,C0T9A0,月眉山,23.8099,121.5398
 2023-05-22,True,30.0,True,1.0,88.0,True,1.0,C0T9A0,月眉山,23.8099,121.5398
 2023-05-23,False,20.9,False,0.0,100.0,True,1.0,C0T9A0,月眉山,23.8099,121.5398
+2023-05-24,False,22.7,False,0.0,98.0,True,1.0,C0T9A0,月眉山,23.8099,121.5398
