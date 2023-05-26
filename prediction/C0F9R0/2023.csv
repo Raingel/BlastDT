@@ -144,3 +144,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-22,False,32.6,True,1.0,78.0,False,0.0,C0F9R0,龍井,24.1845,120.529
 2023-05-23,False,28.1,True,1.0,75.0,False,0.0,C0F9R0,龍井,24.1845,120.529
 2023-05-24,True,28.5,True,1.0,84.0,True,1.0,C0F9R0,龍井,24.1845,120.529
+2023-05-25,True,30.6,True,1.0,81.0,True,1.0,C0F9R0,龍井,24.1845,120.529

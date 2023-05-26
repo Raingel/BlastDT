@@ -144,3 +144,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-22,True,30.7,True,1.0,86.0,True,1.0,C0U650,玉蘭,24.6753,121.5871
 2023-05-23,False,18.6,False,0.0,100.0,True,1.0,C0U650,玉蘭,24.6753,121.5871
 2023-05-24,True,24.3,True,1.0,94.0,True,1.0,C0U650,玉蘭,24.6753,121.5871
+2023-05-25,True,27.4,True,1.0,94.0,True,1.0,C0U650,玉蘭,24.6753,121.5871
