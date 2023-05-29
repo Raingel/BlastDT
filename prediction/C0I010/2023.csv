@@ -147,3 +147,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-25,True,24.8,True,1.0,90.0,True,1.0,C0I010,廬山,24.0333,121.1818
 2023-05-26,True,24.5,True,1.0,83.0,True,1.0,C0I010,廬山,24.0333,121.1818
 2023-05-27,True,24.5,True,1.0,81.0,True,1.0,C0I010,廬山,24.0333,121.1818
+2023-05-28,False,27.6,True,1.0,53.0,False,0.0,C0I010,廬山,24.0333,121.1818
