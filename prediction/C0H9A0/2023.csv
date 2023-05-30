@@ -148,3 +148,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-26,True,25.5,True,1.0,93.0,True,1.0,C0H9A0,神木村,23.5327,120.8437
 2023-05-27,True,23.8,True,1.0,99.0,True,1.0,C0H9A0,神木村,23.5327,120.8437
 2023-05-28,False,28.0,True,1.0,60.0,False,0.0,C0H9A0,神木村,23.5327,120.8437
+2023-05-29,,,,,77.0,False,0.0,C0H9A0,神木村,23.5327,120.8437

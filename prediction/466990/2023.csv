@@ -148,3 +148,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-26,True,29.2,True,1.0,90.0,True,1.0,466990,花蓮,23.9751,121.6133
 2023-05-27,True,27.5,True,1.0,87.0,True,1.0,466990,花蓮,23.9751,121.6133
 2023-05-28,False,30.5,True,1.0,75.0,False,0.0,466990,花蓮,23.9751,121.6133
+2023-05-29,False,32.5,True,1.0,78.0,False,0.0,466990,花蓮,23.9751,121.6133
