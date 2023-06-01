@@ -150,3 +150,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-28,False,35.1,True,1.0,77.0,False,0.0,C0O970,虎頭埤,23.0214,120.3479
 2023-05-29,False,35.8,True,1.0,73.0,False,0.0,C0O970,虎頭埤,23.0214,120.3479
 2023-05-30,True,37.6,True,1.0,81.0,True,1.0,C0O970,虎頭埤,23.0214,120.3479
+2023-05-31,True,34.9,True,1.0,86.0,True,1.0,C0O970,虎頭埤,23.0214,120.3479

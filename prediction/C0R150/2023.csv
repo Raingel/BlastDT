@@ -150,3 +150,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-28,False,36.7,True,1.0,67.0,False,0.0,C0R150,三地門,22.7099,120.6399
 2023-05-29,False,35.5,True,1.0,79.0,False,0.0,C0R150,三地門,22.7099,120.6399
 2023-05-30,False,35.5,True,1.0,79.0,False,0.0,C0R150,三地門,22.7099,120.6399
+2023-05-31,True,36.6,True,1.0,82.0,True,1.0,C0R150,三地門,22.7099,120.6399
