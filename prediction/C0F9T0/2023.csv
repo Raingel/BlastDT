@@ -151,3 +151,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-29,False,32.1,True,1.0,74.0,False,0.0,C0F9T0,西屯,24.1795,120.6413
 2023-05-30,False,34.8,True,1.0,70.0,False,0.0,C0F9T0,西屯,24.1795,120.6413
 2023-05-31,False,31.3,True,1.0,73.0,False,0.0,C0F9T0,西屯,24.1795,120.6413
+2023-06-01,True,31.1,True,1.0,80.0,True,1.0,C0F9T0,西屯,24.1795,120.6413

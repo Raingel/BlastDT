@@ -151,3 +151,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-29,False,33.7,True,1.0,77.0,False,0.0,C0D690,外湖,24.9177,120.9687
 2023-05-30,True,29.6,True,1.0,86.0,True,1.0,C0D690,外湖,24.9177,120.9687
 2023-05-31,True,27.5,True,1.0,92.0,True,1.0,C0D690,外湖,24.9177,120.9687
+2023-06-01,True,29.4,True,1.0,89.0,True,1.0,C0D690,外湖,24.9177,120.9687

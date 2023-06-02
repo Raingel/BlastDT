@@ -151,3 +151,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-29,False,29.7,True,1.0,77.0,False,0.0,C0V690,鼓山,22.6233,120.2756
 2023-05-30,False,30.4,True,1.0,74.0,False,0.0,C0V690,鼓山,22.6233,120.2756
 2023-05-31,True,32.6,True,1.0,81.0,True,1.0,C0V690,鼓山,22.6233,120.2756
+2023-06-01,True,31.8,True,1.0,80.0,True,1.0,C0V690,鼓山,22.6233,120.2756
