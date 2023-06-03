@@ -152,3 +152,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-30,False,21.2,False,0.0,100.0,True,1.0,C0UA40,西德山,24.5606,121.7526
 2023-05-31,False,20.9,False,0.0,100.0,True,1.0,C0UA40,西德山,24.5606,121.7526
 2023-06-01,False,21.8,False,0.0,94.0,True,1.0,C0UA40,西德山,24.5606,121.7526
+2023-06-02,True,25.9,True,1.0,94.0,True,1.0,C0UA40,西德山,24.5606,121.7526
