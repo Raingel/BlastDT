@@ -153,3 +153,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-31,False,33.7,True,1.0,77.0,False,0.0,C0X130,官田,23.1932,120.3154
 2023-06-01,False,32.8,True,1.0,76.0,False,0.0,C0X130,官田,23.1932,120.3154
 2023-06-02,False,35.3,True,1.0,75.0,False,0.0,C0X130,官田,23.1932,120.3154
+2023-06-03,True,31.5,True,1.0,89.0,True,1.0,C0X130,官田,23.1932,120.3154

@@ -153,3 +153,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-05-31,False,21.1,False,0.0,100.0,True,1.0,C0U950,鶯子嶺,24.8975,121.7924
 2023-06-01,False,20.0,False,0.0,100.0,True,1.0,C0U950,鶯子嶺,24.8975,121.7924
 2023-06-02,True,26.3,True,1.0,98.0,True,1.0,C0U950,鶯子嶺,24.8975,121.7924
+2023-06-03,True,24.1,True,1.0,100.0,True,1.0,C0U950,鶯子嶺,24.8975,121.7924
