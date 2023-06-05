@@ -154,3 +154,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-01,True,29.1,True,1.0,85.0,True,1.0,C0D660,新竹市東區,24.7987,120.9869
 2023-06-02,False,32.1,True,1.0,77.0,False,0.0,C0D660,新竹市東區,24.7987,120.9869
 2023-06-03,False,32.6,True,1.0,77.0,False,0.0,C0D660,新竹市東區,24.7987,120.9869
+2023-06-04,False,30.9,True,1.0,78.0,False,0.0,C0D660,新竹市東區,24.7987,120.9869
