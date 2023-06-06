@@ -155,3 +155,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-02,False,34.3,True,1.0,77.0,False,0.0,466920,臺北,25.0377,121.5149
 2023-06-03,False,33.8,True,1.0,78.0,False,0.0,466920,臺北,25.0377,121.5149
 2023-06-04,True,32.0,True,1.0,86.0,True,1.0,466920,臺北,25.0377,121.5149
+2023-06-05,True,33.3,True,1.0,81.0,True,1.0,466920,臺北,25.0377,121.5149
