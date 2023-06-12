@@ -161,3 +161,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-08,False,31.5,True,1.0,77.0,False,0.0,C0V720,林園,22.5077,120.3945
 2023-06-09,True,32.2,True,1.0,81.0,True,1.0,C0V720,林園,22.5077,120.3945
 2023-06-10,False,31.8,True,1.0,79.0,False,0.0,C0V720,林園,22.5077,120.3945
+2023-06-11,True,31.1,True,1.0,81.0,True,1.0,C0V720,林園,22.5077,120.3945
