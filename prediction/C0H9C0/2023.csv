@@ -163,3 +163,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-10,False,8.6,False,0.0,100.0,True,1.0,C0H9C0,合歡山,24.1434,121.2725
 2023-06-11,False,9.6,False,0.0,100.0,True,1.0,C0H9C0,合歡山,24.1434,121.2725
 2023-06-12,False,10.6,False,0.0,100.0,True,1.0,C0H9C0,合歡山,24.1434,121.2725
+2023-06-13,,10.6,False,0.0,,,,C0H9C0,合歡山,24.1434,121.2725
+2023-06-14,,9.7,False,0.0,,,,C0H9C0,合歡山,24.1434,121.2725

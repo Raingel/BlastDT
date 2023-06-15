@@ -163,3 +163,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-10,True,25.5,True,1.0,96.0,True,1.0,C0AH30,五分山,25.0712,121.7808
 2023-06-11,True,25.0,True,1.0,95.0,True,1.0,C0AH30,五分山,25.0712,121.7808
 2023-06-12,False,23.2,False,0.0,97.0,True,1.0,C0AH30,五分山,25.0712,121.7808
+2023-06-13,True,27.2,True,1.0,91.0,True,1.0,C0AH30,五分山,25.0712,121.7808
+2023-06-14,True,26.7,True,1.0,95.0,True,1.0,C0AH30,五分山,25.0712,121.7808
