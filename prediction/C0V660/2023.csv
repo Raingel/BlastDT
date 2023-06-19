@@ -168,3 +168,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-15,True,29.8,True,1.0,89.0,True,1.0,C0V660,岡山,22.7971,120.295
 2023-06-16,True,31.7,True,1.0,82.0,True,1.0,C0V660,岡山,22.7971,120.295
 2023-06-17,False,33.5,True,1.0,78.0,False,0.0,C0V660,岡山,22.7971,120.295
+2023-06-18,False,34.0,True,1.0,77.0,False,0.0,C0V660,岡山,22.7971,120.295
