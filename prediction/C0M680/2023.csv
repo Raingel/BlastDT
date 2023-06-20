@@ -169,3 +169,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-16,False,32.0,True,1.0,79.0,False,0.0,C0M680,太保,23.4551,120.3315
 2023-06-17,True,33.5,True,1.0,83.0,True,1.0,C0M680,太保,23.4551,120.3315
 2023-06-18,False,34.0,True,1.0,77.0,False,0.0,C0M680,太保,23.4551,120.3315
+2023-06-19,False,34.2,True,1.0,77.0,False,0.0,C0M680,太保,23.4551,120.3315

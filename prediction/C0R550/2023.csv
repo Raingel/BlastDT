@@ -169,3 +169,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-16,True,31.033333333333335,True,1.0,88.0,True,1.0,C0R550,新埤,22.4679,120.5829
 2023-06-17,True,32.46666666666667,True,1.0,84.0,True,1.0,C0R550,新埤,22.4679,120.5829
 2023-06-18,False,33.9,True,1.0,78.0,False,0.0,C0R550,新埤,22.4679,120.5829
+2023-06-19,False,36.0,True,1.0,73.0,False,0.0,C0R550,新埤,22.4679,120.5829
