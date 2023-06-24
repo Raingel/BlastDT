@@ -173,3 +173,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-20,False,32.7,True,1.0,79.0,False,0.0,C0A650,火燒寮,25.0027,121.7429
 2023-06-21,True,32.8,True,1.0,81.0,True,1.0,C0A650,火燒寮,25.0027,121.7429
 2023-06-22,True,30.8,True,1.0,83.0,True,1.0,C0A650,火燒寮,25.0027,121.7429
+2023-06-23,True,30.5,True,1.0,87.0,True,1.0,C0A650,火燒寮,25.0027,121.7429
