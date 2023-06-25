@@ -174,3 +174,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-21,False,35.4,True,1.0,76.0,False,0.0,C0UA00,土場,24.5765,121.4953
 2023-06-22,True,34.8,True,1.0,80.0,True,1.0,C0UA00,土場,24.5765,121.4953
 2023-06-23,True,34.2,True,1.0,80.0,True,1.0,C0UA00,土場,24.5765,121.4953
+2023-06-24,True,35.8,True,1.0,81.0,True,1.0,C0UA00,土場,24.5765,121.4953

@@ -174,3 +174,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-21,True,31.4,True,1.0,82.0,True,1.0,C0R670,楓港,22.1901,120.6922
 2023-06-22,True,31.3,True,1.0,81.0,True,1.0,C0R670,楓港,22.1901,120.6922
 2023-06-23,False,31.7,True,1.0,77.0,False,0.0,C0R670,楓港,22.1901,120.6922
+2023-06-24,False,33.3,True,1.0,68.0,False,0.0,C0R670,楓港,22.1901,120.6922
