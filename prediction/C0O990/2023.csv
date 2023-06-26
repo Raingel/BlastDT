@@ -175,3 +175,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-22,True,34.5,True,1.0,87.0,True,1.0,C0O990,媽廟,22.9917,120.2935
 2023-06-23,True,35.0,True,1.0,84.0,True,1.0,C0O990,媽廟,22.9917,120.2935
 2023-06-24,True,35.0,True,1.0,80.0,True,1.0,C0O990,媽廟,22.9917,120.2935
+2023-06-25,False,35.2,True,1.0,79.0,False,0.0,C0O990,媽廟,22.9917,120.2935

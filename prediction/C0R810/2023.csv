@@ -175,3 +175,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-22,True,30.5,True,1.0,93.0,True,1.0,C0R810,內獅,22.3051,120.643
 2023-06-23,True,33.1,True,1.0,88.0,True,1.0,C0R810,內獅,22.3051,120.643
 2023-06-24,False,34.8,True,1.0,72.0,False,0.0,C0R810,內獅,22.3051,120.643
+2023-06-25,False,35.2,True,1.0,70.0,False,0.0,C0R810,內獅,22.3051,120.643
