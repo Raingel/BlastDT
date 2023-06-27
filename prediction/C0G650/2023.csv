@@ -176,3 +176,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-23,False,34.4,True,1.0,79.0,False,0.0,C0G650,員林,23.9465,120.5856
 2023-06-24,False,36.1,True,1.0,79.0,False,0.0,C0G650,員林,23.9465,120.5856
 2023-06-25,False,34.6,True,1.0,73.0,False,0.0,C0G650,員林,23.9465,120.5856
+2023-06-26,True,35.3,True,1.0,81.0,True,1.0,C0G650,員林,23.9465,120.5856
