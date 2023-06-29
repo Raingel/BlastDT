@@ -178,3 +178,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-25,True,33.7,True,1.0,98.0,True,1.0,C0Z320,清水林道,23.2712,121.1883
 2023-06-26,True,33.8,True,1.0,86.5,True,1.0,C0Z320,清水林道,23.2712,121.1883
 2023-06-27,False,33.9,True,1.0,75.0,False,0.0,C0Z320,清水林道,23.2712,121.1883
+2023-06-28,True,26.1,True,1.0,95.0,True,1.0,C0Z320,清水林道,23.2712,121.1883
