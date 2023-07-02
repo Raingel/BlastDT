@@ -181,3 +181,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-28,False,36.5,True,1.0,78.0,False,0.0,C0B020,基隆嶼,25.1914,121.7839
 2023-06-29,True,37.1,True,1.0,81.0,True,1.0,C0B020,基隆嶼,25.1914,121.7839
 2023-06-30,True,34.1,True,1.0,90.0,True,1.0,C0B020,基隆嶼,25.1914,121.7839
+2023-07-01,True,34.2,True,1.0,90.0,True,1.0,C0B020,基隆嶼,25.1914,121.7839
