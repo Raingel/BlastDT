@@ -189,3 +189,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-07-06,True,31.1,True,1.0,83.0,True,1.0,C0R640,東港,22.46247,120.44074
 2023-07-07,True,31.3,True,1.0,80.0,True,1.0,C0R640,東港,22.46247,120.44074
 2023-07-08,False,31.6,True,1.0,79.0,False,0.0,C0R640,東港,22.46247,120.44074
+2023-07-09,True,32.3,True,1.0,80.0,True,1.0,C0R640,東港,22.46247,120.44074
