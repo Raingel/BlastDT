@@ -192,3 +192,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-07-09,False,38.0,True,1.0,75.0,False,0.0,C0Z330,安通山,23.290728,121.348528
 2023-07-10,True,34.7,True,1.0,81.0,True,1.0,C0Z330,安通山,23.290728,121.348528
 2023-07-11,True,33.0,True,1.0,84.0,True,1.0,C0Z330,安通山,23.290728,121.348528
+2023-07-12,True,33.1,True,1.0,80.0,True,1.0,C0Z330,安通山,23.290728,121.348528
