@@ -198,3 +198,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-07-15,True,35.8,True,1.0,81.0,True,1.0,C0E810,西湖,24.562947,120.7485
 2023-07-16,True,35.9,True,1.0,81.0,True,1.0,C0E810,西湖,24.562947,120.7485
 2023-07-17,False,36.5,True,1.0,78.0,False,0.0,C0E810,西湖,24.562947,120.7485
+2023-07-18,True,34.4,True,1.0,89.0,True,1.0,C0E810,西湖,24.562947,120.7485
