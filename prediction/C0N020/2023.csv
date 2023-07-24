@@ -203,3 +203,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-07-20,True,31.8,True,1.0,83.0,True,1.0,C0N020,城西,23.0568,120.0956
 2023-07-21,False,32.0,True,1.0,79.0,False,0.0,C0N020,城西,23.0568,120.0956
 2023-07-22,True,31.7,True,1.0,80.0,True,1.0,C0N020,城西,23.0568,120.0956
+2023-07-23,True,32.4,True,1.0,83.0,True,1.0,C0N020,城西,23.0568,120.0956
