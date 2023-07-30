@@ -209,3 +209,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-07-26,True,24.05,True,1.0,94.0,True,1.0,C0AC40,大屯山,25.175675,121.522408
 2023-07-27,False,22.3,False,0.0,93.0,True,1.0,C0AC40,大屯山,25.175675,121.522408
 2023-07-28,False,22.1,False,0.0,91.0,True,1.0,C0AC40,大屯山,25.175675,121.522408
+2023-07-29,True,26.4,True,1.0,88.0,True,1.0,C0AC40,大屯山,25.175675,121.522408
