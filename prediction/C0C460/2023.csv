@@ -210,3 +210,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-07-27,False,30.0,True,1.0,70.0,False,0.0,C0C460,復興,24.820208,121.352281
 2023-07-28,True,28.2,True,1.0,86.0,True,1.0,C0C460,復興,24.820208,121.352281
 2023-07-29,False,30.1,True,1.0,78.0,False,0.0,C0C460,復興,24.820208,121.352281
+2023-07-30,True,28.9,True,1.0,92.0,True,1.0,C0C460,復興,24.820208,121.352281

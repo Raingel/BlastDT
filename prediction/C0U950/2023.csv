@@ -210,3 +210,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-07-27,False,23.0,False,0.0,100.0,True,1.0,C0U950,鶯子嶺,24.89754,121.79244
 2023-07-28,False,22.6,False,0.0,100.0,True,1.0,C0U950,鶯子嶺,24.89754,121.79244
 2023-07-29,True,24.4,True,1.0,100.0,True,1.0,C0U950,鶯子嶺,24.89754,121.79244
+2023-07-30,True,24.6,True,1.0,100.0,True,1.0,C0U950,鶯子嶺,24.89754,121.79244
