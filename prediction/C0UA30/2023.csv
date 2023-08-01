@@ -211,3 +211,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-07-28,False,22.4,False,0.0,80.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
 2023-07-29,True,25.3,True,1.0,86.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
 2023-07-30,True,25.3,True,1.0,96.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
+2023-07-31,True,27.0,True,1.0,86.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
