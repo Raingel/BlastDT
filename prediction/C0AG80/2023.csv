@@ -214,3 +214,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-07-31,False,33.1,True,1.0,74.0,False,0.0,C0AG80,中和,24.991622,121.491792
 2023-08-01,True,30.5,True,1.0,89.0,True,1.0,C0AG80,中和,24.991622,121.491792
 2023-08-02,True,29.8,True,1.0,87.0,True,1.0,C0AG80,中和,24.991622,121.491792
+2023-08-03,False,31.1,True,1.0,79.0,False,0.0,C0AG80,中和,24.991622,121.491792
