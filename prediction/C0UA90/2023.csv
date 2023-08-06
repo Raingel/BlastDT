@@ -216,3 +216,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-08-02,True,31.5,True,1.0,81.0,True,1.0,C0UA90,石城,24.980444,121.951214
 2023-08-03,False,29.8,True,1.0,76.0,False,0.0,C0UA90,石城,24.980444,121.951214
 2023-08-04,False,32.8,True,1.0,66.0,False,0.0,C0UA90,石城,24.980444,121.951214
+2023-08-05,False,35.9,True,1.0,59.0,False,0.0,C0UA90,石城,24.980444,121.951214

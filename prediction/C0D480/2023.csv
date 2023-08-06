@@ -216,3 +216,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-08-02,True,31.5,True,1.0,91.0,True,1.0,C0D480,打鐵坑,24.849664,121.150789
 2023-08-03,True,29.3,True,1.0,82.0,True,1.0,C0D480,打鐵坑,24.849664,121.150789
 2023-08-04,False,31.1,True,1.0,78.0,False,0.0,C0D480,打鐵坑,24.849664,121.150789
+2023-08-05,True,29.6,True,1.0,82.0,True,1.0,C0D480,打鐵坑,24.849664,121.150789

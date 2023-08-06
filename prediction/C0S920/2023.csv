@@ -216,3 +216,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-08-02,True,33.0,True,1.0,80.0,True,1.0,C0S920,金峰嘉蘭,22.594789,120.960825
 2023-08-03,False,36.2,True,1.0,53.0,False,0.0,C0S920,金峰嘉蘭,22.594789,120.960825
 2023-08-04,False,34.4,True,1.0,63.0,False,0.0,C0S920,金峰嘉蘭,22.594789,120.960825
+2023-08-05,False,34.3,True,1.0,74.0,False,0.0,C0S920,金峰嘉蘭,22.594789,120.960825

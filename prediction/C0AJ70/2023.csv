@@ -216,3 +216,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-08-02,True,29.5,True,1.0,89.0,True,1.0,C0AJ70,田寮,25.2698,121.4886
 2023-08-03,True,29.2,True,1.0,88.0,True,1.0,C0AJ70,田寮,25.2698,121.4886
 2023-08-04,True,30.6,True,1.0,83.0,True,1.0,C0AJ70,田寮,25.2698,121.4886
+2023-08-05,False,30.5,True,1.0,79.0,False,0.0,C0AJ70,田寮,25.2698,121.4886
