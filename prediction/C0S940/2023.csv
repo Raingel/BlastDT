@@ -218,3 +218,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-08-04,True,29.9,True,1.0,86.0,True,1.0,C0S940,石寧山,23.223772,121.406639
 2023-08-05,True,29.8,True,1.0,82.0,True,1.0,C0S940,石寧山,23.223772,121.406639
 2023-08-06,False,36.0,True,1.0,69.0,False,0.0,C0S940,石寧山,23.223772,121.406639
+2023-08-07,False,34.8,True,1.0,76.0,False,0.0,C0S940,石寧山,23.223772,121.406639
