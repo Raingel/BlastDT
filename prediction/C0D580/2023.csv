@@ -227,3 +227,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-08-13,False,33.8,True,1.0,79.0,False,0.0,C0D580,寶山,24.735006,121.025192
 2023-08-14,False,32.3,True,1.0,76.0,False,0.0,C0D580,寶山,24.735006,121.025192
 2023-08-15,False,34.1,True,1.0,70.0,False,0.0,C0D580,寶山,24.735006,121.025192
+2023-08-16,True,29.2,True,1.0,91.0,True,1.0,C0D580,寶山,24.735006,121.025192
