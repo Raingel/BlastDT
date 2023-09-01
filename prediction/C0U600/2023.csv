@@ -242,3 +242,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-08-28,False,32.8,True,1.0,76.0,False,0.0,C0U600,礁溪,24.817539,121.765608
 2023-08-29,True,32.7,True,1.0,80.0,True,1.0,C0U600,礁溪,24.817539,121.765608
 2023-08-30,True,31.1,True,1.0,89.0,True,1.0,C0U600,礁溪,24.817539,121.765608
+2023-08-31,True,31.4,True,1.0,90.0,True,1.0,C0U600,礁溪,24.817539,121.765608
