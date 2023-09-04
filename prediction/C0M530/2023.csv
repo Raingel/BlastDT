@@ -245,3 +245,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-08-31,True,25.0,True,1.0,96.0,True,1.0,C0M530,奮起湖,23.493903,120.699253
 2023-09-01,True,24.7,True,1.0,98.0,True,1.0,C0M530,奮起湖,23.493903,120.699253
 2023-09-02,False,22.9,False,0.0,99.0,True,1.0,C0M530,奮起湖,23.493903,120.699253
+2023-09-03,False,22.0,False,0.0,96.0,True,1.0,C0M530,奮起湖,23.493903,120.699253

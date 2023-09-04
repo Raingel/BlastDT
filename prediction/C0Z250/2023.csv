@@ -245,3 +245,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-08-31,True,23.7,True,1.0,99.0,True,1.0,C0Z250,瑞穗林道,23.49284,121.30688
 2023-09-01,True,27.7,True,1.0,94.0,True,1.0,C0Z250,瑞穗林道,23.49284,121.30688
 2023-09-02,True,26.5,True,1.0,93.0,True,1.0,C0Z250,瑞穗林道,23.49284,121.30688
+2023-09-03,False,21.3,False,0.0,99.0,True,1.0,C0Z250,瑞穗林道,23.49284,121.30688

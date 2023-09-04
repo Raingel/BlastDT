@@ -245,3 +245,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-08-31,False,33.5,True,1.0,73.0,False,0.0,C0C730,中大臨海站,24.966126,121.008581
 2023-09-01,True,33.6,True,1.0,83.0,True,1.0,C0C730,中大臨海站,24.966126,121.008581
 2023-09-02,True,32.0,True,1.0,86.0,True,1.0,C0C730,中大臨海站,24.966126,121.008581
+2023-09-03,True,30.3,True,1.0,80.0,True,1.0,C0C730,中大臨海站,24.966126,121.008581
