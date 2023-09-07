@@ -248,3 +248,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-09-03,True,28.3,True,1.0,84.0,True,1.0,C0C630,大溪,24.882853,121.265547
 2023-09-04,True,29.1,True,1.0,83.0,True,1.0,C0C630,大溪,24.882853,121.265547
 2023-09-05,True,31.3,True,1.0,89.0,True,1.0,C0C630,大溪,24.882853,121.265547
+2023-09-06,,,,,89.0,True,1.0,C0C630,大溪,24.882853,121.265547
