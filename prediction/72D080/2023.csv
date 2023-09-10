@@ -251,3 +251,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-09-06,True,25.9,True,1.0,98.0,True,1.0,72D080,桃改五峰分場,24.612194,121.157167
 2023-09-07,True,24.7,True,1.0,97.0,True,1.0,72D080,桃改五峰分場,24.612194,121.157167
 2023-09-08,False,23.4,False,0.0,99.0,True,1.0,72D080,桃改五峰分場,24.612194,121.157167
+2023-09-09,True,23.8,True,1.0,99.0,True,1.0,72D080,桃改五峰分場,24.612194,121.157167
