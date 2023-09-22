@@ -263,3 +263,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-09-18,True,29.7,True,1.0,81.0,True,1.0,C0AI20,白沙灣,25.283128,121.519058
 2023-09-19,False,31.5,True,1.0,75.0,False,0.0,C0AI20,白沙灣,25.283128,121.519058
 2023-09-20,True,30.7,True,1.0,80.0,True,1.0,C0AI20,白沙灣,25.283128,121.519058
+2023-09-21,True,31.0,True,1.0,81.0,True,1.0,C0AI20,白沙灣,25.283128,121.519058
