@@ -265,3 +265,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-09-20,False,35.4,True,1.0,76.0,False,0.0,C0V740,旗山,22.888614,120.483597
 2023-09-21,False,34.6,True,1.0,75.0,False,0.0,C0V740,旗山,22.888614,120.483597
 2023-09-22,True,35.3,True,1.0,81.0,True,1.0,C0V740,旗山,22.888614,120.483597
+2023-09-23,True,35.0,True,1.0,81.0,True,1.0,C0V740,旗山,22.888614,120.483597
