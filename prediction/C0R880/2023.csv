@@ -275,3 +275,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-09-30,False,31.9,True,1.0,78.0,False,0.0,C0R880,後壁湖,21.9457,120.7457
 2023-10-01,False,31.7,True,1.0,76.0,False,0.0,C0R880,後壁湖,21.9457,120.7457
 2023-10-02,False,30.9,True,1.0,75.0,False,0.0,C0R880,後壁湖,21.9457,120.7457
+2023-10-03,True,30.7,True,1.0,80.0,True,1.0,C0R880,後壁湖,21.9457,120.7457
