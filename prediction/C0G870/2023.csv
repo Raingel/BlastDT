@@ -277,3 +277,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-02,False,30.1,True,1.0,72.0,False,0.0,C0G870,芳苑,23.922303,120.320025
 2023-10-03,False,29.7,True,1.0,72.0,False,0.0,C0G870,芳苑,23.922303,120.320025
 2023-10-04,True,27.2,True,1.0,84.0,True,1.0,C0G870,芳苑,23.922303,120.320025
+2023-10-05,True,28.6,True,1.0,86.0,True,1.0,C0G870,芳苑,23.922303,120.320025

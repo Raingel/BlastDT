@@ -277,3 +277,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-02,False,29.6,True,1.0,76.0,False,0.0,C0Z150,吉安光華,23.930925,121.595153
 2023-10-03,False,31.4,True,1.0,76.0,False,0.0,C0Z150,吉安光華,23.930925,121.595153
 2023-10-04,True,30.1,True,1.0,82.0,True,1.0,C0Z150,吉安光華,23.930925,121.595153
+2023-10-05,True,28.2,True,1.0,92.0,True,1.0,C0Z150,吉安光華,23.930925,121.595153
