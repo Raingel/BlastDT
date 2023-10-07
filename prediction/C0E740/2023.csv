@@ -278,3 +278,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-03,False,34.2,True,1.0,75.0,False,0.0,C0E740,造橋,24.637056,120.864778
 2023-10-04,True,33.65,True,1.0,94.0,True,1.0,C0E740,造橋,24.637056,120.864778
 2023-10-05,True,33.1,True,1.0,80.0,True,1.0,C0E740,造橋,24.637056,120.864778
+2023-10-06,,,,,86.0,True,1.0,C0E740,造橋,24.637056,120.864778

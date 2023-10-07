@@ -278,3 +278,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-03,False,32.1,True,1.0,72.0,False,0.0,C0R170,屏東,22.660269,120.494072
 2023-10-04,False,28.1,True,1.0,77.0,False,0.0,C0R170,屏東,22.660269,120.494072
 2023-10-05,False,29.6,True,1.0,71.0,False,0.0,C0R170,屏東,22.660269,120.494072
+2023-10-06,True,26.0,True,1.0,88.0,True,1.0,C0R170,屏東,22.660269,120.494072

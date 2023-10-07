@@ -278,3 +278,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-03,False,34.5,True,1.0,72.0,False,0.0,C0R790,九棚,22.14195,120.889281
 2023-10-04,False,30.0,True,1.0,78.0,False,0.0,C0R790,九棚,22.14195,120.889281
 2023-10-05,True,27.1,True,1.0,100.0,True,1.0,C0R790,九棚,22.14195,120.889281
+2023-10-06,True,25.5,True,1.0,100.0,True,1.0,C0R790,九棚,22.14195,120.889281
