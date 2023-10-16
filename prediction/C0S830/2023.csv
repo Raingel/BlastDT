@@ -287,3 +287,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-12,True,29.3,True,1.0,80.0,True,1.0,C0S830,長濱,23.286817,121.411975
 2023-10-13,True,30.1,True,1.0,81.0,True,1.0,C0S830,長濱,23.286817,121.411975
 2023-10-14,True,25.6,True,1.0,92.0,True,1.0,C0S830,長濱,23.286817,121.411975
+2023-10-15,False,22.7,False,0.0,87.0,True,1.0,C0S830,長濱,23.286817,121.411975
