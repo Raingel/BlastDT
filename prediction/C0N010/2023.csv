@@ -288,3 +288,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-13,True,28.2,True,1.0,80.0,True,1.0,C0N010,鯤鯓國小,23.1879,120.0889
 2023-10-14,True,28.4,True,1.0,80.0,True,1.0,C0N010,鯤鯓國小,23.1879,120.0889
 2023-10-15,False,27.3,True,1.0,73.0,False,0.0,C0N010,鯤鯓國小,23.1879,120.0889
+2023-10-16,False,26.6,True,1.0,75.0,False,0.0,C0N010,鯤鯓國小,23.1879,120.0889

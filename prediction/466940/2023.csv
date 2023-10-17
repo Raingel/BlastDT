@@ -288,3 +288,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-13,False,26.3,True,1.0,76.0,False,0.0,466940,基隆,25.133314,121.740475
 2023-10-14,True,24.8,True,1.0,80.0,True,1.0,466940,基隆,25.133314,121.740475
 2023-10-15,False,25.8,True,1.0,68.0,False,0.0,466940,基隆,25.133314,121.740475
+2023-10-16,False,26.4,True,1.0,59.0,False,0.0,466940,基隆,25.133314,121.740475
