@@ -293,3 +293,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-18,False,21.5,False,0.0,96.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
 2023-10-19,True,23.6,True,1.0,89.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
 2023-10-20,False,22.0,False,0.0,97.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
+2023-10-21,False,14.9,False,0.0,100.0,True,1.0,C0UA30,白嶺,24.527819,121.519031

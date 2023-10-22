@@ -293,3 +293,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-18,False,18.5,False,0.0,76.0,False,0.0,C0T790,大禹嶺,24.186117,121.316086
 2023-10-19,False,19.3,False,0.0,84.0,True,1.0,C0T790,大禹嶺,24.186117,121.316086
 2023-10-20,False,16.7,False,0.0,87.0,True,1.0,C0T790,大禹嶺,24.186117,121.316086
+2023-10-21,False,12.2,False,0.0,95.0,True,1.0,C0T790,大禹嶺,24.186117,121.316086
