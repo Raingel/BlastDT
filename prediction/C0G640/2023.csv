@@ -297,3 +297,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-22,True,29.8,True,1.0,90.0,True,1.0,C0G640,鹿港,24.0753,120.430481
 2023-10-23,True,30.3,True,1.0,92.0,True,1.0,C0G640,鹿港,24.0753,120.430481
 2023-10-24,True,31.1,True,1.0,94.0,True,1.0,C0G640,鹿港,24.0753,120.430481
+2023-10-25,True,29.5,True,1.0,94.0,True,1.0,C0G640,鹿港,24.0753,120.430481
+2023-10-26,True,31.1,True,1.0,92.0,True,1.0,C0G640,鹿港,24.0753,120.430481
