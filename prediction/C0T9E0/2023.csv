@@ -300,3 +300,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-25,True,27.7,True,1.0,96.0,True,1.0,C0T9E0,大坑,23.880628,121.581981
 2023-10-26,True,25.8,True,1.0,97.0,True,1.0,C0T9E0,大坑,23.880628,121.581981
 2023-10-27,True,25.4,True,1.0,99.0,True,1.0,C0T9E0,大坑,23.880628,121.581981
+2023-10-28,False,19.4,False,0.0,100.0,True,1.0,C0T9E0,大坑,23.880628,121.581981

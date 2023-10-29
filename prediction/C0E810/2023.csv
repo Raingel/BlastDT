@@ -300,3 +300,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-25,True,29.8,True,1.0,88.0,True,1.0,C0E810,西湖,24.562947,120.7485
 2023-10-26,True,31.4,True,1.0,83.0,True,1.0,C0E810,西湖,24.562947,120.7485
 2023-10-27,True,28.8,True,1.0,83.0,True,1.0,C0E810,西湖,24.562947,120.7485
+2023-10-28,False,22.3,False,0.0,95.0,True,1.0,C0E810,西湖,24.562947,120.7485
