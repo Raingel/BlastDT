@@ -304,3 +304,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-29,True,27.0,True,1.0,82.0,True,1.0,C0X310,七股,23.147289,120.086253
 2023-10-30,False,27.7,True,1.0,78.0,False,0.0,C0X310,七股,23.147289,120.086253
 2023-10-31,True,28.2,True,1.0,81.0,True,1.0,C0X310,七股,23.147289,120.086253
+2023-11-01,True,27.7,True,1.0,84.0,True,1.0,C0X310,七股,23.147289,120.086253
