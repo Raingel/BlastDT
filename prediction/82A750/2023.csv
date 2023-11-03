@@ -305,3 +305,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-30,False,23.4,False,0.0,87.0,True,1.0,82A750,茶改北部分場,24.955778,121.631222
 2023-10-31,False,22.9,False,0.0,91.0,True,1.0,82A750,茶改北部分場,24.955778,121.631222
 2023-11-01,True,25.4,True,1.0,83.0,True,1.0,82A750,茶改北部分場,24.955778,121.631222
+2023-11-02,False,28.1,True,1.0,78.0,False,0.0,82A750,茶改北部分場,24.955778,121.631222
