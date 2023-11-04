@@ -306,3 +306,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-10-31,True,24.3,True,1.0,86.0,True,1.0,C0S990,山豬窟,22.318619,120.857372
 2023-11-01,True,24.5,True,1.0,80.0,True,1.0,C0S990,山豬窟,22.318619,120.857372
 2023-11-02,False,25.9,True,1.0,78.0,False,0.0,C0S990,山豬窟,22.318619,120.857372
+2023-11-03,False,26.6,True,1.0,78.0,False,0.0,C0S990,山豬窟,22.318619,120.857372
