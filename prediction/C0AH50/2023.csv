@@ -313,3 +313,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-07,False,22.5,False,0.0,68.0,False,0.0,C0AH50,林口,25.072181,121.38084
 2023-11-08,False,28.0,True,1.0,71.0,False,0.0,C0AH50,林口,25.072181,121.38084
 2023-11-09,False,29.2,True,1.0,75.0,False,0.0,C0AH50,林口,25.072181,121.38084
+2023-11-10,True,28.4,True,1.0,84.0,True,1.0,C0AH50,林口,25.072181,121.38084
