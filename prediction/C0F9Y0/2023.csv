@@ -315,3 +315,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-09,False,19.4,False,0.0,57.0,False,0.0,C0F9Y0,桃山,24.432739,121.303808
 2023-11-10,False,17.7,False,0.0,80.0,True,1.0,C0F9Y0,桃山,24.432739,121.303808
 2023-11-11,False,12.5,False,0.0,96.0,True,1.0,C0F9Y0,桃山,24.432739,121.303808
+2023-11-12,False,10.3,False,0.0,96.0,True,1.0,C0F9Y0,桃山,24.432739,121.303808
