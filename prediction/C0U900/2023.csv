@@ -316,3 +316,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-10,True,30.1,True,1.0,84.0,True,1.0,C0U900,內城,24.71813,121.68766
 2023-11-11,False,22.4,False,0.0,98.0,True,1.0,C0U900,內城,24.71813,121.68766
 2023-11-12,False,21.3,False,0.0,98.0,True,1.0,C0U900,內城,24.71813,121.68766
+2023-11-13,False,18.7,False,0.0,94.0,True,1.0,C0U900,內城,24.71813,121.68766
