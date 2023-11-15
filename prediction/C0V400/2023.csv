@@ -317,3 +317,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-11,True,30.1,True,1.0,80.0,True,1.0,C0V400,阿公店,22.804194,120.355528
 2023-11-12,False,29.2,True,1.0,78.0,False,0.0,C0V400,阿公店,22.804194,120.355528
 2023-11-13,False,27.3,True,1.0,72.0,False,0.0,C0V400,阿公店,22.804194,120.355528
+2023-11-14,False,28.0,True,1.0,71.0,False,0.0,C0V400,阿公店,22.804194,120.355528
