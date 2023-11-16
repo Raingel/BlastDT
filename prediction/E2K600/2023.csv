@@ -315,3 +315,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-12,False,25.9,True,1.0,77.0,False,0.0,E2K600,四湖植物園,23.676986,120.163433
 2023-11-13,False,22.9,False,0.0,73.0,False,0.0,E2K600,四湖植物園,23.676986,120.163433
 2023-11-14,False,25.3,True,1.0,77.0,False,0.0,E2K600,四湖植物園,23.676986,120.163433
+2023-11-15,True,26.5,True,1.0,81.0,True,1.0,E2K600,四湖植物園,23.676986,120.163433

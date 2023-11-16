@@ -318,3 +318,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-12,False,22.6,False,0.0,86.0,True,1.0,C0C740,觀音工業區,25.064764,121.114856
 2023-11-13,False,19.6,False,0.0,76.0,False,0.0,C0C740,觀音工業區,25.064764,121.114856
 2023-11-14,False,20.1,False,0.0,80.0,True,1.0,C0C740,觀音工業區,25.064764,121.114856
+2023-11-15,False,24.2,True,1.0,76.0,False,0.0,C0C740,觀音工業區,25.064764,121.114856
