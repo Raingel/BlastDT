@@ -319,3 +319,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-13,False,28.8,True,1.0,72.0,False,0.0,C0V450,鳳森,22.545064,120.392592
 2023-11-14,False,29.0,True,1.0,67.0,False,0.0,C0V450,鳳森,22.545064,120.392592
 2023-11-15,False,30.1,True,1.0,72.0,False,0.0,C0V450,鳳森,22.545064,120.392592
+2023-11-16,,,,,70.0,False,0.0,C0V450,鳳森,22.545064,120.392592
