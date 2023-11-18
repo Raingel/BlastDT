@@ -320,3 +320,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-14,False,22.3,False,0.0,82.0,True,1.0,K2F750,種苗繁殖,24.225972,120.800917
 2023-11-15,True,26.2,True,1.0,81.0,True,1.0,K2F750,種苗繁殖,24.225972,120.800917
 2023-11-16,True,24.7,True,1.0,81.0,True,1.0,K2F750,種苗繁殖,24.225972,120.800917
+2023-11-17,False,20.0,False,0.0,69.0,False,0.0,K2F750,種苗繁殖,24.225972,120.800917
