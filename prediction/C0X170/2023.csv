@@ -321,3 +321,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-15,True,30.0,True,1.0,83.0,True,1.0,C0X170,關廟,22.963017,120.327797
 2023-11-16,True,30.0,True,1.0,83.0,True,1.0,C0X170,關廟,22.963017,120.327797
 2023-11-17,False,23.3,False,0.0,63.0,False,0.0,C0X170,關廟,22.963017,120.327797
+2023-11-18,False,24.6,True,1.0,60.0,False,0.0,C0X170,關廟,22.963017,120.327797
