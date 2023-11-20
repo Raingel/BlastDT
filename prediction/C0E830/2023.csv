@@ -322,3 +322,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-16,True,24.3,True,1.0,81.0,True,1.0,C0E830,苑裡,24.439714,120.653053
 2023-11-17,False,20.4,False,0.0,54.0,False,0.0,C0E830,苑裡,24.439714,120.653053
 2023-11-18,False,20.9,False,0.0,49.0,False,0.0,C0E830,苑裡,24.439714,120.653053
+2023-11-19,False,22.2,False,0.0,66.0,False,0.0,C0E830,苑裡,24.439714,120.653053
