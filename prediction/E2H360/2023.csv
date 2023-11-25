@@ -327,3 +327,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-21,True,23.8,True,1.0,84.0,True,1.0,E2H360,蓮華池,23.918333,120.885278
 2023-11-22,True,24.3,True,1.0,82.0,True,1.0,E2H360,蓮華池,23.918333,120.885278
 2023-11-23,True,24.2,True,1.0,83.0,True,1.0,E2H360,蓮華池,23.918333,120.885278
+2023-11-24,False,23.1,False,0.0,86.0,True,1.0,E2H360,蓮華池,23.918333,120.885278
