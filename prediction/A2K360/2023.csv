@@ -326,3 +326,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-22,True,25.5,True,1.0,80.0,True,1.0,A2K360,水試臺西試驗場,23.717231,120.190522
 2023-11-23,False,28.0,True,1.0,79.0,False,0.0,A2K360,水試臺西試驗場,23.717231,120.190522
 2023-11-24,False,26.4,True,1.0,72.0,False,0.0,A2K360,水試臺西試驗場,23.717231,120.190522
+2023-11-25,False,26.6,True,1.0,74.0,False,0.0,A2K360,水試臺西試驗場,23.717231,120.190522
