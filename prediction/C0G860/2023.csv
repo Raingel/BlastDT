@@ -332,3 +332,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-26,True,26.6,True,1.0,80.0,True,1.0,C0G860,社頭,23.897647,120.5862
 2023-11-27,False,28.2,True,1.0,79.0,False,0.0,C0G860,社頭,23.897647,120.5862
 2023-11-28,False,30.3,True,1.0,74.0,False,0.0,C0G860,社頭,23.897647,120.5862
+2023-11-29,False,28.8,True,1.0,76.0,False,0.0,C0G860,社頭,23.897647,120.5862
+2023-11-30,False,27.6,True,1.0,79.0,False,0.0,C0G860,社頭,23.897647,120.5862

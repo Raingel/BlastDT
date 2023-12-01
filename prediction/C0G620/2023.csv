@@ -332,3 +332,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-26,True,24.8,True,1.0,86.0,True,1.0,C0G620,芬園,24.015678,120.6213
 2023-11-27,True,27.0,True,1.0,81.0,True,1.0,C0G620,芬園,24.015678,120.6213
 2023-11-28,False,28.6,True,1.0,75.0,False,0.0,C0G620,芬園,24.015678,120.6213
+2023-11-29,False,27.8,True,1.0,78.0,False,0.0,C0G620,芬園,24.015678,120.6213
+2023-11-30,True,25.3,True,1.0,81.0,True,1.0,C0G620,芬園,24.015678,120.6213
