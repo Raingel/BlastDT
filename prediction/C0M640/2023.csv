@@ -334,3 +334,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-28,False,28.5,True,1.0,72.0,False,0.0,C0M640,中埔,23.42538,120.5229
 2023-11-29,False,26.4,True,1.0,71.0,False,0.0,C0M640,中埔,23.42538,120.5229
 2023-11-30,True,27.0,True,1.0,80.0,True,1.0,C0M640,中埔,23.42538,120.5229
+2023-12-01,False,22.7,False,0.0,81.0,True,1.0,C0M640,中埔,23.42538,120.5229

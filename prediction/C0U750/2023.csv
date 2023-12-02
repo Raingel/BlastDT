@@ -334,3 +334,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-28,False,20.5,False,0.0,74.0,False,0.0,C0U750,龜山島,24.841667,121.953133
 2023-11-29,False,22.3,False,0.0,83.0,True,1.0,C0U750,龜山島,24.841667,121.953133
 2023-11-30,False,22.3,False,0.0,93.0,True,1.0,C0U750,龜山島,24.841667,121.953133
+2023-12-01,False,16.9,False,0.0,100.0,True,1.0,C0U750,龜山島,24.841667,121.953133
