@@ -335,3 +335,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-11-29,False,27.6,True,1.0,79.0,False,0.0,C0I420,國姓,24.037803,120.855072
 2023-11-30,True,27.1,True,1.0,86.0,True,1.0,C0I420,國姓,24.037803,120.855072
 2023-12-01,False,21.7,False,0.0,88.0,True,1.0,C0I420,國姓,24.037803,120.855072
+2023-12-02,False,25.4,True,1.0,79.0,False,0.0,C0I420,國姓,24.037803,120.855072
