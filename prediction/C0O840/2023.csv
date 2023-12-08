@@ -339,3 +339,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-12-03,True,26.2,True,1.0,83.0,True,1.0,C0O840,王爺宮,23.222064,120.40085
 2023-12-04,True,26.9,True,1.0,86.0,True,1.0,C0O840,王爺宮,23.222064,120.40085
 2023-12-05,True,29.3,True,1.0,82.0,True,1.0,C0O840,王爺宮,23.222064,120.40085
+2023-12-06,True,26.5,True,1.0,82.0,True,1.0,C0O840,王爺宮,23.222064,120.40085
+2023-12-07,False,28.8,True,1.0,71.0,False,0.0,C0O840,王爺宮,23.222064,120.40085
