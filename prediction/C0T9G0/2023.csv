@@ -344,3 +344,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-12-08,False,22.3,False,0.0,80.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
 2023-12-09,False,24.2,True,1.0,79.0,False,0.0,C0T9G0,鳳林山,23.735269,121.420131
 2023-12-10,False,23.2,False,0.0,90.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
+2023-12-11,True,24.5,True,1.0,93.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
+2023-12-12,False,20.8,False,0.0,100.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131

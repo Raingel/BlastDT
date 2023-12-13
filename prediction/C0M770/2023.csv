@@ -344,3 +344,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-12-08,False,27.4,True,1.0,76.0,False,0.0,C0M770,嘉義梅山,23.585398,120.555587
 2023-12-09,False,28.2,True,1.0,66.0,False,0.0,C0M770,嘉義梅山,23.585398,120.555587
 2023-12-10,False,29.7,True,1.0,70.0,False,0.0,C0M770,嘉義梅山,23.585398,120.555587
+2023-12-11,False,28.6,True,1.0,78.0,False,0.0,C0M770,嘉義梅山,23.585398,120.555587
+2023-12-12,True,28.6,True,1.0,80.0,True,1.0,C0M770,嘉義梅山,23.585398,120.555587

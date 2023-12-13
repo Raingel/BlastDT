@@ -344,3 +344,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-12-08,False,22.6,False,0.0,82.0,True,1.0,C0Z320,清水林道,23.27125,121.188272
 2023-12-09,False,26.1,True,1.0,76.0,False,0.0,C0Z320,清水林道,23.27125,121.188272
 2023-12-10,True,23.6,True,1.0,89.0,True,1.0,C0Z320,清水林道,23.27125,121.188272
+2023-12-11,False,23.2,False,0.0,94.0,True,1.0,C0Z320,清水林道,23.27125,121.188272
+2023-12-12,True,23.6,True,1.0,91.0,True,1.0,C0Z320,清水林道,23.27125,121.188272
