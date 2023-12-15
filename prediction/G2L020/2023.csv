@@ -347,3 +347,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-12-11,True,30.5,True,1.0,81.0,True,1.0,G2L020,農試嘉義分所,23.485028,120.473806
 2023-12-12,True,30.5,True,1.0,80.0,True,1.0,G2L020,農試嘉義分所,23.485028,120.473806
 2023-12-13,False,30.2,True,1.0,79.0,False,0.0,G2L020,農試嘉義分所,23.485028,120.473806
+2023-12-14,True,29.4,True,1.0,84.0,True,1.0,G2L020,農試嘉義分所,23.485028,120.473806
