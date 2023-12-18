@@ -349,3 +349,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-12-14,True,28.8,True,1.0,93.0,True,1.0,72N100,臺南農改,23.0605,120.342194
 2023-12-15,True,29.9,True,1.0,86.0,True,1.0,72N100,臺南農改,23.0605,120.342194
 2023-12-16,True,27.1,True,1.0,81.0,True,1.0,72N100,臺南農改,23.0605,120.342194
+2023-12-17,False,22.2,False,0.0,72.0,False,0.0,72N100,臺南農改,23.0605,120.342194
