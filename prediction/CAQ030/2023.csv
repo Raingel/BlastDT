@@ -169,7 +169,7 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-06-17,True,33.1,True,1.0,85.0,True,1.0,CAQ030,崎峰國小,22.42565,120.49521
 2023-06-18,True,32.9,True,1.0,82.0,True,1.0,CAQ030,崎峰國小,22.42565,120.49521
 2023-06-19,True,32.8,True,1.0,80.0,True,1.0,CAQ030,崎峰國小,22.42565,120.49521
-2023-06-20,True,32.2,True,1.0,80.0,True,1.0,CAQ030,崎峰國小,22.42565,120.49521
+2023-06-20,False,32.2,True,1.0,79.0,False,0.0,CAQ030,崎峰國小,22.42565,120.49521
 2023-06-21,True,32.5,True,1.0,80.0,True,1.0,CAQ030,崎峰國小,22.42565,120.49521
 2023-06-22,True,32.3,True,1.0,81.0,True,1.0,CAQ030,崎峰國小,22.42565,120.49521
 2023-06-23,False,32.3,True,1.0,78.0,False,0.0,CAQ030,崎峰國小,22.42565,120.49521
@@ -340,3 +340,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2023-12-19,False,26.9,True,1.0,78.0,False,0.0,CAQ030,崎峰國小,22.42565,120.49521
 2023-12-20,False,21.3,False,0.0,89.0,True,1.0,CAQ030,崎峰國小,22.42565,120.49521
 2023-12-21,False,22.7,False,0.0,78.0,False,0.0,CAQ030,崎峰國小,22.42565,120.49521
+2023-12-22,False,19.8,False,0.0,72.0,False,0.0,CAQ030,崎峰國小,22.42565,120.49521
