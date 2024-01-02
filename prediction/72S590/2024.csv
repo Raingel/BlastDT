@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2023-12-31,,,,,82.0,True,1.0,72S590,東改賓朗果園,22.813889,121.071278
+2024-01-01,False,18.5,False,0.0,77.0,False,0.0,72S590,東改賓朗果園,22.813889,121.071278
