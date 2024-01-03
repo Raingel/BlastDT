@@ -1,3 +1,4 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2023-12-31,,,,,75.0,False,0.0,A2C560,農工中心,24.985917,121.239833
 2024-01-01,False,18.9,False,0.0,62.0,False,0.0,A2C560,農工中心,24.985917,121.239833
+2024-01-02,False,24.5,True,1.0,67.0,False,0.0,A2C560,農工中心,24.985917,121.239833

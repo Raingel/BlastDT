@@ -1,3 +1,4 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2023-12-31,,,,,81.0,True,1.0,E2K600,四湖植物園,23.676986,120.163433
 2024-01-01,False,21.1,False,0.0,70.0,False,0.0,E2K600,四湖植物園,23.676986,120.163433
+2024-01-02,False,22.4,False,0.0,77.0,False,0.0,E2K600,四湖植物園,23.676986,120.163433

@@ -1,3 +1,4 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2023-12-31,,,,,75.0,False,0.0,82H840,茶改南部分場,23.762528,120.7405
 2024-01-01,False,21.3,False,0.0,85.0,True,1.0,82H840,茶改南部分場,23.762528,120.7405
+2024-01-02,False,21.5,False,0.0,85.0,True,1.0,82H840,茶改南部分場,23.762528,120.7405
