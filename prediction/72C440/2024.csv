@@ -11,3 +11,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-09,False,20.7,False,0.0,90.0,True,1.0,72C440,桃園農改,24.950944,121.030583
 2024-01-10,False,19.1,False,0.0,70.0,False,0.0,72C440,桃園農改,24.950944,121.030583
 2024-01-11,False,18.0,False,0.0,63.0,False,0.0,72C440,桃園農改,24.950944,121.030583
+2024-01-12,False,21.8,False,0.0,76.0,False,0.0,72C440,桃園農改,24.950944,121.030583
+2024-01-13,False,24.2,True,1.0,69.0,False,0.0,72C440,桃園農改,24.950944,121.030583
