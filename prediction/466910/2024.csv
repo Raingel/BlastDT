@@ -1,5 +1,6 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2024-01-01,,,,,94.0,True,1.0,466910,鞍部,25.182586,121.529731
+2023-12-31,,,,,87.0,True,1.0,466910,鞍部,25.182586,121.529731
+2024-01-01,False,10.3,False,0.0,94.0,True,1.0,466910,鞍部,25.182586,121.529731
 2024-01-02,False,15.2,False,0.0,93.0,True,1.0,466910,鞍部,25.182586,121.529731
 2024-01-03,False,13.8,False,0.0,98.0,True,1.0,466910,鞍部,25.182586,121.529731
 2024-01-04,False,11.1,False,0.0,90.0,True,1.0,466910,鞍部,25.182586,121.529731
@@ -14,3 +15,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-13,False,15.1,False,0.0,90.0,True,1.0,466910,鞍部,25.182586,121.529731
 2024-01-14,False,17.9,False,0.0,88.0,True,1.0,466910,鞍部,25.182586,121.529731
 2024-01-15,False,13.0,False,0.0,97.0,True,1.0,466910,鞍部,25.182586,121.529731
+2024-01-16,False,12.0,False,0.0,100.0,True,1.0,466910,鞍部,25.182586,121.529731

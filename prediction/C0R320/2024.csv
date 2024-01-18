@@ -1,5 +1,6 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2024-01-01,,,,,69.0,False,0.0,C0R320,車城,22.0744,120.716247
+2023-12-31,,,,,73.0,False,0.0,C0R320,車城,22.0744,120.716247
+2024-01-01,False,23.6,True,1.0,69.0,False,0.0,C0R320,車城,22.0744,120.716247
 2024-01-02,False,25.6,True,1.0,65.0,False,0.0,C0R320,車城,22.0744,120.716247
 2024-01-03,False,27.1,True,1.0,78.0,False,0.0,C0R320,車城,22.0744,120.716247
 2024-01-04,False,23.8,True,1.0,64.0,False,0.0,C0R320,車城,22.0744,120.716247
@@ -14,3 +15,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-13,False,24.7,True,1.0,71.0,False,0.0,C0R320,車城,22.0744,120.716247
 2024-01-14,False,26.6,True,1.0,64.0,False,0.0,C0R320,車城,22.0744,120.716247
 2024-01-15,False,26.5,True,1.0,68.0,False,0.0,C0R320,車城,22.0744,120.716247
+2024-01-16,False,23.0,False,0.0,79.0,False,0.0,C0R320,車城,22.0744,120.716247

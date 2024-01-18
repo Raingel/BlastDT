@@ -1,6 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2023-12-31,,,,,85.0,True,1.0,C0T900,西林,23.8119,121.441458
-2024-01-01,False,17.4,False,0.0,85.0,True,1.0,C0T900,西林,23.8119,121.441458
+2024-01-01,,,,,85.0,True,1.0,C0T900,西林,23.8119,121.441458
 2024-01-02,False,23.6,True,1.0,79.0,False,0.0,C0T900,西林,23.8119,121.441458
 2024-01-03,False,22.8,False,0.0,88.0,True,1.0,C0T900,西林,23.8119,121.441458
 2024-01-04,False,18.2,False,0.0,82.0,True,1.0,C0T900,西林,23.8119,121.441458
@@ -15,3 +14,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-13,False,20.5,False,0.0,80.0,True,1.0,C0T900,西林,23.8119,121.441458
 2024-01-14,False,23.1,False,0.0,75.0,False,0.0,C0T900,西林,23.8119,121.441458
 2024-01-15,True,24.0,True,1.0,82.0,True,1.0,C0T900,西林,23.8119,121.441458
+2024-01-16,False,18.3,False,0.0,92.0,True,1.0,C0T900,西林,23.8119,121.441458

@@ -1,6 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2023-12-31,,,,,76.0,False,0.0,466950,彭佳嶼,25.627975,122.079744
-2024-01-01,False,17.9,False,0.0,64.0,False,0.0,466950,彭佳嶼,25.627975,122.079744
+2024-01-01,,,,,64.0,False,0.0,466950,彭佳嶼,25.627975,122.079744
 2024-01-02,False,20.3,False,0.0,74.0,False,0.0,466950,彭佳嶼,25.627975,122.079744
 2024-01-03,False,18.7,False,0.0,79.0,False,0.0,466950,彭佳嶼,25.627975,122.079744
 2024-01-04,False,19.3,False,0.0,62.0,False,0.0,466950,彭佳嶼,25.627975,122.079744
