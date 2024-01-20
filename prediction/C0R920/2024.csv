@@ -1,6 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2023-12-31,,,,,82.0,True,1.0,C0R920,塭仔,22.4169,120.5197
-2024-01-01,True,23.7,True,1.0,80.0,True,1.0,C0R920,塭仔,22.4169,120.5197
+2024-01-01,,,,,80.0,True,1.0,C0R920,塭仔,22.4169,120.5197
 2024-01-02,False,22.9,False,0.0,78.0,False,0.0,C0R920,塭仔,22.4169,120.5197
 2024-01-03,False,25.8,True,1.0,76.0,False,0.0,C0R920,塭仔,22.4169,120.5197
 2024-01-04,False,21.6,False,0.0,76.0,False,0.0,C0R920,塭仔,22.4169,120.5197
@@ -16,3 +15,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-14,False,24.5,True,1.0,71.0,False,0.0,C0R920,塭仔,22.4169,120.5197
 2024-01-15,False,24.0,True,1.0,72.0,False,0.0,C0R920,塭仔,22.4169,120.5197
 2024-01-16,False,23.3,False,0.0,79.0,False,0.0,C0R920,塭仔,22.4169,120.5197
+2024-01-17,True,23.5,True,1.0,80.0,True,1.0,C0R920,塭仔,22.4169,120.5197
+2024-01-18,False,24.7,True,1.0,77.0,False,0.0,C0R920,塭仔,22.4169,120.5197

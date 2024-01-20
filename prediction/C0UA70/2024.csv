@@ -16,3 +16,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-14,False,20.0,False,0.0,83.0,True,1.0,C0UA70,桃源谷,24.962606,121.888875
 2024-01-15,False,16.1,False,0.0,97.0,True,1.0,C0UA70,桃源谷,24.962606,121.888875
 2024-01-16,False,13.4,False,0.0,100.0,True,1.0,C0UA70,桃源谷,24.962606,121.888875
+2024-01-17,False,18.8,False,0.0,90.0,True,1.0,C0UA70,桃源谷,24.962606,121.888875
+2024-01-18,False,22.3,False,0.0,79.0,False,0.0,C0UA70,桃源谷,24.962606,121.888875

@@ -16,3 +16,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-14,False,24.7,True,1.0,63.0,False,0.0,C0R740,獅子,22.201569,120.70525
 2024-01-15,False,24.7,True,1.0,68.0,False,0.0,C0R740,獅子,22.201569,120.70525
 2024-01-16,False,21.3,False,0.0,80.0,True,1.0,C0R740,獅子,22.201569,120.70525
+2024-01-17,False,23.8,True,1.0,67.0,False,0.0,C0R740,獅子,22.201569,120.70525
+2024-01-18,False,25.1,True,1.0,61.0,False,0.0,C0R740,獅子,22.201569,120.70525

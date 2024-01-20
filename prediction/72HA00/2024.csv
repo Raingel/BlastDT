@@ -16,3 +16,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-14,False,22.6,False,0.0,77.0,False,0.0,72HA00,中改埔里分場,23.903208,120.963364
 2024-01-15,False,23.0,False,0.0,80.0,True,1.0,72HA00,中改埔里分場,23.903208,120.963364
 2024-01-16,False,22.7,False,0.0,80.0,True,1.0,72HA00,中改埔里分場,23.903208,120.963364
+2024-01-17,False,23.3,False,0.0,78.0,False,0.0,72HA00,中改埔里分場,23.903208,120.963364
+2024-01-18,False,25.7,True,1.0,77.0,False,0.0,72HA00,中改埔里分場,23.903208,120.963364

@@ -1,5 +1,6 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2024-01-01,,,,,82.0,True,1.0,C0S830,長濱,23.286817,121.411975
+2023-12-31,,,,,85.0,True,1.0,C0S830,長濱,23.286817,121.411975
+2024-01-01,False,18.3,False,0.0,82.0,True,1.0,C0S830,長濱,23.286817,121.411975
 2024-01-02,False,23.6,True,1.0,73.0,False,0.0,C0S830,長濱,23.286817,121.411975
 2024-01-03,True,25.5,True,1.0,84.0,True,1.0,C0S830,長濱,23.286817,121.411975
 2024-01-04,False,18.2,False,0.0,74.0,False,0.0,C0S830,長濱,23.286817,121.411975
@@ -15,3 +16,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-14,False,22.0,False,0.0,71.0,False,0.0,C0S830,長濱,23.286817,121.411975
 2024-01-15,False,25.6,True,1.0,76.0,False,0.0,C0S830,長濱,23.286817,121.411975
 2024-01-16,False,20.4,False,0.0,83.0,True,1.0,C0S830,長濱,23.286817,121.411975
+2024-01-17,True,23.5,True,1.0,80.0,True,1.0,C0S830,長濱,23.286817,121.411975
+2024-01-18,False,27.4,True,1.0,72.0,False,0.0,C0S830,長濱,23.286817,121.411975
