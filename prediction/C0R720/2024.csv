@@ -1,6 +1,6 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2023-12-31,,,,,71.0,False,0.0,C0R720,旭海,22.205403,120.887614
-2024-01-01,False,23.3,False,0.0,61.0,False,0.0,C0R720,旭海,22.205403,120.887614
+2023-12-31,,,,,94.0,True,1.0,C0R720,旭海,22.205403,120.887614
+2024-01-01,False,19.8,False,0.0,86.0,True,1.0,C0R720,旭海,22.205403,120.887614
 2024-01-02,False,21.9,False,0.0,81.0,True,1.0,C0R720,旭海,22.205403,120.887614
 2024-01-03,False,23.4,False,0.0,89.0,True,1.0,C0R720,旭海,22.205403,120.887614
 2024-01-04,False,19.5,False,0.0,78.0,False,0.0,C0R720,旭海,22.205403,120.887614
@@ -18,3 +18,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-16,False,18.0,False,0.0,100.0,True,1.0,C0R720,旭海,22.205403,120.887614
 2024-01-17,False,21.8,False,0.0,86.0,True,1.0,C0R720,旭海,22.205403,120.887614
 2024-01-18,False,22.4,False,0.0,80.0,True,1.0,C0R720,旭海,22.205403,120.887614
+2024-01-19,False,22.9,False,0.0,96.0,True,1.0,C0R720,旭海,22.205403,120.887614

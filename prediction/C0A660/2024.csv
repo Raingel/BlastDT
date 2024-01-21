@@ -1,5 +1,6 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2024-01-01,,,,,75.0,False,0.0,C0A660,瑞芳,25.113169,121.801147
+2023-12-31,,,,,92.0,True,1.0,C0A660,瑞芳,25.113169,121.801147
+2024-01-01,False,16.1,False,0.0,75.0,False,0.0,C0A660,瑞芳,25.113169,121.801147
 2024-01-02,False,22.3,False,0.0,88.0,True,1.0,C0A660,瑞芳,25.113169,121.801147
 2024-01-03,False,16.1,False,0.0,92.0,True,1.0,C0A660,瑞芳,25.113169,121.801147
 2024-01-04,False,18.9,False,0.0,73.0,False,0.0,C0A660,瑞芳,25.113169,121.801147
@@ -17,3 +18,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-16,False,16.1,False,0.0,96.0,True,1.0,C0A660,瑞芳,25.113169,121.801147
 2024-01-17,False,22.7,False,0.0,74.0,False,0.0,C0A660,瑞芳,25.113169,121.801147
 2024-01-18,False,23.1,False,0.0,86.0,True,1.0,C0A660,瑞芳,25.113169,121.801147
+2024-01-19,False,22.6,False,0.0,98.0,True,1.0,C0A660,瑞芳,25.113169,121.801147
