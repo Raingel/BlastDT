@@ -1,5 +1,6 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2024-01-01,,,,,34.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
+2023-12-31,,,,,30.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
+2024-01-01,False,23.1,False,0.0,34.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
 2024-01-02,False,24.5,True,1.0,30.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
 2024-01-03,False,25.8,True,1.0,54.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
 2024-01-04,False,22.5,False,0.0,49.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
@@ -18,3 +19,8 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-17,False,23.7,True,1.0,66.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
 2024-01-18,False,26.1,True,1.0,64.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
 2024-01-19,False,25.4,True,1.0,69.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
+2024-01-20,False,28.8,True,1.0,54.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
+2024-01-21,False,23.5,True,1.0,40.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
+2024-01-22,False,24.3,True,1.0,43.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
+2024-01-23,False,19.5,False,0.0,54.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
+2024-01-24,False,20.1,False,0.0,61.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
