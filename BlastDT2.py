@@ -116,7 +116,7 @@ class nian:
 import argparse
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--RH_THRESHOLD", type=float, default=80, help="Set the lower bound of relative humidity for rice blast disease")
+    parser.add_argument("--RH_THRESHOLD", type=float, default=77, help="Set the lower bound of relative humidity for rice blast disease")
     parser.add_argument("--T_THRESHOLD_UPPER", type=float, default=30.7, help="Set the upper bound of temperature for rice blast disease")
     parser.add_argument("--T_THRESHOLD_LOWER", type=float, default=20.7, help="Set the lower bound of temperature for rice blast disease")
     parser.add_argument("--WINDOWS_LENGTH", type=int, default=3, help="Rolling windows length")
