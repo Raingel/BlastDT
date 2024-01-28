@@ -160,7 +160,7 @@ if __name__ == "__main__":
                 continue
             os.makedirs("{}/{}".format(OUTPUT_DIR,sta_no), exist_ok=True)
             df_p['Date'] = df_p['Unnamed: 0']
-            df_p = df_p[['Date', 'BLASTDT2', 'TxMaxAbs', 'TxMaxAbs_condition', 'TxMaxAbs_condition_rolling', 'RH',  'RH_condition',  'RH_condition_rolling']]
+            df_p = df_p[['Date', 'BLASTDT2', 'Tx', 'Tx_condition', 'Tx_condition_rolling', 'TxMaxAbs', 'TxMaxAbs_condition', 'TxMaxAbs_condition_rolling', 'RH',  'RH_condition',  'RH_condition_rolling']]
             df_p["站號"] = sta_no
             df_p["站名"] = sta_name
             df_p["lat"] = row["緯度"]
