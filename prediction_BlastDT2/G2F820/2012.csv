@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2012-02-01,,17.287179487179486,True,,,,,80.82051282051282,True,,G2F820,農業試驗所,24.031261,120.688133
 2012-02-02,,17.312820512820515,True,,19.74871794871795,False,,81.17948717948718,True,,G2F820,農業試驗所,24.031261,120.688133
 2012-02-03,,17.33846153846154,True,1.0,19.846153846153847,False,,81.53846153846153,True,1.0,G2F820,農業試驗所,24.031261,120.688133

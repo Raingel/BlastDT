@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2016-12-29,,17.03125,True,,,,,66.4375,False,,72C440,桃園農改,24.950944,121.030583
 2016-12-30,,16.9375,True,,18.975,False,,67.125,False,,72C440,桃園農改,24.950944,121.030583
 2016-12-31,,16.84375,True,1.0,18.7375,False,,67.8125,False,0.0,72C440,桃園農改,24.950944,121.030583

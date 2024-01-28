@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2021-12-29,,15.9,True,,,,,96.0,True,,C0B020,基隆嶼,25.19141,121.78391
 2021-12-30,,14.5,True,,15.8,False,,74.0,False,,C0B020,基隆嶼,25.19141,121.78391
 2021-12-31,,14.6,True,1.0,15.3,False,,77.0,True,0.0,C0B020,基隆嶼,25.19141,121.78391

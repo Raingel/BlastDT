@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2023-12-29,,22.0,True,,,,,88.0,True,,C0SA30,都歷,23.020333,121.323642
 2023-12-30,,21.8,True,,25.8,True,,95.0,True,,C0SA30,都歷,23.020333,121.323642
 2023-12-31,,21.7,True,1.0,24.1,True,,90.0,True,1.0,C0SA30,都歷,23.020333,121.323642

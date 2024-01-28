@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2022-12-29,,-0.6,True,,,,,100.0,True,,C0F0E0,南湖圈谷,24.363714,121.444667
 2022-12-30,,-0.7,True,,0.5,False,,88.0,True,,C0F0E0,南湖圈谷,24.363714,121.444667
 2022-12-31,,0.5,True,1.0,4.8,False,,77.0,True,1.0,C0F0E0,南湖圈谷,24.363714,121.444667

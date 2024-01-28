@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2020-12-29,,24.0,True,,,,,74.0,False,,72Q010,高雄農改,22.709333,120.525889
 2020-12-30,,17.8,True,,20.8,True,,74.0,False,,72Q010,高雄農改,22.709333,120.525889
 2020-12-31,,13.6,True,1.0,16.5,False,,64.0,False,0.0,72Q010,高雄農改,22.709333,120.525889

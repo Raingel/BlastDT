@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2022-12-29,,17.9,True,,,,,81.0,True,,C0G800,埔鹽,24.000394,120.431683
 2022-12-30,,17.5,True,,20.0,False,,82.0,True,,C0G800,埔鹽,24.000394,120.431683
 2022-12-31,,18.1,True,1.0,21.7,True,,79.0,True,1.0,C0G800,埔鹽,24.000394,120.431683

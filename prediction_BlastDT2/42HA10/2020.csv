@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2019-12-29,,15.0,True,,,,,99.0,True,,42HA10,萬大發電廠,23.978875,121.139639
 2019-12-30,,15.2,True,,17.4,False,,99.0,True,,42HA10,萬大發電廠,23.978875,121.139639
 2019-12-31,,16.3,True,1.0,20.1,False,,97.0,True,1.0,42HA10,萬大發電廠,23.978875,121.139639

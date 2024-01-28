@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2020-12-29,,17.7,True,,,,,90.0,True,,C0Z320,清水林道,23.27125,121.188272
 2020-12-30,,11.1,True,,16.4,False,,95.0,True,,C0Z320,清水林道,23.27125,121.188272
 2020-12-31,,6.2,True,1.0,7.6,False,,93.0,True,1.0,C0Z320,清水林道,23.27125,121.188272

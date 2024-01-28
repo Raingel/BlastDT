@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2017-12-29,,19.1,True,,,,,91.0,True,,C0AC60,三峽,24.939025,121.369728
 2017-12-30,,17.9,True,,21.2,True,,94.0,True,,C0AC60,三峽,24.939025,121.369728
 2017-12-31,,15.2,True,1.0,17.1,False,,92.0,True,1.0,C0AC60,三峽,24.939025,121.369728

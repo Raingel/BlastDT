@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2020-12-29,,16.4,True,,,,,99.0,True,,C0AH30,五分山,25.07125,121.780794
 2020-12-30,,4.9,True,,15.4,False,,99.0,True,,C0AH30,五分山,25.07125,121.780794
 2020-12-31,,2.2,True,1.0,4.3,False,,99.0,True,1.0,C0AH30,五分山,25.07125,121.780794

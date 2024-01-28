@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2021-12-29,,18.0,True,,,,,82.0,True,,C0K400,斗六,23.720583,120.541127
 2021-12-30,,16.8,True,,22.3,True,,79.0,True,,C0K400,斗六,23.720583,120.541127
 2021-12-31,,15.8,True,1.0,21.3,True,,72.0,False,0.0,C0K400,斗六,23.720583,120.541127

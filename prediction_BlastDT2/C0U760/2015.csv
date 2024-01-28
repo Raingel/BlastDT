@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2014-12-29,,15.3,True,,,,,,,,C0U760,東澳,24.52196,121.83318
 2014-12-30,,14.9,True,,22.4,True,,,,,C0U760,東澳,24.52196,121.83318
 2014-12-31,,16.3,True,1.0,24.4,True,,,,,C0U760,東澳,24.52196,121.83318

@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2019-12-29,,6.747305389221557,True,,,,,80.60714285714286,True,,C0F0E0,南湖圈谷,24.363714,121.444667
 2019-12-30,,6.757085828343314,True,,10.583266932270917,False,,80.65079365079364,True,,C0F0E0,南湖圈谷,24.363714,121.444667
 2019-12-31,,6.766866267465071,True,1.0,10.601792828685259,False,,80.69444444444444,True,1.0,C0F0E0,南湖圈谷,24.363714,121.444667

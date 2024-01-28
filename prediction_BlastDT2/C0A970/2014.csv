@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2013-12-29,,12.1,True,,,,,,,,C0A970,三貂角,25.007606,122.002058
 2013-12-30,,14.5,True,,16.1,False,,,,,C0A970,三貂角,25.007606,122.002058
 2013-12-31,,16.6,True,1.0,19.2,False,,,,,C0A970,三貂角,25.007606,122.002058

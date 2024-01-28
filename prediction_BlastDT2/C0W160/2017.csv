@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2016-12-29,,12.2,True,,,,,72.0,False,,C0W160,烏坵,24.9944,119.44956
 2016-12-30,,12.4,True,,13.5,False,,79.0,True,,C0W160,烏坵,24.9944,119.44956
 2016-12-31,,14.5,True,1.0,15.1,False,,80.0,True,0.0,C0W160,烏坵,24.9944,119.44956

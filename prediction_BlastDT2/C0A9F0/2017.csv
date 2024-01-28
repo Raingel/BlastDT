@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2016-12-29,,15.3,True,,,,,67.0,False,,C0A9F0,內湖,25.079422,121.57545
 2016-12-30,,17.5,True,,19.0,False,,67.0,False,,C0A9F0,內湖,25.079422,121.57545
 2016-12-31,,20.1,True,1.0,24.2,True,,76.0,False,0.0,C0A9F0,內湖,25.079422,121.57545

@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2020-12-29,,14.758333333333333,True,,,,,76.99074074074073,False,,C0W110,東莒,25.9652,119.98069
 2020-12-30,,14.666666666666666,True,,14.78440366972477,False,,76.81481481481481,False,,C0W110,東莒,25.9652,119.98069
 2020-12-31,,14.575,True,1.0,14.685321100917431,False,,76.63888888888889,False,0.0,C0W110,東莒,25.9652,119.98069

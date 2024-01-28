@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2019-12-29,,17.7,True,,,,,98.0,True,,C0E780,銅鑼,24.489681,120.790853
 2019-12-30,,18.7,True,,21.3,True,,97.0,True,,C0E780,銅鑼,24.489681,120.790853
 2019-12-31,,15.3,True,1.0,18.7,False,,86.0,True,1.0,C0E780,銅鑼,24.489681,120.790853

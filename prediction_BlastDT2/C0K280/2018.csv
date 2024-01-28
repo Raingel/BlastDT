@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2017-12-29,,19.3,True,,,,,82.0,True,,C0K280,四湖,23.630414,120.227125
 2017-12-30,,19.1,True,,25.8,True,,82.0,True,,C0K280,四湖,23.630414,120.227125
 2017-12-31,,17.4,True,1.0,21.6,True,,72.0,False,0.0,C0K280,四湖,23.630414,120.227125

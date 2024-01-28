@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2018-11-30,,17.9,True,,,,,86.0,True,,E2H360,蓮華池,23.918333,120.885278
 2018-12-01,,18.1,True,,24.5,True,,86.0,True,,E2H360,蓮華池,23.918333,120.885278
 2018-12-02,,17.5,True,1.0,26.3,True,,84.0,True,1.0,E2H360,蓮華池,23.918333,120.885278

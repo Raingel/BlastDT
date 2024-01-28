@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2019-12-29,,19.4,True,,,,,77.28571428571429,True,,C0V650,彌陀,22.783806,120.246361
 2019-12-30,,21.7,True,,26.8,True,,76.71428571428571,False,,C0V650,彌陀,22.783806,120.246361
 2019-12-31,,19.8,True,1.0,22.3,True,,76.14285714285714,False,0.0,C0V650,彌陀,22.783806,120.246361

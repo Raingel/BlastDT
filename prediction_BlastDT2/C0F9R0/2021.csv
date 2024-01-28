@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2020-12-29,,20.1,True,,,,,88.0,True,,C0F9R0,龍井,24.184536,120.528972
 2020-12-30,,13.6,True,,20.1,False,,63.0,False,,C0F9R0,龍井,24.184536,120.528972
 2020-12-31,,9.9,True,1.0,11.5,False,,52.0,False,0.0,C0F9R0,龍井,24.184536,120.528972

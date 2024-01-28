@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2019-12-29,,21.3,True,,,,,92.0,True,,C0V720,林園,22.507747,120.394511
 2019-12-30,,23.0,True,,28.0,True,,82.0,True,,C0V720,林園,22.507747,120.394511
 2019-12-31,,22.4,True,1.0,24.5,True,,83.0,True,1.0,C0V720,林園,22.507747,120.394511

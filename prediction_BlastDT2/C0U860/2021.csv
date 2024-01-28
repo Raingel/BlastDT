@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2020-12-29,,20.9,True,,,,,87.0,True,,C0U860,頭城,24.85323,121.8308
 2020-12-30,,12.6,True,,21.9,True,,68.0,False,,C0U860,頭城,24.85323,121.8308
 2020-12-31,,9.5,True,1.0,11.1,False,,64.0,False,0.0,C0U860,頭城,24.85323,121.8308

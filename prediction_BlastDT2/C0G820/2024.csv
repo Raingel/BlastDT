@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2023-12-29,,,,,,,,,,,C0G820,田尾,23.901669,120.509389
 2023-12-30,,,,,,,,,,,C0G820,田尾,23.901669,120.509389
 2023-12-31,,,,,,,,,,,C0G820,田尾,23.901669,120.509389

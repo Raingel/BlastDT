@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2022-12-29,,15.3,True,,,,,66.0,False,,C0W150,金寧,24.457703,118.328989
 2022-12-30,,14.9,True,,17.8,False,,68.0,False,,C0W150,金寧,24.457703,118.328989
 2022-12-31,,14.9,True,1.0,17.2,False,,62.0,False,0.0,C0W150,金寧,24.457703,118.328989

@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2022-12-29,,16.9,True,,,,,78.0,True,,A2K630,臺大雲林校區,23.730628,120.423903
 2022-12-30,,16.9,True,,21.3,True,,78.0,True,,A2K630,臺大雲林校區,23.730628,120.423903
 2022-12-31,,17.3,True,1.0,23.1,True,,76.0,False,0.0,A2K630,臺大雲林校區,23.730628,120.423903

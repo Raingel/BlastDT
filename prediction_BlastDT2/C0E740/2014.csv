@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2013-12-29,,11.4,True,,,,,80.0,True,,C0E740,造橋,24.637056,120.864778
 2013-12-30,,13.4,True,,17.2,False,,85.0,True,,C0E740,造橋,24.637056,120.864778
 2013-12-31,,14.2,True,1.0,20.5,False,,81.0,True,1.0,C0E740,造橋,24.637056,120.864778

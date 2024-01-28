@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2020-12-29,,11.1,True,,,,,83.0,True,,E2HA20,林試畢祿溪站,24.226944,121.308522
 2020-12-30,,7.6,True,,16.3,False,,75.0,False,,E2HA20,林試畢祿溪站,24.226944,121.308522
 2020-12-31,,5.3,True,1.0,12.5,False,,79.0,True,0.0,E2HA20,林試畢祿溪站,24.226944,121.308522

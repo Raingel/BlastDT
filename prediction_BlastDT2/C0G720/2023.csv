@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2022-12-29,,16.9,True,,,,,79.0,True,,C0G720,溪州,23.851589,120.499093
 2022-12-30,,17.0,True,,21.2,True,,79.0,True,,C0G720,溪州,23.851589,120.499093
 2022-12-31,,17.3,True,1.0,22.4,True,,76.0,False,0.0,C0G720,溪州,23.851589,120.499093

@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2014-12-29,,4.268652037617555,True,,,,,95.6116504854369,True,,U2H480,臺大溪頭,23.670306,120.798194
 2014-12-30,,4.296551724137931,True,,6.227586206896552,False,,95.60194174757281,True,,U2H480,臺大溪頭,23.670306,120.798194
 2014-12-31,,4.324451410658307,True,1.0,6.268025078369906,False,,95.59223300970874,True,1.0,U2H480,臺大溪頭,23.670306,120.798194

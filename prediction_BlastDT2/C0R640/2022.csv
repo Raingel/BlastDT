@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2021-12-29,,21.2,True,,,,,76.0,False,,C0R640,東港,22.46247,120.44074
 2021-12-30,,20.9,True,,24.6,True,,76.0,False,,C0R640,東港,22.46247,120.44074
 2021-12-31,,20.0,True,1.0,24.0,True,,69.0,False,0.0,C0R640,東港,22.46247,120.44074

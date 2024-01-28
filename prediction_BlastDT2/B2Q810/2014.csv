@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2013-12-29,,18.8,True,,,,,66.0,False,,B2Q810,畜試南區分所,21.945583,120.802167
 2013-12-30,,20.3,True,,26.3,True,,68.0,False,,B2Q810,畜試南區分所,21.945583,120.802167
 2013-12-31,,21.0,True,1.0,26.5,True,,70.0,False,0.0,B2Q810,畜試南區分所,21.945583,120.802167

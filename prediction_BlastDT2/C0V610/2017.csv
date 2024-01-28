@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2016-12-29,,17.2,True,,,,,86.0,True,,C0V610,梓官,22.760558,120.267211
 2016-12-30,,18.5,True,,21.6,True,,83.0,True,,C0V610,梓官,22.760558,120.267211
 2016-12-31,,20.2,True,1.0,24.1,True,,91.0,True,1.0,C0V610,梓官,22.760558,120.267211

@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2018-12-29,,14.528571428571428,True,,,,,98.57142857142857,True,,C0AH90,福山植物園,24.760717,121.58135
 2018-12-30,,13.614285714285714,True,,12.0,False,,98.28571428571429,True,,C0AH90,福山植物園,24.760717,121.58135
 2018-12-31,,12.7,True,1.0,14.0,False,,98.0,True,1.0,C0AH90,福山植物園,24.760717,121.58135

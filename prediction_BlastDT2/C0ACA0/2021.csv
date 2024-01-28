@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2020-12-29,,21.1,True,,,,,90.0,True,,C0ACA0,新莊,25.051478,121.446756
 2020-12-30,,11.7,True,,20.5,False,,74.0,False,,C0ACA0,新莊,25.051478,121.446756
 2020-12-31,,9.1,True,1.0,11.1,False,,56.0,False,0.0,C0ACA0,新莊,25.051478,121.446756

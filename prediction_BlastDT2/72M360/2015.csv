@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2014-12-29,,14.8,True,,,,,67.0,False,,72M360,南改義竹分場,23.360694,120.279361
 2014-12-30,,14.7,True,,23.6,True,,72.0,False,,72M360,南改義竹分場,23.360694,120.279361
 2014-12-31,,14.8,True,1.0,23.5,True,,81.0,True,0.0,72M360,南改義竹分場,23.360694,120.279361

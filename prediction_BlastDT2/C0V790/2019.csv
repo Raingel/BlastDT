@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2018-12-29,,17.5,True,,,,,75.0,False,,C0V790,萬山,22.905944,120.688056
 2018-12-30,,17.2,True,,24.9,True,,71.0,False,,C0V790,萬山,22.905944,120.688056
 2018-12-31,,18.8,True,1.0,24.4,True,,73.0,False,0.0,C0V790,萬山,22.905944,120.688056

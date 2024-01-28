@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2011-12-29,,20.7,True,,,,,,,,C0S730,綠島,22.6672,121.47533
 2011-12-30,,18.9,True,,20.6,False,,,,,C0S730,綠島,22.6672,121.47533
 2011-12-31,,18.1,True,1.0,19.2,False,,,,,C0S730,綠島,22.6672,121.47533

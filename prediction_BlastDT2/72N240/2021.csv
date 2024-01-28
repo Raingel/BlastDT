@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2020-12-29,,19.9,True,,,,,89.0,True,,72N240,七股研究中心,23.081672,120.062894
 2020-12-30,,15.3,True,,20.0,False,,71.0,False,,72N240,七股研究中心,23.081672,120.062894
 2020-12-31,,10.7,True,1.0,12.1,False,,62.0,False,0.0,72N240,七股研究中心,23.081672,120.062894

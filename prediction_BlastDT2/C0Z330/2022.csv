@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2021-12-29,,17.0,True,,,,,88.0,True,,C0Z330,安通山,23.290728,121.348528
 2021-12-30,,13.4,True,,16.0,False,,100.0,True,,C0Z330,安通山,23.290728,121.348528
 2021-12-31,,13.1,True,1.0,15.9,False,,98.0,True,1.0,C0Z330,安通山,23.290728,121.348528

@@ -1,4 +1,4 @@
-Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2013-12-29,,24.337606837606835,True,,,,,76.0,False,,72N100,臺南農改,23.0605,120.342194
 2013-12-30,,24.2982905982906,True,,26.7,True,,75.0,False,,72N100,臺南農改,23.0605,120.342194
 2013-12-31,,24.258974358974356,True,1.0,26.662295081967212,True,,76.0,False,0.0,72N100,臺南農改,23.0605,120.342194
