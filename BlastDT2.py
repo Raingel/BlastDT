@@ -104,11 +104,11 @@ class nian:
 
 
         #if TxMaxAbs_nian_rolling, Tx_nian_rolling and RH_nian_rolling are all True, then set "BLASTDT2" to True
-        df['BLASTDT2'] = (df['TxMaxAbs_condition_rolling']==1) & (df['Tx_condition_rolling']==1) & (df['RH_condition_rolling']==1)
+        df['BlastDT2'] = (df['TxMaxAbs_condition_rolling']==1) & (df['Tx_condition_rolling']==1) & (df['RH_condition_rolling']==1)
         #if "TxMaxAbs_condition_rolling" or "Tx_condition_rolling" or "RH_condition_rolling" is NaN, then set "BLASTDT2" to NaN
-        df['BLASTDT2'] = df['BLASTDT2'].where(df['TxMaxAbs_condition_rolling'].notnull(), float("NaN"))
-        df['BLASTDT2'] = df['BLASTDT2'].where(df['Tx_condition_rolling'].notnull(), float("NaN"))
-        df['BLASTDT2'] = df['BLASTDT2'].where(df['RH_condition_rolling'].notnull(), float("NaN"))
+        df['BlastDT2'] = df['BlastDT2'].where(df['TxMaxAbs_condition_rolling'].notnull(), float("NaN"))
+        df['BlastDT2'] = df['BlastDT2'].where(df['Tx_condition_rolling'].notnull(), float("NaN"))
+        df['BlastDT2'] = df['BlastDT2'].where(df['RH_condition_rolling'].notnull(), float("NaN"))
     
 
         return df
@@ -160,7 +160,7 @@ if __name__ == "__main__":
                 continue
             os.makedirs("{}/{}".format(OUTPUT_DIR,sta_no), exist_ok=True)
             df_p['Date'] = df_p['Unnamed: 0']
-            df_p = df_p[['Date', 'BLASTDT2', 'Tx', 'Tx_condition', 'Tx_condition_rolling', 'TxMaxAbs', 'TxMaxAbs_condition', 'TxMaxAbs_condition_rolling', 'RH',  'RH_condition',  'RH_condition_rolling']]
+            df_p = df_p[['Date', 'BlastDT2', 'Tx', 'Tx_condition', 'Tx_condition_rolling', 'TxMaxAbs', 'TxMaxAbs_condition', 'TxMaxAbs_condition_rolling', 'RH',  'RH_condition',  'RH_condition_rolling']]
             df_p["站號"] = sta_no
             df_p["站名"] = sta_name
             df_p["lat"] = row["緯度"]
