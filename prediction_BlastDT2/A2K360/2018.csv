@@ -1,2 +1,2 @@
-Date,BLASTDT2,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,A2K360,水試臺西試驗場,23.717231,120.190522
+Date,BLASTDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
+,,,,,,,,,,,A2K360,水試臺西試驗場,23.717231,120.190522
