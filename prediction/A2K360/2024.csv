@@ -30,3 +30,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-28,False,18.1,False,0.0,75.0,False,0.0,A2K360,水試臺西試驗場,23.717231,120.190522
 2024-01-29,False,21.0,False,0.0,87.0,True,1.0,A2K360,水試臺西試驗場,23.717231,120.190522
 2024-01-30,False,21.0,False,0.0,89.0,True,1.0,A2K360,水試臺西試驗場,23.717231,120.190522
+2024-01-31,True,26.6,True,1.0,88.0,True,1.0,A2K360,水試臺西試驗場,23.717231,120.190522
