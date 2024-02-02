@@ -31,3 +31,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-01-29,False,22.8,False,0.0,86.0,True,1.0,C0S790,金崙,22.538122,120.966875
 2024-01-30,True,25.2,True,1.0,92.0,True,1.0,C0S790,金崙,22.538122,120.966875
 2024-01-31,True,26.6,True,1.0,84.0,True,1.0,C0S790,金崙,22.538122,120.966875
+2024-02-01,True,28.2,True,1.0,82.0,True,1.0,C0S790,金崙,22.538122,120.966875
