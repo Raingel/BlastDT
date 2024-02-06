@@ -35,3 +35,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-02-02,False,25.1,True,1.0,77.0,False,0.0,U2HA40,臺大內茅埔,23.689722,120.851117
 2024-02-03,False,26.6,True,1.0,71.0,False,0.0,U2HA40,臺大內茅埔,23.689722,120.851117
 2024-02-04,False,24.9,True,1.0,78.0,False,0.0,U2HA40,臺大內茅埔,23.689722,120.851117
+2024-02-05,False,22.9,False,0.0,82.0,True,1.0,U2HA40,臺大內茅埔,23.689722,120.851117

@@ -35,3 +35,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-02-02,False,27.2,True,1.0,43.0,False,0.0,C0C680,龜山,25.02846,121.38656
 2024-02-03,False,26.5,True,1.0,43.0,False,0.0,C0C680,龜山,25.02846,121.38656
 2024-02-04,False,23.9,True,1.0,42.0,False,0.0,C0C680,龜山,25.02846,121.38656
+2024-02-05,False,20.8,False,0.0,40.0,False,0.0,C0C680,龜山,25.02846,121.38656
