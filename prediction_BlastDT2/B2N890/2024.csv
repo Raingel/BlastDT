@@ -41,3 +41,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-02-06,True,19.6,True,1.0,26.0,True,1.0,83.0,True,1.0,B2N890,畜試所,23.058972,120.336406
 2024-02-07,True,18.5,True,1.0,23.8,True,1.0,84.0,True,1.0,B2N890,畜試所,23.058972,120.336406
 2024-02-08,True,16.5,True,1.0,22.3,True,1.0,87.0,True,1.0,B2N890,畜試所,23.058972,120.336406
+2024-02-09,False,14.6,True,1.0,18.7,False,0.0,87.0,True,1.0,B2N890,畜試所,23.058972,120.336406
