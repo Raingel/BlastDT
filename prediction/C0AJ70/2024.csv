@@ -40,3 +40,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-02-07,False,15.4,False,0.0,98.0,True,1.0,C0AJ70,田寮,25.2698,121.4886
 2024-02-08,False,13.6,False,0.0,96.0,True,1.0,C0AJ70,田寮,25.2698,121.4886
 2024-02-09,False,13.0,False,0.0,87.0,True,1.0,C0AJ70,田寮,25.2698,121.4886
+2024-02-10,False,15.9,False,0.0,65.0,False,0.0,C0AJ70,田寮,25.2698,121.4886
