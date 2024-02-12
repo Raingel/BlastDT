@@ -40,3 +40,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-02-08,False,20.1,False,0.0,86.0,True,1.0,G2M350,農試溪口農場,23.58565,120.408111
 2024-02-09,False,17.7,False,0.0,84.0,True,1.0,G2M350,農試溪口農場,23.58565,120.408111
 2024-02-10,False,19.4,False,0.0,70.0,False,0.0,G2M350,農試溪口農場,23.58565,120.408111
+2024-02-11,False,24.1,True,1.0,62.0,False,0.0,G2M350,農試溪口農場,23.58565,120.408111

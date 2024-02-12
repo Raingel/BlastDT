@@ -40,3 +40,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-02-08,False,22.3,False,0.0,78.0,False,0.0,C2O950,安南,23.076694,120.144861
 2024-02-09,False,18.5,False,0.0,80.0,True,1.0,C2O950,安南,23.076694,120.144861
 2024-02-10,False,21.2,False,0.0,68.0,False,0.0,C2O950,安南,23.076694,120.144861
+2024-02-11,False,23.6,True,1.0,58.0,False,0.0,C2O950,安南,23.076694,120.144861
