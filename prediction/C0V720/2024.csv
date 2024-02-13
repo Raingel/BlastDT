@@ -42,3 +42,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-02-09,False,23.2,False,0.0,70.0,False,0.0,C0V720,林園,22.507747,120.394511
 2024-02-10,False,21.1,False,0.0,71.0,False,0.0,C0V720,林園,22.507747,120.394511
 2024-02-11,False,23.8,True,1.0,61.0,False,0.0,C0V720,林園,22.507747,120.394511
+2024-02-12,,,,,60.0,False,0.0,C0V720,林園,22.507747,120.394511
