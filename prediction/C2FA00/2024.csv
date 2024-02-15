@@ -32,3 +32,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-02-08,False,17.7,False,0.0,95.0,True,1.0,C2FA00,烏石坑,24.273503,120.947617
 2024-02-10,False,13.5,False,0.0,94.0,True,1.0,C2FA00,烏石坑,24.273503,120.947617
 2024-02-13,False,20.9,False,0.0,61.0,False,0.0,C2FA00,烏石坑,24.273503,120.947617
+2024-02-14,False,23.7,True,1.0,64.0,False,0.0,C2FA00,烏石坑,24.273503,120.947617
