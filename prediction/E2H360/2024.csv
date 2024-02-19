@@ -48,3 +48,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-02-15,True,25.0,True,1.0,82.0,True,1.0,E2H360,蓮華池,23.918333,120.885278
 2024-02-16,False,22.3,False,0.0,88.0,True,1.0,E2H360,蓮華池,23.918333,120.885278
 2024-02-17,False,23.3,False,0.0,86.0,True,1.0,E2H360,蓮華池,23.918333,120.885278
+2024-02-18,True,24.9,True,1.0,84.0,True,1.0,E2H360,蓮華池,23.918333,120.885278
