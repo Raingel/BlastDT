@@ -1,6 +1,4 @@
 Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2011-12-29,,12.4,True,,,,,,,,C0H9A0,神木村,23.532742,120.843667
-2011-12-30,,12.2,True,,,,,,,,C0H9A0,神木村,23.532742,120.843667
 2011-12-31,,10.4,True,1.0,,,,,,,C0H9A0,神木村,23.532742,120.843667
 2012-01-01,,10.1,True,1.0,,,,,,,C0H9A0,神木村,23.532742,120.843667
 2012-01-02,,9.2,True,1.0,,,,,,,C0H9A0,神木村,23.532742,120.843667

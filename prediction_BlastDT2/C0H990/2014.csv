@@ -1,6 +1,4 @@
 Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2013-12-29,,-2.2,True,,,,,,,,C0H990,昆陽,24.121322,121.273642
-2013-12-30,,-1.3,True,,,,,,,,C0H990,昆陽,24.121322,121.273642
 2013-12-31,,-0.6,True,1.0,,,,,,,C0H990,昆陽,24.121322,121.273642
 2014-01-01,,6.2,True,1.0,,,,,,,C0H990,昆陽,24.121322,121.273642
 2014-01-02,,6.8,True,1.0,,,,,,,C0H990,昆陽,24.121322,121.273642
