@@ -119,7 +119,7 @@ if __name__ == "__main__":
     parser.add_argument("--RH_THRESHOLD", type=float, default=77, help="Set the lower bound of relative humidity for rice blast disease")
     parser.add_argument("--T_THRESHOLD_UPPER", type=float, default=30.7, help="Set the upper bound of temperature for rice blast disease")
     parser.add_argument("--T_THRESHOLD_LOWER", type=float, default=20.7, help="Set the lower bound of temperature for rice blast disease")
-    parser.add_argument("--WINDOWS_LENGTH", type=int, default=3, help="Rolling windows length")
+    parser.add_argument("--WINDOWS_LENGTH", type=int, default=1, help="Rolling windows length")
     parser.add_argument("--START_YEAR", type=int, default=2020, help="Start from which year")
     parser.add_argument("--END_YEAR", type=int, default=datetime.now().year, help="End at which year")
     parser.add_argument("--OUTPUT_DIR", type=str, default="prediction_BlastDT2", help="Output directory")
