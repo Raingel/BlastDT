@@ -53,3 +53,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-02-20,True,26.7,True,1.0,88.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
 2024-02-21,True,26.8,True,1.0,90.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
 2024-02-22,True,26.9,True,1.0,91.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
+2024-02-23,False,17.1,False,0.0,100.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
+2024-02-24,False,16.1,False,0.0,100.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
