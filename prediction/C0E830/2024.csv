@@ -77,3 +77,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-15,False,20.1,False,0.0,89.0,True,1.0,C0E830,苑裡,24.439714,120.653053
 2024-03-16,False,22.4,False,0.0,87.0,True,1.0,C0E830,苑裡,24.439714,120.653053
 2024-03-17,True,25.5,True,1.0,83.0,True,1.0,C0E830,苑裡,24.439714,120.653053
+2024-03-18,False,20.1,False,0.0,80.0,True,1.0,C0E830,苑裡,24.439714,120.653053
