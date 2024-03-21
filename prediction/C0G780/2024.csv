@@ -79,3 +79,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-17,True,28.2,True,1.0,82.0,True,1.0,C0G780,秀水,24.03405,120.503869
 2024-03-18,True,24.6,True,1.0,83.0,True,1.0,C0G780,秀水,24.03405,120.503869
 2024-03-19,False,21.0,False,0.0,74.0,False,0.0,C0G780,秀水,24.03405,120.503869
+2024-03-20,False,23.6,True,1.0,47.0,False,0.0,C0G780,秀水,24.03405,120.503869
