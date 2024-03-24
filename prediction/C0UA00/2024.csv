@@ -82,3 +82,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-20,False,19.4,False,0.0,72.0,False,0.0,C0UA00,土場,24.576533,121.495333
 2024-03-21,False,21.8,False,0.0,73.0,False,0.0,C0UA00,土場,24.576533,121.495333
 2024-03-22,False,25.5,True,1.0,75.0,False,0.0,C0UA00,土場,24.576533,121.495333
+2024-03-23,False,30.1,True,1.0,78.0,False,0.0,C0UA00,土場,24.576533,121.495333

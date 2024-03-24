@@ -81,4 +81,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-19,False,17.7,False,0.0,90.0,True,1.0,C0UA20,多加屯,24.368614,121.373189
 2024-03-20,False,16.3,False,0.0,82.0,True,1.0,C0UA20,多加屯,24.368614,121.373189
 2024-03-21,False,13.3,False,0.0,63.0,False,0.0,C0UA20,多加屯,24.368614,121.373189
-2024-03-22,,,,,91.0,True,1.0,C0UA20,多加屯,24.368614,121.373189
+2024-03-22,False,16.1,False,0.0,91.0,True,1.0,C0UA20,多加屯,24.368614,121.373189
+2024-03-23,False,18.9,False,0.0,75.0,False,0.0,C0UA20,多加屯,24.368614,121.373189

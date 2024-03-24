@@ -82,3 +82,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-20,False,19.4,False,0.0,68.0,False,0.0,72S590,東改賓朗果園,22.813889,121.071278
 2024-03-21,False,22.0,False,0.0,73.0,False,0.0,72S590,東改賓朗果園,22.813889,121.071278
 2024-03-22,False,22.6,False,0.0,84.0,True,1.0,72S590,東改賓朗果園,22.813889,121.071278
+2024-03-23,True,26.6,True,1.0,91.0,True,1.0,72S590,東改賓朗果園,22.813889,121.071278

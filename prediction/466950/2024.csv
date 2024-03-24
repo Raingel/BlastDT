@@ -82,3 +82,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-20,False,17.8,False,0.0,49.0,False,0.0,466950,彭佳嶼,25.627975,122.079744
 2024-03-21,False,19.3,False,0.0,53.0,False,0.0,466950,彭佳嶼,25.627975,122.079744
 2024-03-22,False,22.4,False,0.0,78.0,False,0.0,466950,彭佳嶼,25.627975,122.079744
+2024-03-23,True,24.5,True,1.0,87.0,True,1.0,466950,彭佳嶼,25.627975,122.079744
