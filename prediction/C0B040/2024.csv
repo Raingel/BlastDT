@@ -83,3 +83,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-21,False,21.2,False,0.0,60.0,False,0.0,C0B040,大武崙,25.166676,121.706993
 2024-03-22,False,25.5,True,1.0,68.0,False,0.0,C0B040,大武崙,25.166676,121.706993
 2024-03-23,False,26.8,True,1.0,77.0,False,0.0,C0B040,大武崙,25.166676,121.706993
+2024-03-24,True,29.3,True,1.0,83.0,True,1.0,C0B040,大武崙,25.166676,121.706993

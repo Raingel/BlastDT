@@ -83,3 +83,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-21,False,23.0,False,0.0,69.0,False,0.0,72S200,東改班鳩分場,22.829528,121.077694
 2024-03-22,False,23.9,True,1.0,78.0,False,0.0,72S200,東改班鳩分場,22.829528,121.077694
 2024-03-23,True,27.3,True,1.0,88.0,True,1.0,72S200,東改班鳩分場,22.829528,121.077694
+2024-03-24,True,27.2,True,1.0,91.0,True,1.0,72S200,東改班鳩分場,22.829528,121.077694
