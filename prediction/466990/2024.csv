@@ -84,3 +84,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-22,False,24.3,True,1.0,71.0,False,0.0,466990,花蓮,23.975128,121.613275
 2024-03-23,True,26.8,True,1.0,82.0,True,1.0,466990,花蓮,23.975128,121.613275
 2024-03-24,True,27.9,True,1.0,88.0,True,1.0,466990,花蓮,23.975128,121.613275
+2024-03-25,True,27.8,True,1.0,87.0,True,1.0,466990,花蓮,23.975128,121.613275

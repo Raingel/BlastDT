@@ -84,3 +84,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-22,False,30.0,True,1.0,70.0,False,0.0,C0R160,鹽埔,22.739558,120.530778
 2024-03-23,True,32.15,True,1.0,80.0,True,1.0,C0R160,鹽埔,22.739558,120.530778
 2024-03-24,False,34.3,True,1.0,76.0,False,0.0,C0R160,鹽埔,22.739558,120.530778
+2024-03-25,,,,,82.0,True,1.0,C0R160,鹽埔,22.739558,120.530778

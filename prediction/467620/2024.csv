@@ -84,3 +84,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-22,False,22.0,False,0.0,82.0,True,1.0,467620,蘭嶼,22.036969,121.558339
 2024-03-23,True,25.0,True,1.0,94.0,True,1.0,467620,蘭嶼,22.036969,121.558339
 2024-03-24,True,26.9,True,1.0,94.0,True,1.0,467620,蘭嶼,22.036969,121.558339
+2024-03-25,True,27.0,True,1.0,93.0,True,1.0,467620,蘭嶼,22.036969,121.558339

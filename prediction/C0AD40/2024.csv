@@ -84,3 +84,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-22,False,27.0,True,1.0,70.0,False,0.0,C0AD40,土城,24.973208,121.445169
 2024-03-23,False,30.4,True,1.0,75.0,False,0.0,C0AD40,土城,24.973208,121.445169
 2024-03-24,False,31.0,True,1.0,78.0,False,0.0,C0AD40,土城,24.973208,121.445169
+2024-03-25,True,30.9,True,1.0,82.0,True,1.0,C0AD40,土城,24.973208,121.445169

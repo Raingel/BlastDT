@@ -84,3 +84,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-22,False,22.9,False,0.0,68.0,False,0.0,467650,日月潭,23.881325,120.90805
 2024-03-23,False,27.5,True,1.0,70.0,False,0.0,467650,日月潭,23.881325,120.90805
 2024-03-24,False,28.9,True,1.0,79.0,False,0.0,467650,日月潭,23.881325,120.90805
+2024-03-25,True,28.5,True,1.0,81.0,True,1.0,467650,日月潭,23.881325,120.90805
