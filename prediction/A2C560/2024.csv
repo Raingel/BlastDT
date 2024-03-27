@@ -79,3 +79,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-03-23,False,29.7,True,1.0,73.0,False,0.0,A2C560,農工中心,24.985917,121.239833
 2024-03-24,False,30.3,True,1.0,77.0,False,0.0,A2C560,農工中心,24.985917,121.239833
 2024-03-25,True,28.8,True,1.0,80.0,True,1.0,A2C560,農工中心,24.985917,121.239833
+2024-03-26,True,25.1,True,1.0,82.0,True,1.0,A2C560,農工中心,24.985917,121.239833
