@@ -94,3 +94,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-04-01,True,29.7,True,1.0,81.0,True,1.0,C0K480,莿桐,23.761192,120.502372
 2024-04-02,False,31.1,True,1.0,76.0,False,0.0,C0K480,莿桐,23.761192,120.502372
 2024-04-03,False,31.5,True,1.0,70.0,False,0.0,C0K480,莿桐,23.761192,120.502372
+2024-04-04,False,32.6,True,1.0,71.0,False,0.0,C0K480,莿桐,23.761192,120.502372
+2024-04-05,False,28.8,True,1.0,78.0,False,0.0,C0K480,莿桐,23.761192,120.502372
