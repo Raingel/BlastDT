@@ -96,3 +96,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-04-03,False,26.9,True,1.0,32.5,True,1.0,71.0,False,0.0,C0I410,名間,23.837053,120.701447
 2024-04-04,False,26.2,True,1.0,33.0,True,1.0,72.0,False,0.0,C0I410,名間,23.837053,120.701447
 2024-04-05,False,24.3,True,1.0,30.2,True,1.0,74.0,False,0.0,C0I410,名間,23.837053,120.701447
+2024-04-06,True,23.5,True,1.0,28.9,True,1.0,80.0,True,1.0,C0I410,名間,23.837053,120.701447
