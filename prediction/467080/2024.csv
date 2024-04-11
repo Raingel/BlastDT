@@ -100,3 +100,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-04-07,True,25.4,True,1.0,96.0,True,1.0,467080,宜蘭,24.763975,121.756528
 2024-04-08,True,28.0,True,1.0,94.0,True,1.0,467080,宜蘭,24.763975,121.756528
 2024-04-09,False,20.8,False,0.0,91.0,True,1.0,467080,宜蘭,24.763975,121.756528
+2024-04-10,False,22.5,False,0.0,94.0,True,1.0,467080,宜蘭,24.763975,121.756528
