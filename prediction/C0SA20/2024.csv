@@ -103,3 +103,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-04-10,False,20.5,False,0.0,100.0,True,1.0,C0SA20,金崙山,22.567419,120.959667
 2024-04-11,True,23.7,True,1.0,100.0,True,1.0,C0SA20,金崙山,22.567419,120.959667
 2024-04-12,True,23.6,True,1.0,100.0,True,1.0,C0SA20,金崙山,22.567419,120.959667
+2024-04-13,True,24.2,True,1.0,100.0,True,1.0,C0SA20,金崙山,22.567419,120.959667
+2024-04-14,True,29.4,True,1.0,90.0,True,1.0,C0SA20,金崙山,22.567419,120.959667
