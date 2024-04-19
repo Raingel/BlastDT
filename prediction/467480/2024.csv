@@ -108,3 +108,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-04-15,True,32.0,True,1.0,81.0,True,1.0,467480,嘉義,23.495925,120.432906
 2024-04-16,True,31.4,True,1.0,84.0,True,1.0,467480,嘉義,23.495925,120.432906
 2024-04-17,True,33.1,True,1.0,80.0,True,1.0,467480,嘉義,23.495925,120.432906
+2024-04-18,False,32.3,True,1.0,74.0,False,0.0,467480,嘉義,23.495925,120.432906
