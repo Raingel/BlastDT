@@ -109,3 +109,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-04-16,True,20.3,True,1.0,24.7,True,1.0,99.0,True,1.0,C0UA40,西德山,24.560647,121.752608
 2024-04-17,True,20.3,True,1.0,24.9,True,1.0,97.0,True,1.0,C0UA40,西德山,24.560647,121.752608
 2024-04-18,True,16.4,True,1.0,21.0,True,1.0,100.0,True,1.0,C0UA40,西德山,24.560647,121.752608
+2024-04-19,False,16.9,True,1.0,20.6,False,0.0,100.0,True,1.0,C0UA40,西德山,24.560647,121.752608
