@@ -111,3 +111,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-04-18,True,20.1,True,1.0,24.2,True,1.0,89.0,True,1.0,C0AH40,平等,25.129142,121.577086
 2024-04-19,True,21.8,True,1.0,27.1,True,1.0,84.0,True,1.0,C0AH40,平等,25.129142,121.577086
 2024-04-20,True,24.0,True,1.0,28.9,True,1.0,80.0,True,1.0,C0AH40,平等,25.129142,121.577086
+2024-04-21,False,24.8,True,1.0,28.7,True,1.0,73.0,False,0.0,C0AH40,平等,25.129142,121.577086
