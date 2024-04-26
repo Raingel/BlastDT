@@ -115,3 +115,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-04-22,False,32.7,True,1.0,69.0,False,0.0,C0M770,嘉義梅山,23.585398,120.555587
 2024-04-23,False,29.0,True,1.0,77.0,False,0.0,C0M770,嘉義梅山,23.585398,120.555587
 2024-04-24,True,30.4,True,1.0,84.0,True,1.0,C0M770,嘉義梅山,23.585398,120.555587
+2024-04-25,True,28.8,True,1.0,95.0,True,1.0,C0M770,嘉義梅山,23.585398,120.555587
