@@ -113,3 +113,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-04-26,True,26.5,True,1.0,85.0,True,1.0,C2E520,大湖,24.414939,120.870872
 2024-04-27,False,32.0,True,1.0,72.0,False,0.0,C2E520,大湖,24.414939,120.870872
 2024-04-28,False,31.5,True,1.0,79.0,False,0.0,C2E520,大湖,24.414939,120.870872
+2024-04-29,False,32.8,True,1.0,70.0,False,0.0,C2E520,大湖,24.414939,120.870872
