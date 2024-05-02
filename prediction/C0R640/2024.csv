@@ -121,3 +121,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-04-28,False,30.6,True,1.0,78.0,False,0.0,C0R640,東港,22.46247,120.44074
 2024-04-29,True,32.0,True,1.0,81.0,True,1.0,C0R640,東港,22.46247,120.44074
 2024-04-30,True,32.1,True,1.0,80.0,True,1.0,C0R640,東港,22.46247,120.44074
+2024-05-01,False,27.4,True,1.0,71.0,False,0.0,C0R640,東港,22.46247,120.44074
