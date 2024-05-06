@@ -125,3 +125,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-02,False,21.2,False,0.0,96.0,True,1.0,C0A940,金山,25.223628,121.643967
 2024-05-03,False,23.3,False,0.0,89.0,True,1.0,C0A940,金山,25.223628,121.643967
 2024-05-04,True,30.0,True,1.0,93.0,True,1.0,C0A940,金山,25.223628,121.643967
+2024-05-05,True,28.4,True,1.0,93.0,True,1.0,C0A940,金山,25.223628,121.643967

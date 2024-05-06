@@ -125,3 +125,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-02,True,26.7,True,1.0,91.0,True,1.0,C0S920,金峰嘉蘭,22.594789,120.960825
 2024-05-03,True,28.0,True,1.0,89.0,True,1.0,C0S920,金峰嘉蘭,22.594789,120.960825
 2024-05-04,True,31.1,True,1.0,82.0,True,1.0,C0S920,金峰嘉蘭,22.594789,120.960825
+2024-05-05,False,32.6,True,1.0,79.0,False,0.0,C0S920,金峰嘉蘭,22.594789,120.960825
