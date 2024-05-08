@@ -127,3 +127,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-04,True,28.0,True,1.0,84.0,True,1.0,C0G900,線西,24.143358,120.443536
 2024-05-05,True,28.7,True,1.0,88.0,True,1.0,C0G900,線西,24.143358,120.443536
 2024-05-06,True,30.1,True,1.0,82.0,True,1.0,C0G900,線西,24.143358,120.443536
+2024-05-07,False,28.6,True,1.0,78.0,False,0.0,C0G900,線西,24.143358,120.443536
