@@ -123,3 +123,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-06,True,30.1,True,1.0,88.0,True,1.0,E2K600,四湖植物園,23.676986,120.163433
 2024-05-07,True,29.8,True,1.0,84.0,True,1.0,E2K600,四湖植物園,23.676986,120.163433
 2024-05-08,True,30.5,True,1.0,80.0,True,1.0,E2K600,四湖植物園,23.676986,120.163433
+2024-05-09,False,29.3,True,1.0,69.0,False,0.0,E2K600,四湖植物園,23.676986,120.163433
