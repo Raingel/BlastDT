@@ -133,3 +133,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-10,False,31.466666666666665,True,1.0,71.0,False,0.0,C0R220,潮州,22.534361,120.54
 2024-05-11,False,32.13333333333333,True,1.0,70.0,False,0.0,C0R220,潮州,22.534361,120.54
 2024-05-12,False,32.8,True,1.0,72.0,False,0.0,C0R220,潮州,22.534361,120.54
+2024-05-13,,,,,76.0,False,0.0,C0R220,潮州,22.534361,120.54

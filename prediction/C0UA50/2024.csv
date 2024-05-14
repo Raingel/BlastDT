@@ -133,3 +133,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-10,False,23.0,False,0.0,89.0,True,1.0,C0UA50,西帽山,24.555361,121.802628
 2024-05-11,True,27.3,True,1.0,91.0,True,1.0,C0UA50,西帽山,24.555361,121.802628
 2024-05-12,True,33.8,True,1.0,84.0,True,1.0,C0UA50,西帽山,24.555361,121.802628
+2024-05-13,False,19.6,False,0.0,100.0,True,1.0,C0UA50,西帽山,24.555361,121.802628

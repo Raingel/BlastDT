@@ -133,3 +133,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-10,True,24.1,True,1.0,84.0,True,1.0,C0Z320,清水林道,23.27125,121.188272
 2024-05-11,True,28.2,True,1.0,83.0,True,1.0,C0Z320,清水林道,23.27125,121.188272
 2024-05-12,True,31.6,True,1.0,82.0,True,1.0,C0Z320,清水林道,23.27125,121.188272
+2024-05-13,False,23.1,False,0.0,95.0,True,1.0,C0Z320,清水林道,23.27125,121.188272
