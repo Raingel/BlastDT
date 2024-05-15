@@ -134,3 +134,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-11,False,32.3,True,1.0,75.0,False,0.0,C0R550,新埤,22.467947,120.582894
 2024-05-12,False,33.8,True,1.0,74.0,False,0.0,C0R550,新埤,22.467947,120.582894
 2024-05-13,False,32.1,True,1.0,77.0,False,0.0,C0R550,新埤,22.467947,120.582894
+2024-05-14,True,29.3,True,1.0,81.0,True,1.0,C0R550,新埤,22.467947,120.582894
