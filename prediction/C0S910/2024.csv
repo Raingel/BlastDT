@@ -136,3 +136,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-13,True,28.2,True,1.0,91.0,True,1.0,C0S910,蘭嶼燈塔,22.081197,121.503117
 2024-05-14,True,24.1,True,1.0,90.0,True,1.0,C0S910,蘭嶼燈塔,22.081197,121.503117
 2024-05-15,True,26.5,True,1.0,91.0,True,1.0,C0S910,蘭嶼燈塔,22.081197,121.503117
+2024-05-16,False,25.2,True,1.0,70.0,False,0.0,C0S910,蘭嶼燈塔,22.081197,121.503117
