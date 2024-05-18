@@ -137,3 +137,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-14,False,17.0,False,0.0,97.0,True,1.0,C0A870,五指山,25.132153,121.608692
 2024-05-15,False,20.8,False,0.0,74.0,False,0.0,C0A870,五指山,25.132153,121.608692
 2024-05-16,False,18.8,False,0.0,92.0,True,1.0,C0A870,五指山,25.132153,121.608692
+2024-05-17,True,26.4,True,1.0,86.0,True,1.0,C0A870,五指山,25.132153,121.608692
