@@ -138,3 +138,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-15,False,31.7,True,1.0,79.0,False,0.0,C0R160,鹽埔,22.739558,120.530778
 2024-05-16,False,31.2,True,1.0,76.0,False,0.0,C0R160,鹽埔,22.739558,120.530778
 2024-05-17,False,30.7,True,1.0,75.0,False,0.0,C0R160,鹽埔,22.739558,120.530778
+2024-05-18,True,32.4,True,1.0,83.0,True,1.0,C0R160,鹽埔,22.739558,120.530778
