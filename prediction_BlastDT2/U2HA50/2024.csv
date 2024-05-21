@@ -137,3 +137,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-05-17,False,24.9,True,1.0,28.8,True,1.0,70.0,False,0.0,U2HA50,臺大竹山,23.756972,120.681556
 2024-05-18,False,24.9,True,1.0,30.3,True,1.0,68.0,False,0.0,U2HA50,臺大竹山,23.756972,120.681556
 2024-05-19,False,25.3,True,1.0,30.4,True,1.0,73.0,False,0.0,U2HA50,臺大竹山,23.756972,120.681556
+2024-05-20,True,25.5,True,1.0,30.9,True,1.0,80.0,True,1.0,U2HA50,臺大竹山,23.756972,120.681556
