@@ -141,3 +141,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-18,False,26.5,True,1.0,75.0,False,0.0,42HA10,萬大發電廠,23.978875,121.139639
 2024-05-19,False,24.5,True,1.0,77.0,False,0.0,42HA10,萬大發電廠,23.978875,121.139639
 2024-05-20,False,25.8,True,1.0,77.0,False,0.0,42HA10,萬大發電廠,23.978875,121.139639
+2024-05-21,True,26.1,True,1.0,86.0,True,1.0,42HA10,萬大發電廠,23.978875,121.139639
