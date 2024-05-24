@@ -143,3 +143,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-20,False,23.4,False,0.0,100.0,True,1.0,C0U750,龜山島,24.841667,121.953133
 2024-05-21,True,23.5,True,1.0,100.0,True,1.0,C0U750,龜山島,24.841667,121.953133
 2024-05-22,True,26.6,True,1.0,98.0,True,1.0,C0U750,龜山島,24.841667,121.953133
+2024-05-23,False,23.0,False,0.0,100.0,True,1.0,C0U750,龜山島,24.841667,121.953133
