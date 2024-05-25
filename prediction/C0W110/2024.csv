@@ -144,3 +144,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-21,False,21.0,False,0.0,95.0,True,1.0,C0W110,東莒,25.9652,119.98069
 2024-05-22,False,20.9,False,0.0,93.0,True,1.0,C0W110,東莒,25.9652,119.98069
 2024-05-23,False,20.5,False,0.0,95.0,True,1.0,C0W110,東莒,25.9652,119.98069
+2024-05-24,True,25.4,True,1.0,92.0,True,1.0,C0W110,東莒,25.9652,119.98069
