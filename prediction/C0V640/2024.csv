@@ -147,3 +147,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-24,False,31.9,True,1.0,78.0,False,0.0,C0V640,湖內,22.887139,120.2445
 2024-05-25,False,34.0,True,1.0,73.0,False,0.0,C0V640,湖內,22.887139,120.2445
 2024-05-26,True,28.2,True,1.0,88.0,True,1.0,C0V640,湖內,22.887139,120.2445
+2024-05-27,True,31.0,True,1.0,86.0,True,1.0,C0V640,湖內,22.887139,120.2445
