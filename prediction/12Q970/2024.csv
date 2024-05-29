@@ -148,3 +148,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-25,False,33.6,True,1.0,63.0,False,0.0,12Q970,東港工作站,22.479997,120.466058
 2024-05-26,False,33.6,True,1.0,68.0,False,0.0,12Q970,東港工作站,22.479997,120.466058
 2024-05-27,False,31.3,True,1.0,73.0,False,0.0,12Q970,東港工作站,22.479997,120.466058
+2024-05-28,True,27.9,True,1.0,82.0,True,1.0,12Q970,東港工作站,22.479997,120.466058
