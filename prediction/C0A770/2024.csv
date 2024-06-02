@@ -152,3 +152,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-29,False,26.5,True,1.0,70.0,False,0.0,C0A770,科教館,25.096356,121.516507
 2024-05-30,False,34.0,True,1.0,72.0,False,0.0,C0A770,科教館,25.096356,121.516507
 2024-05-31,False,33.9,True,1.0,75.0,False,0.0,C0A770,科教館,25.096356,121.516507
+2024-06-01,True,34.0,True,1.0,81.0,True,1.0,C0A770,科教館,25.096356,121.516507

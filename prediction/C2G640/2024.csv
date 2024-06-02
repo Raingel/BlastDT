@@ -149,3 +149,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-29,True,28.8,True,1.0,80.0,True,1.0,C2G640,鹿港,24.0753,120.430481
 2024-05-30,True,33.2,True,1.0,83.0,True,1.0,C2G640,鹿港,24.0753,120.430481
 2024-05-31,False,34.1,True,1.0,75.0,False,0.0,C2G640,鹿港,24.0753,120.430481
+2024-06-01,True,32.4,True,1.0,86.0,True,1.0,C2G640,鹿港,24.0753,120.430481
