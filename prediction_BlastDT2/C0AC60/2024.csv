@@ -152,3 +152,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-05-29,False,24.0,True,1.0,27.8,True,1.0,65.0,False,0.0,C0AC60,三峽,24.939025,121.369728
 2024-05-30,False,27.8,True,1.0,34.6,True,1.0,72.0,False,0.0,C0AC60,三峽,24.939025,121.369728
 2024-05-31,False,29.1,True,1.0,33.0,True,1.0,76.0,False,0.0,C0AC60,三峽,24.939025,121.369728
+2024-06-01,True,27.3,True,1.0,32.3,True,1.0,90.0,True,1.0,C0AC60,三峽,24.939025,121.369728
