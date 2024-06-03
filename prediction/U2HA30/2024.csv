@@ -152,3 +152,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-30,True,30.6,True,1.0,90.0,True,1.0,U2HA30,臺大和社,23.590856,120.888864
 2024-05-31,True,29.2,True,1.0,89.0,True,1.0,U2HA30,臺大和社,23.590856,120.888864
 2024-06-01,True,29.4,True,1.0,89.0,True,1.0,U2HA30,臺大和社,23.590856,120.888864
+2024-06-02,False,23.2,False,0.0,97.0,True,1.0,U2HA30,臺大和社,23.590856,120.888864

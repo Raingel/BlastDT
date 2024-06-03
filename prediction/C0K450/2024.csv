@@ -153,3 +153,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-30,True,33.1,True,1.0,81.0,True,1.0,C0K450,大埤,23.646074,120.431537
 2024-05-31,False,33.8,True,1.0,74.0,False,0.0,C0K450,大埤,23.646074,120.431537
 2024-06-01,True,33.8,True,1.0,81.0,True,1.0,C0K450,大埤,23.646074,120.431537
+2024-06-02,True,27.8,True,1.0,96.0,True,1.0,C0K450,大埤,23.646074,120.431537
