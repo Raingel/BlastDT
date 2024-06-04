@@ -154,3 +154,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-31,True,30.9,True,1.0,96.0,True,1.0,C0T9H0,加路蘭山,23.682947,121.5274
 2024-06-01,True,28.9,True,1.0,99.0,True,1.0,C0T9H0,加路蘭山,23.682947,121.5274
 2024-06-02,True,23.9,True,1.0,100.0,True,1.0,C0T9H0,加路蘭山,23.682947,121.5274
+2024-06-03,False,20.7,False,0.0,100.0,True,1.0,C0T9H0,加路蘭山,23.682947,121.5274

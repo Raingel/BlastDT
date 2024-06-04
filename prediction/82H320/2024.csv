@@ -154,3 +154,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-05-31,True,28.6,True,1.0,89.0,True,1.0,82H320,茶改中部分場,23.875611,120.913583
 2024-06-01,True,28.3,True,1.0,89.0,True,1.0,82H320,茶改中部分場,23.875611,120.913583
 2024-06-02,False,22.2,False,0.0,98.0,True,1.0,82H320,茶改中部分場,23.875611,120.913583
+2024-06-03,True,23.8,True,1.0,95.0,True,1.0,82H320,茶改中部分場,23.875611,120.913583
