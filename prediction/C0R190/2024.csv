@@ -155,3 +155,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-06-01,False,36.0,True,1.0,75.0,False,0.0,C0R190,赤山,22.592333,120.614306
 2024-06-02,True,30.5,True,1.0,95.0,True,1.0,C0R190,赤山,22.592333,120.614306
 2024-06-03,True,29.5,True,1.0,92.0,True,1.0,C0R190,赤山,22.592333,120.614306
+2024-06-04,True,30.0,True,1.0,90.0,True,1.0,C0R190,赤山,22.592333,120.614306

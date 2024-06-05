@@ -151,3 +151,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-06-01,True,31.8,True,1.0,88.0,True,1.0,V2C250,八德合作社,24.93775,121.266389
 2024-06-02,True,24.9,True,1.0,93.0,True,1.0,V2C250,八德合作社,24.93775,121.266389
 2024-06-03,True,24.1,True,1.0,81.0,True,1.0,V2C250,八德合作社,24.93775,121.266389
+2024-06-04,False,25.5,True,1.0,72.0,False,0.0,V2C250,八德合作社,24.93775,121.266389

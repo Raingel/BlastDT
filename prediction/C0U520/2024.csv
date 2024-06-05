@@ -155,3 +155,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-06-01,True,26.7,True,1.0,100.0,True,1.0,C0U520,雙連埤,24.753033,121.641303
 2024-06-02,True,24.9,True,1.0,100.0,True,1.0,C0U520,雙連埤,24.753033,121.641303
 2024-06-03,False,23.1,False,0.0,100.0,True,1.0,C0U520,雙連埤,24.753033,121.641303
+2024-06-04,False,22.5,False,0.0,99.0,True,1.0,C0U520,雙連埤,24.753033,121.641303
