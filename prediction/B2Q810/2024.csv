@@ -150,3 +150,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-06-02,True,30.8,True,1.0,84.0,True,1.0,B2Q810,畜試南區分所,21.945583,120.802167
 2024-06-03,True,28.2,True,1.0,82.0,True,1.0,B2Q810,畜試南區分所,21.945583,120.802167
 2024-06-04,False,29.2,True,1.0,66.0,False,0.0,B2Q810,畜試南區分所,21.945583,120.802167
+2024-06-05,False,30.4,True,1.0,69.0,False,0.0,B2Q810,畜試南區分所,21.945583,120.802167
