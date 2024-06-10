@@ -143,3 +143,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-06-06,True,30.1,True,1.0,80.0,True,1.0,12Q980,恆春工作站,22.079678,120.714425
 2024-06-07,True,31.0,True,1.0,81.0,True,1.0,12Q980,恆春工作站,22.079678,120.714425
 2024-06-08,False,31.5,True,1.0,78.0,False,0.0,12Q980,恆春工作站,22.079678,120.714425
+2024-06-09,False,31.6,True,1.0,78.0,False,0.0,12Q980,恆春工作站,22.079678,120.714425
