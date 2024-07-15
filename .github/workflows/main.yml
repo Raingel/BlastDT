@@ -22,16 +22,12 @@ jobs:
     - name: exec blast_predict_nian.py
       run: |
         python BLASTDT.py --RH_THRESHOLD 80 --T_THRESHOLD 23.5 --WINDOWS_LENGTH 1 --START_YEAR 2020 
-    - name: Commit files
+    - name: Commit and push results
       continue-on-error: true
       run: |
         git config --global user.email "allenstorm2005@gmail.com"
         git config --global user.name "Raingel(Github Action)"
         git add prediction/
-        git commit -m "`date '+%Y-%m-%d %H:%M:%S'`"
-    - name: Push changes
-      continue-on-error: true
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
