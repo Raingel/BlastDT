@@ -38,8 +38,8 @@ class nian:
                     df = pd.read_csv(RESOURCE)
                 else:
                     df = pd.concat([df, pd.read_csv(RESOURCE)])
-            except:
-                print("Error: Cannot retrieve data from {}".format(RESOURCE))
+            except Exception as e:
+                print("Error: Cannot retrieve data from {}".format(RESOURCE), e)
         #Make sure there is no missing date in the dataframe
         try:
             df['Unnamed: 0'] = pd.to_datetime(df['Unnamed: 0'])
