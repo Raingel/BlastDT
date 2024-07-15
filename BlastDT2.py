@@ -7,7 +7,7 @@ Be aware that the weather data is from the github repo, which might not be the m
 import pandas as pd
 import os
 from datetime import datetime, timedelta
-from git import Repo
+#from git import Repo
 import shutil
 class nian:
     #Some basic parameters
@@ -127,7 +127,7 @@ if __name__ == "__main__":
     #Download weather data
     if os.path.exists("weather_data"):
         shutil.rmtree("weather_data")
-    Repo.clone_from("https://github.com/Raingel/historical_weather.git", "weather_data")
+    #Repo.clone_from("https://github.com/Raingel/historical_weather.git", "weather_data")
     #Set custom parameters HERE
     RH_THRESHOLD = args.RH_THRESHOLD   #Set the lower bound of relative humidity for rice blast disease
     T_THRESHOLD_UPPER = args.T_THRESHOLD_UPPER   #Set the upper bound of temperature for rice blast disease
@@ -168,5 +168,5 @@ if __name__ == "__main__":
             df_p.to_csv("{}/{}/{}.csv".format(OUTPUT_DIR, sta_no,year), index=False)
 
 
-    if os.path.exists("weather_data"):
-        shutil.rmtree("weather_data")
+    #if os.path.exists("weather_data"):
+    #    shutil.rmtree("weather_data")
