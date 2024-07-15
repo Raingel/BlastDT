@@ -31,15 +31,19 @@ class nian:
         if end.month == 12:
             end_year = end.year + 1
 
-        for year in range(start_year, end_year+1):
+        df = pd.DataFrame()  # Initialize df before the loop
+        for year in range(start_year, end_year + 1):
             RESOURCE = f"./weather_data/data/{sta_no}/{sta_no}_{year}_daily.csv"
             try:
-                if year == start_year:
-                    df = pd.read_csv(RESOURCE)
-                else:
-                    df = pd.concat([df, pd.read_csv(RESOURCE)])
+                temp_df = pd.read_csv(RESOURCE)
+                df = pd.concat([df, temp_df]) if not df.empty else temp_df
             except Exception as e:
+                base_dir = os.getcwd()
+                weather_data_dir = os.path.join(base_dir, "weather_data")
+                weather_data_contents = os.listdir(weather_data_dir)
                 print("Error: Cannot retrieve data from {}".format(RESOURCE), e)
+                print("Current base directory:", base_dir)
+                print("Contents of weather_data directory:", weather_data_contents)
         #Make sure there is no missing date in the dataframe
         try:
             df['Unnamed: 0'] = pd.to_datetime(df['Unnamed: 0'])
