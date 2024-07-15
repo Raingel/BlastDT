@@ -21,7 +21,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: exec BlastDT2.py
       run: |
-        python BlastDT2.py --START_YEAR 2012 
+        python BlastDT2.py --START_YEAR 2020 
     - name: Remove weather_data directory
       run: rm -rf weather_data
     - name: Commit and push results
