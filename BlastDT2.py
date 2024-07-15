@@ -129,8 +129,8 @@ if __name__ == "__main__":
     parser.add_argument("--OUTPUT_DIR", type=str, default="prediction_BlastDT2", help="Output directory")
     args, _ = parser.parse_known_args()
     #Download weather data
-    if os.path.exists("weather_data"):
-        shutil.rmtree("weather_data")
+    #if os.path.exists("weather_data"):
+    #    shutil.rmtree("weather_data")
     #Repo.clone_from("https://github.com/Raingel/historical_weather.git", "weather_data")
     #Set custom parameters HERE
     RH_THRESHOLD = args.RH_THRESHOLD   #Set the lower bound of relative humidity for rice blast disease
