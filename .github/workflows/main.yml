@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Clone Weather Data Repository
-      run: git clone https://github.com/Raingel/historical_weather.git weather_data_repo
+      run: git clone https://github.com/Raingel/historical_weather.git weather_data
     - name: Set up Python 3.10
       uses: actions/setup-python@v2
       with:
