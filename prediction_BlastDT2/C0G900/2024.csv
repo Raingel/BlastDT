@@ -205,3 +205,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-07-21,False,30.9,False,0.0,33.2,True,1.0,73.0,False,0.0,C0G900,線西,24.143358,120.443536
 2024-07-22,False,30.6,True,1.0,33.1,True,1.0,76.0,False,0.0,C0G900,線西,24.143358,120.443536
 2024-07-23,False,31.1,False,0.0,34.2,True,1.0,75.0,False,0.0,C0G900,線西,24.143358,120.443536
+2024-07-24,True,28.5,True,1.0,30.0,True,1.0,88.0,True,1.0,C0G900,線西,24.143358,120.443536
