@@ -210,3 +210,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-07-26,True,30.1,True,1.0,89.0,True,1.0,C0R920,塭仔,22.4169,120.5197
 2024-07-27,True,30.5,True,1.0,84.0,True,1.0,C0R920,塭仔,22.4169,120.5197
 2024-07-28,False,34.9,True,1.0,72.0,False,0.0,C0R920,塭仔,22.4169,120.5197
+2024-07-29,True,31.2,True,1.0,88.0,True,1.0,C0R920,塭仔,22.4169,120.5197
