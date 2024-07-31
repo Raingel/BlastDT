@@ -211,3 +211,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-07-27,False,30.3,True,1.0,78.0,False,0.0,C0AJ50,水湳洞,25.123695,121.862238
 2024-07-28,False,31.4,True,1.0,75.0,False,0.0,C0AJ50,水湳洞,25.123695,121.862238
 2024-07-29,True,30.5,True,1.0,81.0,True,1.0,C0AJ50,水湳洞,25.123695,121.862238
+2024-07-30,True,32.1,True,1.0,81.0,True,1.0,C0AJ50,水湳洞,25.123695,121.862238
