@@ -214,3 +214,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-07-30,True,28.8,True,1.0,33.5,True,1.0,81.0,True,1.0,467571,新竹,24.827853,121.014219
 2024-07-31,True,29.2,True,1.0,33.6,True,1.0,82.0,True,1.0,467571,新竹,24.827853,121.014219
 2024-08-01,False,30.5,True,1.0,33.4,True,1.0,75.0,False,0.0,467571,新竹,24.827853,121.014219
+2024-08-02,False,31.2,False,0.0,34.4,True,1.0,67.0,False,0.0,467571,新竹,24.827853,121.014219
