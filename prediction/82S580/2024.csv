@@ -213,3 +213,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-07-31,True,34.8,True,1.0,80.0,True,1.0,82S580,茶改東部分場,22.907694,121.130139
 2024-08-01,True,34.8,True,1.0,81.0,True,1.0,82S580,茶改東部分場,22.907694,121.130139
 2024-08-02,True,35.4,True,1.0,80.0,True,1.0,82S580,茶改東部分場,22.907694,121.130139
+2024-08-03,False,35.3,True,1.0,78.0,False,0.0,82S580,茶改東部分場,22.907694,121.130139
