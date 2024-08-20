@@ -231,3 +231,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-08-16,True,32.2,True,1.0,94.0,True,1.0,C0E870,高鐵苗栗,24.60725,120.826094
 2024-08-17,True,31.1,True,1.0,95.0,True,1.0,C0E870,高鐵苗栗,24.60725,120.826094
 2024-08-18,True,32.7,True,1.0,87.0,True,1.0,C0E870,高鐵苗栗,24.60725,120.826094
+2024-08-19,False,33.6,True,1.0,76.0,False,0.0,C0E870,高鐵苗栗,24.60725,120.826094
