@@ -236,3 +236,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-08-21,True,30.1,True,1.0,34.1,True,1.0,78.0,True,1.0,C0V720,林園,22.507747,120.394511
 2024-08-22,False,31.1,False,0.0,35.0,True,1.0,71.0,False,0.0,C0V720,林園,22.507747,120.394511
 2024-08-23,False,31.3,False,0.0,34.5,True,1.0,74.0,False,0.0,C0V720,林園,22.507747,120.394511
+2024-08-24,,29.9,True,1.0,,,,78.0,True,1.0,C0V720,林園,22.507747,120.394511
