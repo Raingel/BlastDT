@@ -243,3 +243,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-08-28,False,30.5,True,1.0,71.0,False,0.0,C0Z290,赤柯山,23.36893,121.38293
 2024-08-29,True,29.0,True,1.0,91.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
 2024-08-30,True,28.5,True,1.0,92.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
+2024-08-31,True,28.7,True,1.0,91.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
