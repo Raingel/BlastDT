@@ -245,3 +245,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-08-30,True,25.6,True,1.0,96.0,True,1.0,C0UA10,鴛鴦湖,24.590269,121.412228
 2024-08-31,True,28.0,True,1.0,88.0,True,1.0,C0UA10,鴛鴦湖,24.590269,121.412228
 2024-09-01,True,27.2,True,1.0,87.0,True,1.0,C0UA10,鴛鴦湖,24.590269,121.412228
+2024-09-02,False,28.1,True,1.0,77.0,False,0.0,C0UA10,鴛鴦湖,24.590269,121.412228
