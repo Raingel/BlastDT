@@ -246,3 +246,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-08-31,True,33.2,True,1.0,81.0,True,1.0,C0E740,造橋,24.637056,120.864778
 2024-09-01,True,33.8,True,1.0,80.0,True,1.0,C0E740,造橋,24.637056,120.864778
 2024-09-02,True,33.4,True,1.0,81.0,True,1.0,C0E740,造橋,24.637056,120.864778
+2024-09-03,False,34.8,True,1.0,76.0,False,0.0,C0E740,造橋,24.637056,120.864778

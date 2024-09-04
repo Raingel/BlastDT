@@ -246,3 +246,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-08-31,False,35.0,True,1.0,77.0,False,0.0,C0I460,南投,23.911469,120.687331
 2024-09-01,True,34.7,True,1.0,85.0,True,1.0,C0I460,南投,23.911469,120.687331
 2024-09-02,False,35.1,True,1.0,79.0,False,0.0,C0I460,南投,23.911469,120.687331
+2024-09-03,False,35.3,True,1.0,71.0,False,0.0,C0I460,南投,23.911469,120.687331
