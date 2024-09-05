@@ -247,3 +247,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-09-01,True,33.3,True,1.0,83.0,True,1.0,C0D670,海天一線,24.831986,120.914438
 2024-09-02,False,33.8,True,1.0,74.0,False,0.0,C0D670,海天一線,24.831986,120.914438
 2024-09-03,False,34.0,True,1.0,66.0,False,0.0,C0D670,海天一線,24.831986,120.914438
+2024-09-04,False,37.4,True,1.0,69.0,False,0.0,C0D670,海天一線,24.831986,120.914438
