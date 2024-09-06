@@ -248,3 +248,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-09-02,False,35.0,True,1.0,74.0,False,0.0,C0G720,溪州,23.851589,120.499093
 2024-09-03,False,34.5,True,1.0,75.0,False,0.0,C0G720,溪州,23.851589,120.499093
 2024-09-04,False,34.3,True,1.0,74.0,False,0.0,C0G720,溪州,23.851589,120.499093
+2024-09-05,True,33.4,True,1.0,83.0,True,1.0,C0G720,溪州,23.851589,120.499093
