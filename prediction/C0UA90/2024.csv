@@ -249,3 +249,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-09-03,False,32.4,True,1.0,77.0,False,0.0,C0UA90,石城,24.980444,121.951214
 2024-09-04,True,33.0,True,1.0,83.0,True,1.0,C0UA90,石城,24.980444,121.951214
 2024-09-05,True,33.3,True,1.0,83.0,True,1.0,C0UA90,石城,24.980444,121.951214
+2024-09-06,True,33.3,True,1.0,82.0,True,1.0,C0UA90,石城,24.980444,121.951214
