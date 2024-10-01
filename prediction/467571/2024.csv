@@ -273,3 +273,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-09-27,True,30.3,True,1.0,84.0,True,1.0,467571,新竹,24.827853,121.014219
 2024-09-28,True,30.8,True,1.0,81.0,True,1.0,467571,新竹,24.827853,121.014219
 2024-09-29,False,32.6,True,1.0,71.0,False,0.0,467571,新竹,24.827853,121.014219
+2024-09-30,False,32.1,True,1.0,67.0,False,0.0,467571,新竹,24.827853,121.014219
