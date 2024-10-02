@@ -273,3 +273,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-09-28,True,26.1,True,1.0,97.0,True,1.0,82A750,茶改北部分場,24.955778,121.631222
 2024-09-29,True,26.9,True,1.0,92.0,True,1.0,82A750,茶改北部分場,24.955778,121.631222
 2024-09-30,True,25.9,True,1.0,93.0,True,1.0,82A750,茶改北部分場,24.955778,121.631222
+2024-10-01,False,28.5,True,1.0,79.0,False,0.0,82A750,茶改北部分場,24.955778,121.631222

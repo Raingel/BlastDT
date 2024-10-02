@@ -274,3 +274,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-09-28,True,31.0,True,1.0,81.0,True,1.0,C0ACA0,新莊,25.051478,121.446756
 2024-09-29,True,32.2,True,1.0,83.0,True,1.0,C0ACA0,新莊,25.051478,121.446756
 2024-09-30,True,31.1,True,1.0,81.0,True,1.0,C0ACA0,新莊,25.051478,121.446756
+2024-10-01,False,33.0,True,1.0,67.0,False,0.0,C0ACA0,新莊,25.051478,121.446756

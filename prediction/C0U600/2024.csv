@@ -274,3 +274,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-09-28,True,31.5,True,1.0,86.0,True,1.0,C0U600,礁溪,24.817539,121.765608
 2024-09-29,True,29.7,True,1.0,93.0,True,1.0,C0U600,礁溪,24.817539,121.765608
 2024-09-30,True,28.6,True,1.0,91.0,True,1.0,C0U600,礁溪,24.817539,121.765608
+2024-10-01,False,29.6,True,1.0,78.0,False,0.0,C0U600,礁溪,24.817539,121.765608
