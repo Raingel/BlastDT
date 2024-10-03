@@ -274,3 +274,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-09-29,False,42.9,True,1.0,63.0,False,0.0,E2P980,林試六龜中心,22.991703,120.645722
 2024-09-30,True,27.7,True,1.0,84.0,True,1.0,E2P980,林試六龜中心,22.991703,120.645722
 2024-10-01,False,28.7,True,1.0,32.0,False,0.0,E2P980,林試六龜中心,22.991703,120.645722
+2024-10-02,,,,,0.0,False,0.0,E2P980,林試六龜中心,22.991703,120.645722
