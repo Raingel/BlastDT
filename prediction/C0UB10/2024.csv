@@ -276,3 +276,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-09-30,True,29.4,True,1.0,84.0,True,1.0,C0UB10,蘇澳,24.5969,121.8571
 2024-10-01,False,31.1,True,1.0,69.0,False,0.0,C0UB10,蘇澳,24.5969,121.8571
 2024-10-02,False,32.1,True,1.0,75.0,False,0.0,C0UB10,蘇澳,24.5969,121.8571
+2024-10-03,True,26.1,True,1.0,91.0,True,1.0,C0UB10,蘇澳,24.5969,121.8571
