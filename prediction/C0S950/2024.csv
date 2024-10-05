@@ -277,3 +277,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-10-01,False,22.7,False,0.0,100.0,True,1.0,C0S950,七塊厝,22.954453,121.229922
 2024-10-02,True,23.6,True,1.0,98.0,True,1.0,C0S950,七塊厝,22.954453,121.229922
 2024-10-03,False,23.4,False,0.0,99.0,True,1.0,C0S950,七塊厝,22.954453,121.229922
+2024-10-04,True,25.8,True,1.0,98.0,True,1.0,C0S950,七塊厝,22.954453,121.229922
