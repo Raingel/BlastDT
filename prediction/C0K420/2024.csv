@@ -284,3 +284,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-10-08,True,30.9,True,1.0,82.0,True,1.0,C0K420,西螺,23.800407,120.467394
 2024-10-09,False,31.0,True,1.0,78.0,False,0.0,C0K420,西螺,23.800407,120.467394
 2024-10-10,False,29.2,True,1.0,76.0,False,0.0,C0K420,西螺,23.800407,120.467394
+2024-10-11,False,30.6,True,1.0,75.0,False,0.0,C0K420,西螺,23.800407,120.467394
