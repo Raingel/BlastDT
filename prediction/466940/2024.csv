@@ -286,3 +286,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-10-10,False,24.8,True,1.0,67.0,False,0.0,466940,基隆,25.133314,121.740475
 2024-10-11,False,25.6,True,1.0,67.0,False,0.0,466940,基隆,25.133314,121.740475
 2024-10-12,True,26.8,True,1.0,83.0,True,1.0,466940,基隆,25.133314,121.740475
+2024-10-13,False,29.3,True,1.0,78.0,False,0.0,466940,基隆,25.133314,121.740475
