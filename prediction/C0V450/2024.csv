@@ -291,3 +291,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-10-15,True,31.8,True,1.0,81.0,True,1.0,C0V450,鳳森,22.545064,120.392592
 2024-10-16,False,31.9,True,1.0,79.0,False,0.0,C0V450,鳳森,22.545064,120.392592
 2024-10-17,True,32.3,True,1.0,82.0,True,1.0,C0V450,鳳森,22.545064,120.392592
+2024-10-18,False,32.3,True,1.0,79.0,False,0.0,C0V450,鳳森,22.545064,120.392592
