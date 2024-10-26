@@ -297,3 +297,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-10-21,False,29.6,True,1.0,78.0,False,0.0,C0C480,桃園,24.992425,121.323172
 2024-10-22,False,29.3,True,1.0,77.0,False,0.0,C0C480,桃園,24.992425,121.323172
 2024-10-23,False,23.2,False,0.0,84.0,True,1.0,C0C480,桃園,24.992425,121.323172
+2024-10-24,False,22.4,False,0.0,92.0,True,1.0,C0C480,桃園,24.992425,121.323172
+2024-10-25,True,30.5,True,1.0,80.0,True,1.0,C0C480,桃園,24.992425,121.323172
