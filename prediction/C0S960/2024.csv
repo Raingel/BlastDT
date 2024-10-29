@@ -299,3 +299,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-10-23,False,30.5,True,1.0,70.0,False,0.0,C0S960,香蘭,22.587569,120.993375
 2024-10-24,True,28.9,True,1.0,81.0,True,1.0,C0S960,香蘭,22.587569,120.993375
 2024-10-25,True,28.2,True,1.0,93.0,True,1.0,C0S960,香蘭,22.587569,120.993375
+2024-10-26,True,33.0,True,1.0,93.0,True,1.0,C0S960,香蘭,22.587569,120.993375
+2024-10-27,True,31.4,True,1.0,90.0,True,1.0,C0S960,香蘭,22.587569,120.993375

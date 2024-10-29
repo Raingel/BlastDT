@@ -300,3 +300,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-10-24,False,26.9,True,1.0,78.0,False,0.0,C0X290,北門,23.267772,120.125481
 2024-10-25,True,28.7,True,1.0,87.0,True,1.0,C0X290,北門,23.267772,120.125481
 2024-10-26,True,28.0,True,1.0,92.0,True,1.0,C0X290,北門,23.267772,120.125481
+2024-10-27,True,29.1,True,1.0,89.0,True,1.0,C0X290,北門,23.267772,120.125481
+2024-10-28,True,27.1,True,1.0,89.0,True,1.0,C0X290,北門,23.267772,120.125481
