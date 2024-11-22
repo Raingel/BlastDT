@@ -298,3 +298,6 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-11-15,True,25.7,True,1.0,93.0,True,1.0,CAG100,王功漁港,23.96824,120.32586
 2024-11-16,True,25.3,True,1.0,90.0,True,1.0,CAG100,王功漁港,23.96824,120.32586
 2024-11-17,True,26.2,True,1.0,83.0,True,1.0,CAG100,王功漁港,23.96824,120.32586
+2024-11-18,False,23.7,True,1.0,78.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
+2024-11-19,False,23.0,False,0.0,79.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
+2024-11-20,True,23.9,True,1.0,83.0,True,1.0,CAG100,王功漁港,23.96824,120.32586
