@@ -325,3 +325,5 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-11-18,True,19.3,True,1.0,21.8,True,1.0,82.0,True,1.0,C0D700,關西,24.7977,121.1732
 2024-11-19,False,19.3,True,1.0,20.2,False,0.0,80.0,True,1.0,C0D700,關西,24.7977,121.1732
 2024-11-20,True,20.5,True,1.0,23.2,True,1.0,83.0,True,1.0,C0D700,關西,24.7977,121.1732
+2024-11-21,False,19.1,True,1.0,20.2,False,0.0,84.0,True,1.0,C0D700,關西,24.7977,121.1732
+2024-11-22,True,19.1,True,1.0,21.7,True,1.0,77.0,True,1.0,C0D700,關西,24.7977,121.1732
