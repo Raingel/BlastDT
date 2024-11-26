@@ -327,3 +327,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-11-20,True,24.0,True,1.0,84.0,True,1.0,C0F9R0,龍井,24.184536,120.528972
 2024-11-21,False,22.7,False,0.0,82.0,True,1.0,C0F9R0,龍井,24.184536,120.528972
 2024-11-22,False,25.0,True,1.0,74.0,False,0.0,C0F9R0,龍井,24.184536,120.528972
+2024-11-23,False,25.2,True,1.0,69.0,False,0.0,C0F9R0,龍井,24.184536,120.528972
+2024-11-24,False,26.2,True,1.0,74.0,False,0.0,C0F9R0,龍井,24.184536,120.528972
