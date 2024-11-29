@@ -331,3 +331,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-11-24,True,26.7,True,1.0,83.0,True,1.0,C0Z310,清水斷崖,24.218294,121.689142
 2024-11-25,True,28.9,True,1.0,83.0,True,1.0,C0Z310,清水斷崖,24.218294,121.689142
 2024-11-26,True,28.2,True,1.0,80.0,True,1.0,C0Z310,清水斷崖,24.218294,121.689142
+2024-11-27,False,18.8,False,0.0,78.0,False,0.0,C0Z310,清水斷崖,24.218294,121.689142
+2024-11-28,False,20.2,False,0.0,75.0,False,0.0,C0Z310,清水斷崖,24.218294,121.689142
