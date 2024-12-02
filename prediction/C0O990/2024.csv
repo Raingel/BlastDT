@@ -334,3 +334,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-11-27,True,25.6,True,1.0,80.0,True,1.0,C0O990,媽廟,22.99175,120.293525
 2024-11-28,False,24.1,True,1.0,60.0,False,0.0,C0O990,媽廟,22.99175,120.293525
 2024-11-29,False,24.7,True,1.0,57.0,False,0.0,C0O990,媽廟,22.99175,120.293525
+2024-11-30,False,25.3,True,1.0,79.0,False,0.0,C0O990,媽廟,22.99175,120.293525
