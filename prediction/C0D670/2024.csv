@@ -335,3 +335,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-11-28,False,20.9,False,0.0,65.0,False,0.0,C0D670,海天一線,24.831986,120.914438
 2024-11-29,False,20.1,False,0.0,62.0,False,0.0,C0D670,海天一線,24.831986,120.914438
 2024-11-30,False,22.0,False,0.0,71.0,False,0.0,C0D670,海天一線,24.831986,120.914438
+2024-12-01,False,24.4,True,1.0,78.0,False,0.0,C0D670,海天一線,24.831986,120.914438
