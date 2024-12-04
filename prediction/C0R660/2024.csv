@@ -336,3 +336,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-11-29,False,23.3,False,0.0,79.0,False,0.0,C0R660,枋寮,22.367722,120.590647
 2024-11-30,True,23.6,True,1.0,80.0,True,1.0,C0R660,枋寮,22.367722,120.590647
 2024-12-01,False,25.3,True,1.0,77.0,False,0.0,C0R660,枋寮,22.367722,120.590647
+2024-12-02,False,25.6,True,1.0,78.0,False,0.0,C0R660,枋寮,22.367722,120.590647
