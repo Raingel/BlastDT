@@ -337,3 +337,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-11-30,False,25.0,True,1.0,69.0,False,0.0,C0R270,琉球嶼,22.332244,120.362236
 2024-12-01,False,26.6,True,1.0,67.0,False,0.0,C0R270,琉球嶼,22.332244,120.362236
 2024-12-02,False,26.7,True,1.0,74.0,False,0.0,C0R270,琉球嶼,22.332244,120.362236
+2024-12-03,True,27.1,True,1.0,81.0,True,1.0,C0R270,琉球嶼,22.332244,120.362236
