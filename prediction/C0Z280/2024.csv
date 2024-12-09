@@ -341,3 +341,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-12-04,False,23.1,False,0.0,89.0,True,1.0,C0Z280,德武,23.47426,121.41071
 2024-12-05,True,24.2,True,1.0,87.0,True,1.0,C0Z280,德武,23.47426,121.41071
 2024-12-06,False,23.0,False,0.0,89.0,True,1.0,C0Z280,德武,23.47426,121.41071
+2024-12-07,True,27.8,True,1.0,86.0,True,1.0,C0Z280,德武,23.47426,121.41071
