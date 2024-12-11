@@ -342,3 +342,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-12-05,True,25.4,True,1.0,82.0,True,1.0,K2E360,苗栗農改,24.495722,120.829111
 2024-12-06,True,26.7,True,1.0,83.0,True,1.0,K2E360,苗栗農改,24.495722,120.829111
 2024-12-07,False,23.1,False,0.0,83.0,True,1.0,K2E360,苗栗農改,24.495722,120.829111
+2024-12-08,False,19.6,False,0.0,76.0,False,0.0,K2E360,苗栗農改,24.495722,120.829111
+2024-12-09,False,24.1,True,1.0,77.0,False,0.0,K2E360,苗栗農改,24.495722,120.829111
