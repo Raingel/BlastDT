@@ -324,3 +324,5 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2024-12-11,True,21.0,True,1.0,22.7,True,1.0,80.0,True,1.0,CAG100,王功漁港,23.96824,120.32586
 2024-12-12,True,19.4,True,1.0,21.0,True,1.0,77.0,True,1.0,CAG100,王功漁港,23.96824,120.32586
 2024-12-13,False,18.7,True,1.0,20.5,False,0.0,81.0,True,1.0,CAG100,王功漁港,23.96824,120.32586
+2024-12-14,False,15.1,True,1.0,16.8,False,0.0,70.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
+2024-12-15,False,15.2,True,1.0,17.2,False,0.0,68.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
