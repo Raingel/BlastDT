@@ -353,3 +353,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2024-12-16,False,23.5,True,1.0,77.0,False,0.0,C0V350,溪埔,22.738578,120.446797
 2024-12-17,False,26.6,True,1.0,78.0,False,0.0,C0V350,溪埔,22.738578,120.446797
 2024-12-18,False,26.5,True,1.0,73.0,False,0.0,C0V350,溪埔,22.738578,120.446797
+2024-12-19,False,23.0,False,0.0,70.0,False,0.0,C0V350,溪埔,22.738578,120.446797
