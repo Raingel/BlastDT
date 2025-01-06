@@ -1,2 +1,3 @@
 Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,,,,C0AH00,汐止,25.066881,121.658778
+2024-12-31,,15.6,True,1.0,,,,71.0,False,0.0,C0AH00,汐止,25.066881,121.658778
+2025-01-01,False,16.2,True,1.0,17.5,False,0.0,83.0,True,1.0,C0AH00,汐止,25.066881,121.658778

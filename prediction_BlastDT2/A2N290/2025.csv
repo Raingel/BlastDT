@@ -1,2 +1,3 @@
 Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,,,,A2N290,臺南蘭花園區,23.340258,120.379661
+2024-12-31,,18.2,True,1.0,,,,68.0,False,0.0,A2N290,臺南蘭花園區,23.340258,120.379661
+2025-01-01,True,17.3,True,1.0,21.3,True,1.0,77.0,True,1.0,A2N290,臺南蘭花園區,23.340258,120.379661
