@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,C2G640,鹿港,24.0753,120.430481
+2024-12-31,,,,,70.0,False,0.0,C2G640,鹿港,24.0753,120.430481
+2025-01-01,False,19.3,False,0.0,79.0,False,0.0,C2G640,鹿港,24.0753,120.430481

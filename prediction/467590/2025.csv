@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,467590,恆春,22.003897,120.746339
+2024-12-31,,,,,71.0,False,0.0,467590,恆春,22.003897,120.746339
+2025-01-01,False,22.9,False,0.0,69.0,False,0.0,467590,恆春,22.003897,120.746339

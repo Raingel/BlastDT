@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,C0F9Y0,桃山,24.432739,121.303808
+2024-12-31,,,,,63.0,False,0.0,C0F9Y0,桃山,24.432739,121.303808
+2025-01-01,False,9.2,False,0.0,99.0,True,1.0,C0F9Y0,桃山,24.432739,121.303808

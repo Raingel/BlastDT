@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,C0R740,獅子,22.201569,120.70525
+2024-12-31,,,,,68.0,False,0.0,C0R740,獅子,22.201569,120.70525
+2025-01-01,False,22.2,False,0.0,64.0,False,0.0,C0R740,獅子,22.201569,120.70525

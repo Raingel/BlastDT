@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,C0UA00,土場,24.576533,121.495333
+2024-12-31,,,,,82.0,True,1.0,C0UA00,土場,24.576533,121.495333
+2025-01-01,False,15.1,False,0.0,92.0,True,1.0,C0UA00,土場,24.576533,121.495333

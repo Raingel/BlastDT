@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,C0G650,員林,23.946503,120.585597
+2024-12-31,,,,,62.0,False,0.0,C0G650,員林,23.946503,120.585597
+2025-01-01,False,19.5,False,0.0,78.0,False,0.0,C0G650,員林,23.946503,120.585597

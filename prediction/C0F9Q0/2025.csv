@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,C0F9Q0,外埔,24.347817,120.705686
+2024-12-31,,,,,65.0,False,0.0,C0F9Q0,外埔,24.347817,120.705686
+2025-01-01,False,20.0,False,0.0,78.0,False,0.0,C0F9Q0,外埔,24.347817,120.705686

@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,K2F750,種苗繁殖,24.225972,120.800917
+2024-12-31,,,,,73.0,False,0.0,K2F750,種苗繁殖,24.225972,120.800917
+2025-01-01,False,17.4,False,0.0,93.0,True,1.0,K2F750,種苗繁殖,24.225972,120.800917

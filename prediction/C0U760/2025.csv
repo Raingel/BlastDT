@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,C0U760,東澳,24.52196,121.83318
+2024-12-31,,,,,83.0,True,1.0,C0U760,東澳,24.52196,121.83318
+2025-01-01,False,20.0,False,0.0,99.0,True,1.0,C0U760,東澳,24.52196,121.83318
