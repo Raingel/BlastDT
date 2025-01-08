@@ -1,3 +1,8 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2024-12-31,,,,,69.0,False,0.0,C2G840,北斗,23.877586,120.514222
 2025-01-01,False,18.7,False,0.0,83.0,True,1.0,C2G840,北斗,23.877586,120.514222
+2025-01-02,False,19.0,False,0.0,90.0,True,1.0,C2G840,北斗,23.877586,120.514222
+2025-01-03,False,20.9,False,0.0,74.0,False,0.0,C2G840,北斗,23.877586,120.514222
+2025-01-04,False,25.6,True,1.0,78.0,False,0.0,C2G840,北斗,23.877586,120.514222
+2025-01-05,False,21.7,False,0.0,89.0,True,1.0,C2G840,北斗,23.877586,120.514222
+2025-01-06,False,22.1,False,0.0,75.0,False,0.0,C2G840,北斗,23.877586,120.514222

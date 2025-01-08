@@ -1,3 +1,8 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2024-12-31,,,,,68.0,False,0.0,C0K440,二崙,23.772797,120.408944
 2025-01-01,False,18.6,False,0.0,81.0,True,1.0,C0K440,二崙,23.772797,120.408944
+2025-01-02,False,18.6,False,0.0,93.0,True,1.0,C0K440,二崙,23.772797,120.408944
+2025-01-03,False,19.0,False,0.0,76.0,False,0.0,C0K440,二崙,23.772797,120.408944
+2025-01-04,True,23.6,True,1.0,80.0,True,1.0,C0K440,二崙,23.772797,120.408944
+2025-01-05,False,19.9,False,0.0,93.0,True,1.0,C0K440,二崙,23.772797,120.408944
+2025-01-06,False,20.3,False,0.0,75.0,False,0.0,C0K440,二崙,23.772797,120.408944
