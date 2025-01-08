@@ -1,3 +1,8 @@
 Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2024-12-31,,20.3,True,1.0,,,,75.0,False,0.0,C0R520,崁頂,22.514781,120.506914
-2025-01-01,,19.4,True,1.0,,,,80.0,True,1.0,C0R520,崁頂,22.514781,120.506914
+2025-01-01,True,19.4,True,1.0,23.65,True,1.0,80.0,True,1.0,C0R520,崁頂,22.514781,120.506914
+2025-01-02,True,18.8,True,1.0,22.0,True,1.0,91.0,True,1.0,C0R520,崁頂,22.514781,120.506914
+2025-01-03,True,18.5,True,1.0,23.25,True,1.0,90.0,True,1.0,C0R520,崁頂,22.514781,120.506914
+2025-01-04,True,19.2,True,1.0,24.5,True,1.0,79.0,True,1.0,C0R520,崁頂,22.514781,120.506914
+2025-01-05,True,19.6,True,1.0,25.5,True,1.0,77.0,True,1.0,C0R520,崁頂,22.514781,120.506914
+2025-01-06,True,19.1,True,1.0,23.1,True,1.0,79.0,True,1.0,C0R520,崁頂,22.514781,120.506914
