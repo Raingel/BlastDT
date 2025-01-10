@@ -7,3 +7,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-01-05,True,26.3,True,1.0,84.0,True,1.0,C2V260,月眉,22.971003,120.539853
 2025-01-06,True,25.6,True,1.0,83.0,True,1.0,C2V260,月眉,22.971003,120.539853
 2025-01-07,True,24.7,True,1.0,82.0,True,1.0,C2V260,月眉,22.971003,120.539853
+2025-01-08,False,25.2,True,1.0,79.0,False,0.0,C2V260,月眉,22.971003,120.539853
