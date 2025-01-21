@@ -18,3 +18,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-01-16,False,20.5,False,0.0,78.0,False,0.0,C0R270,琉球嶼,22.332244,120.362236
 2025-01-17,False,21.3,False,0.0,71.0,False,0.0,C0R270,琉球嶼,22.332244,120.362236
 2025-01-18,False,21.5,False,0.0,73.0,False,0.0,C0R270,琉球嶼,22.332244,120.362236
+2025-01-19,False,24.2,True,1.0,73.0,False,0.0,C0R270,琉球嶼,22.332244,120.362236

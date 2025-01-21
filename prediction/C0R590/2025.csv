@@ -18,3 +18,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-01-16,False,20.6,False,0.0,78.0,False,0.0,C0R590,里港,22.77919,120.49459
 2025-01-17,False,21.1,False,0.0,80.0,True,1.0,C0R590,里港,22.77919,120.49459
 2025-01-18,False,19.3,False,0.0,79.0,False,0.0,C0R590,里港,22.77919,120.49459
+2025-01-19,False,24.7,True,1.0,79.0,False,0.0,C0R590,里港,22.77919,120.49459
