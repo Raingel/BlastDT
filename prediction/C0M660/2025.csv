@@ -24,3 +24,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-01-22,False,22.9,False,0.0,82.0,True,1.0,C0M660,溪口,23.604131,120.403569
 2025-01-23,False,23.3,False,0.0,81.0,True,1.0,C0M660,溪口,23.604131,120.403569
 2025-01-24,True,23.8,True,1.0,80.0,True,1.0,C0M660,溪口,23.604131,120.403569
+2025-01-25,False,22.8,False,0.0,82.0,True,1.0,C0M660,溪口,23.604131,120.403569
