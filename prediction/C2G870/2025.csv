@@ -30,3 +30,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-01-28,False,16.6,False,0.0,57.0,False,0.0,C2G870,芳苑,23.922303,120.320025
 2025-01-29,False,18.3,False,0.0,65.0,False,0.0,C2G870,芳苑,23.922303,120.320025
 2025-01-30,False,19.0,False,0.0,84.0,True,1.0,C2G870,芳苑,23.922303,120.320025
+2025-01-31,False,18.2,False,0.0,93.0,True,1.0,C2G870,芳苑,23.922303,120.320025

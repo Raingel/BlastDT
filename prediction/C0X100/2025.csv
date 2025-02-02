@@ -30,3 +30,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-01-28,False,19.4,False,0.0,52.0,False,0.0,C0X100,臺南市北區,23.010394,120.194228
 2025-01-29,False,20.9,False,0.0,60.0,False,0.0,C0X100,臺南市北區,23.010394,120.194228
 2025-01-30,False,21.6,False,0.0,74.0,False,0.0,C0X100,臺南市北區,23.010394,120.194228
+2025-01-31,False,22.2,False,0.0,91.0,True,1.0,C0X100,臺南市北區,23.010394,120.194228

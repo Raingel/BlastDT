@@ -30,3 +30,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-01-28,False,18.2,False,0.0,59.0,False,0.0,C2G840,北斗,23.877586,120.514222
 2025-01-29,False,22.8,False,0.0,69.0,False,0.0,C2G840,北斗,23.877586,120.514222
 2025-01-30,False,23.8,True,1.0,78.0,False,0.0,C2G840,北斗,23.877586,120.514222
+2025-01-31,False,19.7,False,0.0,92.0,True,1.0,C2G840,北斗,23.877586,120.514222
