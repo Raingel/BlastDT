@@ -199,7 +199,7 @@
             // 將日期標籤附上距離插秧後的天數，例如 "2020-01-03 (2天)"
             labels.push(`${dtStr} (${diffDaysInt}天)`);
 
-            const tx = parseFloat(row["Tx"]);   // 日高溫
+            const tx = parseFloat(row["TxMaxAbs"]);   // 日高溫
             const rh = parseFloat(row["RH"]);     // 日均濕度
             tempData.push(tx);
             humidityData.push(rh);
