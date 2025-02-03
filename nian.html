@@ -185,11 +185,13 @@
           }
           // 準備圖表資料
           const labels = [];
-          const tempData = [];
+          const highTempData = [];
+          const avgTempData = [];
           const humidityData = [];
-          const tempColors = [];      // 折線圖用顏色
-          const humidityColors = [];  // 柱狀圖用顏色
-
+          const highTempColors = [];
+          const avgTempColors = [];
+          const humidityColors = [];
+          
           const transplantDate = new Date(transplantDateStr);
           filtered.forEach(row => {
             const dtStr = row["日期"];
@@ -198,20 +200,30 @@
             const diffDaysInt = Math.floor(diffDays);
             // 將日期標籤附上距離插秧後的天數，例如 "2020-01-03 (2天)"
             labels.push(`${dtStr} (${diffDaysInt}天)`);
-
-            const tx = parseFloat(row["TxMaxAbs"]);   // 日高溫
-            const rh = parseFloat(row["RH"]);     // 日均濕度
-            tempData.push(tx);
+            
+            // 讀取日高溫（TxMaxAbs）與日均溫（Tx）
+            let highTemp = parseFloat(row["TxMaxAbs"]);
+            let avgTemp = parseFloat(row["Tx"]);
+            // 若資料小於 -90 (缺失資料)，則設為 null
+            if (highTemp < -90) { highTemp = null; }
+            if (avgTemp < -90) { avgTemp = null; }
+            highTempData.push(highTemp);
+            avgTempData.push(avgTemp);
+            
+            // 讀取日均濕度 (RH)，同理處理缺失值
+            let rh = parseFloat(row["RH"]);
+            if (rh < -90) { rh = null; }
             humidityData.push(rh);
-
-            // 計算該日期與插秧日期之天數差，並依據條件判斷風險：
-            // 1. 日高溫必須介於 20.7°C ~ 30.8°C
-            // 2. 濕度要求依據距離插秧天數：
-            //    - diffDays < 40：需 ≥ 77%
-            //    - diffDays 介於 40~50：需 ≥ 74%
-            //    - diffDays > 50：需 ≥ 67%
+            
+            // 計算風險條件
+            // 溫度條件：日高溫 ≥ 20.7 且 日均溫 < 30.8 (若任一溫度資料缺失則視為不符)
+            let meetsTemp = false;
+            if (highTemp !== null && avgTemp !== null) {
+              meetsTemp = (highTemp >= 20.7 && avgTemp < 30.8);
+            }
+            // 濕度條件：依據距離插秧天數判斷
             let meetsHumidity = false;
-            if (diffDays >= 0) {
+            if (diffDays >= 0 && rh !== null) {
               let threshold;
               if (diffDays < 40) {
                 threshold = 77;
@@ -222,19 +234,20 @@
               }
               meetsHumidity = (rh >= threshold);
             }
-            const meetsTemp = (tx >= 20.7 && tx <= 30.8);
-            // 使用更柔和的顏色：
-            // 風險狀態：橙紅色 (rgba(231, 76, 60, 0.7))
-            // 非風險狀態：淡藍色 (rgba(52, 152, 219, 0.7))
-            if (meetsTemp && meetsHumidity) {
-              tempColors.push("rgba(231, 76, 60, 0.7)");
+            const risk = (meetsTemp && meetsHumidity);
+            
+            // 設定不同資料點的顏色
+            if (risk) {
+              highTempColors.push("rgba(231, 76, 60, 0.9)");
+              avgTempColors.push("rgba(231, 76, 60, 0.9)");
               humidityColors.push("rgba(231, 76, 60, 0.7)");
             } else {
-              tempColors.push("rgba(52, 152, 219, 0.7)");
+              highTempColors.push("rgba(52, 152, 219, 0.7)"); // 藍色
+              avgTempColors.push("rgba(46, 204, 113, 0.7)");  // 綠色
               humidityColors.push("rgba(52, 152, 219, 0.7)");
             }
           });
-
+          
           // 若圖表已存在則先銷毀舊圖表
           if (myChart) {
             myChart.destroy();
@@ -247,15 +260,31 @@
                 {
                   type: 'line',
                   label: '日高溫 (°C)',
-                  data: tempData,
-                  borderColor: tempColors,
-                  backgroundColor: tempColors,
+                  data: highTempData,
+                  borderColor: highTempColors,
+                  backgroundColor: highTempColors,
+                  borderDash: [5, 5], // 虛線
                   yAxisID: 'y-temp',
                   tension: 0.3,
                   fill: false,
                   pointRadius: 5,
-                  pointBackgroundColor: tempColors,
-                  pointBorderColor: tempColors,
+                  pointBackgroundColor: highTempColors,
+                  pointBorderColor: highTempColors,
+                },
+                {
+                  type: 'line',
+                  label: '日均溫 (°C)',
+                  data: avgTempData,
+                  borderColor: avgTempColors,
+                  backgroundColor: avgTempColors,
+                  // 實線，並使用不同的點形以便區分
+                  pointStyle: 'rectRot',
+                  yAxisID: 'y-temp',
+                  tension: 0.3,
+                  fill: false,
+                  pointRadius: 5,
+                  pointBackgroundColor: avgTempColors,
+                  pointBorderColor: avgTempColors,
                 },
                 {
                   type: 'bar',
