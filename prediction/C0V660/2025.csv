@@ -32,3 +32,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-01-30,False,24.3,True,1.0,65.0,False,0.0,C0V660,岡山,22.797078,120.294958
 2025-01-31,False,27.15,True,1.0,78.0,False,0.0,C0V660,岡山,22.797078,120.294958
 2025-02-01,True,30.0,True,1.0,82.0,True,1.0,C0V660,岡山,22.797078,120.294958
+2025-02-02,True,24.6,True,1.0,83.0,True,1.0,C0V660,岡山,22.797078,120.294958
