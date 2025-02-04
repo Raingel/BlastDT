@@ -1,0 +1,7 @@
+Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
+2022-12-26,False,20.7,True,15.9,True,70.0,False,C0V870,文安,22.8025,120.2164
+2022-12-27,False,22.0,True,16.9,True,72.0,False,C0V870,文安,22.8025,120.2164
+2022-12-28,True,23.0,True,18.0,True,74.0,True,C0V870,文安,22.8025,120.2164
+2022-12-29,False,19.5,False,17.8,True,80.0,True,C0V870,文安,22.8025,120.2164
+2022-12-30,True,21.3,True,18.0,True,80.0,True,C0V870,文安,22.8025,120.2164
+2022-12-31,True,22.0,True,18.3,True,79.0,True,C0V870,文安,22.8025,120.2164
