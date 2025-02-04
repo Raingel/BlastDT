@@ -69,6 +69,8 @@ def consolidate_forecasts():
         for date_str, rows in daily_data.items():
             df_out = pd.DataFrame(rows)
             # 排序（例如依站號）
+            # 轉換站號為字串以確保排序一致性
+            df_out["站號"] = df_out["站號"].astype(str)
             df_out.sort_values("站號", inplace=True)
             # 檔名格式：YYYYMMDD_版本名稱.csv  (例如：20241204_BlastDT3.csv)
             file_date = pd.to_datetime(date_str).strftime("%Y%m%d")
