@@ -32,3 +32,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-01-31,True,21.1,True,17.0,True,94.0,True,467480,嘉義,23.495925,120.432906
 2025-02-01,True,27.3,True,20.4,True,89.0,True,467480,嘉義,23.495925,120.432906
 2025-02-02,True,21.9,True,17.5,True,95.0,True,467480,嘉義,23.495925,120.432906
+2025-02-03,False,16.3,False,14.5,True,91.0,True,467480,嘉義,23.495925,120.432906
