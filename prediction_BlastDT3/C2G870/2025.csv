@@ -33,3 +33,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-01,True,21.2,True,17.8,True,91.0,True,C2G870,芳苑,23.922303,120.320025
 2025-02-02,False,18.8,False,16.2,True,90.0,True,C2G870,芳苑,23.922303,120.320025
 2025-02-03,False,15.9,False,14.1,True,84.0,True,C2G870,芳苑,23.922303,120.320025
+2025-02-04,False,16.4,False,13.5,True,64.0,False,C2G870,芳苑,23.922303,120.320025

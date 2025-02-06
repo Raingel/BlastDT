@@ -33,3 +33,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-01,True,23.3,True,19.3,True,89.0,True,467080,宜蘭,24.763975,121.756528
 2025-02-02,False,19.4,False,17.2,True,90.0,True,467080,宜蘭,24.763975,121.756528
 2025-02-03,False,16.7,False,14.7,True,88.0,True,467080,宜蘭,24.763975,121.756528
+2025-02-04,False,16.6,False,12.4,True,72.0,False,467080,宜蘭,24.763975,121.756528

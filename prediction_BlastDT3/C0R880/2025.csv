@@ -33,3 +33,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-01,True,24.4,True,22.0,True,85.0,True,C0R880,後壁湖,21.9457,120.7457
 2025-02-02,True,22.9,True,21.5,True,83.0,True,C0R880,後壁湖,21.9457,120.7457
 2025-02-03,True,24.3,True,20.2,True,79.0,True,C0R880,後壁湖,21.9457,120.7457
+2025-02-04,False,20.0,False,17.7,True,74.0,True,C0R880,後壁湖,21.9457,120.7457

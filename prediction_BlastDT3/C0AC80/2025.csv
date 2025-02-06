@@ -33,3 +33,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-01,True,25.5,True,19.2,True,86.0,True,C0AC80,文山,25.00235,121.575728
 2025-02-02,False,20.65,False,16.3,True,90.0,True,C0AC80,文山,25.00235,121.575728
 2025-02-03,False,15.8,False,13.0,True,91.0,True,C0AC80,文山,25.00235,121.575728
+2025-02-04,False,14.8,False,11.5,True,72.0,False,C0AC80,文山,25.00235,121.575728

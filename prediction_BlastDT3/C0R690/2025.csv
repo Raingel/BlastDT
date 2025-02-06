@@ -33,3 +33,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-01,True,24.4,True,19.9,True,93.0,True,C0R690,墾丁,21.966756,120.810269
 2025-02-02,True,23.3,True,19.5,True,90.0,True,C0R690,墾丁,21.966756,120.810269
 2025-02-03,True,24.3,True,18.2,True,88.0,True,C0R690,墾丁,21.966756,120.810269
+2025-02-04,False,19.1,False,15.3,True,80.0,True,C0R690,墾丁,21.966756,120.810269
