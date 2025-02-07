@@ -34,3 +34,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-02,True,24.5,True,21.0,True,85.0,True,C0R550,新埤,22.467947,120.582894
 2025-02-03,True,22.0,True,18.4,True,81.0,True,C0R550,新埤,22.467947,120.582894
 2025-02-04,False,19.2,False,15.9,True,76.0,True,C0R550,新埤,22.467947,120.582894
+2025-02-05,False,21.0,True,17.1,True,68.0,False,C0R550,新埤,22.467947,120.582894

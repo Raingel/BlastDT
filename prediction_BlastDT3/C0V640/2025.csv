@@ -34,3 +34,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-02,True,22.5,True,18.4,True,84.0,True,C0V640,湖內,22.887139,120.2445
 2025-02-03,False,19.3,False,15.6,True,81.0,True,C0V640,湖內,22.887139,120.2445
 2025-02-04,False,17.2,False,13.7,True,69.0,False,C0V640,湖內,22.887139,120.2445
+2025-02-05,False,20.1,False,15.7,True,64.0,False,C0V640,湖內,22.887139,120.2445
