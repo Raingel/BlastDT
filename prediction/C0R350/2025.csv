@@ -35,3 +35,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-02-02,True,23.7,True,1.0,81.0,True,1.0,C0R350,貓鼻頭,21.921774,120.7358
 2025-02-03,True,25.2,True,1.0,80.0,True,1.0,C0R350,貓鼻頭,21.921774,120.7358
 2025-02-04,False,20.1,False,0.0,72.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358
+2025-02-05,False,18.6,False,0.0,74.0,False,0.0,C0R350,貓鼻頭,21.921774,120.7358

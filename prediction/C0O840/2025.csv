@@ -35,3 +35,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-02-02,True,23.8,True,1.0,83.0,True,1.0,C0O840,王爺宮,23.222064,120.40085
 2025-02-03,False,19.4,False,0.0,83.0,True,1.0,C0O840,王爺宮,23.222064,120.40085
 2025-02-04,False,17.3,False,0.0,75.0,False,0.0,C0O840,王爺宮,23.222064,120.40085
+2025-02-05,False,22.7,False,0.0,67.0,False,0.0,C0O840,王爺宮,23.222064,120.40085
