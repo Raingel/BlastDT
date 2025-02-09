@@ -36,3 +36,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-04,False,19.4,False,14.9,True,72.0,False,C0V690,鼓山,22.623325,120.275575
 2025-02-05,False,20.3,False,16.9,True,70.0,False,C0V690,鼓山,22.623325,120.275575
 2025-02-06,False,22.9,True,18.8,True,69.0,False,C0V690,鼓山,22.623325,120.275575
+2025-02-07,True,22.8,True,17.4,True,78.0,True,C0V690,鼓山,22.623325,120.275575
