@@ -37,3 +37,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-05,False,22.25,True,17.0,True,69.0,False,C0V730,大寮,22.605614,120.395717
 2025-02-06,False,24.0,True,19.1,True,69.0,False,C0V730,大寮,22.605614,120.395717
 2025-02-07,True,23.0,True,17.6,True,79.0,True,C0V730,大寮,22.605614,120.395717
+2025-02-08,False,,False,14.9,True,70.0,False,C0V730,大寮,22.605614,120.395717

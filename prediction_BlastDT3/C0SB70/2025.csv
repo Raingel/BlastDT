@@ -1,0 +1,5 @@
+Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
+2025-02-05,False,16.4,False,,False,,False,C0SB70,小港漁港,23.158558,121.400431
+2025-02-06,False,19.7,False,,False,,False,C0SB70,小港漁港,23.158558,121.400431
+2025-02-07,False,22.3,True,,False,,False,C0SB70,小港漁港,23.158558,121.400431
+2025-02-08,False,15.6,False,,False,,False,C0SB70,小港漁港,23.158558,121.400431

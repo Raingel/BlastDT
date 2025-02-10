@@ -1,0 +1,5 @@
+Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
+2025-02-05,False,16.9,False,,False,,False,C0SB30,新蘭,22.869214,121.223228
+2025-02-06,False,21.4,True,,False,,False,C0SB30,新蘭,22.869214,121.223228
+2025-02-07,False,21.8,True,,False,,False,C0SB30,新蘭,22.869214,121.223228
+2025-02-08,False,16.2,False,,False,,False,C0SB30,新蘭,22.869214,121.223228
