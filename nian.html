@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
+
 <head>
   <meta charset="UTF-8">
   <title>Model analysis: Nian</title>
@@ -7,17 +8,23 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.2/dist/flatly/bootstrap.min.css">
   <!-- 載入 Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-          integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-          crossorigin="anonymous"></script>
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
   <!-- 載入 Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.1/dist/chart.min.js"></script>
   <!-- 載入 jQuery -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <style>
-    body { padding-top: 20px; }
-    .container { max-width: 90vw; }
+    body {
+      padding-top: 20px;
+    }
+
+    .container {
+      max-width: 90vw;
+    }
   </style>
 </head>
+
 <body>
   <!-- 導覽列 -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
@@ -60,6 +67,13 @@
           <input type="date" id="endDate" class="form-control" value="2024-09-13">
         </div>
         <button id="queryBtn" class="btn btn-info mt-2">Query</button>
+        <!-- 新增 checkbox：打勾後忽略「日均溫 < 30.8°C」的條件 -->
+        <div class="form-check mt-2">
+          <input class="form-check-input" type="checkbox" id="ignoreAvgTemp">
+          <label class="form-check-label" for="ignoreAvgTemp">
+            忽略日均溫小於30.8°C的設定
+          </label>
+        </div>
       </div>
     </div>
 
@@ -100,6 +114,48 @@
       return result;
     }
 
+    // Cubic 內插函式 (利用 Catmull-Rom spline)
+    // 對於資料中連續缺失（null）的部分，如果缺失長度在3天以內，就進行內插
+    function fillGapsCubic(data) {
+      let filled = data.slice();
+      let i = 0;
+      while (i < filled.length) {
+        if (filled[i] === null) {
+          let start = i;
+          while (i < filled.length && filled[i] === null) {
+            i++;
+          }
+          let gapLength = i - start;
+          if (gapLength <= 3) {
+            let i1 = start - 1; // 缺失前一個有效值
+            let i2 = i;         // 缺失後第一個有效值
+            // 若兩側資料存在且有效，則進行內插
+            if (i1 < 0 || i2 >= filled.length || filled[i1] === null || filled[i2] === null) {
+              continue;
+            }
+            let P1 = filled[i1];
+            let P2 = filled[i2];
+            // 若前一個前的點不存在，就用 P1 代替；同理，若後一個後的點不存在，就用 P2 代替
+            let P0 = (i1 - 1 >= 0 && filled[i1 - 1] !== null) ? filled[i1 - 1] : P1;
+            let P3 = (i2 + 1 < filled.length && filled[i2 + 1] !== null) ? filled[i2 + 1] : P2;
+            for (let j = 0; j < gapLength; j++) {
+              let t = (j + 1) / (gapLength + 1);
+              let interpolated = 0.5 * (
+                2 * P1 +
+                (P2 - P0) * t +
+                (2 * P0 - 5 * P1 + 4 * P2 - P3) * t * t +
+                (-P0 + 3 * P1 - 3 * P2 + P3) * t * t * t
+              );
+              filled[start + j] = interpolated;
+            }
+          }
+        } else {
+          i++;
+        }
+      }
+      return filled;
+    }
+
     // 讀取氣象站列表並填入縣市與氣象站下拉選單，
     // 同時設定預設縣市為「彰化縣」下的站號 C0G910 (花壇)
     function loadStationList() {
@@ -107,7 +163,7 @@
       $.ajax({
         url: url,
         dataType: "text",
-        success: function(data) {
+        success: function (data) {
           stationData = parseCSV(data);
           // 過濾資料：利用「新站號」或「站號」，排除站號以 "C1" 開頭或有撤站日期的站
           stationData = stationData.filter(sta => {
@@ -117,7 +173,7 @@
             if (sta["撤站日期"]) return false;
             return true;
           });
-          
+
           // 取得不重複的縣市清單（依據 "城市" 欄位）
           const counties = [...new Set(stationData.map(sta => sta["城市"]))];
           $("#county").empty();
@@ -125,9 +181,9 @@
           counties.forEach(county => {
             $("#county").append(`<option value="${county}">${county}</option>`);
           });
-          
-          // 先綁定 change 事件，當縣市改變時更新氣象站下拉選單
-          $("#county").off("change").on("change", function() {
+
+          // 當縣市改變時更新氣象站下拉選單
+          $("#county").off("change").on("change", function () {
             const selectedCounty = $(this).val();
             const stationsInCounty = stationData.filter(sta => sta["城市"] === selectedCounty);
             $("#station").empty();
@@ -140,11 +196,11 @@
             // 預設若存在站號 "C0G910"，則自動選取
             $("#station").val("C0G910");
           });
-          
+
           // 設定預設縣市為「彰化縣」，並觸發 change 事件更新氣象站下拉選單
           $("#county").val("彰化縣").trigger("change");
         },
-        error: function() {
+        error: function () {
           alert("讀取氣象站列表失敗！");
         }
       });
@@ -172,7 +228,7 @@
       $.ajax({
         url: weatherUrl,
         dataType: "text",
-        success: function(data) {
+        success: function (data) {
           const rows = parseCSV(data);
           // 篩選出日期介於起始與結束日期之間的資料
           const filtered = rows.filter(row => {
@@ -183,48 +239,72 @@
             alert("指定日期區間內無資料！");
             return;
           }
-          // 準備圖表資料
+
+          // 先建立存放原始資料與日期相關資訊的陣列
           const labels = [];
-          const highTempData = [];
-          const avgTempData = [];
-          const humidityData = [];
-          const highTempColors = [];
-          const avgTempColors = [];
-          const humidityColors = [];
-          
+          const diffDaysArr = [];
+          const rawHighTempData = [];
+          const rawAvgTempData = [];
+          const rawHumidityData = [];
+
           const transplantDate = new Date(transplantDateStr);
           filtered.forEach(row => {
             const dtStr = row["日期"];
             const curDate = new Date(dtStr);
             const diffDays = (curDate - transplantDate) / (1000 * 3600 * 24);
             const diffDaysInt = Math.floor(diffDays);
-            // 將日期標籤附上距離插秧後的天數，例如 "2020-01-03 (2天)"
             labels.push(`${dtStr} (${diffDaysInt}天)`);
-            
+            diffDaysArr.push(diffDays);
+
             // 讀取日高溫（TxMaxAbs）與日均溫（Tx）
             let highTemp = parseFloat(row["TxMaxAbs"]);
             let avgTemp = parseFloat(row["Tx"]);
-            // 若資料小於 -90 (缺失資料)，則設為 null
+            // 異常值處理：若資料小於 -90 (缺失資料)，則先設為 null
             if (highTemp < -90) { highTemp = null; }
             if (avgTemp < -90) { avgTemp = null; }
-            highTempData.push(highTemp);
-            avgTempData.push(avgTemp);
-            
-            // 讀取日均濕度 (RH)，同理處理缺失值
+            rawHighTempData.push(highTemp);
+            rawAvgTempData.push(avgTemp);
+
+            // 讀取日均濕度 (RH)
             let rh = parseFloat(row["RH"]);
             if (rh < -90) { rh = null; }
-            humidityData.push(rh);
-            
-            // 計算風險條件
-            // 溫度條件：日高溫 ≥ 20.7 且 日均溫 < 30.8 (若任一溫度資料缺失則視為不符)
+            rawHumidityData.push(rh);
+          });
+
+          // 對於原始資料的缺失值先進行 cubic 內插
+          const highTempData = fillGapsCubic(rawHighTempData);
+          const avgTempData = fillGapsCubic(rawAvgTempData);
+          const humidityData = fillGapsCubic(rawHumidityData);
+
+          // 進行風險評估前，準備存放顏色資料的陣列
+          const highTempColors = [];
+          const avgTempColors = [];
+          const humidityColors = [];
+
+          // 判斷是否忽略日均溫 < 30.8 的設定（根據 checkbox 狀態）
+          const ignoreAvgTemp = $("#ignoreAvgTemp").is(":checked");
+
+          // 逐日進行風險評估，並輸出除錯資訊至 console
+          for (let i = 0; i < labels.length; i++) {
+            const diffDays = diffDaysArr[i];
+            const highTemp = highTempData[i];
+            const avgTemp = avgTempData[i];
+            const rh = humidityData[i];
             let meetsTemp = false;
-            if (highTemp !== null && avgTemp !== null) {
-              meetsTemp = (highTemp >= 20.7 && avgTemp < 30.8);
+            if (ignoreAvgTemp) {
+              // 只檢查 highTemp，不要求 avgTemp 非 null
+              if (highTemp !== null) {
+                meetsTemp = (highTemp >= 20.7);
+              }
+            } else {
+              if (highTemp !== null && avgTemp !== null) {
+                meetsTemp = (highTemp >= 20.7 && avgTemp < 30.8);
+              }
             }
-            // 濕度條件：依據距離插秧天數判斷
+
             let meetsHumidity = false;
+            let threshold = null;
             if (diffDays >= 0 && rh !== null) {
-              let threshold;
               if (diffDays < 40) {
                 threshold = 77;
               } else if (diffDays <= 50) {
@@ -235,7 +315,7 @@
               meetsHumidity = (rh >= threshold);
             }
             const risk = (meetsTemp && meetsHumidity);
-            
+
             // 設定不同資料點的顏色
             if (risk) {
               highTempColors.push("rgba(231, 76, 60, 0.9)");
@@ -246,8 +326,20 @@
               avgTempColors.push("rgba(46, 204, 113, 0.7)");  // 綠色
               humidityColors.push("rgba(52, 152, 219, 0.7)");
             }
-          });
-          
+
+            // 除錯用 console log，每一天的資料與計算結果
+            console.log(`日期: ${labels[i]}`);
+            console.log(`  日高溫: ${highTemp}, 日均溫: ${avgTemp}, 日均濕度: ${rh}`);
+            console.log(`  距離插秧天數: ${diffDays.toFixed(1)}，忽略日均溫設定: ${ignoreAvgTemp}`);
+            console.log(`  meetsTemp: ${meetsTemp} (${ignoreAvgTemp ? "僅檢查高溫" : "高溫>=20.7且均溫<30.8"})`);
+            if (threshold !== null) {
+              console.log(`  濕度門檻: ${threshold}, meetsHumidity: ${meetsHumidity}`);
+            } else {
+              console.log(`  濕度資料缺失，無濕度判斷`);
+            }
+            console.log(`  最終風險評估: ${risk}`);
+          }
+
           // 若圖表已存在則先銷毀舊圖表
           if (myChart) {
             myChart.destroy();
@@ -277,7 +369,6 @@
                   data: avgTempData,
                   borderColor: avgTempColors,
                   backgroundColor: avgTempColors,
-                  // 實線，並使用不同的點形以便區分
                   pointStyle: 'rectRot',
                   yAxisID: 'y-temp',
                   tension: 0.3,
@@ -320,19 +411,20 @@
             }
           });
         },
-        error: function() {
+        error: function () {
           alert("讀取歷史氣象資料失敗！");
         }
       });
     }
 
     // 當文件載入完畢後初始化
-    $(document).ready(function() {
+    $(document).ready(function () {
       loadStationList();
-      $("#queryBtn").on("click", function() {
+      $("#queryBtn").on("click", function () {
         queryWeatherData();
       });
     });
   </script>
 </body>
+
 </html>
