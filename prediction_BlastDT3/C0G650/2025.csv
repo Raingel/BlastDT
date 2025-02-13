@@ -39,4 +39,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-07,True,22.1,True,17.8,True,74.0,True,C0G650,員林,23.946503,120.585597
 2025-02-08,False,16.2,False,13.4,True,70.0,False,C0G650,員林,23.946503,120.585597
 2025-02-09,False,19.8,False,15.1,True,69.0,False,C0G650,員林,23.946503,120.585597
-2025-02-10,False,,False,17.9,True,69.0,False,C0G650,員林,23.946503,120.585597
+2025-02-10,False,23.05,True,17.9,True,69.0,False,C0G650,員林,23.946503,120.585597
+2025-02-11,True,26.3,True,19.0,True,75.0,True,C0G650,員林,23.946503,120.585597
