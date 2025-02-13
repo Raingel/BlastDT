@@ -41,3 +41,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-02-08,False,17.2,False,0.0,76.0,False,0.0,C0X170,關廟,22.963017,120.327797
 2025-02-09,False,17.6,False,0.0,79.0,False,0.0,C0X170,關廟,22.963017,120.327797
 2025-02-10,False,21.9,False,0.0,78.0,False,0.0,C0X170,關廟,22.963017,120.327797
+2025-02-11,True,24.5,True,1.0,81.0,True,1.0,C0X170,關廟,22.963017,120.327797

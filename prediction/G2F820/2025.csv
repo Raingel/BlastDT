@@ -41,3 +41,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-02-08,False,13.6,False,0.0,71.0,False,0.0,G2F820,農業試驗所,24.031261,120.688133
 2025-02-09,False,17.5,False,0.0,75.0,False,0.0,G2F820,農業試驗所,24.031261,120.688133
 2025-02-10,False,23.5,True,1.0,78.0,False,0.0,G2F820,農業試驗所,24.031261,120.688133
+2025-02-11,True,24.8,True,1.0,84.0,True,1.0,G2F820,農業試驗所,24.031261,120.688133
