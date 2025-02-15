@@ -42,4 +42,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-10,True,23.2,True,15.3,True,79.0,True,B2N890,畜試所,23.058972,120.336406
 2025-02-11,True,24.7,True,16.9,True,84.0,True,B2N890,畜試所,23.058972,120.336406
 2025-02-12,False,18.4,False,17.0,True,99.0,True,B2N890,畜試所,23.058972,120.336406
-2025-02-13,False,,False,,False,,False,B2N890,畜試所,23.058972,120.336406
+2025-02-13,False,17.5,False,16.0,True,99.0,True,B2N890,畜試所,23.058972,120.336406
+2025-02-14,False,,False,,False,,False,B2N890,畜試所,23.058972,120.336406
