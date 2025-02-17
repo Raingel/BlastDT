@@ -45,3 +45,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-02-12,False,18.5,False,0.0,99.0,True,1.0,C0Z250,瑞穗林道,23.49284,121.30688
 2025-02-13,False,16.7,False,0.0,100.0,True,1.0,C0Z250,瑞穗林道,23.49284,121.30688
 2025-02-14,False,16.3,False,0.0,99.0,True,1.0,C0Z250,瑞穗林道,23.49284,121.30688
+2025-02-15,True,24.9,True,1.0,97.0,True,1.0,C0Z250,瑞穗林道,23.49284,121.30688

@@ -45,3 +45,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-02-12,False,19.6,False,0.0,98.0,True,1.0,C2O930,玉井,23.126042,120.46055
 2025-02-13,False,19.5,False,0.0,98.0,True,1.0,C2O930,玉井,23.126042,120.46055
 2025-02-14,False,20.0,False,0.0,96.0,True,1.0,C2O930,玉井,23.126042,120.46055
+2025-02-15,True,28.3,True,1.0,86.0,True,1.0,C2O930,玉井,23.126042,120.46055
