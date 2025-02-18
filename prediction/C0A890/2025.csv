@@ -46,3 +46,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-02-13,False,16.6,False,0.0,91.0,True,1.0,C0A890,雙溪,25.036003,121.864242
 2025-02-14,False,17.8,False,0.0,91.0,True,1.0,C0A890,雙溪,25.036003,121.864242
 2025-02-15,True,25.6,True,1.0,87.0,True,1.0,C0A890,雙溪,25.036003,121.864242
+2025-02-16,False,19.3,False,0.0,86.0,True,1.0,C0A890,雙溪,25.036003,121.864242
