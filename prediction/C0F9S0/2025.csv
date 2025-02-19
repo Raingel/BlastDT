@@ -47,3 +47,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-02-14,False,20.9,False,0.0,82.0,True,1.0,C0F9S0,烏日,24.107058,120.624103
 2025-02-15,True,24.6,True,1.0,83.0,True,1.0,C0F9S0,烏日,24.107058,120.624103
 2025-02-16,False,26.5,True,1.0,78.0,False,0.0,C0F9S0,烏日,24.107058,120.624103
+2025-02-17,False,25.0,True,1.0,62.0,False,0.0,C0F9S0,烏日,24.107058,120.624103
