@@ -51,3 +51,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-19,True,23.2,True,17.4,True,76.0,True,C0F9U0,南屯,24.137006,120.637969
 2025-02-20,True,22.7,True,17.7,True,83.0,True,C0F9U0,南屯,24.137006,120.637969
 2025-02-21,True,21.1,True,16.8,True,78.0,True,C0F9U0,南屯,24.137006,120.637969
+2025-02-22,False,24.2,True,17.9,True,73.0,False,C0F9U0,南屯,24.137006,120.637969
