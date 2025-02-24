@@ -52,3 +52,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-02-19,False,22.7,False,0.0,91.0,True,1.0,C0G620,芬園,24.015678,120.6213
 2025-02-20,False,22.6,False,0.0,93.0,True,1.0,C0G620,芬園,24.015678,120.6213
 2025-02-21,False,20.8,False,0.0,89.0,True,1.0,C0G620,芬園,24.015678,120.6213
+2025-02-22,True,24.1,True,1.0,84.0,True,1.0,C0G620,芬園,24.015678,120.6213
