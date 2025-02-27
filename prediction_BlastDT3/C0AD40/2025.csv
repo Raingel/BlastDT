@@ -53,4 +53,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-21,False,17.7,False,15.5,True,89.0,True,C0AD40,土城,24.973208,121.445169
 2025-02-22,False,18.9,False,16.1,True,84.0,True,C0AD40,土城,24.973208,121.445169
 2025-02-23,False,16.4,False,14.9,True,91.0,True,C0AD40,土城,24.973208,121.445169
-2025-02-24,False,,False,12.9,True,85.0,True,C0AD40,土城,24.973208,121.445169
+2025-02-24,False,19.45,False,12.9,True,85.0,True,C0AD40,土城,24.973208,121.445169
+2025-02-25,True,22.5,True,16.7,True,76.0,True,C0AD40,土城,24.973208,121.445169
