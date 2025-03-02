@@ -57,3 +57,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-25,True,23.3,True,16.9,True,76.0,True,C0F9M0,豐原,24.254322,120.720692
 2025-02-26,True,23.0,True,17.3,True,87.0,True,C0F9M0,豐原,24.254322,120.720692
 2025-02-27,True,23.0,True,18.8,True,80.0,True,C0F9M0,豐原,24.254322,120.720692
+2025-02-28,False,26.7,True,21.5,True,70.0,False,C0F9M0,豐原,24.254322,120.720692
