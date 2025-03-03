@@ -58,4 +58,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-26,True,21.4,True,16.9,True,82.0,True,72S200,東改班鳩分場,22.829528,121.077694
 2025-02-27,True,24.5,True,18.8,True,81.0,True,72S200,東改班鳩分場,22.829528,121.077694
 2025-02-28,True,25.3,True,20.1,True,80.0,True,72S200,東改班鳩分場,22.829528,121.077694
-2025-03-01,False,,False,,False,,False,72S200,東改班鳩分場,22.829528,121.077694
+2025-03-01,True,26.9,True,20.6,True,86.0,True,72S200,東改班鳩分場,22.829528,121.077694
+2025-03-02,False,,False,,False,,False,72S200,東改班鳩分場,22.829528,121.077694
