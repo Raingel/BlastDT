@@ -59,4 +59,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-27,False,11.4,False,11.6,True,88.0,True,C0W110,東莒,25.9652,119.98069
 2025-02-28,False,14.45,False,11.1,True,93.0,True,C0W110,東莒,25.9652,119.98069
 2025-03-01,False,17.5,False,14.0,True,90.0,True,C0W110,東莒,25.9652,119.98069
-2025-03-02,False,,False,17.3,True,91.0,True,C0W110,東莒,25.9652,119.98069
+2025-03-02,True,21.2,True,17.3,True,91.0,True,C0W110,東莒,25.9652,119.98069
+2025-03-03,True,24.9,True,16.4,True,89.0,True,C0W110,東莒,25.9652,119.98069

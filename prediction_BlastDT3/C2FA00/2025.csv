@@ -60,3 +60,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-02-28,True,24.5,True,16.0,True,83.0,True,C2FA00,烏石坑,24.273503,120.947617
 2025-03-01,True,24.3,True,16.8,True,77.0,True,C2FA00,烏石坑,24.273503,120.947617
 2025-03-02,True,26.9,True,18.9,True,77.0,True,C2FA00,烏石坑,24.273503,120.947617
+2025-03-03,False,25.5,True,19.1,True,73.0,False,C2FA00,烏石坑,24.273503,120.947617
