@@ -61,3 +61,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2025-02-28,False,20.2,True,1.0,28.0,True,1.0,73.0,False,0.0,C0AI10,屈尺,24.92184,121.54475
 2025-03-01,False,21.8,True,1.0,29.8,True,1.0,74.0,False,0.0,C0AI10,屈尺,24.92184,121.54475
 2025-03-02,False,23.5,True,1.0,30.8,True,1.0,70.0,False,0.0,C0AI10,屈尺,24.92184,121.54475
+2025-03-03,True,23.4,True,1.0,28.0,True,1.0,79.0,True,1.0,C0AI10,屈尺,24.92184,121.54475
