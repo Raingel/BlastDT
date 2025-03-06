@@ -62,3 +62,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-01,False,21.6,False,0.0,77.0,False,0.0,C0U720,南山,24.43742,121.38167
 2025-03-02,False,23.0,False,0.0,71.0,False,0.0,C0U720,南山,24.43742,121.38167
 2025-03-03,False,25.0,True,1.0,72.0,False,0.0,C0U720,南山,24.43742,121.38167
+2025-03-04,False,21.6,False,0.0,93.0,True,1.0,C0U720,南山,24.43742,121.38167
