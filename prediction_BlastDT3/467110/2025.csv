@@ -62,3 +62,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-02,True,26.1,True,20.4,True,90.0,True,467110,金門,24.407306,118.289281
 2025-03-03,True,25.6,True,19.3,True,95.0,True,467110,金門,24.407306,118.289281
 2025-03-04,True,21.5,True,16.6,True,99.0,True,467110,金門,24.407306,118.289281
+2025-03-05,False,16.8,False,13.2,True,88.0,True,467110,金門,24.407306,118.289281
