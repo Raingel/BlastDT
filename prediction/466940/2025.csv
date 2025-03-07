@@ -63,3 +63,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-02,False,28.1,True,1.0,79.0,False,0.0,466940,基隆,25.133314,121.740475
 2025-03-03,True,25.4,True,1.0,88.0,True,1.0,466940,基隆,25.133314,121.740475
 2025-03-04,False,22.9,False,0.0,91.0,True,1.0,466940,基隆,25.133314,121.740475
+2025-03-05,False,17.5,False,0.0,96.0,True,1.0,466940,基隆,25.133314,121.740475

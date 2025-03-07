@@ -63,3 +63,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-02,True,28.3,True,1.0,86.0,True,1.0,C0E870,高鐵苗栗,24.60725,120.826094
 2025-03-03,True,29.0,True,1.0,96.0,True,1.0,C0E870,高鐵苗栗,24.60725,120.826094
 2025-03-04,True,25.6,True,1.0,98.0,True,1.0,C0E870,高鐵苗栗,24.60725,120.826094
+2025-03-05,False,18.6,False,0.0,99.0,True,1.0,C0E870,高鐵苗栗,24.60725,120.826094

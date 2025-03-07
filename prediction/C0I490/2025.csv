@@ -63,3 +63,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-02,False,25.1,True,1.0,45.0,False,0.0,C0I490,萬大林道,23.928228,121.091411
 2025-03-03,False,26.9,True,1.0,39.0,False,0.0,C0I490,萬大林道,23.928228,121.091411
 2025-03-04,False,24.3,True,1.0,79.0,False,0.0,C0I490,萬大林道,23.928228,121.091411
+2025-03-05,False,17.4,False,0.0,91.0,True,1.0,C0I490,萬大林道,23.928228,121.091411
