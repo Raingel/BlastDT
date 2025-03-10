@@ -66,3 +66,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-05,True,24.1,True,1.0,83.0,True,1.0,C0U770,南澳,24.44935,121.81022
 2025-03-06,False,19.5,False,0.0,78.0,False,0.0,C0U770,南澳,24.44935,121.81022
 2025-03-07,False,17.9,False,0.0,77.0,False,0.0,C0U770,南澳,24.44935,121.81022
+2025-03-08,False,23.0,False,0.0,72.0,False,0.0,C0U770,南澳,24.44935,121.81022
