@@ -66,3 +66,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-06,True,24.67142857142857,True,21.7,True,75.0,True,C0V720,林園,22.507747,120.394511
 2025-03-07,True,24.0,True,20.6,True,75.0,True,C0V720,林園,22.507747,120.394511
 2025-03-08,False,26.3,True,21.6,True,71.0,False,C0V720,林園,22.507747,120.394511
+2025-03-09,False,,False,22.4,True,72.0,False,C0V720,林園,22.507747,120.394511
