@@ -68,3 +68,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-07,False,23.3,False,0.0,80.0,True,1.0,C0V710,苓雅,22.622742,120.330669
 2025-03-08,False,26.9,True,1.0,77.0,False,0.0,C0V710,苓雅,22.622742,120.330669
 2025-03-09,False,27.2,True,1.0,77.0,False,0.0,C0V710,苓雅,22.622742,120.330669
+2025-03-10,True,24.9,True,1.0,80.0,True,1.0,C0V710,苓雅,22.622742,120.330669
