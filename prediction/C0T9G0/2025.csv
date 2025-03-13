@@ -69,3 +69,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-08,False,16.9,False,0.0,97.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
 2025-03-09,False,18.6,False,0.0,98.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
 2025-03-10,True,24.4,True,1.0,94.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131
+2025-03-11,,,,,96.0,True,1.0,C0T9G0,鳳林山,23.735269,121.420131

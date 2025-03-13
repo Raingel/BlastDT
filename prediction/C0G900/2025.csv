@@ -69,3 +69,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-08,False,18.6,False,0.0,78.0,False,0.0,C0G900,線西,24.143358,120.443536
 2025-03-09,False,20.1,False,0.0,80.0,True,1.0,C0G900,線西,24.143358,120.443536
 2025-03-10,False,19.1,False,0.0,90.0,True,1.0,C0G900,線西,24.143358,120.443536
+2025-03-11,True,27.1,True,1.0,88.0,True,1.0,C0G900,線西,24.143358,120.443536
