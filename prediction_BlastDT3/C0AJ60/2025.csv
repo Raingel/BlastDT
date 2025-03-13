@@ -68,5 +68,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-08,False,16.2,False,14.6,True,82.0,True,C0AJ60,六塊厝,25.24,121.4481
 2025-03-09,False,19.8,False,17.5,True,79.0,True,C0AJ60,六塊厝,25.24,121.4481
 2025-03-10,False,20.6,False,17.3,True,93.0,True,C0AJ60,六塊厝,25.24,121.4481
-2025-03-11,False,,False,,False,,False,C0AJ60,六塊厝,25.24,121.4481
+2025-03-11,True,24.5,True,17.5,True,96.0,True,C0AJ60,六塊厝,25.24,121.4481
 2025-03-12,False,,False,,False,,False,C0AJ60,六塊厝,25.24,121.4481
