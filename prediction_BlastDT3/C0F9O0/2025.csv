@@ -69,3 +69,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-09,True,26.3,True,18.8,True,83.0,True,C0F9O0,潭子,24.213106,120.703933
 2025-03-10,True,27.5,True,19.9,True,86.0,True,C0F9O0,潭子,24.213106,120.703933
 2025-03-11,True,29.4,True,22.6,True,76.0,True,C0F9O0,潭子,24.213106,120.703933
+2025-03-12,False,31.5,True,25.9,True,69.0,False,C0F9O0,潭子,24.213106,120.703933
