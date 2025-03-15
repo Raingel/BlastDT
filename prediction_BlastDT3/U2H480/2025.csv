@@ -70,4 +70,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-10,False,20.0,False,14.7,True,93.0,True,U2H480,溪頭,23.670306,120.798194
 2025-03-11,True,21.1,True,15.0,True,91.0,True,U2H480,溪頭,23.670306,120.798194
 2025-03-12,True,21.4,True,16.1,True,91.0,True,U2H480,溪頭,23.670306,120.798194
-2025-03-13,False,,False,,False,,False,U2H480,溪頭,23.670306,120.798194
+2025-03-13,True,21.7,True,16.7,True,94.0,True,U2H480,溪頭,23.670306,120.798194
+2025-03-14,False,,False,,False,,False,U2H480,溪頭,23.670306,120.798194
