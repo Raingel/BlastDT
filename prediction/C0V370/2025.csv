@@ -73,3 +73,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-12,False,31.3,True,1.0,76.0,False,0.0,C0V370,古亭坑,22.893178,120.401947
 2025-03-13,True,32.0,True,1.0,83.0,True,1.0,C0V370,古亭坑,22.893178,120.401947
 2025-03-14,True,30.7,True,1.0,84.0,True,1.0,C0V370,古亭坑,22.893178,120.401947
+2025-03-15,True,31.5,True,1.0,82.0,True,1.0,C0V370,古亭坑,22.893178,120.401947
