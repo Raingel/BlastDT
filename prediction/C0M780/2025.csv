@@ -74,3 +74,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-13,True,28.6,True,1.0,81.0,True,1.0,C0M780,鹿草,23.41134,120.30835
 2025-03-14,True,29.1,True,1.0,84.0,True,1.0,C0M780,鹿草,23.41134,120.30835
 2025-03-15,True,29.1,True,1.0,82.0,True,1.0,C0M780,鹿草,23.41134,120.30835
+2025-03-16,,,,,69.0,False,0.0,C0M780,鹿草,23.41134,120.30835
