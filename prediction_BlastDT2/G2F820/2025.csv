@@ -64,3 +64,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2025-03-10,True,18.8,True,1.0,24.9,True,1.0,93.0,True,1.0,G2F820,農試所(霧峰),24.031261,120.688133
 2025-03-14,True,22.3,True,1.0,28.5,True,1.0,94.0,True,1.0,G2F820,農試所(霧峰),24.031261,120.688133
 2025-03-15,True,21.0,True,1.0,25.5,True,1.0,98.0,True,1.0,G2F820,農試所(霧峰),24.031261,120.688133
+2025-03-16,False,15.5,True,1.0,20.0,False,0.0,76.0,False,0.0,G2F820,農試所(霧峰),24.031261,120.688133
