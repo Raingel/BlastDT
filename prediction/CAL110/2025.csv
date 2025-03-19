@@ -75,3 +75,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-14,True,25.9,True,1.0,87.0,True,1.0,CAL110,布袋國中,23.35893,120.18026
 2025-03-15,True,24.8,True,1.0,87.0,True,1.0,CAL110,布袋國中,23.35893,120.18026
 2025-03-16,False,19.4,False,0.0,65.0,False,0.0,CAL110,布袋國中,23.35893,120.18026
+2025-03-17,False,15.4,False,0.0,70.0,False,0.0,CAL110,布袋國中,23.35893,120.18026

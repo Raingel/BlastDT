@@ -75,3 +75,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-14,True,25.0,True,1.0,89.0,True,1.0,C0N010,鯤鯓國小,23.1879,120.0889
 2025-03-15,True,25.8,True,1.0,88.0,True,1.0,C0N010,鯤鯓國小,23.1879,120.0889
 2025-03-16,False,19.2,False,0.0,66.0,False,0.0,C0N010,鯤鯓國小,23.1879,120.0889
+2025-03-17,False,16.0,False,0.0,74.0,False,0.0,C0N010,鯤鯓國小,23.1879,120.0889

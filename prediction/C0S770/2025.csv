@@ -75,3 +75,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-14,True,26.8,True,1.0,95.0,True,1.0,C0S770,大溪山,22.478475,120.943325
 2025-03-15,True,28.8,True,1.0,94.0,True,1.0,C0S770,大溪山,22.478475,120.943325
 2025-03-16,False,19.4,False,0.0,98.0,True,1.0,C0S770,大溪山,22.478475,120.943325
+2025-03-17,False,14.7,False,0.0,84.0,True,1.0,C0S770,大溪山,22.478475,120.943325
