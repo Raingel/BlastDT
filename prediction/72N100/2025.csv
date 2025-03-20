@@ -76,3 +76,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-15,True,30.6,True,1.0,84.0,True,1.0,72N100,臺南農改場,23.0605,120.342194
 2025-03-16,False,19.9,False,0.0,74.0,False,0.0,72N100,臺南農改場,23.0605,120.342194
 2025-03-17,False,16.2,False,0.0,77.0,False,0.0,72N100,臺南農改場,23.0605,120.342194
+2025-03-18,False,15.7,False,0.0,94.0,True,1.0,72N100,臺南農改場,23.0605,120.342194

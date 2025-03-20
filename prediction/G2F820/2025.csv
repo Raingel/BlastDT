@@ -65,3 +65,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-14,True,28.5,True,1.0,94.0,True,1.0,G2F820,農試所(霧峰),24.031261,120.688133
 2025-03-15,True,25.5,True,1.0,98.0,True,1.0,G2F820,農試所(霧峰),24.031261,120.688133
 2025-03-16,False,20.0,False,0.0,76.0,False,0.0,G2F820,農試所(霧峰),24.031261,120.688133
+2025-03-18,False,15.2,False,0.0,96.0,True,1.0,G2F820,農試所(霧峰),24.031261,120.688133

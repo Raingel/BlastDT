@@ -76,3 +76,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-15,True,24.6,True,1.0,96.0,True,1.0,C2F000,大肚,24.15295,120.572117
 2025-03-16,False,16.2,False,0.0,74.0,False,0.0,C2F000,大肚,24.15295,120.572117
 2025-03-17,False,12.7,False,0.0,72.0,False,0.0,C2F000,大肚,24.15295,120.572117
+2025-03-18,False,14.0,False,0.0,68.0,False,0.0,C2F000,大肚,24.15295,120.572117

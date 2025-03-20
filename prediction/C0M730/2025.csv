@@ -76,3 +76,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-15,True,31.1,True,1.0,80.0,True,1.0,C0M730,嘉義市東區,23.457673,120.460531
 2025-03-16,False,20.0,False,0.0,69.0,False,0.0,C0M730,嘉義市東區,23.457673,120.460531
 2025-03-17,False,16.9,False,0.0,74.0,False,0.0,C0M730,嘉義市東區,23.457673,120.460531
+2025-03-18,False,15.8,False,0.0,88.0,True,1.0,C0M730,嘉義市東區,23.457673,120.460531
