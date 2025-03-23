@@ -78,3 +78,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-18,False,13.1,False,11.0,True,99.0,True,C0G620,芬園,24.015678,120.6213
 2025-03-19,True,23.3,True,14.5,True,79.0,True,C0G620,芬園,24.015678,120.6213
 2025-03-20,False,24.5,True,16.1,True,70.0,False,C0G620,芬園,24.015678,120.6213
+2025-03-21,False,,False,17.0,True,67.0,False,C0G620,芬園,24.015678,120.6213

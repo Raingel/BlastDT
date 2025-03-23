@@ -77,4 +77,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-17,False,20.5,False,17.3,True,65.0,False,C0R930,萬丹,22.5885,120.4851
 2025-03-18,False,17.0,False,15.9,True,83.0,True,C0R930,萬丹,22.5885,120.4851
 2025-03-19,False,22.3,True,18.2,True,68.0,False,C0R930,萬丹,22.5885,120.4851
-2025-03-20,False,,False,20.0,True,59.0,False,C0R930,萬丹,22.5885,120.4851
+2025-03-20,False,23.950000000000003,True,20.0,True,59.0,False,C0R930,萬丹,22.5885,120.4851
+2025-03-21,False,25.6,True,20.3,True,54.0,False,C0R930,萬丹,22.5885,120.4851
