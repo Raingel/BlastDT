@@ -78,3 +78,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-18,False,15.9,False,14.1,True,57.0,False,466940,基隆,25.133314,121.740475
 2025-03-19,False,15.9,False,14.1,True,64.0,False,466940,基隆,25.133314,121.740475
 2025-03-20,False,17.3,False,14.4,True,65.0,False,466940,基隆,25.133314,121.740475
+2025-03-21,False,22.2,True,16.7,True,54.0,False,466940,基隆,25.133314,121.740475
+2025-03-22,False,22.7,True,17.7,True,62.0,False,466940,基隆,25.133314,121.740475
+2025-03-23,False,23.2,True,18.9,True,64.0,False,466940,基隆,25.133314,121.740475
