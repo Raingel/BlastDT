@@ -80,4 +80,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-20,False,-1.1,False,-1.9,True,100.0,True,C0I540,奇萊稜線,24.109231,121.326456
 2025-03-21,False,-2.5,False,-5.2,True,95.0,True,C0I540,奇萊稜線,24.109231,121.326456
 2025-03-22,False,1.9,False,-0.3,True,74.0,True,C0I540,奇萊稜線,24.109231,121.326456
-2025-03-23,False,,False,3.1,True,64.0,False,C0I540,奇萊稜線,24.109231,121.326456
+2025-03-23,False,5.949999999999999,False,3.1,True,64.0,False,C0I540,奇萊稜線,24.109231,121.326456
+2025-03-24,False,10.0,False,4.5,True,71.0,False,C0I540,奇萊稜線,24.109231,121.326456
