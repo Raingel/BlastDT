@@ -82,3 +82,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-21,False,23.1,False,0.0,80.0,True,1.0,C0Z100,東華,23.89525,121.549833
 2025-03-22,True,25.8,True,1.0,80.0,True,1.0,C0Z100,東華,23.89525,121.549833
 2025-03-23,True,27.2,True,1.0,82.0,True,1.0,C0Z100,東華,23.89525,121.549833
+2025-03-24,True,29.5,True,1.0,82.0,True,1.0,C0Z100,東華,23.89525,121.549833
