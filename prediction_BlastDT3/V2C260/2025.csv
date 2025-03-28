@@ -83,7 +83,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-23,False,25.7,True,18.5,True,61.0,False,V2C260,八德蔬果,24.978508,121.281819
 2025-03-24,False,28.1,True,21.0,True,63.0,False,V2C260,八德蔬果,24.978508,121.281819
 2025-03-25,False,29.2,True,22.7,True,68.0,False,V2C260,八德蔬果,24.978508,121.281819
-2025-03-26,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
+2025-03-26,True,29.7,True,23.9,True,74.0,True,V2C260,八德蔬果,24.978508,121.281819
 2025-03-27,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
 2025-03-28,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
 2025-03-29,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
