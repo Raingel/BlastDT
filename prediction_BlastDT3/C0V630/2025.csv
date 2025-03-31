@@ -86,3 +86,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-03-26,True,28.7,True,25.4,True,80.0,True,C0V630,茄萣,22.906642,120.182608
 2025-03-27,True,29.5,True,26.4,True,79.0,True,C0V630,茄萣,22.906642,120.182608
 2025-03-28,True,29.4,True,24.7,True,75.0,True,C0V630,茄萣,22.906642,120.182608
+2025-03-29,False,24.9,True,20.4,True,70.0,False,C0V630,茄萣,22.906642,120.182608
