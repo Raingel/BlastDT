@@ -88,3 +88,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-27,True,30.5,True,1.0,81.0,True,1.0,C0K250,崙背,23.75555,120.318925
 2025-03-28,False,28.9,True,1.0,75.0,False,0.0,C0K250,崙背,23.75555,120.318925
 2025-03-29,False,22.5,False,0.0,69.0,False,0.0,C0K250,崙背,23.75555,120.318925
+2025-03-30,False,21.3,False,0.0,78.0,False,0.0,C0K250,崙背,23.75555,120.318925
