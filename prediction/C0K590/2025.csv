@@ -89,3 +89,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-28,True,27.6,True,1.0,82.0,True,1.0,C0K590,雲林東勢,23.674192,120.255721
 2025-03-29,False,20.4,False,0.0,75.0,False,0.0,C0K590,雲林東勢,23.674192,120.255721
 2025-03-30,False,18.6,False,0.0,83.0,True,1.0,C0K590,雲林東勢,23.674192,120.255721
+2025-03-31,,,,,86.0,True,1.0,C0K590,雲林東勢,23.674192,120.255721

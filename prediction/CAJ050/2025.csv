@@ -89,3 +89,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-28,True,27.5,True,1.0,82.0,True,1.0,CAJ050,海口故事園區,23.57543,120.14121
 2025-03-29,False,20.5,False,0.0,80.0,True,1.0,CAJ050,海口故事園區,23.57543,120.14121
 2025-03-30,False,19.4,False,0.0,82.0,True,1.0,CAJ050,海口故事園區,23.57543,120.14121
+2025-03-31,False,19.2,False,0.0,83.0,True,1.0,CAJ050,海口故事園區,23.57543,120.14121
