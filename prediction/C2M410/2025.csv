@@ -90,3 +90,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-29,True,28.5,True,1.0,80.0,True,1.0,C2M410,馬頭山,23.324361,120.582017
 2025-03-30,True,25.3,True,1.0,81.0,True,1.0,C2M410,馬頭山,23.324361,120.582017
 2025-03-31,False,22.4,False,0.0,89.0,True,1.0,C2M410,馬頭山,23.324361,120.582017
+2025-04-01,False,21.5,False,0.0,88.0,True,1.0,C2M410,馬頭山,23.324361,120.582017
