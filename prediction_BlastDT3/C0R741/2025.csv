@@ -73,3 +73,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-01,True,23.9,True,21.5,True,75.0,True,C0R741,獅子,22.202308,120.705236
 2025-04-02,False,23.5,True,20.5,True,70.0,False,C0R741,獅子,22.202308,120.705236
 2025-04-03,False,23.2,True,21.2,True,60.0,False,C0R741,獅子,22.202308,120.705236
+2025-04-04,False,,False,22.1,True,59.0,False,C0R741,獅子,22.202308,120.705236

@@ -92,3 +92,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-01,False,27.0,True,20.1,True,70.0,False,C0V450,鳳森,22.545064,120.392592
 2025-04-02,False,25.9,True,19.8,True,68.0,False,C0V450,鳳森,22.545064,120.392592
 2025-04-03,False,24.9,True,21.2,True,72.0,False,C0V450,鳳森,22.545064,120.392592
+2025-04-04,True,27.3,True,22.4,True,76.0,True,C0V450,鳳森,22.545064,120.392592

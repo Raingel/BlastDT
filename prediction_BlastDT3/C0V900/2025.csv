@@ -92,3 +92,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-01,False,25.5,True,20.4,True,73.0,False,C0V900,汕尾,22.4782,120.4151
 2025-04-02,False,23.9,True,20.3,True,71.0,False,C0V900,汕尾,22.4782,120.4151
 2025-04-03,False,23.9,True,21.9,True,72.0,False,C0V900,汕尾,22.4782,120.4151
+2025-04-04,True,26.2,True,22.7,True,74.0,True,C0V900,汕尾,22.4782,120.4151
