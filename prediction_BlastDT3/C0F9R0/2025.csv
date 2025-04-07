@@ -93,3 +93,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-02,False,21.0,True,16.8,True,66.0,False,C0F9R0,龍井,24.184536,120.528972
 2025-04-03,False,25.2,True,20.4,True,66.0,False,C0F9R0,龍井,24.184536,120.528972
 2025-04-04,False,25.6,True,21.7,True,69.0,False,C0F9R0,龍井,24.184536,120.528972
+2025-04-05,True,21.0,True,19.3,True,85.0,True,C0F9R0,龍井,24.184536,120.528972
