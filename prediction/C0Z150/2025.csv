@@ -94,3 +94,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-02,False,19.5,False,0.0,74.0,False,0.0,C0Z150,吉安光華,23.930925,121.595153
 2025-04-03,False,21.3,False,0.0,70.0,False,0.0,C0Z150,吉安光華,23.930925,121.595153
 2025-04-04,False,23.7,True,1.0,65.0,False,0.0,C0Z150,吉安光華,23.930925,121.595153
+2025-04-05,False,20.7,False,0.0,80.0,True,1.0,C0Z150,吉安光華,23.930925,121.595153

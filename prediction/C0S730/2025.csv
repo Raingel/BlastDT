@@ -94,3 +94,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-02,False,19.9,False,0.0,80.0,True,1.0,C0S730,綠島,22.6672,121.47533
 2025-04-03,False,21.4,False,0.0,68.0,False,0.0,C0S730,綠島,22.6672,121.47533
 2025-04-04,False,25.5,True,1.0,59.0,False,0.0,C0S730,綠島,22.6672,121.47533
+2025-04-05,False,25.6,True,1.0,72.0,False,0.0,C0S730,綠島,22.6672,121.47533

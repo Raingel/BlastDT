@@ -94,3 +94,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-02,True,24.5,True,1.0,80.0,True,1.0,C0V440,鳳山,22.646653,120.356122
 2025-04-03,False,24.8,True,1.0,77.0,False,0.0,C0V440,鳳山,22.646653,120.356122
 2025-04-04,True,27.7,True,1.0,82.0,True,1.0,C0V440,鳳山,22.646653,120.356122
+2025-04-05,False,26.3,True,1.0,79.0,False,0.0,C0V440,鳳山,22.646653,120.356122
