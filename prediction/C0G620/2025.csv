@@ -95,3 +95,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-03,False,27.05,True,1.0,78.0,False,0.0,C0G620,芬園,24.015678,120.6213
 2025-04-04,False,28.0,True,1.0,77.0,False,0.0,C0G620,芬園,24.015678,120.6213
 2025-04-05,False,23.1,False,0.0,95.0,True,1.0,C0G620,芬園,24.015678,120.6213
+2025-04-06,True,27.0,True,1.0,90.0,True,1.0,C0G620,芬園,24.015678,120.6213
