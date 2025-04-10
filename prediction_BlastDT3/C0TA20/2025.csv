@@ -60,4 +60,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-04,False,25.3,True,,False,,False,C0TA20,加灣,24.082025,121.608944
 2025-04-05,False,21.1,True,,False,,False,C0TA20,加灣,24.082025,121.608944
 2025-04-06,False,23.7,True,,False,,False,C0TA20,加灣,24.082025,121.608944
-2025-04-07,False,26.2,True,,False,,False,C0TA20,加灣,24.082025,121.608944
+2025-04-07,False,26.2,True,21.4,True,71.0,False,C0TA20,加灣,24.082025,121.608944
+2025-04-08,True,26.0,True,22.4,True,79.0,True,C0TA20,加灣,24.082025,121.608944

@@ -60,4 +60,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-04,False,25.0,True,,False,,False,C0SB70,小港漁港,23.158558,121.400431
 2025-04-05,False,23.1,True,,False,,False,C0SB70,小港漁港,23.158558,121.400431
 2025-04-06,False,23.1,True,,False,,False,C0SB70,小港漁港,23.158558,121.400431
-2025-04-07,False,24.9,True,,False,,False,C0SB70,小港漁港,23.158558,121.400431
+2025-04-07,False,24.9,True,22.8,True,64.0,False,C0SB70,小港漁港,23.158558,121.400431
+2025-04-08,True,26.3,True,22.8,True,81.0,True,C0SB70,小港漁港,23.158558,121.400431
