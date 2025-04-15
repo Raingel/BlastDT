@@ -101,3 +101,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-10,True,26.4,True,23.9,True,86.0,True,C0FA20,溫寮,24.372177,120.583125
 2025-04-11,True,27.4,True,24.4,True,82.0,True,C0FA20,溫寮,24.372177,120.583125
 2025-04-12,False,28.8,True,26.2,True,72.0,False,C0FA20,溫寮,24.372177,120.583125
+2025-04-13,False,19.7,False,18.4,True,55.0,False,C0FA20,溫寮,24.372177,120.583125
