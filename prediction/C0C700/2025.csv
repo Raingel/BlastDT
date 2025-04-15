@@ -102,3 +102,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-10,True,28.5,True,1.0,94.0,True,1.0,C0C700,中壢,24.977661,121.256375
 2025-04-11,False,28.8,True,1.0,72.0,False,0.0,C0C700,中壢,24.977661,121.256375
 2025-04-12,False,30.0,True,1.0,73.0,False,0.0,C0C700,中壢,24.977661,121.256375
+2025-04-13,False,19.1,False,0.0,52.0,False,0.0,C0C700,中壢,24.977661,121.256375
