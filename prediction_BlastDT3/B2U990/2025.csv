@@ -102,4 +102,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-11,True,26.8,True,23.5,True,88.0,True,B2U990,畜試東區分所,24.669039,121.832561
 2025-04-12,True,27.9,True,23.8,True,91.0,True,B2U990,畜試東區分所,24.669039,121.832561
 2025-04-13,False,20.4,False,17.3,True,68.0,False,B2U990,畜試東區分所,24.669039,121.832561
-2025-04-14,False,,False,,False,,False,B2U990,畜試東區分所,24.669039,121.832561
+2025-04-14,True,28.1,True,20.5,True,75.0,True,B2U990,畜試東區分所,24.669039,121.832561
+2025-04-15,False,,False,,False,,False,B2U990,畜試東區分所,24.669039,121.832561
