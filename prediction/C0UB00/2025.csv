@@ -103,3 +103,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-11,True,25.5,True,1.0,90.0,True,1.0,C0UB00,淡江大學蘭陽校園,24.823239,121.730383
 2025-04-12,True,25.9,True,1.0,88.0,True,1.0,C0UB00,淡江大學蘭陽校園,24.823239,121.730383
 2025-04-13,False,18.8,False,0.0,67.0,False,0.0,C0UB00,淡江大學蘭陽校園,24.823239,121.730383
+2025-04-14,False,25.0,True,1.0,65.0,False,0.0,C0UB00,淡江大學蘭陽校園,24.823239,121.730383

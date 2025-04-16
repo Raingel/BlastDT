@@ -103,3 +103,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-11,True,23.9,True,1.0,94.0,True,1.0,C0U870,大礁溪,24.791042,121.675047
 2025-04-12,True,24.4,True,1.0,92.0,True,1.0,C0U870,大礁溪,24.791042,121.675047
 2025-04-13,False,19.2,False,0.0,70.0,False,0.0,C0U870,大礁溪,24.791042,121.675047
+2025-04-14,False,24.8,True,1.0,60.0,False,0.0,C0U870,大礁溪,24.791042,121.675047
