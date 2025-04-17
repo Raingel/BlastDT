@@ -103,3 +103,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-12,True,31.6,True,24.9,True,77.0,True,C0Z170,卓溪,23.3443,121.3029
 2025-04-13,True,25.5,True,17.2,True,86.0,True,C0Z170,卓溪,23.3443,121.3029
 2025-04-14,True,27.7,True,20.0,True,74.0,True,C0Z170,卓溪,23.3443,121.3029
+2025-04-15,False,27.7,True,20.3,True,69.0,False,C0Z170,卓溪,23.3443,121.3029
