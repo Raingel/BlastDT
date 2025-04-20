@@ -107,3 +107,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-15,False,27.1,True,1.0,58.0,False,0.0,C0R920,塭仔,22.4169,120.5197
 2025-04-16,False,28.5,True,1.0,59.0,False,0.0,C0R920,塭仔,22.4169,120.5197
 2025-04-17,False,29.3,True,1.0,70.0,False,0.0,C0R920,塭仔,22.4169,120.5197
+2025-04-18,True,28.0,True,1.0,83.0,True,1.0,C0R920,塭仔,22.4169,120.5197
