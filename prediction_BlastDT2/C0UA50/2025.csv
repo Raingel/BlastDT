@@ -111,3 +111,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2025-04-19,True,21.4,True,1.0,27.0,True,1.0,86.0,True,1.0,C0UA50,西帽山,24.555361,121.802628
 2025-04-20,True,21.0,True,1.0,25.5,True,1.0,92.0,True,1.0,C0UA50,西帽山,24.555361,121.802628
 2025-04-21,True,21.2,True,1.0,26.7,True,1.0,95.0,True,1.0,C0UA50,西帽山,24.555361,121.802628
+2025-04-22,False,24.6,True,1.0,29.8,True,1.0,76.0,False,0.0,C0UA50,西帽山,24.555361,121.802628
