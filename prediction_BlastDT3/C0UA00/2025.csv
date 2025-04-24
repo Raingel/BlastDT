@@ -110,3 +110,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-19,True,31.8,True,23.5,True,83.0,True,C0UA00,土場,24.576533,121.495333
 2025-04-20,True,31.1,True,23.5,True,88.0,True,C0UA00,土場,24.576533,121.495333
 2025-04-21,True,29.9,True,24.4,True,87.0,True,C0UA00,土場,24.576533,121.495333
+2025-04-22,False,32.7,True,25.0,True,72.0,False,C0UA00,土場,24.576533,121.495333
