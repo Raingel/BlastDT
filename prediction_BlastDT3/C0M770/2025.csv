@@ -111,3 +111,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-20,True,29.9,True,25.8,True,84.0,True,C0M770,嘉義梅山,23.585398,120.555587
 2025-04-21,True,32.3,True,26.5,True,81.0,True,C0M770,嘉義梅山,23.585398,120.555587
 2025-04-22,False,31.9,True,26.5,True,73.0,False,C0M770,嘉義梅山,23.585398,120.555587
+2025-04-23,False,,False,26.6,True,74.0,True,C0M770,嘉義梅山,23.585398,120.555587
