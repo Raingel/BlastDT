@@ -113,3 +113,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-21,True,25.1,True,1.0,87.0,True,1.0,C0U720,南山,24.43742,121.38167
 2025-04-22,False,31.1,True,1.0,35.0,False,0.0,C0U720,南山,24.43742,121.38167
 2025-04-23,True,24.5,True,1.0,82.0,True,1.0,C0U720,南山,24.43742,121.38167
+2025-04-24,False,19.4,False,0.0,100.0,True,1.0,C0U720,南山,24.43742,121.38167

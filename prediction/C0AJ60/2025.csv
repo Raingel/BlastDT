@@ -113,3 +113,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-21,True,28.0,True,1.0,91.0,True,1.0,C0AJ60,六塊厝,25.24,121.4481
 2025-04-22,True,29.3,True,1.0,86.0,True,1.0,C0AJ60,六塊厝,25.24,121.4481
 2025-04-23,True,27.2,True,1.0,90.0,True,1.0,C0AJ60,六塊厝,25.24,121.4481
+2025-04-24,False,23.3,False,0.0,96.0,True,1.0,C0AJ60,六塊厝,25.24,121.4481

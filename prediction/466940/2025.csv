@@ -113,3 +113,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-04-21,True,28.4,True,1.0,86.0,True,1.0,466940,基隆,25.133314,121.740475
 2025-04-22,True,32.0,True,1.0,80.0,True,1.0,466940,基隆,25.133314,121.740475
 2025-04-23,True,28.4,True,1.0,84.0,True,1.0,466940,基隆,25.133314,121.740475
+2025-04-24,False,23.4,False,0.0,89.0,True,1.0,466940,基隆,25.133314,121.740475
