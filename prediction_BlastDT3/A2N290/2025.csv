@@ -113,4 +113,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-22,True,32.9,True,25.9,True,82.0,True,A2N290,臺南蘭花園區,23.340258,120.379661
 2025-04-23,True,32.5,True,26.4,True,82.0,True,A2N290,臺南蘭花園區,23.340258,120.379661
 2025-04-24,True,32.4,True,26.9,True,84.0,True,A2N290,臺南蘭花園區,23.340258,120.379661
-2025-04-25,False,,False,,False,,False,A2N290,臺南蘭花園區,23.340258,120.379661
+2025-04-25,True,30.3,True,25.1,True,80.0,True,A2N290,臺南蘭花園區,23.340258,120.379661
+2025-04-26,False,,False,,False,,False,A2N290,臺南蘭花園區,23.340258,120.379661
