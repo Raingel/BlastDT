@@ -116,3 +116,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-25,True,24.4,True,21.8,True,92.0,True,C0AC60,三峽,24.939025,121.369728
 2025-04-26,True,22.3,True,20.4,True,91.0,True,C0AC60,三峽,24.939025,121.369728
 2025-04-27,True,30.6,True,24.8,True,84.0,True,C0AC60,三峽,24.939025,121.369728
+2025-04-28,False,,False,23.7,True,82.0,True,C0AC60,三峽,24.939025,121.369728
