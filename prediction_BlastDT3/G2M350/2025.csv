@@ -118,4 +118,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-27,True,30.8,True,24.8,True,81.0,True,G2M350,農試溪口農場,23.58565,120.408111
 2025-04-28,True,28.5,True,23.9,True,86.0,True,G2M350,農試溪口農場,23.58565,120.408111
 2025-04-29,True,30.5,True,24.6,True,76.0,True,G2M350,農試溪口農場,23.58565,120.408111
-2025-04-30,False,,False,,False,,False,G2M350,農試溪口農場,23.58565,120.408111
+2025-04-30,True,28.9,True,24.8,True,78.0,True,G2M350,農試溪口農場,23.58565,120.408111
+2025-05-01,False,,False,,False,,False,G2M350,農試溪口農場,23.58565,120.408111
