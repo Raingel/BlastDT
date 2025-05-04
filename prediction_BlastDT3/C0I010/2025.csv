@@ -120,3 +120,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-29,True,22.5,True,17.2,True,83.0,True,C0I010,廬山,24.033311,121.181808
 2025-04-30,True,23.1,True,17.0,True,79.0,True,C0I010,廬山,24.033311,121.181808
 2025-05-01,True,22.6,True,16.6,True,74.0,True,C0I010,廬山,24.033311,121.181808
+2025-05-02,False,26.0,True,18.8,True,71.0,False,C0I010,廬山,24.033311,121.181808
