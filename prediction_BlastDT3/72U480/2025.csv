@@ -122,4 +122,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-01,True,27.8,True,23.6,True,80.0,True,72U480,花改蘭陽分場,24.686306,121.716583
 2025-05-02,True,28.0,True,22.7,True,83.0,True,72U480,花改蘭陽分場,24.686306,121.716583
 2025-05-03,True,30.4,True,24.4,True,74.0,True,72U480,花改蘭陽分場,24.686306,121.716583
-2025-05-04,False,,False,,False,,False,72U480,花改蘭陽分場,24.686306,121.716583
+2025-05-04,True,29.0,True,24.0,True,89.0,True,72U480,花改蘭陽分場,24.686306,121.716583
+2025-05-05,False,,False,,False,,False,72U480,花改蘭陽分場,24.686306,121.716583

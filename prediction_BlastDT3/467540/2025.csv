@@ -121,3 +121,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-04-30,False,29.0,True,25.5,True,64.0,False,467540,大武,22.35572,120.90374
 2025-05-01,True,30.3,True,25.9,True,76.0,True,467540,大武,22.35572,120.90374
 2025-05-02,False,28.2,True,25.6,True,73.0,False,467540,大武,22.35572,120.90374
+2025-05-03,True,30.1,True,26.0,True,77.0,True,467540,大武,22.35572,120.90374
+2025-05-04,True,30.9,True,27.0,True,77.0,True,467540,大武,22.35572,120.90374
