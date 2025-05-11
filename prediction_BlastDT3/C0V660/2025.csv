@@ -127,3 +127,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-06,True,32.5,True,28.9,True,78.0,True,C0V660,岡山,22.797078,120.294958
 2025-05-07,True,32.0,True,29.0,True,78.0,True,C0V660,岡山,22.797078,120.294958
 2025-05-08,False,32.8,True,30.0,True,67.0,False,C0V660,岡山,22.797078,120.294958
+2025-05-09,False,34.5,True,30.7,True,66.0,False,C0V660,岡山,22.797078,120.294958

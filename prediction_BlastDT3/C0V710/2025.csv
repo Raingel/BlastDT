@@ -127,3 +127,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-06,True,31.3,True,28.8,True,79.0,True,C0V710,苓雅,22.622742,120.330669
 2025-05-07,True,32.0,True,29.2,True,81.0,True,C0V710,苓雅,22.622742,120.330669
 2025-05-08,False,33.4,True,30.4,True,70.0,False,C0V710,苓雅,22.622742,120.330669
+2025-05-09,False,33.0,True,30.9,False,71.0,False,C0V710,苓雅,22.622742,120.330669
