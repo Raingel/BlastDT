@@ -130,3 +130,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-09,True,34.6,True,28.8,True,79.0,True,C0R800,丹路,22.204481,120.750989
 2025-05-10,True,31.5,True,28.0,True,81.0,True,C0R800,丹路,22.204481,120.750989
 2025-05-11,True,26.7,True,24.7,True,82.0,True,C0R800,丹路,22.204481,120.750989
+2025-05-12,False,25.3,True,23.3,True,73.0,False,C0R800,丹路,22.204481,120.750989

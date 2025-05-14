@@ -130,3 +130,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-09,True,28.7,True,26.9,True,89.0,True,C0D690,外湖,24.917735,120.968711
 2025-05-10,True,27.5,True,24.8,True,85.0,True,C0D690,外湖,24.917735,120.968711
 2025-05-11,True,24.6,True,20.8,True,90.0,True,C0D690,外湖,24.917735,120.968711
+2025-05-12,False,28.2,True,23.8,True,58.0,False,C0D690,外湖,24.917735,120.968711

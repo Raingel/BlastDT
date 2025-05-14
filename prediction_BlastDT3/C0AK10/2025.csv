@@ -95,3 +95,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-09,True,32.3,True,28.0,True,76.0,True,C0AK10,太平里,25.134937,121.364899
 2025-05-10,True,27.9,True,24.8,True,80.0,True,C0AK10,太平里,25.134937,121.364899
 2025-05-11,True,25.0,True,20.6,True,86.0,True,C0AK10,太平里,25.134937,121.364899
+2025-05-12,False,27.0,True,23.5,True,59.0,False,C0AK10,太平里,25.134937,121.364899

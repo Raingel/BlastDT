@@ -130,3 +130,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-09,True,31.2,True,26.0,True,85.0,True,C0U600,礁溪,24.817539,121.765608
 2025-05-10,True,27.2,True,24.2,True,89.0,True,C0U600,礁溪,24.817539,121.765608
 2025-05-11,True,22.1,True,20.0,True,95.0,True,C0U600,礁溪,24.817539,121.765608
+2025-05-12,False,25.9,True,21.7,True,73.0,False,C0U600,礁溪,24.817539,121.765608
