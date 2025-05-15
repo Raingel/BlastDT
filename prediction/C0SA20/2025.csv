@@ -132,3 +132,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-10,True,30.6,True,1.0,92.0,True,1.0,C0SA20,金崙山,22.567419,120.959667
 2025-05-11,False,23.4,False,0.0,96.0,True,1.0,C0SA20,金崙山,22.567419,120.959667
 2025-05-12,False,21.2,False,0.0,95.0,True,1.0,C0SA20,金崙山,22.567419,120.959667
+2025-05-13,True,27.4,True,1.0,88.0,True,1.0,C0SA20,金崙山,22.567419,120.959667

@@ -132,3 +132,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-10,True,28.8,True,1.0,94.0,True,1.0,72K220,南改斗南分場,23.634556,120.477333
 2025-05-11,True,25.6,True,1.0,94.0,True,1.0,72K220,南改斗南分場,23.634556,120.477333
 2025-05-12,True,28.1,True,1.0,88.0,True,1.0,72K220,南改斗南分場,23.634556,120.477333
+2025-05-13,False,32.6,True,1.0,77.0,False,0.0,72K220,南改斗南分場,23.634556,120.477333

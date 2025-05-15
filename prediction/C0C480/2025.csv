@@ -132,3 +132,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-10,True,27.5,True,1.0,86.0,True,1.0,C0C480,桃園,24.992425,121.323172
 2025-05-11,True,23.7,True,1.0,91.0,True,1.0,C0C480,桃園,24.992425,121.323172
 2025-05-12,False,27.0,True,1.0,54.0,False,0.0,C0C480,桃園,24.992425,121.323172
+2025-05-13,False,31.1,True,1.0,61.0,False,0.0,C0C480,桃園,24.992425,121.323172

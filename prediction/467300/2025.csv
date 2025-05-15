@@ -132,3 +132,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-10,True,29.6,True,1.0,90.0,True,1.0,467300,東吉島,23.25727,119.66762
 2025-05-11,True,26.5,True,1.0,84.0,True,1.0,467300,東吉島,23.25727,119.66762
 2025-05-12,False,26.5,True,1.0,62.0,False,0.0,467300,東吉島,23.25727,119.66762
+2025-05-13,False,28.4,True,1.0,74.0,False,0.0,467300,東吉島,23.25727,119.66762
