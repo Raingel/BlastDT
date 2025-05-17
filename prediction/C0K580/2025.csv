@@ -134,3 +134,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-12,True,26.6,True,1.0,87.0,True,1.0,C0K580,高鐵雲林,23.737456,120.417944
 2025-05-13,False,30.1,True,1.0,78.0,False,0.0,C0K580,高鐵雲林,23.737456,120.417944
 2025-05-14,False,31.6,True,1.0,72.0,False,0.0,C0K580,高鐵雲林,23.737456,120.417944
+2025-05-15,False,31.9,True,1.0,72.0,False,0.0,C0K580,高鐵雲林,23.737456,120.417944
