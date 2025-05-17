@@ -132,3 +132,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-11,True,23.3,True,19.6,True,92.0,True,466881,新北,24.959207,121.525196
 2025-05-12,False,27.6,True,21.9,True,67.0,False,466881,新北,24.959207,121.525196
 2025-05-13,False,31.2,True,25.0,True,69.0,False,466881,新北,24.959207,121.525196
+2025-05-14,False,32.8,True,26.4,True,73.0,False,466881,新北,24.959207,121.525196
+2025-05-15,True,33.7,True,27.1,True,74.0,True,466881,新北,24.959207,121.525196

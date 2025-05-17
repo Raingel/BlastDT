@@ -131,4 +131,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-10,False,8.4,False,,False,100.0,True,C0F0E0,南湖圈谷,24.363714,121.444667
 2025-05-11,False,6.6,False,,False,100.0,True,C0F0E0,南湖圈谷,24.363714,121.444667
 2025-05-12,False,5.5,False,,False,88.0,True,C0F0E0,南湖圈谷,24.363714,121.444667
-2025-05-13,False,,False,,False,28.0,False,C0F0E0,南湖圈谷,24.363714,121.444667
+2025-05-13,False,9.6,False,,False,28.0,False,C0F0E0,南湖圈谷,24.363714,121.444667
+2025-05-14,False,13.7,False,,False,45.0,False,C0F0E0,南湖圈谷,24.363714,121.444667
+2025-05-15,False,13.2,False,,False,75.0,True,C0F0E0,南湖圈谷,24.363714,121.444667
