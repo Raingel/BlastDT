@@ -134,3 +134,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-13,True,30.6,True,25.6,True,75.0,True,C0K510,水林,23.572924,120.24597
 2025-05-14,False,32.4,True,26.9,True,67.0,False,C0K510,水林,23.572924,120.24597
 2025-05-15,False,33.1,True,28.4,True,68.0,False,C0K510,水林,23.572924,120.24597
+2025-05-16,False,,False,28.7,True,74.0,True,C0K510,水林,23.572924,120.24597
