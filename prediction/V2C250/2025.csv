@@ -73,3 +73,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-03-15,False,18.5,False,0.0,96.0,True,1.0,V2C250,八德合作社,24.93775,121.266389
 2025-03-18,False,15.0,False,0.0,60.0,False,0.0,V2C250,八德合作社,24.93775,121.266389
 2025-05-16,False,31.9,True,1.0,75.0,False,0.0,V2C250,八德合作社,24.93775,121.266389
+2025-05-17,True,31.5,True,1.0,82.0,True,1.0,V2C250,八德合作社,24.93775,121.266389
