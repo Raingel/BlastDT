@@ -137,3 +137,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-15,False,30.3,True,1.0,71.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
 2025-05-16,False,30.8,True,1.0,74.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
 2025-05-17,True,31.3,True,1.0,80.0,True,1.0,CAG100,王功漁港,23.96824,120.32586
+2025-05-18,True,31.1,True,1.0,83.0,True,1.0,CAG100,王功漁港,23.96824,120.32586
