@@ -140,3 +140,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-18,False,32.6,True,1.0,78.0,False,0.0,C0FA40,臺中電廠,24.2146,120.4907
 2025-05-19,False,32.0,True,1.0,77.0,False,0.0,C0FA40,臺中電廠,24.2146,120.4907
 2025-05-20,False,32.8,True,1.0,72.0,False,0.0,C0FA40,臺中電廠,24.2146,120.4907
+2025-05-21,,,,,78.0,False,0.0,C0FA40,臺中電廠,24.2146,120.4907

@@ -140,3 +140,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-18,True,31.2,True,1.0,83.0,True,1.0,C0SA90,達仁林場,22.264347,120.823972
 2025-05-19,False,31.8,True,1.0,78.0,False,0.0,C0SA90,達仁林場,22.264347,120.823972
 2025-05-20,True,31.2,True,1.0,86.0,True,1.0,C0SA90,達仁林場,22.264347,120.823972
+2025-05-21,,,,,80.0,True,1.0,C0SA90,達仁林場,22.264347,120.823972

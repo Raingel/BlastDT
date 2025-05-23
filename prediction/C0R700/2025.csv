@@ -140,3 +140,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-18,True,31.6,True,1.0,81.0,True,1.0,C0R700,枋山,22.246844,120.661086
 2025-05-19,True,31.9,True,1.0,83.0,True,1.0,C0R700,枋山,22.246844,120.661086
 2025-05-20,True,32.1,True,1.0,80.0,True,1.0,C0R700,枋山,22.246844,120.661086
+2025-05-21,,,,,78.0,False,0.0,C0R700,枋山,22.246844,120.661086
