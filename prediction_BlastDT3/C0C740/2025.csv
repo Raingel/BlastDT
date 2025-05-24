@@ -139,4 +139,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-18,True,30.6,True,28.4,True,83.0,True,C0C740,觀音工業區,25.064764,121.114856
 2025-05-19,True,29.4,True,28.0,True,82.0,True,C0C740,觀音工業區,25.064764,121.114856
 2025-05-20,True,31.0,True,28.7,True,75.0,True,C0C740,觀音工業區,25.064764,121.114856
-2025-05-21,False,,False,28.6,True,81.0,True,C0C740,觀音工業區,25.064764,121.114856
+2025-05-21,True,30.8,True,28.6,True,81.0,True,C0C740,觀音工業區,25.064764,121.114856
+2025-05-22,True,31.4,True,28.8,True,79.0,True,C0C740,觀音工業區,25.064764,121.114856

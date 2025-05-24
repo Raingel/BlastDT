@@ -139,4 +139,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-18,True,30.9,True,27.7,True,80.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2025-05-19,True,31.1,True,27.8,True,77.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2025-05-20,False,32.4,True,28.5,True,71.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
-2025-05-21,False,,False,28.1,True,77.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
+2025-05-21,True,31.2,True,28.1,True,77.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
+2025-05-22,True,32.7,True,28.3,True,74.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445

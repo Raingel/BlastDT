@@ -139,4 +139,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-18,True,30.2,True,25.1,True,85.0,True,C0C680,龜山,25.02846,121.38656
 2025-05-19,True,28.9,True,25.3,True,81.0,True,C0C680,龜山,25.02846,121.38656
 2025-05-20,True,31.0,True,26.7,True,74.0,True,C0C680,龜山,25.02846,121.38656
-2025-05-21,False,,False,26.6,True,77.0,True,C0C680,龜山,25.02846,121.38656
+2025-05-21,True,30.5,True,26.6,True,77.0,True,C0C680,龜山,25.02846,121.38656
+2025-05-22,True,31.6,True,26.3,True,76.0,True,C0C680,龜山,25.02846,121.38656
