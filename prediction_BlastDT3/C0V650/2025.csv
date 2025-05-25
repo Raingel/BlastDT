@@ -141,3 +141,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-20,True,32.0,True,29.9,True,81.0,True,C0V650,彌陀,22.783806,120.246361
 2025-05-21,False,,False,30.1,True,82.0,True,C0V650,彌陀,22.783806,120.246361
 2025-05-22,False,,False,30.3,True,75.0,True,C0V650,彌陀,22.783806,120.246361
+2025-05-23,False,,False,31.0,False,73.0,False,C0V650,彌陀,22.783806,120.246361
