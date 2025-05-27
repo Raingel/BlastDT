@@ -144,3 +144,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-22,False,33.9,True,1.0,73.0,False,0.0,C0H890,埔里,23.972169,120.952425
 2025-05-23,False,33.0,True,1.0,77.0,False,0.0,C0H890,埔里,23.972169,120.952425
 2025-05-24,True,30.1,True,1.0,89.0,True,1.0,C0H890,埔里,23.972169,120.952425
+2025-05-25,True,26.0,True,1.0,96.0,True,1.0,C0H890,埔里,23.972169,120.952425

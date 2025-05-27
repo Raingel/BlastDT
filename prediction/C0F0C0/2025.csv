@@ -144,3 +144,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-22,True,29.3,True,1.0,81.0,True,1.0,C0F0C0,中坑,24.248517,120.903319
 2025-05-23,True,27.4,True,1.0,82.0,True,1.0,C0F0C0,中坑,24.248517,120.903319
 2025-05-24,True,24.3,True,1.0,87.0,True,1.0,C0F0C0,中坑,24.248517,120.903319
+2025-05-25,False,21.2,False,0.0,94.0,True,1.0,C0F0C0,中坑,24.248517,120.903319
