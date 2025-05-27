@@ -143,3 +143,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-22,True,33.8,True,30.2,True,74.0,True,467590,恆春,22.003897,120.746339
 2025-05-23,True,33.4,True,29.8,True,76.0,True,467590,恆春,22.003897,120.746339
 2025-05-24,True,33.3,True,29.9,True,75.0,True,467590,恆春,22.003897,120.746339
+2025-05-25,False,29.8,True,26.8,True,71.0,False,467590,恆春,22.003897,120.746339
