@@ -149,3 +149,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-27,False,31.2,True,1.0,70.0,False,0.0,C0V880,興達,22.8778,120.2127
 2025-05-28,False,30.3,True,1.0,76.0,False,0.0,C0V880,興達,22.8778,120.2127
 2025-05-29,True,30.3,True,1.0,86.0,True,1.0,C0V880,興達,22.8778,120.2127
+2025-05-30,True,30.1,True,1.0,82.0,True,1.0,C0V880,興達,22.8778,120.2127
