@@ -150,3 +150,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-28,False,20.5,False,0.0,100.0,True,1.0,C0AC40,大屯山,25.175675,121.522408
 2025-05-29,False,19.6,False,0.0,100.0,True,1.0,C0AC40,大屯山,25.175675,121.522408
 2025-05-30,False,18.8,False,0.0,100.0,True,1.0,C0AC40,大屯山,25.175675,121.522408
+2025-05-31,True,26.6,True,1.0,92.0,True,1.0,C0AC40,大屯山,25.175675,121.522408

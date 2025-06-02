@@ -150,3 +150,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-28,True,28.5,True,1.0,87.0,True,1.0,466881,新北,24.959207,121.525196
 2025-05-29,True,23.7,True,1.0,95.0,True,1.0,466881,新北,24.959207,121.525196
 2025-05-30,False,27.9,True,1.0,76.0,False,0.0,466881,新北,24.959207,121.525196
+2025-05-31,False,32.5,True,1.0,69.0,False,0.0,466881,新北,24.959207,121.525196
