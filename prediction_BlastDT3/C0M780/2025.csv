@@ -150,3 +150,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-05-29,True,27.2,True,24.2,True,97.0,True,C0M780,鹿草,23.41134,120.30835
 2025-05-30,True,31.8,True,26.1,True,79.0,True,C0M780,鹿草,23.41134,120.30835
 2025-05-31,False,33.7,True,27.9,True,69.0,False,C0M780,鹿草,23.41134,120.30835
+2025-06-01,False,,False,28.9,True,77.0,True,C0M780,鹿草,23.41134,120.30835
