@@ -152,3 +152,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-30,True,30.6,True,1.0,84.0,True,1.0,467290,古坑,23.633639,120.551889
 2025-05-31,False,32.1,True,1.0,77.0,False,0.0,467290,古坑,23.633639,120.551889
 2025-06-01,False,33.1,True,1.0,78.0,False,0.0,467290,古坑,23.633639,120.551889
+2025-06-02,True,31.2,True,1.0,86.0,True,1.0,467290,古坑,23.633639,120.551889

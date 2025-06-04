@@ -152,3 +152,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-05-30,False,27.4,True,1.0,73.0,False,0.0,12Q980,恆春工作站,22.079678,120.714425
 2025-05-31,False,29.2,True,1.0,69.0,False,0.0,12Q980,恆春工作站,22.079678,120.714425
 2025-06-01,True,30.1,True,1.0,81.0,True,1.0,12Q980,恆春工作站,22.079678,120.714425
+2025-06-02,True,29.6,True,1.0,87.0,True,1.0,12Q980,恆春工作站,22.079678,120.714425
