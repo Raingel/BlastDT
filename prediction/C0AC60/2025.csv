@@ -155,3 +155,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-02,False,35.8,True,1.0,78.0,False,0.0,C0AC60,三峽,24.939025,121.369728
 2025-06-03,True,32.3,True,1.0,84.0,True,1.0,C0AC60,三峽,24.939025,121.369728
 2025-06-04,True,27.5,True,1.0,88.0,True,1.0,C0AC60,三峽,24.939025,121.369728
+2025-06-05,True,27.9,True,1.0,91.0,True,1.0,C0AC60,三峽,24.939025,121.369728
