@@ -155,4 +155,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-06-03,True,26.0,True,23.9,True,97.0,True,72HA00,中改埔里分場,23.903208,120.963364
 2025-06-04,True,28.6,True,23.6,True,96.0,True,72HA00,中改埔里分場,23.903208,120.963364
 2025-06-05,True,27.4,True,23.2,True,97.0,True,72HA00,中改埔里分場,23.903208,120.963364
-2025-06-06,False,,False,,False,,False,72HA00,中改埔里分場,23.903208,120.963364
+2025-06-06,True,28.4,True,23.5,True,95.0,True,72HA00,中改埔里分場,23.903208,120.963364
+2025-06-07,False,,False,,False,,False,72HA00,中改埔里分場,23.903208,120.963364
