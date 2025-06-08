@@ -156,3 +156,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-03,True,24.3,True,1.0,94.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
 2025-06-04,False,20.7,False,0.0,100.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
 2025-06-05,False,19.3,False,0.0,100.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
+2025-06-06,True,26.0,True,1.0,97.0,True,1.0,C0UA30,白嶺,24.527819,121.519031
