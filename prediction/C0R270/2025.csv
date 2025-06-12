@@ -160,3 +160,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-07,True,34.0,True,1.0,81.0,True,1.0,C0R270,琉球嶼,22.332244,120.362236
 2025-06-08,True,33.6,True,1.0,82.0,True,1.0,C0R270,琉球嶼,22.332244,120.362236
 2025-06-09,False,36.2,True,1.0,77.0,False,0.0,C0R270,琉球嶼,22.332244,120.362236
+2025-06-10,False,36.2,True,1.0,75.0,False,0.0,C0R270,琉球嶼,22.332244,120.362236
