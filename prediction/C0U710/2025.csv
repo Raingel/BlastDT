@@ -161,3 +161,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-08,False,21.3,False,0.0,98.0,True,1.0,C0U710,太平山,24.505486,121.525656
 2025-06-09,False,22.7,False,0.0,97.0,True,1.0,C0U710,太平山,24.505486,121.525656
 2025-06-10,True,24.9,True,1.0,89.0,True,1.0,C0U710,太平山,24.505486,121.525656
+2025-06-11,True,24.8,True,1.0,90.0,True,1.0,C0U710,太平山,24.505486,121.525656
