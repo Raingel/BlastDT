@@ -162,3 +162,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-09,True,29.5,True,1.0,95.0,True,1.0,C0U520,雙連埤,24.753033,121.641303
 2025-06-10,True,31.3,True,1.0,91.0,True,1.0,C0U520,雙連埤,24.753033,121.641303
 2025-06-11,True,31.1,True,1.0,89.0,True,1.0,C0U520,雙連埤,24.753033,121.641303
+2025-06-12,False,23.3,False,0.0,100.0,True,1.0,C0U520,雙連埤,24.753033,121.641303

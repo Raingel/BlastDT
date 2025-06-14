@@ -161,3 +161,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-09,False,35.0,True,1.0,78.0,False,0.0,C2V260,月眉,22.971003,120.539853
 2025-06-10,True,35.0,True,1.0,80.0,True,1.0,C2V260,月眉,22.971003,120.539853
 2025-06-11,True,36.0,True,1.0,83.0,True,1.0,C2V260,月眉,22.971003,120.539853
+2025-06-12,True,27.9,True,1.0,91.0,True,1.0,C2V260,月眉,22.971003,120.539853
