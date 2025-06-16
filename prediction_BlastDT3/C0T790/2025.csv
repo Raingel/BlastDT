@@ -162,4 +162,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-06-10,True,21.7,True,14.9,True,83.0,True,C0T790,大禹嶺,24.186117,121.316086
 2025-06-11,True,21.5,True,14.2,True,86.0,True,C0T790,大禹嶺,24.186117,121.316086
 2025-06-12,False,12.6,False,11.5,True,96.0,True,C0T790,大禹嶺,24.186117,121.316086
-2025-06-13,False,,False,11.8,True,96.0,True,C0T790,大禹嶺,24.186117,121.316086
+2025-06-13,False,13.3,False,11.8,True,96.0,True,C0T790,大禹嶺,24.186117,121.316086
+2025-06-14,False,14.0,False,11.9,True,88.0,True,C0T790,大禹嶺,24.186117,121.316086
