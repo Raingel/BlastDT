@@ -164,3 +164,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-06-12,True,30.6,True,28.5,True,86.0,True,C0V880,興達,22.8778,120.2127
 2025-06-13,True,28.0,True,26.3,True,94.0,True,C0V880,興達,22.8778,120.2127
 2025-06-14,True,33.0,True,29.5,True,80.0,True,C0V880,興達,22.8778,120.2127
+2025-06-15,False,33.6,True,30.7,True,73.0,False,C0V880,興達,22.8778,120.2127

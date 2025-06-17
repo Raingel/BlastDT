@@ -164,4 +164,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-06-12,True,24.4,True,23.4,True,98.0,True,82S580,茶改東部分場,22.907694,121.130139
 2025-06-13,True,25.6,True,24.2,True,97.0,True,82S580,茶改東部分場,22.907694,121.130139
 2025-06-14,True,32.1,True,27.2,True,84.0,True,82S580,茶改東部分場,22.907694,121.130139
-2025-06-15,False,,False,,False,,False,82S580,茶改東部分場,22.907694,121.130139
+2025-06-15,True,34.5,True,28.2,True,76.0,True,82S580,茶改東部分場,22.907694,121.130139
+2025-06-16,False,,False,,False,,False,82S580,茶改東部分場,22.907694,121.130139
