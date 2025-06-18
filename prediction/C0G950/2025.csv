@@ -166,3 +166,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-13,True,28.1,True,1.0,92.0,True,1.0,C0G950,防潮門,24.1835,120.4871
 2025-06-14,False,33.1,True,1.0,75.0,False,0.0,C0G950,防潮門,24.1835,120.4871
 2025-06-15,False,34.1,True,1.0,68.0,False,0.0,C0G950,防潮門,24.1835,120.4871
+2025-06-16,True,32.2,True,1.0,81.0,True,1.0,C0G950,防潮門,24.1835,120.4871
