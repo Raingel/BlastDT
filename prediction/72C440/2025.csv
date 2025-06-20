@@ -168,3 +168,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-15,False,33.1,True,1.0,72.0,False,0.0,72C440,桃園農改場,24.950944,121.030583
 2025-06-16,False,32.6,True,1.0,75.0,False,0.0,72C440,桃園農改場,24.950944,121.030583
 2025-06-17,True,30.2,True,1.0,83.0,True,1.0,72C440,桃園農改場,24.950944,121.030583
+2025-06-18,False,32.4,True,1.0,79.0,False,0.0,72C440,桃園農改場,24.950944,121.030583
