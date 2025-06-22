@@ -169,3 +169,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-06-17,True,33.1,True,28.3,True,79.0,True,C2G840,北斗,23.877586,120.514222
 2025-06-18,True,34.3,True,27.3,True,83.0,True,C2G840,北斗,23.877586,120.514222
 2025-06-19,True,33.7,True,28.6,True,76.0,True,C2G840,北斗,23.877586,120.514222
+2025-06-20,False,35.1,True,29.3,True,73.0,False,C2G840,北斗,23.877586,120.514222
