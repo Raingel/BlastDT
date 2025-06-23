@@ -171,3 +171,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-18,False,35.8,True,1.0,69.0,False,0.0,C0AH70,松山,25.04871,121.55042
 2025-06-19,False,35.1,True,1.0,70.0,False,0.0,C0AH70,松山,25.04871,121.55042
 2025-06-20,False,35.1,True,1.0,75.0,False,0.0,C0AH70,松山,25.04871,121.55042
+2025-06-21,True,32.1,True,1.0,80.0,True,1.0,C0AH70,松山,25.04871,121.55042
