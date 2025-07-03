@@ -181,3 +181,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-28,False,33.6,True,1.0,76.0,False,0.0,C0SA60,知本（水試所）,22.702394,121.082761
 2025-06-29,False,33.4,True,1.0,78.0,False,0.0,C0SA60,知本（水試所）,22.702394,121.082761
 2025-06-30,False,33.6,True,1.0,79.0,False,0.0,C0SA60,知本（水試所）,22.702394,121.082761
+2025-07-01,True,34.0,True,1.0,83.0,True,1.0,C0SA60,知本（水試所）,22.702394,121.082761
