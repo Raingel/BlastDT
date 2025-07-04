@@ -182,3 +182,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-29,True,31.3,True,1.0,83.0,True,1.0,C0F850,東勢,24.246428,120.833047
 2025-06-30,False,33.9,True,1.0,78.0,False,0.0,C0F850,東勢,24.246428,120.833047
 2025-07-01,False,34.3,True,1.0,76.0,False,0.0,C0F850,東勢,24.246428,120.833047
+2025-07-02,False,33.2,True,1.0,76.0,False,0.0,C0F850,東勢,24.246428,120.833047

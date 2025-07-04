@@ -182,3 +182,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-06-29,False,34.0,True,1.0,72.0,False,0.0,C0G780,秀水,24.03405,120.503869
 2025-06-30,False,33.9,True,1.0,77.0,False,0.0,C0G780,秀水,24.03405,120.503869
 2025-07-01,True,34.4,True,1.0,80.0,True,1.0,C0G780,秀水,24.03405,120.503869
+2025-07-02,False,35.2,True,1.0,77.0,False,0.0,C0G780,秀水,24.03405,120.503869
