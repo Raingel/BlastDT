@@ -181,4 +181,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-06-29,True,31.1,True,29.0,True,79.0,True,CAN130,水試所海水繁養殖中心,23.120802,120.07968
 2025-06-30,True,31.1,True,29.2,True,81.0,True,CAN130,水試所海水繁養殖中心,23.120802,120.07968
 2025-07-01,True,31.4,True,30.1,True,80.0,True,CAN130,水試所海水繁養殖中心,23.120802,120.07968
-2025-07-02,False,,False,,False,,False,CAN130,水試所海水繁養殖中心,23.120802,120.07968
+2025-07-02,True,32.6,True,30.5,True,79.0,True,CAN130,水試所海水繁養殖中心,23.120802,120.07968
+2025-07-03,False,,False,,False,,False,CAN130,水試所海水繁養殖中心,23.120802,120.07968
