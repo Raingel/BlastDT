@@ -182,3 +182,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-06-30,True,35.0,True,30.0,True,77.0,True,C0G940,竹塘,23.848253,120.386764
 2025-07-01,True,35.5,True,30.5,True,77.0,True,C0G940,竹塘,23.848253,120.386764
 2025-07-02,True,35.6,True,30.6,True,75.0,True,C0G940,竹塘,23.848253,120.386764
+2025-07-03,False,35.7,True,30.8,False,76.0,True,C0G940,竹塘,23.848253,120.386764
