@@ -185,3 +185,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-07-02,False,35.6,True,1.0,74.0,False,0.0,C0K450,大埤,23.646074,120.431537
 2025-07-03,False,35.2,True,1.0,74.0,False,0.0,C0K450,大埤,23.646074,120.431537
 2025-07-04,True,34.0,True,1.0,80.0,True,1.0,C0K450,大埤,23.646074,120.431537
+2025-07-05,True,32.9,True,1.0,83.0,True,1.0,C0K450,大埤,23.646074,120.431537

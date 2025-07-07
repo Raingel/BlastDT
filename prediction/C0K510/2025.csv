@@ -185,3 +185,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-07-02,False,34.3,True,1.0,77.0,False,0.0,C0K510,水林,23.572924,120.24597
 2025-07-03,False,35.2,True,1.0,75.0,False,0.0,C0K510,水林,23.572924,120.24597
 2025-07-04,True,33.4,True,1.0,82.0,True,1.0,C0K510,水林,23.572924,120.24597
+2025-07-05,,,,,85.0,True,1.0,C0K510,水林,23.572924,120.24597
