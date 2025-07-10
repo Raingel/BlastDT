@@ -187,3 +187,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-05,True,32.6,True,27.2,True,82.0,True,C0E780,銅鑼,24.489681,120.790853
 2025-07-06,True,30.2,True,27.3,True,87.0,True,C0E780,銅鑼,24.489681,120.790853
 2025-07-07,True,31.0,True,27.1,True,81.0,True,C0E780,銅鑼,24.489681,120.790853
+2025-07-08,False,31.0,True,28.5,True,69.0,False,C0E780,銅鑼,24.489681,120.790853

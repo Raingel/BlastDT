@@ -187,3 +187,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-05,True,31.8,True,29.6,True,79.0,True,C0AH50,林口,25.072181,121.38084
 2025-07-06,True,32.1,True,28.3,True,79.0,True,C0AH50,林口,25.072181,121.38084
 2025-07-07,True,29.6,True,27.4,True,83.0,True,C0AH50,林口,25.072181,121.38084
+2025-07-08,False,33.1,True,29.9,True,73.0,False,C0AH50,林口,25.072181,121.38084

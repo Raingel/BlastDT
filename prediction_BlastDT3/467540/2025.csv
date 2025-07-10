@@ -187,3 +187,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-05,True,29.1,True,25.3,True,90.0,True,467540,大武,22.35572,120.90374
 2025-07-06,True,26.2,True,24.5,True,94.0,True,467540,大武,22.35572,120.90374
 2025-07-07,True,32.2,True,28.0,True,79.0,True,467540,大武,22.35572,120.90374
+2025-07-08,False,35.0,True,30.9,False,65.0,False,467540,大武,22.35572,120.90374

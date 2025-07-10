@@ -186,4 +186,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-04,False,33.4,True,27.5,True,73.0,False,C0D480,打鐵坑,24.849664,121.150789
 2025-07-05,True,30.6,True,26.5,True,81.0,True,C0D480,打鐵坑,24.849664,121.150789
 2025-07-06,True,31.8,True,26.0,True,83.0,True,C0D480,打鐵坑,24.849664,121.150789
-2025-07-07,False,,False,24.4,True,85.0,True,C0D480,打鐵坑,24.849664,121.150789
+2025-07-07,True,31.3,True,24.4,True,85.0,True,C0D480,打鐵坑,24.849664,121.150789
+2025-07-08,False,30.8,True,27.6,True,70.0,False,C0D480,打鐵坑,24.849664,121.150789
