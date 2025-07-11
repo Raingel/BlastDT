@@ -188,4 +188,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-06,True,29.1,True,25.8,True,92.0,True,A2K630,臺大雲林校區,23.730628,120.423903
 2025-07-07,True,30.8,True,27.1,True,86.0,True,A2K630,臺大雲林校區,23.730628,120.423903
 2025-07-08,True,28.8,True,26.3,True,90.0,True,A2K630,臺大雲林校區,23.730628,120.423903
-2025-07-09,False,,False,,False,,False,A2K630,臺大雲林校區,23.730628,120.423903
+2025-07-09,True,28.7,True,26.1,True,91.0,True,A2K630,臺大雲林校區,23.730628,120.423903
+2025-07-10,False,,False,,False,,False,A2K630,臺大雲林校區,23.730628,120.423903
