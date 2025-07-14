@@ -191,4 +191,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-09,True,25.4,True,23.0,True,99.0,True,E2P980,林試六龜中心,22.991703,120.645722
 2025-07-10,True,23.2,True,22.4,True,99.0,True,E2P980,林試六龜中心,22.991703,120.645722
 2025-07-11,True,29.4,True,24.1,True,97.0,True,E2P980,林試六龜中心,22.991703,120.645722
-2025-07-12,False,,False,,False,,False,E2P980,林試六龜中心,22.991703,120.645722
+2025-07-12,True,33.1,True,27.0,True,86.0,True,E2P980,林試六龜中心,22.991703,120.645722
+2025-07-13,False,,False,,False,,False,E2P980,林試六龜中心,22.991703,120.645722

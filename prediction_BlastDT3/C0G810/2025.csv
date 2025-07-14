@@ -191,3 +191,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-09,True,29.7,True,27.1,True,92.0,True,C0G810,埔心,23.947633,120.525456
 2025-07-10,True,28.9,True,27.1,True,94.0,True,C0G810,埔心,23.947633,120.525456
 2025-07-11,True,32.5,True,28.6,True,89.0,True,C0G810,埔心,23.947633,120.525456
+2025-07-12,False,35.6,True,30.9,False,79.0,True,C0G810,埔心,23.947633,120.525456
