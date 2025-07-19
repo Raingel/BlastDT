@@ -197,3 +197,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-07-14,False,33.4,True,1.0,70.0,False,0.0,C0R790,九棚,22.14195,120.889281
 2025-07-15,False,32.0,True,1.0,76.0,False,0.0,C0R790,九棚,22.14195,120.889281
 2025-07-16,False,32.7,True,1.0,76.0,False,0.0,C0R790,九棚,22.14195,120.889281
+2025-07-17,True,30.2,True,1.0,83.0,True,1.0,C0R790,九棚,22.14195,120.889281

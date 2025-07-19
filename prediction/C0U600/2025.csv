@@ -197,3 +197,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-07-14,True,32.8,True,1.0,81.0,True,1.0,C0U600,礁溪,24.817539,121.765608
 2025-07-15,True,33.2,True,1.0,83.0,True,1.0,C0U600,礁溪,24.817539,121.765608
 2025-07-16,True,33.8,True,1.0,81.0,True,1.0,C0U600,礁溪,24.817539,121.765608
+2025-07-17,False,34.3,True,1.0,77.0,False,0.0,C0U600,礁溪,24.817539,121.765608
