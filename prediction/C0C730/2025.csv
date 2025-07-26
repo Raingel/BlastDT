@@ -204,3 +204,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-07-21,True,29.5,True,1.0,94.0,True,1.0,C0C730,中大臨海站,24.966126,121.008581
 2025-07-22,True,33.2,True,1.0,80.0,True,1.0,C0C730,中大臨海站,24.966126,121.008581
 2025-07-23,False,35.2,True,1.0,69.0,False,0.0,C0C730,中大臨海站,24.966126,121.008581
+2025-07-24,False,33.1,True,1.0,78.0,False,0.0,C0C730,中大臨海站,24.966126,121.008581
