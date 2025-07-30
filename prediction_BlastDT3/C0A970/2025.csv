@@ -206,3 +206,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-24,True,28.9,True,26.1,True,94.0,True,C0A970,三貂角,25.007606,122.002058
 2025-07-25,True,28.5,True,26.0,True,94.0,True,C0A970,三貂角,25.007606,122.002058
 2025-07-26,True,30.0,True,26.9,True,91.0,True,C0A970,三貂角,25.007606,122.002058
+2025-07-27,True,32.7,True,27.2,True,90.0,True,C0A970,三貂角,25.007606,122.002058
+2025-07-28,True,31.1,True,27.0,True,87.0,True,C0A970,三貂角,25.007606,122.002058
+2025-07-29,False,31.0,True,,False,,False,C0A970,三貂角,25.007606,122.002058

@@ -206,3 +206,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-24,True,31.3,True,29.2,True,81.0,True,C0V850,蚵仔寮,22.7256,120.2527
 2025-07-25,True,31.5,True,29.0,True,81.0,True,C0V850,蚵仔寮,22.7256,120.2527
 2025-07-26,True,31.3,True,28.0,True,87.0,True,C0V850,蚵仔寮,22.7256,120.2527
+2025-07-27,True,31.2,True,29.3,True,82.0,True,C0V850,蚵仔寮,22.7256,120.2527
+2025-07-28,True,28.8,True,26.9,True,91.0,True,C0V850,蚵仔寮,22.7256,120.2527
+2025-07-29,False,28.2,True,,False,,False,C0V850,蚵仔寮,22.7256,120.2527

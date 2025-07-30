@@ -206,3 +206,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-24,True,25.9,True,24.1,True,96.0,True,C0A870,五指山,25.132153,121.608692
 2025-07-25,True,26.3,True,24.4,True,96.0,True,C0A870,五指山,25.132153,121.608692
 2025-07-26,True,30.2,True,25.7,True,94.0,True,C0A870,五指山,25.132153,121.608692
+2025-07-27,True,28.1,True,25.9,True,96.0,True,C0A870,五指山,25.132153,121.608692
+2025-07-28,True,26.4,True,24.3,True,96.0,True,C0A870,五指山,25.132153,121.608692
+2025-07-29,False,26.6,True,,False,,False,C0A870,五指山,25.132153,121.608692

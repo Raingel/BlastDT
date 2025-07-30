@@ -206,3 +206,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-24,True,30.1,True,28.4,True,83.0,True,C0S730,綠島,22.6672,121.47533
 2025-07-25,True,32.6,True,29.0,True,82.0,True,C0S730,綠島,22.6672,121.47533
 2025-07-26,True,33.7,True,29.4,True,85.0,True,C0S730,綠島,22.6672,121.47533
+2025-07-27,True,33.4,True,29.1,True,84.0,True,C0S730,綠島,22.6672,121.47533
+2025-07-28,True,30.9,True,27.5,True,92.0,True,C0S730,綠島,22.6672,121.47533
+2025-07-29,False,29.7,True,,False,,False,C0S730,綠島,22.6672,121.47533

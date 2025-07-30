@@ -206,4 +206,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-24,True,33.2,True,29.4,True,76.0,True,G2L020,農試嘉義分所,23.485028,120.473806
 2025-07-25,True,33.7,True,28.8,True,78.0,True,G2L020,農試嘉義分所,23.485028,120.473806
 2025-07-26,True,30.8,True,27.5,True,83.0,True,G2L020,農試嘉義分所,23.485028,120.473806
-2025-07-27,False,,False,,False,,False,G2L020,農試嘉義分所,23.485028,120.473806
+2025-07-27,True,32.8,True,28.4,True,82.0,True,G2L020,農試嘉義分所,23.485028,120.473806
+2025-07-28,True,26.4,True,24.6,True,96.0,True,G2L020,農試嘉義分所,23.485028,120.473806
+2025-07-29,False,,False,,False,,False,G2L020,農試嘉義分所,23.485028,120.473806
