@@ -208,4 +208,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-26,True,32.0,True,28.9,True,80.0,True,C0FA40,臺中電廠,24.2146,120.4907
 2025-07-27,True,31.4,True,28.8,True,86.0,True,C0FA40,臺中電廠,24.2146,120.4907
 2025-07-28,True,32.3,True,27.0,True,89.0,True,C0FA40,臺中電廠,24.2146,120.4907
-2025-07-29,False,32.2,True,,False,,False,C0FA40,臺中電廠,24.2146,120.4907
+2025-07-29,True,32.2,True,28.3,True,84.0,True,C0FA40,臺中電廠,24.2146,120.4907
