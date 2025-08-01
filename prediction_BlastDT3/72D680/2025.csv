@@ -209,4 +209,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-27,True,30.7,True,27.8,True,85.0,True,72D680,桃改新埔分場,24.834444,121.066111
 2025-07-28,True,31.0,True,26.6,True,91.0,True,72D680,桃改新埔分場,24.834444,121.066111
 2025-07-29,True,29.9,True,26.5,True,91.0,True,72D680,桃改新埔分場,24.834444,121.066111
-2025-07-30,False,,False,,False,,False,72D680,桃改新埔分場,24.834444,121.066111
+2025-07-30,False,33.9,True,30.0,True,73.0,False,72D680,桃改新埔分場,24.834444,121.066111
+2025-07-31,False,,False,,False,,False,72D680,桃改新埔分場,24.834444,121.066111
