@@ -211,3 +211,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-07-28,True,30.9,True,1.0,80.0,True,1.0,G2AI50,關渡,25.11575,121.492
 2025-07-29,True,31.1,True,1.0,82.0,True,1.0,G2AI50,關渡,25.11575,121.492
 2025-07-30,False,34.2,True,1.0,70.0,False,0.0,G2AI50,關渡,25.11575,121.492
+2025-07-31,False,34.3,True,1.0,69.0,False,0.0,G2AI50,關渡,25.11575,121.492
