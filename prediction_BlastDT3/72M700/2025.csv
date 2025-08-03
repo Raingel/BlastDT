@@ -211,4 +211,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-29,True,30.7,True,27.2,True,92.0,True,72M700,南改鹿草分場,23.416869,120.283061
 2025-07-30,True,31.0,True,28.7,True,91.0,True,72M700,南改鹿草分場,23.416869,120.283061
 2025-07-31,True,30.5,True,28.7,True,90.0,True,72M700,南改鹿草分場,23.416869,120.283061
-2025-08-01,False,,False,,False,,False,72M700,南改鹿草分場,23.416869,120.283061
+2025-08-01,True,30.3,True,27.1,True,97.0,True,72M700,南改鹿草分場,23.416869,120.283061
+2025-08-02,False,,False,,False,,False,72M700,南改鹿草分場,23.416869,120.283061
