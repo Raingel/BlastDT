@@ -212,3 +212,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-07-30,True,32.0,True,28.2,True,96.0,True,C0V350,溪埔,22.738578,120.446797
 2025-07-31,True,31.1,True,28.3,True,97.0,True,C0V350,溪埔,22.738578,120.446797
 2025-08-01,True,27.0,True,25.8,True,99.0,True,C0V350,溪埔,22.738578,120.446797
+2025-08-02,False,26.1,True,25.3,True,,False,C0V350,溪埔,22.738578,120.446797
