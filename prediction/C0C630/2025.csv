@@ -213,3 +213,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-07-30,False,32.2,True,1.0,75.0,False,0.0,C0C630,大溪,24.882853,121.265547
 2025-07-31,False,32.6,True,1.0,73.0,False,0.0,C0C630,大溪,24.882853,121.265547
 2025-08-01,True,33.8,True,1.0,82.0,True,1.0,C0C630,大溪,24.882853,121.265547
+2025-08-02,False,32.4,True,1.0,75.0,False,0.0,C0C630,大溪,24.882853,121.265547
