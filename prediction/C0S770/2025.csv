@@ -216,3 +216,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-08-02,True,24.7,True,1.0,95.0,True,1.0,C0S770,大溪山,22.478475,120.943325
 2025-08-03,True,28.2,True,1.0,90.0,True,1.0,C0S770,大溪山,22.478475,120.943325
 2025-08-04,True,30.6,True,1.0,80.0,True,1.0,C0S770,大溪山,22.478475,120.943325
+2025-08-05,False,32.5,True,1.0,76.0,False,0.0,C0S770,大溪山,22.478475,120.943325
