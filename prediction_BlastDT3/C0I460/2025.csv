@@ -217,3 +217,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-08-04,True,27.4,True,25.5,True,99.0,True,C0I460,南投,23.911469,120.687331
 2025-08-05,True,32.3,True,28.4,True,86.0,True,C0I460,南投,23.911469,120.687331
 2025-08-06,True,34.1,True,28.8,True,76.0,True,C0I460,南投,23.911469,120.687331
+2025-08-07,False,34.3,True,29.1,True,73.0,False,C0I460,南投,23.911469,120.687331
