@@ -222,3 +222,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-08-09,True,32.8,True,28.9,True,75.0,True,G2AI50,關渡,25.11575,121.492
 2025-08-10,True,32.5,True,29.3,True,74.0,True,G2AI50,關渡,25.11575,121.492
 2025-08-11,True,33.3,True,29.0,True,76.0,True,G2AI50,關渡,25.11575,121.492
+2025-08-12,False,31.9,True,29.5,True,73.0,False,G2AI50,關渡,25.11575,121.492
