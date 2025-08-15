@@ -223,3 +223,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-08-10,True,31.8,True,28.4,True,76.0,True,C0C670,龍潭,24.870056,121.221389
 2025-08-11,True,31.3,True,27.8,True,78.0,True,C0C670,龍潭,24.870056,121.221389
 2025-08-12,True,30.4,True,27.4,True,79.0,True,C0C670,龍潭,24.870056,121.221389
+2025-08-13,False,31.6,True,28.4,True,66.0,False,C0C670,龍潭,24.870056,121.221389

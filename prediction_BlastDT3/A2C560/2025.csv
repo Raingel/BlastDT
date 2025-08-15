@@ -223,4 +223,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-08-10,False,34.0,True,30.1,True,71.0,False,A2C560,農工中心,24.985917,121.239833
 2025-08-11,False,33.3,True,29.6,True,72.0,False,A2C560,農工中心,24.985917,121.239833
 2025-08-12,True,33.1,True,29.6,True,74.0,True,A2C560,農工中心,24.985917,121.239833
-2025-08-13,False,,False,,False,,False,A2C560,農工中心,24.985917,121.239833
+2025-08-13,False,33.0,True,29.6,True,66.0,False,A2C560,農工中心,24.985917,121.239833
+2025-08-14,False,,False,,False,,False,A2C560,農工中心,24.985917,121.239833
