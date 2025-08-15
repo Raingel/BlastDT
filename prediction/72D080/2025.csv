@@ -224,3 +224,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-08-10,True,26.0,True,1.0,96.0,True,1.0,72D080,桃改五峰分場,24.612194,121.157167
 2025-08-11,True,27.0,True,1.0,95.0,True,1.0,72D080,桃改五峰分場,24.612194,121.157167
 2025-08-12,True,26.2,True,1.0,96.0,True,1.0,72D080,桃改五峰分場,24.612194,121.157167
+2025-08-13,False,27.3,True,1.0,74.0,False,0.0,72D080,桃改五峰分場,24.612194,121.157167
