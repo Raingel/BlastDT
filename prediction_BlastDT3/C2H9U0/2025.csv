@@ -224,7 +224,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-08-11,True,32.3,True,25.6,True,91.0,True,C2H9U0,鳳鵬,23.763919,120.788061
 2025-08-12,True,33.0,True,27.0,True,88.0,True,C2H9U0,鳳鵬,23.763919,120.788061
 2025-08-13,True,29.3,True,24.4,True,92.0,True,C2H9U0,鳳鵬,23.763919,120.788061
-2025-08-14,False,,False,,False,,False,C2H9U0,鳳鵬,23.763919,120.788061
+2025-08-14,True,33.9,True,26.8,True,82.0,True,C2H9U0,鳳鵬,23.763919,120.788061
 2025-08-15,False,,False,,False,,False,C2H9U0,鳳鵬,23.763919,120.788061
 2025-08-16,False,,False,,False,,False,C2H9U0,鳳鵬,23.763919,120.788061
 2025-08-17,False,,False,,False,,False,C2H9U0,鳳鵬,23.763919,120.788061

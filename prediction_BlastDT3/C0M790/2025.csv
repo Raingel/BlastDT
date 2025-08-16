@@ -224,3 +224,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-08-11,True,32.6,True,29.2,True,76.0,True,C0M790,新港,23.553269,120.345728
 2025-08-12,True,34.0,True,29.8,True,76.0,True,C0M790,新港,23.553269,120.345728
 2025-08-13,True,32.5,True,27.8,True,80.0,True,C0M790,新港,23.553269,120.345728
+2025-08-14,False,34.3,True,29.8,True,66.0,False,C0M790,新港,23.553269,120.345728
