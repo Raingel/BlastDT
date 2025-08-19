@@ -113,3 +113,5 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2025-08-14,False,15.6,True,1.0,16.8,False,0.0,97.0,True,1.0,C0UB80,翠峰林道6K,24.49773,121.568625
 2025-08-15,False,15.4,True,1.0,18.3,False,0.0,94.0,True,1.0,C0UB80,翠峰林道6K,24.49773,121.568625
 2025-08-16,False,15.9,True,1.0,20.0,False,0.0,91.0,True,1.0,C0UB80,翠峰林道6K,24.49773,121.568625
+2025-08-17,False,16.0,True,1.0,20.5,False,0.0,91.0,True,1.0,C0UB80,翠峰林道6K,24.49773,121.568625
+2025-08-18,True,16.0,True,1.0,21.1,True,1.0,90.0,True,1.0,C0UB80,翠峰林道6K,24.49773,121.568625
