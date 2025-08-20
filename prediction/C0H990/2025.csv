@@ -229,3 +229,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-08-15,False,20.2,False,0.0,75.0,False,0.0,C0H990,昆陽,24.121322,121.273642
 2025-08-16,False,18.9,False,0.0,64.0,False,0.0,C0H990,昆陽,24.121322,121.273642
 2025-08-17,False,16.6,False,0.0,80.0,True,1.0,C0H990,昆陽,24.121322,121.273642
+2025-08-18,False,15.2,False,0.0,96.0,True,1.0,C0H990,昆陽,24.121322,121.273642
