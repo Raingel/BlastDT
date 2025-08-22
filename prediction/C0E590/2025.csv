@@ -231,3 +231,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-08-17,False,34.8,True,1.0,77.0,False,0.0,C0E590,通霄,24.471892,120.704622
 2025-08-18,False,34.0,True,1.0,78.0,False,0.0,C0E590,通霄,24.471892,120.704622
 2025-08-19,False,34.0,True,1.0,78.0,False,0.0,C0E590,通霄,24.471892,120.704622
+2025-08-20,True,35.0,True,1.0,80.0,True,1.0,C0E590,通霄,24.471892,120.704622
