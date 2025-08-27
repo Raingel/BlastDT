@@ -235,3 +235,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-08-22,True,32.4,True,29.1,True,80.0,True,C0AJ70,田寮,25.2698,121.4886
 2025-08-23,True,31.2,True,28.6,True,85.0,True,C0AJ70,田寮,25.2698,121.4886
 2025-08-24,True,33.8,True,29.6,True,79.0,True,C0AJ70,田寮,25.2698,121.4886
+2025-08-25,False,33.4,True,29.6,True,73.0,False,C0AJ70,田寮,25.2698,121.4886
