@@ -237,3 +237,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-08-24,True,33.5,True,28.7,True,80.0,True,C0V440,鳳山,22.646653,120.356122
 2025-08-25,True,33.5,True,28.9,True,80.0,True,C0V440,鳳山,22.646653,120.356122
 2025-08-26,True,32.7,True,27.0,True,86.0,True,C0V440,鳳山,22.646653,120.356122
+2025-08-27,False,,False,26.5,True,89.0,True,C0V440,鳳山,22.646653,120.356122
