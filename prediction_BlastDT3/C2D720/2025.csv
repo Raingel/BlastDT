@@ -240,7 +240,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-08-27,True,32.8,True,25.1,True,90.0,True,C2D720,關西工作站,24.757275,121.184792
 2025-08-28,True,34.7,True,27.1,True,83.0,True,C2D720,關西工作站,24.757275,121.184792
 2025-08-29,True,35.2,True,28.1,True,81.0,True,C2D720,關西工作站,24.757275,121.184792
-2025-08-30,False,,False,,False,,False,C2D720,關西工作站,24.757275,121.184792
+2025-08-30,True,34.3,True,26.5,True,88.0,True,C2D720,關西工作站,24.757275,121.184792
 2025-08-31,False,,False,,False,,False,C2D720,關西工作站,24.757275,121.184792
 2025-09-01,False,,False,,False,,False,C2D720,關西工作站,24.757275,121.184792
 2025-09-02,False,,False,,False,,False,C2D720,關西工作站,24.757275,121.184792
