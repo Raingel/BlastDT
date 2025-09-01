@@ -241,3 +241,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-08-27,True,33.1,True,1.0,84.0,True,1.0,C0UA00,土場,24.576533,121.495333
 2025-08-28,False,34.6,True,1.0,79.0,False,0.0,C0UA00,土場,24.576533,121.495333
 2025-08-29,False,33.3,True,1.0,78.0,False,0.0,C0UA00,土場,24.576533,121.495333
+2025-08-30,False,34.4,True,1.0,79.0,False,0.0,C0UA00,土場,24.576533,121.495333
