@@ -245,3 +245,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-09-01,True,34.3,True,29.3,True,82.0,True,C0R590,里港,22.77919,120.49459
 2025-09-02,True,33.2,True,28.7,True,82.0,True,C0R590,里港,22.77919,120.49459
 2025-09-03,True,34.5,True,28.7,True,79.0,True,C0R590,里港,22.77919,120.49459
+2025-09-04,False,,False,28.8,True,84.0,True,C0R590,里港,22.77919,120.49459
