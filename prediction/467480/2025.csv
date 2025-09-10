@@ -250,3 +250,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-09-05,False,33.8,True,1.0,78.0,False,0.0,467480,嘉義,23.495925,120.432906
 2025-09-06,True,34.0,True,1.0,80.0,True,1.0,467480,嘉義,23.495925,120.432906
 2025-09-07,False,34.1,True,1.0,78.0,False,0.0,467480,嘉義,23.495925,120.432906
+2025-09-08,False,34.1,True,1.0,75.0,False,0.0,467480,嘉義,23.495925,120.432906
