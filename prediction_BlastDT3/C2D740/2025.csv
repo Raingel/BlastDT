@@ -252,7 +252,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-09-08,True,22.4,True,16.5,True,93.0,True,C2D740,屯原,24.067969,121.209389
 2025-09-09,True,21.5,True,17.0,True,88.0,True,C2D740,屯原,24.067969,121.209389
 2025-09-10,True,23.6,True,17.2,True,88.0,True,C2D740,屯原,24.067969,121.209389
-2025-09-11,False,,False,,False,,False,C2D740,屯原,24.067969,121.209389
+2025-09-11,True,23.1,True,17.2,True,88.0,True,C2D740,屯原,24.067969,121.209389
 2025-09-12,False,,False,,False,,False,C2D740,屯原,24.067969,121.209389
 2025-09-13,False,,False,,False,,False,C2D740,屯原,24.067969,121.209389
 2025-09-14,False,,False,,False,,False,C2D740,屯原,24.067969,121.209389
