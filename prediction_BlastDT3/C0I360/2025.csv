@@ -253,3 +253,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-09-09,True,32.6,True,27.3,True,76.0,True,C0I360,水里,23.812553,120.849792
 2025-09-10,True,32.4,True,26.7,True,76.0,True,C0I360,水里,23.812553,120.849792
 2025-09-11,True,32.6,True,26.6,True,77.0,True,C0I360,水里,23.812553,120.849792
+2025-09-12,False,32.6,True,27.4,True,73.0,False,C0I360,水里,23.812553,120.849792
