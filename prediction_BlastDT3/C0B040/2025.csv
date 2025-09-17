@@ -256,3 +256,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-09-12,True,32.3,True,28.6,True,82.0,True,C0B040,大武崙,25.166676,121.706993
 2025-09-13,True,32.8,True,28.6,True,78.0,True,C0B040,大武崙,25.166676,121.706993
 2025-09-14,True,35.1,True,29.4,True,77.0,True,C0B040,大武崙,25.166676,121.706993
+2025-09-15,False,33.2,True,29.6,True,72.0,False,C0B040,大武崙,25.166676,121.706993
