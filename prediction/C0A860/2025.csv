@@ -259,3 +259,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-09-14,True,33.6,True,1.0,84.0,True,1.0,C0A860,大坪,25.165914,121.632969
 2025-09-15,False,34.2,True,1.0,79.0,False,0.0,C0A860,大坪,25.165914,121.632969
 2025-09-16,True,33.5,True,1.0,80.0,True,1.0,C0A860,大坪,25.165914,121.632969
+2025-09-17,False,32.2,True,1.0,79.0,False,0.0,C0A860,大坪,25.165914,121.632969
