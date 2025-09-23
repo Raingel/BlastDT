@@ -261,4 +261,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-09-17,True,21.9,True,13.6,True,82.0,True,C0UA20,多加屯,24.368614,121.373189
 2025-09-18,False,20.3,False,13.0,True,85.0,True,C0UA20,多加屯,24.368614,121.373189
 2025-09-19,False,19.9,False,14.1,True,82.0,True,C0UA20,多加屯,24.368614,121.373189
-2025-09-20,False,,False,13.5,True,86.0,True,C0UA20,多加屯,24.368614,121.373189
+2025-09-20,False,19.0,False,13.5,True,86.0,True,C0UA20,多加屯,24.368614,121.373189
+2025-09-21,False,18.1,False,12.9,True,82.0,True,C0UA20,多加屯,24.368614,121.373189
