@@ -264,3 +264,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-09-19,True,29.7,True,1.0,90.0,True,1.0,C0F0C0,中坑,24.248517,120.903319
 2025-09-20,True,25.5,True,1.0,93.0,True,1.0,C0F0C0,中坑,24.248517,120.903319
 2025-09-21,True,29.3,True,1.0,91.0,True,1.0,C0F0C0,中坑,24.248517,120.903319
+2025-09-22,False,29.8,True,1.0,71.0,False,0.0,C0F0C0,中坑,24.248517,120.903319
