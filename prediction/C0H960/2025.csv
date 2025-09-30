@@ -270,3 +270,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-09-25,True,34.4,True,1.0,82.0,True,1.0,C0H960,草屯,23.973672,120.68085
 2025-09-26,True,30.1,True,1.0,87.0,True,1.0,C0H960,草屯,23.973672,120.68085
 2025-09-27,False,35.4,True,1.0,74.0,False,0.0,C0H960,草屯,23.973672,120.68085
+2025-09-28,False,34.7,True,1.0,77.0,False,0.0,C0H960,草屯,23.973672,120.68085
