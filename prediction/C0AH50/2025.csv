@@ -271,3 +271,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-09-26,True,29.5,True,1.0,81.0,True,1.0,C0AH50,林口,25.072181,121.38084
 2025-09-27,False,33.7,True,1.0,76.0,False,0.0,C0AH50,林口,25.072181,121.38084
 2025-09-28,False,33.5,True,1.0,77.0,False,0.0,C0AH50,林口,25.072181,121.38084
+2025-09-29,True,31.0,True,1.0,87.0,True,1.0,C0AH50,林口,25.072181,121.38084
