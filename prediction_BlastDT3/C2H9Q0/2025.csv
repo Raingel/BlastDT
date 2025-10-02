@@ -271,7 +271,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-09-27,False,25.9,True,19.8,True,64.0,False,C2H9Q0,北東眼山,24.120939,121.189303
 2025-09-28,False,26.2,True,19.6,True,69.0,False,C2H9Q0,北東眼山,24.120939,121.189303
 2025-09-29,True,23.7,True,18.2,True,76.0,True,C2H9Q0,北東眼山,24.120939,121.189303
-2025-09-30,False,,False,,False,,False,C2H9Q0,北東眼山,24.120939,121.189303
+2025-09-30,True,24.9,True,17.4,True,86.0,True,C2H9Q0,北東眼山,24.120939,121.189303
 2025-10-01,False,,False,,False,,False,C2H9Q0,北東眼山,24.120939,121.189303
 2025-10-02,False,,False,,False,,False,C2H9Q0,北東眼山,24.120939,121.189303
 2025-10-03,False,,False,,False,,False,C2H9Q0,北東眼山,24.120939,121.189303
