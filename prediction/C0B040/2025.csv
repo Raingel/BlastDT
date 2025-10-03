@@ -273,3 +273,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-09-28,False,33.0,True,1.0,76.0,False,0.0,C0B040,大武崙,25.166676,121.706993
 2025-09-29,True,31.5,True,1.0,83.0,True,1.0,C0B040,大武崙,25.166676,121.706993
 2025-09-30,True,31.2,True,1.0,80.0,True,1.0,C0B040,大武崙,25.166676,121.706993
+2025-10-01,True,31.2,True,1.0,81.0,True,1.0,C0B040,大武崙,25.166676,121.706993
