@@ -274,7 +274,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-09-30,True,32.0,True,27.1,True,80.0,True,C2H9T0,名間竹圍,23.859914,120.637572
 2025-10-01,True,31.4,True,26.7,True,82.0,True,C2H9T0,名間竹圍,23.859914,120.637572
 2025-10-02,True,32.2,True,27.0,True,81.0,True,C2H9T0,名間竹圍,23.859914,120.637572
-2025-10-03,False,,False,,False,,False,C2H9T0,名間竹圍,23.859914,120.637572
+2025-10-03,True,32.5,True,26.9,True,76.0,True,C2H9T0,名間竹圍,23.859914,120.637572
 2025-10-04,False,,False,,False,,False,C2H9T0,名間竹圍,23.859914,120.637572
 2025-10-05,False,,False,,False,,False,C2H9T0,名間竹圍,23.859914,120.637572
 2025-10-06,False,,False,,False,,False,C2H9T0,名間竹圍,23.859914,120.637572

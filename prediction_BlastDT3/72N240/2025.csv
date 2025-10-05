@@ -274,4 +274,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-09-30,True,31.8,True,29.0,True,84.0,True,72N240,七股研究中心,23.081672,120.062894
 2025-10-01,True,31.2,True,29.1,True,81.0,True,72N240,七股研究中心,23.081672,120.062894
 2025-10-02,True,31.5,True,29.3,True,78.0,True,72N240,七股研究中心,23.081672,120.062894
-2025-10-03,False,,False,,False,,False,72N240,七股研究中心,23.081672,120.062894
+2025-10-03,True,31.3,True,29.2,True,79.0,True,72N240,七股研究中心,23.081672,120.062894
+2025-10-04,False,,False,,False,,False,72N240,七股研究中心,23.081672,120.062894
