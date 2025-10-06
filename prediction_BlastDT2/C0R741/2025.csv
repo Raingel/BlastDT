@@ -256,3 +256,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2025-10-01,False,28.4,True,1.0,32.3,True,1.0,76.0,False,0.0,C0R741,獅子,22.202308,120.705236
 2025-10-02,False,28.4,True,1.0,32.0,True,1.0,73.0,False,0.0,C0R741,獅子,22.202308,120.705236
 2025-10-03,False,27.7,True,1.0,31.5,True,1.0,75.0,False,0.0,C0R741,獅子,22.202308,120.705236
+2025-10-04,True,27.8,True,1.0,30.5,True,1.0,82.0,True,1.0,C0R741,獅子,22.202308,120.705236
