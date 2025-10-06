@@ -275,3 +275,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-01,True,24.5,True,21.1,True,94.0,True,C2M620,瑞里,23.545133,120.675197
 2025-10-02,True,24.4,True,20.6,True,94.0,True,C2M620,瑞里,23.545133,120.675197
 2025-10-03,True,25.2,True,21.7,True,81.0,True,C2M620,瑞里,23.545133,120.675197
+2025-10-04,False,26.8,True,22.0,True,72.0,False,C2M620,瑞里,23.545133,120.675197
