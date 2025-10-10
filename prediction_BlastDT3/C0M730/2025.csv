@@ -277,5 +277,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-03,True,36.0,True,29.8,True,75.0,True,C0M730,嘉義市東區,23.457673,120.460531
 2025-10-04,False,37.3,True,29.9,True,70.0,False,C0M730,嘉義市東區,23.457673,120.460531
 2025-10-05,False,,False,29.3,True,70.0,False,C0M730,嘉義市東區,23.457673,120.460531
-2025-10-06,False,,False,,False,,False,C0M730,嘉義市東區,23.457673,120.460531
-2025-10-07,False,,False,,False,,False,C0M730,嘉義市東區,23.457673,120.460531
+2025-10-06,False,,False,29.6,True,71.66666666666667,False,C0M730,嘉義市東區,23.457673,120.460531
+2025-10-07,False,,False,29.9,True,73.33333333333333,False,C0M730,嘉義市東區,23.457673,120.460531
+2025-10-08,False,,False,30.2,True,75.0,True,C0M730,嘉義市東區,23.457673,120.460531
