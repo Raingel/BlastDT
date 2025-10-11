@@ -281,3 +281,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2025-10-06,True,28.9,True,1.0,32.6,True,1.0,80.0,True,1.0,C0G720,溪州,23.851589,120.499093
 2025-10-07,True,29.0,True,1.0,33.3,True,1.0,77.0,True,1.0,C0G720,溪州,23.851589,120.499093
 2025-10-08,False,28.9,True,1.0,32.8,True,1.0,75.0,False,0.0,C0G720,溪州,23.851589,120.499093
+2025-10-09,False,28.8,True,1.0,34.1,True,1.0,75.0,False,0.0,C0G720,溪州,23.851589,120.499093
