@@ -282,3 +282,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-08,True,29.0,True,25.5,True,84.0,True,C0E610,馬都安,24.451272,120.930192
 2025-10-09,True,29.1,True,23.2,True,88.0,True,C0E610,馬都安,24.451272,120.930192
 2025-10-10,True,27.8,True,23.3,True,84.0,True,C0E610,馬都安,24.451272,120.930192
+2025-10-11,False,29.3,True,24.0,True,72.0,False,C0E610,馬都安,24.451272,120.930192
