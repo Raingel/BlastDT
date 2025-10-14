@@ -284,4 +284,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-10-09,False,41.2,True,1.0,72.0,False,0.0,C0F9N0,大里,24.092464,120.701378
 2025-10-10,False,39.8,True,1.0,72.0,False,0.0,C0F9N0,大里,24.092464,120.701378
 2025-10-11,False,38.3,True,1.0,72.0,False,0.0,C0F9N0,大里,24.092464,120.701378
-2025-10-12,,,,,78.0,False,0.0,C0F9N0,大里,24.092464,120.701378
+2025-10-12,False,36.2,True,1.0,71.0,False,0.0,C0F9N0,大里,24.092464,120.701378
