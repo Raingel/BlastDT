@@ -285,3 +285,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-10-10,True,34.3,True,1.0,83.0,True,1.0,C0A640,石碇,24.993969,121.662917
 2025-10-11,True,36.1,True,1.0,80.0,True,1.0,C0A640,石碇,24.993969,121.662917
 2025-10-12,False,35.5,True,1.0,78.0,False,0.0,C0A640,石碇,24.993969,121.662917
+2025-10-13,True,36.5,True,1.0,84.0,True,1.0,C0A640,石碇,24.993969,121.662917

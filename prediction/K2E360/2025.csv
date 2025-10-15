@@ -284,3 +284,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-10-10,True,33.1,True,1.0,84.0,True,1.0,K2E360,苗栗農改場,24.495722,120.829111
 2025-10-11,True,33.5,True,1.0,82.0,True,1.0,K2E360,苗栗農改場,24.495722,120.829111
 2025-10-12,True,34.2,True,1.0,80.0,True,1.0,K2E360,苗栗農改場,24.495722,120.829111
+2025-10-13,False,33.8,True,1.0,78.0,False,0.0,K2E360,苗栗農改場,24.495722,120.829111
