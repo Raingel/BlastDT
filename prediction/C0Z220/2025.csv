@@ -297,3 +297,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-10-22,False,21.3,False,0.0,98.0,True,1.0,C0Z220,和平林道,24.343922,121.656317
 2025-10-23,False,20.8,False,0.0,92.0,True,1.0,C0Z220,和平林道,24.343922,121.656317
 2025-10-24,False,20.9,False,0.0,94.0,True,1.0,C0Z220,和平林道,24.343922,121.656317
+2025-10-25,False,22.9,False,0.0,97.0,True,1.0,C0Z220,和平林道,24.343922,121.656317
+2025-10-26,True,23.7,True,1.0,95.0,True,1.0,C0Z220,和平林道,24.343922,121.656317
