@@ -296,8 +296,8 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-22,True,22.2,True,21.8,True,86.0,True,V2C260,八德蔬果,24.978508,121.281819
 2025-10-23,True,24.1,True,22.1,True,86.0,True,V2C260,八德蔬果,24.978508,121.281819
 2025-10-24,True,22.8,True,22.0,True,88.0,True,V2C260,八德蔬果,24.978508,121.281819
-2025-10-25,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
-2025-10-26,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
+2025-10-25,True,25.4,True,22.9,True,87.0,True,V2C260,八德蔬果,24.978508,121.281819
+2025-10-26,True,23.2,True,22.2,True,83.0,True,V2C260,八德蔬果,24.978508,121.281819
 2025-10-27,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
 2025-10-28,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
 2025-10-29,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
