@@ -301,4 +301,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-27,True,32.0,True,26.3,True,81.0,True,72Q010,高雄農改場,22.709333,120.525889
 2025-10-28,True,30.3,True,25.9,True,82.0,True,72Q010,高雄農改場,22.709333,120.525889
 2025-10-29,True,32.1,True,26.4,True,81.0,True,72Q010,高雄農改場,22.709333,120.525889
-2025-10-30,False,,False,,False,,False,72Q010,高雄農改場,22.709333,120.525889
+2025-10-30,True,32.6,True,27.4,True,77.0,True,72Q010,高雄農改場,22.709333,120.525889
+2025-10-31,False,,False,,False,,False,72Q010,高雄農改場,22.709333,120.525889
