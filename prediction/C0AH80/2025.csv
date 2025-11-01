@@ -302,3 +302,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-10-27,False,22.6,False,0.0,89.6,True,1.0,C0AH80,深坑,25.002703,121.628328
 2025-10-28,False,23.200000000000003,False,0.0,88.8,True,1.0,C0AH80,深坑,25.002703,121.628328
 2025-10-29,True,23.8,True,1.0,88.0,True,1.0,C0AH80,深坑,25.002703,121.628328
+2025-10-30,True,29.3,True,1.0,86.0,True,1.0,C0AH80,深坑,25.002703,121.628328
