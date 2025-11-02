@@ -303,3 +303,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-10-28,True,27.8,True,1.0,84.0,True,1.0,C0R730,大坪頂,22.024633,120.69355
 2025-10-29,False,27.9,True,1.0,77.0,False,0.0,C0R730,大坪頂,22.024633,120.69355
 2025-10-30,True,31.1,True,1.0,82.0,True,1.0,C0R730,大坪頂,22.024633,120.69355
+2025-10-31,True,31.9,True,1.0,90.0,True,1.0,C0R730,大坪頂,22.024633,120.69355
