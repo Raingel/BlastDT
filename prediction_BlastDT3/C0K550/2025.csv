@@ -303,3 +303,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-29,True,30.3,True,25.0,True,79.0,True,C0K550,蔦松,23.514319,120.229736
 2025-10-30,True,30.7,True,25.7,True,84.0,True,C0K550,蔦松,23.514319,120.229736
 2025-10-31,True,29.1,True,25.2,True,79.0,True,C0K550,蔦松,23.514319,120.229736
+2025-11-01,False,29.1,True,25.0,True,70.0,False,C0K550,蔦松,23.514319,120.229736
