@@ -304,3 +304,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-30,True,24.6,True,23.9,True,88.0,True,C0W120,西嶼,23.5626,119.468436
 2025-10-31,True,25.4,True,24.1,True,79.0,True,C0W120,西嶼,23.5626,119.468436
 2025-11-01,True,24.6,True,23.8,True,74.0,True,C0W120,西嶼,23.5626,119.468436
+2025-11-02,False,25.0,True,24.0,True,72.0,False,C0W120,西嶼,23.5626,119.468436

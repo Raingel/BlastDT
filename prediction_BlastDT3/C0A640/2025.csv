@@ -304,3 +304,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-30,True,28.8,True,23.9,True,89.0,True,C0A640,石碇,24.993969,121.662917
 2025-10-31,True,23.7,True,21.8,True,93.0,True,C0A640,石碇,24.993969,121.662917
 2025-11-01,True,21.9,True,19.9,True,96.0,True,C0A640,石碇,24.993969,121.662917
+2025-11-02,False,,False,19.1,True,97.0,True,C0A640,石碇,24.993969,121.662917

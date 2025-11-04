@@ -304,3 +304,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-30,True,25.7,True,24.0,True,89.0,True,C0W190,望安,23.380564,119.494075
 2025-10-31,True,26.5,True,24.3,True,79.0,True,C0W190,望安,23.380564,119.494075
 2025-11-01,True,25.5,True,24.0,True,74.0,True,C0W190,望安,23.380564,119.494075
+2025-11-02,False,25.6,True,24.0,True,73.0,False,C0W190,望安,23.380564,119.494075
