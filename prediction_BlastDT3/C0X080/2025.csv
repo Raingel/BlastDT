@@ -305,3 +305,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-31,True,31.4,True,25.8,True,75.0,True,C0X080,佳里,23.173039,120.145086
 2025-11-01,False,31.5,True,25.4,True,70.0,False,C0X080,佳里,23.173039,120.145086
 2025-11-02,False,29.8,True,25.2,True,70.0,False,C0X080,佳里,23.173039,120.145086
+2025-11-03,False,,False,24.4,True,68.0,False,C0X080,佳里,23.173039,120.145086

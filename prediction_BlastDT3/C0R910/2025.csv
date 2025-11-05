@@ -305,3 +305,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-31,True,31.7,True,27.1,True,81.0,True,C0R910,下寮,22.3929,120.5548
 2025-11-01,True,29.2,True,26.0,True,79.0,True,C0R910,下寮,22.3929,120.5548
 2025-11-02,True,29.2,True,26.9,True,76.0,True,C0R910,下寮,22.3929,120.5548
+2025-11-03,False,29.1,True,26.6,True,72.0,False,C0R910,下寮,22.3929,120.5548

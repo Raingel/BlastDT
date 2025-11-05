@@ -304,3 +304,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-10-30,True,26.2,True,21.5,True,91.0,True,C2A560,福山,24.776203,121.502811
 2025-10-31,True,21.4,True,19.7,True,94.0,True,C2A560,福山,24.776203,121.502811
 2025-11-01,False,20.0,False,18.3,True,95.0,True,C2A560,福山,24.776203,121.502811
+2025-11-02,False,19.2,False,17.65,True,96.5,True,C2A560,福山,24.776203,121.502811
+2025-11-03,False,18.4,False,17.0,True,98.0,True,C2A560,福山,24.776203,121.502811
