@@ -306,7 +306,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-01,True,24.9,True,19.3,True,89.0,True,C2K610,草嶺石壁,23.602469,120.707731
 2025-11-02,True,22.1,True,19.2,True,88.0,True,C2K610,草嶺石壁,23.602469,120.707731
 2025-11-03,True,25.8,True,19.7,True,86.0,True,C2K610,草嶺石壁,23.602469,120.707731
-2025-11-04,False,,False,,False,,False,C2K610,草嶺石壁,23.602469,120.707731
+2025-11-04,True,25.8,True,19.6,True,81.0,True,C2K610,草嶺石壁,23.602469,120.707731
 2025-11-05,False,,False,,False,,False,C2K610,草嶺石壁,23.602469,120.707731
 2025-11-06,False,,False,,False,,False,C2K610,草嶺石壁,23.602469,120.707731
 2025-11-07,False,,False,,False,,False,C2K610,草嶺石壁,23.602469,120.707731
