@@ -308,3 +308,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-02,True,24.6,True,1.0,84.0,True,1.0,C0S830,長濱,23.286817,121.411975
 2025-11-03,False,25.8,True,1.0,77.0,False,0.0,C0S830,長濱,23.286817,121.411975
 2025-11-04,True,30.5,True,1.0,82.0,True,1.0,C0S830,長濱,23.286817,121.411975
+2025-11-05,True,30.4,True,1.0,83.0,True,1.0,C0S830,長濱,23.286817,121.411975

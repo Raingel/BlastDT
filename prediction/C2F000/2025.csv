@@ -308,3 +308,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-02,False,25.8,True,1.0,76.0,False,0.0,C2F000,大肚,24.15295,120.572117
 2025-11-03,False,25.8,True,1.0,76.0,False,0.0,C2F000,大肚,24.15295,120.572117
 2025-11-04,True,25.0,True,1.0,85.0,True,1.0,C2F000,大肚,24.15295,120.572117
+2025-11-05,True,27.4,True,1.0,82.0,True,1.0,C2F000,大肚,24.15295,120.572117
