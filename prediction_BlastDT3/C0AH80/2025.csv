@@ -311,3 +311,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-06,True,28.25,True,24.3,True,86.0,True,C0AH80,深坑,25.002703,121.628328
 2025-11-07,True,30.3,True,25.7,True,82.0,True,C0AH80,深坑,25.002703,121.628328
 2025-11-08,True,28.0,True,25.3,True,84.0,True,C0AH80,深坑,25.002703,121.628328
+2025-11-09,False,,False,25.4,True,84.0,True,C0AH80,深坑,25.002703,121.628328

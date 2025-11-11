@@ -311,3 +311,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-06,True,32.2,True,26.6,True,75.0,True,C0R150,三地門,22.709889,120.639944
 2025-11-07,True,33.5,True,27.0,True,77.0,True,C0R150,三地門,22.709889,120.639944
 2025-11-08,True,29.7,True,25.9,True,81.0,True,C0R150,三地門,22.709889,120.639944
+2025-11-09,False,,False,26.6,True,74.0,True,C0R150,三地門,22.709889,120.639944
