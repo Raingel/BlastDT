@@ -311,3 +311,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-06,True,26.7,True,21.4,True,83.0,True,C2K240,草嶺,23.59555,120.693461
 2025-11-07,True,26.7,True,21.0,True,88.0,True,C2K240,草嶺,23.59555,120.693461
 2025-11-08,True,23.9,True,19.9,True,95.0,True,C2K240,草嶺,23.59555,120.693461
+2025-11-09,True,25.0,True,19.9,True,94.0,True,C2K240,草嶺,23.59555,120.693461
+2025-11-10,False,26.6,True,21.8,True,62.0,False,C2K240,草嶺,23.59555,120.693461
