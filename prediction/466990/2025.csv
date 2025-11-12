@@ -313,3 +313,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-07,True,29.4,True,1.0,82.0,True,1.0,466990,花蓮,23.975128,121.613275
 2025-11-08,True,28.2,True,1.0,81.0,True,1.0,466990,花蓮,23.975128,121.613275
 2025-11-09,False,29.5,True,1.0,78.0,False,0.0,466990,花蓮,23.975128,121.613275
+2025-11-10,True,25.9,True,1.0,93.0,True,1.0,466990,花蓮,23.975128,121.613275
