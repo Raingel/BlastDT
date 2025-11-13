@@ -313,4 +313,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-08,True,29.7,True,25.0,True,83.0,True,72M360,南改義竹分場,23.360694,120.279361
 2025-11-09,True,30.6,True,25.4,True,81.0,True,72M360,南改義竹分場,23.360694,120.279361
 2025-11-10,True,26.3,True,23.5,True,84.0,True,72M360,南改義竹分場,23.360694,120.279361
-2025-11-11,False,,False,,False,,False,72M360,南改義竹分場,23.360694,120.279361
+2025-11-11,True,28.3,True,23.7,True,86.0,True,72M360,南改義竹分場,23.360694,120.279361
+2025-11-12,False,,False,,False,,False,72M360,南改義竹分場,23.360694,120.279361

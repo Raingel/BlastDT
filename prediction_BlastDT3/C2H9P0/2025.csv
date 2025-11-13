@@ -313,7 +313,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-08,True,28.7,True,21.5,True,83.0,True,C2H9P0,伊拿谷,23.963211,121.088264
 2025-11-09,True,32.6,True,21.9,True,79.0,True,C2H9P0,伊拿谷,23.963211,121.088264
 2025-11-10,False,30.2,True,22.1,True,72.0,False,C2H9P0,伊拿谷,23.963211,121.088264
-2025-11-11,False,,False,,False,,False,C2H9P0,伊拿谷,23.963211,121.088264
+2025-11-11,True,29.2,True,23.1,True,79.0,True,C2H9P0,伊拿谷,23.963211,121.088264
 2025-11-12,False,,False,,False,,False,C2H9P0,伊拿谷,23.963211,121.088264
 2025-11-13,False,,False,,False,,False,C2H9P0,伊拿谷,23.963211,121.088264
 2025-11-14,False,,False,,False,,False,C2H9P0,伊拿谷,23.963211,121.088264
