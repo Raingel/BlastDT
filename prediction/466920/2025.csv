@@ -315,3 +315,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-09,False,30.1,True,1.0,78.0,False,0.0,466920,臺北,25.037658,121.514853
 2025-11-10,True,24.3,True,1.0,90.0,True,1.0,466920,臺北,25.037658,121.514853
 2025-11-11,True,24.2,True,1.0,91.0,True,1.0,466920,臺北,25.037658,121.514853
+2025-11-12,True,29.3,True,1.0,84.0,True,1.0,466920,臺北,25.037658,121.514853
