@@ -316,3 +316,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-11,True,23.8,True,23.2,True,96.0,True,C2A880,福隆,25.017842,121.942083
 2025-11-12,True,29.2,True,26.0,True,88.0,True,C2A880,福隆,25.017842,121.942083
 2025-11-13,True,25.0,True,22.4,True,92.0,True,C2A880,福隆,25.017842,121.942083
+2025-11-14,False,23.2,True,22.3,True,73.0,False,C2A880,福隆,25.017842,121.942083

@@ -316,7 +316,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-11,True,23.4,True,22.0,True,93.0,True,C2C410,中央大學,24.967652,121.185165
 2025-11-12,True,23.5,True,22.2,True,95.0,True,C2C410,中央大學,24.967652,121.185165
 2025-11-13,True,22.2,True,20.5,True,93.0,True,C2C410,中央大學,24.967652,121.185165
-2025-11-14,False,,False,,False,,False,C2C410,中央大學,24.967652,121.185165
+2025-11-14,False,24.0,True,21.4,True,71.0,False,C2C410,中央大學,24.967652,121.185165
 2025-11-15,False,,False,,False,,False,C2C410,中央大學,24.967652,121.185165
 2025-11-16,False,,False,,False,,False,C2C410,中央大學,24.967652,121.185165
 2025-11-17,False,,False,,False,,False,C2C410,中央大學,24.967652,121.185165

@@ -315,4 +315,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-10,True,23.8,True,22.1,True,93.0,True,C0D590,新豐,24.87068,120.97721
 2025-11-11,True,23.1,True,21.4,True,100.0,True,C0D590,新豐,24.87068,120.97721
 2025-11-12,True,22.3,True,21.3,True,100.0,True,C0D590,新豐,24.87068,120.97721
-2025-11-13,False,,False,20.1,True,99.0,True,C0D590,新豐,24.87068,120.97721
+2025-11-13,True,23.1,True,20.1,True,99.0,True,C0D590,新豐,24.87068,120.97721
+2025-11-14,True,23.9,True,20.8,True,76.0,True,C0D590,新豐,24.87068,120.97721
