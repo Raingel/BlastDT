@@ -318,3 +318,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-12,True,24.8,True,1.0,96.0,True,1.0,467620,蘭嶼,22.0369,121.55843
 2025-11-13,True,25.9,True,1.0,94.0,True,1.0,467620,蘭嶼,22.0369,121.55843
 2025-11-14,True,24.1,True,1.0,88.0,True,1.0,467620,蘭嶼,22.0369,121.55843
+2025-11-15,False,24.6,True,1.0,79.0,False,0.0,467620,蘭嶼,22.0369,121.55843

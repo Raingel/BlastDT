@@ -318,3 +318,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-12,True,25.7,True,1.0,90.0,True,1.0,C0V860,南寮,22.7616,120.2339
 2025-11-13,True,27.3,True,1.0,85.0,True,1.0,C0V860,南寮,22.7616,120.2339
 2025-11-14,True,26.8,True,1.0,81.0,True,1.0,C0V860,南寮,22.7616,120.2339
+2025-11-15,False,26.7,True,1.0,79.0,False,0.0,C0V860,南寮,22.7616,120.2339

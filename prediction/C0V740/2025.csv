@@ -318,3 +318,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-12,True,26.9,True,1.0,87.0,True,1.0,C0V740,旗山,22.888614,120.483597
 2025-11-13,True,27.6,True,1.0,87.0,True,1.0,C0V740,旗山,22.888614,120.483597
 2025-11-14,False,30.6,True,1.0,78.0,False,0.0,C0V740,旗山,22.888614,120.483597
+2025-11-15,False,31.0,True,1.0,77.0,False,0.0,C0V740,旗山,22.888614,120.483597
