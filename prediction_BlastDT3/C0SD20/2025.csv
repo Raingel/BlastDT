@@ -1,0 +1,6 @@
+Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
+2025-11-11,True,27.0,True,25.1,True,90.0,True,C0SD20,富山,22.822383,121.190825
+2025-11-12,True,27.4,True,25.3,True,90.0,True,C0SD20,富山,22.822383,121.190825
+2025-11-13,True,28.6,True,25.4,True,80.0,True,C0SD20,富山,22.822383,121.190825
+2025-11-14,True,25.8,True,24.0,True,74.0,True,C0SD20,富山,22.822383,121.190825
+2025-11-15,True,26.5,True,23.3,True,74.0,True,C0SD20,富山,22.822383,121.190825
