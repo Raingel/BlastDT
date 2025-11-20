@@ -321,3 +321,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-15,False,25.6,True,1.0,74.0,False,0.0,467350,澎湖,23.565503,119.563094
 2025-11-16,True,25.8,True,1.0,83.0,True,1.0,467350,澎湖,23.565503,119.563094
 2025-11-17,True,26.1,True,1.0,83.0,True,1.0,467350,澎湖,23.565503,119.563094
+2025-11-18,False,22.2,False,0.0,75.0,False,0.0,467350,澎湖,23.565503,119.563094
