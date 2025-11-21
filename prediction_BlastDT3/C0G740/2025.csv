@@ -321,3 +321,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-16,True,27.2,True,23.3,True,82.0,True,C0G740,大城,23.852487,120.320935
 2025-11-17,True,27.1,True,23.0,True,84.0,True,C0G740,大城,23.852487,120.320935
 2025-11-18,True,22.3,True,19.8,True,76.0,True,C0G740,大城,23.852487,120.320935
+2025-11-19,False,18.7,False,16.9,True,73.0,False,C0G740,大城,23.852487,120.320935
