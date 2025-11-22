@@ -323,3 +323,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-17,True,28.9,True,1.0,81.0,True,1.0,C0S690,太麻里,22.60902,120.98533
 2025-11-18,False,27.2,True,1.0,77.0,False,0.0,C0S690,太麻里,22.60902,120.98533
 2025-11-19,False,23.3,False,0.0,76.0,False,0.0,C0S690,太麻里,22.60902,120.98533
+2025-11-20,False,26.4,True,1.0,78.0,False,0.0,C0S690,太麻里,22.60902,120.98533
