@@ -322,3 +322,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-17,True,28.3,True,23.9,True,82.0,True,C0G800,埔鹽,24.000394,120.431683
 2025-11-18,True,23.1,True,20.2,True,77.0,True,C0G800,埔鹽,24.000394,120.431683
 2025-11-19,False,19.4,False,17.1,True,74.0,True,C0G800,埔鹽,24.000394,120.431683
+2025-11-20,False,23.4,True,19.2,True,70.0,False,C0G800,埔鹽,24.000394,120.431683
