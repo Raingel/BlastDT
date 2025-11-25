@@ -326,3 +326,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-20,False,20.8,False,0.0,70.0,False,0.0,C0K600,箔子寮,23.6197,120.14
 2025-11-21,False,22.9,False,0.0,74.0,False,0.0,C0K600,箔子寮,23.6197,120.14
 2025-11-22,False,23.6,True,1.0,75.0,False,0.0,C0K600,箔子寮,23.6197,120.14
+2025-11-23,True,24.1,True,1.0,84.0,True,1.0,C0K600,箔子寮,23.6197,120.14
