@@ -326,4 +326,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-21,True,25.2,True,20.3,True,76.0,True,72S590,東改賓朗果園,22.813889,121.071278
 2025-11-22,True,26.4,True,21.1,True,77.0,True,72S590,東改賓朗果園,22.813889,121.071278
 2025-11-23,True,26.9,True,21.7,True,82.0,True,72S590,東改賓朗果園,22.813889,121.071278
-2025-11-24,False,,False,,False,,False,72S590,東改賓朗果園,22.813889,121.071278
+2025-11-24,True,26.9,True,21.8,True,82.0,True,72S590,東改賓朗果園,22.813889,121.071278
+2025-11-25,False,,False,,False,,False,72S590,東改賓朗果園,22.813889,121.071278

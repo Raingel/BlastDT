@@ -12,3 +12,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-21,True,24.1,True,22.7,True,77.0,True,C0SD40,牛頭山,22.676661,121.506944
 2025-11-22,True,24.7,True,23.0,True,80.0,True,C0SD40,牛頭山,22.676661,121.506944
 2025-11-23,True,26.6,True,24.4,True,77.0,True,C0SD40,牛頭山,22.676661,121.506944
+2025-11-24,False,27.1,True,25.1,True,72.0,False,C0SD40,牛頭山,22.676661,121.506944
