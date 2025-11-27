@@ -327,3 +327,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-22,True,21.5,True,19.5,True,89.0,True,C0B060,暖暖,25.0957,121.7403
 2025-11-23,True,26.5,True,21.6,True,90.0,True,C0B060,暖暖,25.0957,121.7403
 2025-11-24,True,28.8,True,22.9,True,85.0,True,C0B060,暖暖,25.0957,121.7403
+2025-11-25,False,22.1,True,19.9,True,67.0,False,C0B060,暖暖,25.0957,121.7403
