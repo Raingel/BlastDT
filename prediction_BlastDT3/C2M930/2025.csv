@@ -328,7 +328,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-23,False,23.5,True,16.7,True,61.0,False,C2M930,石卓,23.478744,120.702264
 2025-11-24,True,21.7,True,15.3,True,76.0,True,C2M930,石卓,23.478744,120.702264
 2025-11-25,False,21.6,True,15.9,True,70.0,False,C2M930,石卓,23.478744,120.702264
-2025-11-26,False,,False,,False,,False,C2M930,石卓,23.478744,120.702264
+2025-11-26,True,21.2,True,14.7,True,81.0,True,C2M930,石卓,23.478744,120.702264
 2025-11-27,False,,False,,False,,False,C2M930,石卓,23.478744,120.702264
 2025-11-28,False,,False,,False,,False,C2M930,石卓,23.478744,120.702264
 2025-11-29,False,,False,,False,,False,C2M930,石卓,23.478744,120.702264

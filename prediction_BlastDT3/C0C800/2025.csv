@@ -210,7 +210,8 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-19,False,9.7,False,8.5,True,94.0,True,C0C800,四稜,24.64733,121.4293
 2025-11-20,False,12.3,False,9.4,True,94.0,True,C0C800,四稜,24.64733,121.4293
 2025-11-21,False,15.6,False,13.0,True,94.0,True,C0C800,四稜,24.64733,121.4293
-2025-11-22,False,,False,12.5,True,95.0,True,C0C800,四稜,24.64733,121.4293
-2025-11-23,False,,False,,False,,False,C0C800,四稜,24.64733,121.4293
-2025-11-24,False,,False,,False,,False,C0C800,四稜,24.64733,121.4293
-2025-11-25,False,,False,,False,,False,C0C800,四稜,24.64733,121.4293
+2025-11-22,False,14.4,False,12.5,True,95.0,True,C0C800,四稜,24.64733,121.4293
+2025-11-23,False,13.2,False,11.675,True,94.5,True,C0C800,四稜,24.64733,121.4293
+2025-11-24,False,12.0,False,10.85,True,94.0,True,C0C800,四稜,24.64733,121.4293
+2025-11-25,False,10.8,False,10.024999999999999,True,93.5,True,C0C800,四稜,24.64733,121.4293
+2025-11-26,False,9.6,False,9.2,True,93.0,True,C0C800,四稜,24.64733,121.4293
