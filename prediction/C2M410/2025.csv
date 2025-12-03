@@ -333,3 +333,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-28,False,22.2,False,0.0,88.0,True,1.0,C2M410,馬頭山,23.324361,120.582017
 2025-11-29,True,28.9,True,1.0,80.0,True,1.0,C2M410,馬頭山,23.324361,120.582017
 2025-11-30,False,27.5,True,1.0,78.0,False,0.0,C2M410,馬頭山,23.324361,120.582017
+2025-12-01,False,33.5,True,1.0,79.0,False,0.0,C2M410,馬頭山,23.324361,120.582017
