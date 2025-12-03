@@ -333,4 +333,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-28,True,22.8,True,20.6,True,89.0,True,72V140,高改旗南分場,22.857861,120.516667
 2025-11-29,True,27.1,True,21.9,True,82.0,True,72V140,高改旗南分場,22.857861,120.516667
 2025-11-30,True,28.3,True,22.0,True,79.0,True,72V140,高改旗南分場,22.857861,120.516667
-2025-12-01,False,,False,,False,,False,72V140,高改旗南分場,22.857861,120.516667
+2025-12-01,True,31.8,True,23.6,True,78.0,True,72V140,高改旗南分場,22.857861,120.516667
+2025-12-02,False,,False,,False,,False,72V140,高改旗南分場,22.857861,120.516667
