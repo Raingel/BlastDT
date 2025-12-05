@@ -336,3 +336,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-11-30,True,28.0,True,1.0,81.0,True,1.0,C0O980,新市,23.061614,120.298197
 2025-12-01,False,31.1,True,1.0,78.0,False,0.0,C0O980,新市,23.061614,120.298197
 2025-12-02,False,30.8,True,1.0,79.0,False,0.0,C0O980,新市,23.061614,120.298197
+2025-12-03,False,25.3,True,1.0,73.0,False,0.0,C0O980,新市,23.061614,120.298197
