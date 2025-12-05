@@ -335,4 +335,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-30,True,23.3,True,20.3,True,89.0,True,V2K620,麥寮合作社,23.753836,120.294783
 2025-12-01,True,24.5,True,21.4,True,88.0,True,V2K620,麥寮合作社,23.753836,120.294783
 2025-12-02,True,26.0,True,21.9,True,85.0,True,V2K620,麥寮合作社,23.753836,120.294783
-2025-12-03,False,,False,,False,,False,V2K620,麥寮合作社,23.753836,120.294783
+2025-12-03,False,21.5,True,19.3,True,69.0,False,V2K620,麥寮合作社,23.753836,120.294783
+2025-12-04,False,,False,,False,,False,V2K620,麥寮合作社,23.753836,120.294783

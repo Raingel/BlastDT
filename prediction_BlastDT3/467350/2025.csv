@@ -335,3 +335,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-30,True,22.9,True,21.5,True,82.0,True,467350,澎湖,23.565503,119.563094
 2025-12-01,True,24.6,True,22.0,True,83.0,True,467350,澎湖,23.565503,119.563094
 2025-12-02,True,24.5,True,22.7,True,82.0,True,467350,澎湖,23.565503,119.563094
+2025-12-03,False,22.2,True,20.3,True,73.0,False,467350,澎湖,23.565503,119.563094

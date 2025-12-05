@@ -335,3 +335,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-30,True,26.7,True,18.1,True,89.0,True,C2E540,龍溪,24.606489,120.783933
 2025-12-01,True,24.7,True,20.1,True,89.0,True,C2E540,龍溪,24.606489,120.783933
 2025-12-02,True,23.8,True,20.5,True,82.0,True,C2E540,龍溪,24.606489,120.783933
+2025-12-03,False,20.3,False,17.5,True,70.0,False,C2E540,龍溪,24.606489,120.783933
