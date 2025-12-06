@@ -336,6 +336,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-01,True,27.8,True,23.6,True,91.0,True,C0R800,丹路,22.204481,120.750989
 2025-12-02,True,27.7,True,23.3,True,88.0,True,C0R800,丹路,22.204481,120.750989
 2025-12-03,False,23.8,True,21.3,True,73.0,False,C0R800,丹路,22.204481,120.750989
-2025-12-04,False,,False,,False,,False,C0R800,丹路,22.204481,120.750989
+2025-12-04,False,21.7,True,19.6,True,62.0,False,C0R800,丹路,22.204481,120.750989
 2025-12-05,False,,False,,False,,False,C0R800,丹路,22.204481,120.750989
 2025-12-06,False,,False,,False,,False,C0R800,丹路,22.204481,120.750989

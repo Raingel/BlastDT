@@ -336,3 +336,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-01,True,25.0,True,20.9,True,90.0,True,466900,淡水,25.164889,121.448906
 2025-12-02,True,25.3,True,21.1,True,83.0,True,466900,淡水,25.164889,121.448906
 2025-12-03,False,20.4,False,17.5,True,74.0,True,466900,淡水,25.164889,121.448906
+2025-12-04,False,21.7,True,18.2,True,62.0,False,466900,淡水,25.164889,121.448906

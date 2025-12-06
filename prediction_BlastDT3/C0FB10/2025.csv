@@ -221,4 +221,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-11-30,False,23.7,True,16.9,True,72.0,False,C0FB10,出雲山苗圃,24.23105,120.90475
 2025-12-01,True,21.7,True,17.6,True,92.0,True,C0FB10,出雲山苗圃,24.23105,120.90475
 2025-12-02,True,24.1,True,18.2,True,77.0,True,C0FB10,出雲山苗圃,24.23105,120.90475
-2025-12-03,False,,False,15.7,True,84.0,True,C0FB10,出雲山苗圃,24.23105,120.90475
+2025-12-03,True,20.8,True,15.7,True,84.0,True,C0FB10,出雲山苗圃,24.23105,120.90475
+2025-12-04,False,17.5,False,14.5,True,88.0,True,C0FB10,出雲山苗圃,24.23105,120.90475

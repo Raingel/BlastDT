@@ -336,4 +336,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-01,True,30.0,True,22.7,True,82.0,True,72K220,南改斗南分場,23.634556,120.477333
 2025-12-02,True,31.4,True,22.9,True,81.0,True,72K220,南改斗南分場,23.634556,120.477333
 2025-12-03,False,26.4,True,20.5,True,69.0,False,72K220,南改斗南分場,23.634556,120.477333
-2025-12-04,False,,False,,False,,False,72K220,南改斗南分場,23.634556,120.477333
+2025-12-04,False,25.8,True,19.1,True,69.0,False,72K220,南改斗南分場,23.634556,120.477333
+2025-12-05,False,,False,,False,,False,72K220,南改斗南分場,23.634556,120.477333

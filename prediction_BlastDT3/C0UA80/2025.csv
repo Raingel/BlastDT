@@ -336,3 +336,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-01,True,25.6,True,23.0,True,85.0,True,C0UA80,大溪漁港,24.941801,121.902955
 2025-12-02,True,24.5,True,22.6,True,82.0,True,C0UA80,大溪漁港,24.941801,121.902955
 2025-12-03,True,22.0,True,17.9,True,79.0,True,C0UA80,大溪漁港,24.941801,121.902955
+2025-12-04,False,20.1,False,17.8,True,69.0,False,C0UA80,大溪漁港,24.941801,121.902955
