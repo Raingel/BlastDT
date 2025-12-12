@@ -342,4 +342,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-07,True,24.1,True,20.4,True,91.0,True,A2K360,水試臺西試驗場,23.717231,120.190522
 2025-12-08,True,24.5,True,21.4,True,84.0,True,A2K360,水試臺西試驗場,23.717231,120.190522
 2025-12-09,True,24.4,True,21.0,True,86.0,True,A2K360,水試臺西試驗場,23.717231,120.190522
-2025-12-10,False,,False,,False,,False,A2K360,水試臺西試驗場,23.717231,120.190522
+2025-12-10,True,24.3,True,20.7,True,92.0,True,A2K360,水試臺西試驗場,23.717231,120.190522
+2025-12-11,False,,False,,False,,False,A2K360,水試臺西試驗場,23.717231,120.190522
