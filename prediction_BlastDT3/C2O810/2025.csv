@@ -343,3 +343,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-08,True,29.3,True,20.5,True,78.0,True,C2O810,曾文,23.219681,120.497328
 2025-12-09,True,29.7,True,20.7,True,79.0,True,C2O810,曾文,23.219681,120.497328
 2025-12-10,True,29.5,True,21.3,True,74.0,True,C2O810,曾文,23.219681,120.497328
+2025-12-11,False,29.7,True,20.7,True,70.0,False,C2O810,曾文,23.219681,120.497328

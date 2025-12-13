@@ -343,3 +343,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-08,True,25.7,True,20.1,True,77.0,True,C0K450,大埤,23.646074,120.431537
 2025-12-09,True,25.7,True,20.0,True,78.0,True,C0K450,大埤,23.646074,120.431537
 2025-12-10,True,26.4,True,20.2,True,82.0,True,C0K450,大埤,23.646074,120.431537
+2025-12-11,False,25.3,True,20.1,True,72.0,False,C0K450,大埤,23.646074,120.431537

@@ -343,3 +343,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-08,True,22.5,True,19.9,True,74.0,True,C0C480,桃園,24.992425,121.323172
 2025-12-09,True,21.2,True,19.0,True,86.0,True,C0C480,桃園,24.992425,121.323172
 2025-12-10,True,24.5,True,20.0,True,82.0,True,C0C480,桃園,24.992425,121.323172
+2025-12-11,False,23.2,True,20.0,True,73.0,False,C0C480,桃園,24.992425,121.323172

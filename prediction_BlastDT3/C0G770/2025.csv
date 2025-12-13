@@ -343,3 +343,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-08,True,25.7,True,21.7,True,74.0,True,C0G770,福興,24.041289,120.437669
 2025-12-09,True,26.1,True,21.6,True,76.0,True,C0G770,福興,24.041289,120.437669
 2025-12-10,True,24.7,True,21.1,True,81.0,True,C0G770,福興,24.041289,120.437669
+2025-12-11,False,25.5,True,21.0,True,73.0,False,C0G770,福興,24.041289,120.437669
