@@ -345,3 +345,6 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-12-09,False,21.1,False,0.0,88.0,True,1.0,C0U880,北關,24.9072,121.8734
 2025-12-10,True,24.9,True,1.0,89.0,True,1.0,C0U880,北關,24.9072,121.8734
 2025-12-11,False,24.5,True,1.0,68.0,False,0.0,C0U880,北關,24.9072,121.8734
+2025-12-12,False,21.5,False,0.0,81.0,True,1.0,C0U880,北關,24.9072,121.8734
+2025-12-13,False,21.8,False,0.0,86.0,True,1.0,C0U880,北關,24.9072,121.8734
+2025-12-14,False,17.3,False,0.0,66.0,False,0.0,C0U880,北關,24.9072,121.8734
