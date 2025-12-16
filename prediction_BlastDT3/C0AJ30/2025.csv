@@ -344,3 +344,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-09,True,21.0,True,19.1,True,88.0,True,C0AJ30,淡水觀海,25.184591,121.408616
 2025-12-10,True,24.7,True,20.3,True,86.0,True,C0AJ30,淡水觀海,25.184591,121.408616
 2025-12-11,True,20.8,True,19.9,True,79.0,True,C0AJ30,淡水觀海,25.184591,121.408616
+2025-12-12,False,20.5,False,19.8,True,81.0,True,C0AJ30,淡水觀海,25.184591,121.408616
+2025-12-13,False,20.2,False,18.2,True,88.0,True,C0AJ30,淡水觀海,25.184591,121.408616
+2025-12-14,False,17.0,False,14.7,True,66.0,False,C0AJ30,淡水觀海,25.184591,121.408616

@@ -344,10 +344,10 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-09,True,21.0,True,18.8,True,82.0,True,V2C260,八德蔬果,24.978508,121.281819
 2025-12-10,True,24.9,True,19.5,True,80.0,True,V2C260,八德蔬果,24.978508,121.281819
 2025-12-11,True,22.4,True,19.2,True,74.0,True,V2C260,八德蔬果,24.978508,121.281819
-2025-12-12,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
-2025-12-13,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
-2025-12-14,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
-2025-12-15,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
+2025-12-12,True,20.8,True,19.5,True,77.0,True,V2C260,八德蔬果,24.978508,121.281819
+2025-12-13,False,20.1,False,18.0,True,82.0,True,V2C260,八德蔬果,24.978508,121.281819
+2025-12-14,False,16.1,False,14.5,True,60.0,False,V2C260,八德蔬果,24.978508,121.281819
+2025-12-15,False,,False,13.7,True,62.0,False,V2C260,八德蔬果,24.978508,121.281819
 2025-12-16,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
 2025-12-17,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
 2025-12-18,False,,False,,False,,False,V2C260,八德蔬果,24.978508,121.281819
