@@ -347,3 +347,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-12,True,24.5,True,21.0,True,85.0,True,C0T9M0,靜浦,23.455167,121.495028
 2025-12-13,True,27.7,True,22.4,True,84.0,True,C0T9M0,靜浦,23.455167,121.495028
 2025-12-14,False,20.2,False,16.5,True,86.0,True,C0T9M0,靜浦,23.455167,121.495028
+2025-12-15,False,23.0,True,17.7,True,67.0,False,C0T9M0,靜浦,23.455167,121.495028

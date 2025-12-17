@@ -347,3 +347,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-12,True,25.9,True,21.1,True,80.0,True,C0S790,金崙,22.538122,120.966875
 2025-12-13,True,27.1,True,21.7,True,85.0,True,C0S790,金崙,22.538122,120.966875
 2025-12-14,False,19.6,False,17.2,True,84.0,True,C0S790,金崙,22.538122,120.966875
+2025-12-15,False,22.3,True,17.6,True,70.0,False,C0S790,金崙,22.538122,120.966875

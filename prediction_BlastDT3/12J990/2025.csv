@@ -347,4 +347,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-12,True,24.1,True,19.6,True,81.0,True,12J990,口湖工作站,23.589978,120.180394
 2025-12-13,True,22.6,True,19.8,True,83.0,True,12J990,口湖工作站,23.589978,120.180394
 2025-12-14,False,19.3,False,16.7,True,64.0,False,12J990,口湖工作站,23.589978,120.180394
-2025-12-15,False,,False,13.9,True,62.0,False,12J990,口湖工作站,23.589978,120.180394
+2025-12-15,False,21.8,True,17.2,True,70.0,False,12J990,口湖工作站,23.589978,120.180394
+2025-12-16,False,,False,15.8,True,98.0,True,12J990,口湖工作站,23.589978,120.180394
