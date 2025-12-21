@@ -348,3 +348,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-13,False,20.5,False,19.0,True,90.0,True,C0AH70,松山,25.04871,121.55042
 2025-12-14,False,16.8,False,15.2,True,65.0,False,C0AH70,松山,25.04871,121.55042
 2025-12-15,False,21.2,True,17.6,True,66.0,False,C0AH70,松山,25.04871,121.55042
+2025-12-16,False,25.5,True,19.3,True,73.0,False,C0AH70,松山,25.04871,121.55042
+2025-12-17,True,23.9,True,20.2,True,78.0,True,C0AH70,松山,25.04871,121.55042
+2025-12-18,True,21.1,True,19.7,True,85.0,True,C0AH70,松山,25.04871,121.55042
+2025-12-19,True,25.6,True,21.2,True,86.0,True,C0AH70,松山,25.04871,121.55042

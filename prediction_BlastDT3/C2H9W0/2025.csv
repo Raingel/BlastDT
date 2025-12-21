@@ -348,11 +348,11 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-13,True,23.9,True,17.8,True,80.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
 2025-12-14,True,23.7,True,16.6,True,79.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
 2025-12-15,False,20.4,False,15.8,True,82.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
-2025-12-16,False,,False,12.9,True,98.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
-2025-12-17,False,,False,,False,,False,C2H9W0,大坪頂農水,24.043122,120.932781
-2025-12-18,False,,False,,False,,False,C2H9W0,大坪頂農水,24.043122,120.932781
-2025-12-19,False,,False,,False,,False,C2H9W0,大坪頂農水,24.043122,120.932781
-2025-12-20,False,,False,,False,,False,C2H9W0,大坪頂農水,24.043122,120.932781
+2025-12-16,True,23.7,True,16.6,True,78.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
+2025-12-17,False,25.8,True,18.1,True,66.0,False,C2H9W0,大坪頂農水,24.043122,120.932781
+2025-12-18,False,25.8,True,18.8,True,69.0,False,C2H9W0,大坪頂農水,24.043122,120.932781
+2025-12-19,True,21.6,True,17.1,True,91.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
+2025-12-20,False,,False,16.4,True,98.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
 2025-12-21,False,,False,,False,,False,C2H9W0,大坪頂農水,24.043122,120.932781
 2025-12-22,False,,False,,False,,False,C2H9W0,大坪頂農水,24.043122,120.932781
 2025-12-23,False,,False,,False,,False,C2H9W0,大坪頂農水,24.043122,120.932781

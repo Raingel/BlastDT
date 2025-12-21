@@ -348,11 +348,11 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-13,True,25.6,True,19.7,True,80.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
 2025-12-14,False,23.6,True,17.7,True,60.0,False,C2G9A0,畜試所彰化,23.86045,120.557964
 2025-12-15,False,26.8,True,18.1,True,68.0,False,C2G9A0,畜試所彰化,23.86045,120.557964
-2025-12-16,False,,False,14.2,True,95.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
-2025-12-17,False,,False,,False,,False,C2G9A0,畜試所彰化,23.86045,120.557964
-2025-12-18,False,,False,,False,,False,C2G9A0,畜試所彰化,23.86045,120.557964
-2025-12-19,False,,False,,False,,False,C2G9A0,畜試所彰化,23.86045,120.557964
-2025-12-20,False,,False,,False,,False,C2G9A0,畜試所彰化,23.86045,120.557964
+2025-12-16,True,26.0,True,17.9,True,83.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
+2025-12-17,True,26.2,True,19.3,True,82.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
+2025-12-18,True,28.3,True,19.9,True,82.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
+2025-12-19,True,23.8,True,20.2,True,90.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
+2025-12-20,False,,False,19.4,True,96.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
 2025-12-21,False,,False,,False,,False,C2G9A0,畜試所彰化,23.86045,120.557964
 2025-12-22,False,,False,,False,,False,C2G9A0,畜試所彰化,23.86045,120.557964
 2025-12-23,False,,False,,False,,False,C2G9A0,畜試所彰化,23.86045,120.557964
