@@ -352,4 +352,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-17,True,23.2,True,20.6,True,82.0,True,C2W230,畜試所澎湖,23.628342,119.513206
 2025-12-18,True,22.2,True,20.0,True,83.0,True,C2W230,畜試所澎湖,23.628342,119.513206
 2025-12-19,True,21.7,True,20.2,True,89.0,True,C2W230,畜試所澎湖,23.628342,119.513206
-2025-12-20,False,,False,20.4,True,92.0,True,C2W230,畜試所澎湖,23.628342,119.513206
+2025-12-20,True,23.9,True,21.1,True,87.0,True,C2W230,畜試所澎湖,23.628342,119.513206
+2025-12-21,False,,False,20.6,True,90.0,True,C2W230,畜試所澎湖,23.628342,119.513206

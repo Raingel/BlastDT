@@ -352,8 +352,8 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-17,False,21.7,True,16.8,True,58.0,False,C2H9E0,國姓南港,23.911108,120.846556
 2025-12-18,False,22.1,True,16.6,True,73.0,False,C2H9E0,國姓南港,23.911108,120.846556
 2025-12-19,False,19.9,False,15.1,True,84.0,True,C2H9E0,國姓南港,23.911108,120.846556
-2025-12-20,False,,False,15.3,True,80.0,True,C2H9E0,國姓南港,23.911108,120.846556
-2025-12-21,False,,False,,False,,False,C2H9E0,國姓南港,23.911108,120.846556
+2025-12-20,False,19.9,False,15.7,True,93.0,True,C2H9E0,國姓南港,23.911108,120.846556
+2025-12-21,False,,False,15.6,True,81.0,True,C2H9E0,國姓南港,23.911108,120.846556
 2025-12-22,False,,False,,False,,False,C2H9E0,國姓南港,23.911108,120.846556
 2025-12-23,False,,False,,False,,False,C2H9E0,國姓南港,23.911108,120.846556
 2025-12-24,False,,False,,False,,False,C2H9E0,國姓南港,23.911108,120.846556

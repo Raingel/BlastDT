@@ -352,8 +352,8 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-17,True,27.6,True,21.5,True,74.0,True,G2P820,農試鳳山分所,22.646611,120.356083
 2025-12-18,True,27.3,True,21.7,True,75.0,True,G2P820,農試鳳山分所,22.646611,120.356083
 2025-12-19,True,25.7,True,21.8,True,81.0,True,G2P820,農試鳳山分所,22.646611,120.356083
-2025-12-20,False,,False,20.9,True,89.0,True,G2P820,農試鳳山分所,22.646611,120.356083
-2025-12-21,False,,False,,False,,False,G2P820,農試鳳山分所,22.646611,120.356083
+2025-12-20,True,23.7,True,20.9,True,93.0,True,G2P820,農試鳳山分所,22.646611,120.356083
+2025-12-21,False,,False,19.7,True,98.0,True,G2P820,農試鳳山分所,22.646611,120.356083
 2025-12-22,False,,False,,False,,False,G2P820,農試鳳山分所,22.646611,120.356083
 2025-12-23,False,,False,,False,,False,G2P820,農試鳳山分所,22.646611,120.356083
 2025-12-24,False,,False,,False,,False,G2P820,農試鳳山分所,22.646611,120.356083

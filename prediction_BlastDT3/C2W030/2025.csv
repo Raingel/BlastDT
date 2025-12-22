@@ -352,8 +352,8 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-17,True,22.9,True,17.4,True,76.0,True,C2W030,金門農試所,24.448431,118.451786
 2025-12-18,False,21.1,True,17.7,True,68.0,False,C2W030,金門農試所,24.448431,118.451786
 2025-12-19,False,19.6,False,17.5,True,84.0,True,C2W030,金門農試所,24.448431,118.451786
-2025-12-20,False,,False,17.4,True,93.0,True,C2W030,金門農試所,24.448431,118.451786
-2025-12-21,False,,False,,False,,False,C2W030,金門農試所,24.448431,118.451786
+2025-12-20,True,22.5,True,18.2,True,88.0,True,C2W030,金門農試所,24.448431,118.451786
+2025-12-21,False,,False,16.1,True,97.0,True,C2W030,金門農試所,24.448431,118.451786
 2025-12-22,False,,False,,False,,False,C2W030,金門農試所,24.448431,118.451786
 2025-12-23,False,,False,,False,,False,C2W030,金門農試所,24.448431,118.451786
 2025-12-24,False,,False,,False,,False,C2W030,金門農試所,24.448431,118.451786
