@@ -358,3 +358,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2025-12-22,True,17.5,True,1.0,25.2,True,1.0,80.0,True,1.0,C0F9V0,新社,24.200172,120.815806
 2025-12-23,False,19.6,True,1.0,26.6,True,1.0,76.0,False,0.0,C0F9V0,新社,24.200172,120.815806
 2025-12-24,False,19.6,True,1.0,25.5,True,1.0,70.0,False,0.0,C0F9V0,新社,24.200172,120.815806
+2025-12-25,False,13.8,True,1.0,19.3,False,0.0,92.0,True,1.0,C0F9V0,新社,24.200172,120.815806
