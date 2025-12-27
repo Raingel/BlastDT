@@ -357,4 +357,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-22,True,27.1,True,18.8,True,82.0,True,A2K570,古坑(花卉中心),23.633531,120.552392
 2025-12-23,True,27.1,True,20.1,True,85.0,True,A2K570,古坑(花卉中心),23.633531,120.552392
 2025-12-24,True,26.7,True,20.8,True,85.0,True,A2K570,古坑(花卉中心),23.633531,120.552392
-2025-12-25,False,,False,18.4,True,96.0,True,A2K570,古坑(花卉中心),23.633531,120.552392
+2025-12-25,False,20.0,False,17.1,True,84.0,True,A2K570,古坑(花卉中心),23.633531,120.552392
+2025-12-26,False,,False,13.6,True,79.0,True,A2K570,古坑(花卉中心),23.633531,120.552392

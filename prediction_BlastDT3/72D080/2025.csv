@@ -357,4 +357,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-22,False,21.7,True,15.5,True,70.0,False,72D080,桃改五峰分場,24.612194,121.157167
 2025-12-23,False,20.8,True,16.1,True,60.0,False,72D080,桃改五峰分場,24.612194,121.157167
 2025-12-24,False,22.0,True,16.3,True,70.0,False,72D080,桃改五峰分場,24.612194,121.157167
-2025-12-25,False,,False,15.3,True,76.0,True,72D080,桃改五峰分場,24.612194,121.157167
+2025-12-25,False,15.7,False,9.7,True,97.0,True,72D080,桃改五峰分場,24.612194,121.157167
+2025-12-26,False,,False,6.0,True,99.0,True,72D080,桃改五峰分場,24.612194,121.157167

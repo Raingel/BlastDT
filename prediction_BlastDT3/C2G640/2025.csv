@@ -357,4 +357,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-22,True,23.5,True,19.7,True,74.0,True,C2G640,鹿港,24.0753,120.430481
 2025-12-23,True,23.5,True,19.6,True,88.0,True,C2G640,鹿港,24.0753,120.430481
 2025-12-24,True,24.2,True,20.6,True,87.0,True,C2G640,鹿港,24.0753,120.430481
-2025-12-25,False,,False,18.8,True,92.0,True,C2G640,鹿港,24.0753,120.430481
+2025-12-25,False,19.9,False,16.9,True,79.0,True,C2G640,鹿港,24.0753,120.430481
+2025-12-26,False,,False,14.1,True,70.0,False,C2G640,鹿港,24.0753,120.430481
