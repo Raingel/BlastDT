@@ -358,3 +358,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-12-22,True,28.5,True,1.0,81.0,True,1.0,C0V450,鳳森,22.545064,120.392592
 2025-12-23,False,28.0,True,1.0,77.0,False,0.0,C0V450,鳳森,22.545064,120.392592
 2025-12-24,True,28.2,True,1.0,81.0,True,1.0,C0V450,鳳森,22.545064,120.392592
+2025-12-25,False,24.4,True,1.0,78.0,False,0.0,C0V450,鳳森,22.545064,120.392592
