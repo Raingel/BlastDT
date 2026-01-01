@@ -1,4 +1,14 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
+2025-02-14,False,,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
+2025-02-15,False,,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
+2025-02-16,False,,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
+2025-02-17,False,,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
+2025-02-18,False,,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
+2025-02-19,False,,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
+2025-02-20,False,,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
+2025-02-21,False,,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
+2025-02-22,False,,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
+2025-02-23,False,,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
 2025-02-24,False,18.2,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
 2025-02-25,False,20.5,False,,False,,False,C0TA30,鹽寮,23.845606,121.592664
 2025-02-26,False,23.1,True,,False,,False,C0TA30,鹽寮,23.845606,121.592664
@@ -307,3 +317,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-26,False,18.4,False,17.1,True,68.0,False,C0TA30,鹽寮,23.845606,121.592664
 2025-12-27,False,20.8,True,18.8,True,72.0,False,C0TA30,鹽寮,23.845606,121.592664
 2025-12-28,True,23.1,True,20.7,True,76.0,True,C0TA30,鹽寮,23.845606,121.592664
+2025-12-29,True,22.7,True,20.8,True,76.0,True,C0TA30,鹽寮,23.845606,121.592664
+2025-12-30,True,24.1,True,22.1,True,75.0,True,C0TA30,鹽寮,23.845606,121.592664
