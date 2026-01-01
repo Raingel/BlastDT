@@ -363,3 +363,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2025-12-27,True,26.385714285714286,True,1.0,81.0,True,1.0,C0R590,里港,22.77919,120.49459
 2025-12-28,False,26.2,True,1.0,77.0,False,0.0,C0R590,里港,22.77919,120.49459
 2025-12-29,False,28.1,True,1.0,74.0,False,0.0,C0R590,里港,22.77919,120.49459
+2025-12-30,False,28.0,True,1.0,78.0,False,0.0,C0R590,里港,22.77919,120.49459
