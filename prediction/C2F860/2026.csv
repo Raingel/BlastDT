@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,C2F860,梨山,24.247522,121.243669
+2025-12-31,,,,,98.0,True,1.0,C2F860,梨山,24.247522,121.243669
+2026-01-01,,,,,93.0,True,1.0,C2F860,梨山,24.247522,121.243669

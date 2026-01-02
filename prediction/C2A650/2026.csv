@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-,,,,,,,,C2A650,火燒寮,25.002719,121.742892
+2025-12-31,,,,,100.0,True,1.0,C2A650,火燒寮,25.002719,121.742892
+2026-01-01,,,,,99.0,True,1.0,C2A650,火燒寮,25.002719,121.742892
