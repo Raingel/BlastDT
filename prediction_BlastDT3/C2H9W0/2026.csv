@@ -1,2 +1,3 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
-2026-01-01,False,,False,14.9,True,84.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
+2026-01-01,True,25.1,True,16.4,True,80.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
+2026-01-02,False,,False,12.0,True,97.0,True,C2H9W0,大坪頂農水,24.043122,120.932781

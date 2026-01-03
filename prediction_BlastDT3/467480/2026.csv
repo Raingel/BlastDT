@@ -1,1 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
+2026-01-01,True,24.4,True,18.3,True,76.0,True,467480,嘉義,23.495925,120.432906
+2026-01-02,False,17.8,False,14.4,True,71.0,False,467480,嘉義,23.495925,120.432906
+2026-01-03,False,,False,11.2,True,75.0,True,467480,嘉義,23.495925,120.432906

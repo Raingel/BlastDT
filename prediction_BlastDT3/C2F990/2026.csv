@@ -1,2 +1,3 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
-2026-01-01,False,,False,14.4,True,73.0,False,C2F990,摩天嶺,24.322458,120.936819
+2026-01-01,True,24.3,True,13.8,True,81.0,True,C2F990,摩天嶺,24.322458,120.936819
+2026-01-02,False,,False,9.7,True,100.0,True,C2F990,摩天嶺,24.322458,120.936819

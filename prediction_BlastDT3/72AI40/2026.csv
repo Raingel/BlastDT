@@ -1,2 +1,3 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
-2026-01-01,False,,False,15.6,True,93.0,True,72AI40,桃改樹林分場,24.944503,121.386972
+2026-01-01,False,16.6,False,14.7,True,90.0,True,72AI40,桃改樹林分場,24.944503,121.386972
+2026-01-02,False,,False,13.2,True,91.0,True,72AI40,桃改樹林分場,24.944503,121.386972

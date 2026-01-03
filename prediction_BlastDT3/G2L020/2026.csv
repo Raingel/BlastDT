@@ -1,2 +1,3 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
-2026-01-01,False,,False,15.6,True,91.0,True,G2L020,農試嘉義分所,23.485028,120.473806
+2026-01-01,True,23.9,True,17.7,True,76.0,True,G2L020,農試嘉義分所,23.485028,120.473806
+2026-01-02,False,,False,15.1,True,77.0,True,G2L020,農試嘉義分所,23.485028,120.473806

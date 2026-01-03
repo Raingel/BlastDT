@@ -1,1 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
+2026-01-01,False,19.5,False,17.9,True,78.0,True,467350,澎湖,23.565503,119.563094
+2026-01-02,False,16.8,False,14.9,True,70.0,False,467350,澎湖,23.565503,119.563094
+2026-01-03,False,,False,14.3,True,64.0,False,467350,澎湖,23.565503,119.563094

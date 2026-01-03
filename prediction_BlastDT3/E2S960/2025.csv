@@ -340,7 +340,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-05,True,24.8,True,19.6,True,76.0,True,E2S960,林試太麻里2,22.598,120.99775
 2025-12-06,True,25.5,True,19.7,True,81.0,True,E2S960,林試太麻里2,22.598,120.99775
 2025-12-07,True,26.8,True,21.4,True,74.0,True,E2S960,林試太麻里2,22.598,120.99775
-2025-12-08,False,26.9,True,21.8,True,68.0,False,E2S960,林試太麻里2,22.598,120.99775
+2025-12-08,False,26.9,True,21.8,True,69.0,False,E2S960,林試太麻里2,22.598,120.99775
 2025-12-09,True,25.6,True,21.4,True,81.0,True,E2S960,林試太麻里2,22.598,120.99775
 2025-12-10,True,27.7,True,21.9,True,77.0,True,E2S960,林試太麻里2,22.598,120.99775
 2025-12-11,True,28.1,True,22.0,True,76.0,True,E2S960,林試太麻里2,22.598,120.99775
@@ -363,4 +363,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2025-12-28,True,25.7,True,20.5,True,79.0,True,E2S960,林試太麻里2,22.598,120.99775
 2025-12-29,True,26.2,True,21.0,True,79.0,True,E2S960,林試太麻里2,22.598,120.99775
 2025-12-30,True,27.1,True,22.0,True,76.0,True,E2S960,林試太麻里2,22.598,120.99775
-2025-12-31,True,26.8,True,20.7,True,76.0,True,E2S960,林試太麻里2,22.598,120.99775
+2025-12-31,True,26.8,True,21.4,True,80.0,True,E2S960,林試太麻里2,22.598,120.99775

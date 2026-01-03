@@ -1,2 +1,3 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
-2026-01-01,False,,False,15.4,True,94.0,True,C2M410,馬頭山,23.324361,120.582017
+2026-01-01,True,27.7,True,19.1,True,77.0,True,C2M410,馬頭山,23.324361,120.582017
+2026-01-02,False,,False,16.1,True,87.0,True,C2M410,馬頭山,23.324361,120.582017
