@@ -1,2 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2025-12-31,,,,,68.0,False,0.0,467530,阿里山,23.508208,120.813242
+2026-01-01,False,8.6,False,0.0,97.0,True,1.0,467530,阿里山,23.508208,120.813242
+2026-01-02,False,8.4,False,0.0,91.0,True,1.0,467530,阿里山,23.508208,120.813242
+2026-01-03,,,,,74.0,False,0.0,467530,阿里山,23.508208,120.813242

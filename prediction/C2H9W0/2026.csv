@@ -1,3 +1,4 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2025-12-31,,,,,93.0,True,1.0,C2H9W0,大坪頂農水,24.043122,120.932781
-2026-01-01,,,,,84.0,True,1.0,C2H9W0,大坪頂農水,24.043122,120.932781
+2025-12-31,,,,,73.0,False,0.0,C2H9W0,大坪頂農水,24.043122,120.932781
+2026-01-01,True,25.1,True,1.0,80.0,True,1.0,C2H9W0,大坪頂農水,24.043122,120.932781
+2026-01-02,,,,,97.0,True,1.0,C2H9W0,大坪頂農水,24.043122,120.932781

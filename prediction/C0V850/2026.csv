@@ -1,2 +1,3 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2025-12-31,,,,,81.0,True,1.0,C0V850,蚵仔寮,22.7256,120.2527
+2026-01-01,False,23.1,False,0.0,76.0,False,0.0,C0V850,蚵仔寮,22.7256,120.2527

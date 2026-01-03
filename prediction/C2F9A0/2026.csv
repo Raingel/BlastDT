@@ -1,3 +1,4 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2025-12-31,,,,,96.0,True,1.0,C2F9A0,中竹林,24.103556,120.751061
-2026-01-01,,,,,94.0,True,1.0,C2F9A0,中竹林,24.103556,120.751061
+2025-12-31,,,,,82.0,True,1.0,C2F9A0,中竹林,24.103556,120.751061
+2026-01-01,False,22.0,False,0.0,86.0,True,1.0,C2F9A0,中竹林,24.103556,120.751061
+2026-01-02,,,,,91.0,True,1.0,C2F9A0,中竹林,24.103556,120.751061
