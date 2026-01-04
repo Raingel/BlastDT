@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,26.3,True,20.1,True,77.0,True,CAQ030,崎峰國小,22.42565,120.49521
-2026-01-02,False,,False,16.7,True,79.0,True,CAQ030,崎峰國小,22.42565,120.49521
+2026-01-02,False,22.0,True,17.3,True,72.0,False,CAQ030,崎峰國小,22.42565,120.49521
+2026-01-03,False,,False,12.6,True,80.0,True,CAQ030,崎峰國小,22.42565,120.49521

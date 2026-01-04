@@ -1,2 +1,3 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,21.0,True,17.2,True,78.0,True,C0K440,二崙,23.772797,120.408944
+2026-01-02,False,15.7,False,13.4,True,71.0,False,C0K440,二崙,23.772797,120.408944

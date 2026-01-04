@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,22.2,True,17.7,True,74.0,True,72G600,臺中農改場,24.003028,120.534389
-2026-01-02,False,,False,15.5,True,74.0,True,72G600,臺中農改場,24.003028,120.534389
+2026-01-02,False,16.1,False,13.7,True,69.0,False,72G600,臺中農改場,24.003028,120.534389
+2026-01-03,False,,False,11.8,True,66.0,False,72G600,臺中農改場,24.003028,120.534389

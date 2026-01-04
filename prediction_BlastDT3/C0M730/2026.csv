@@ -1,2 +1,3 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,25.3,True,18.7,True,76.0,True,C0M730,嘉義市東區,23.457673,120.460531
+2026-01-02,False,18.5,False,14.7,True,71.0,False,C0M730,嘉義市東區,23.457673,120.460531

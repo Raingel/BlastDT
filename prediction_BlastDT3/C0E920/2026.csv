@@ -1,2 +1,3 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,18.0,False,16.2,True,81.0,True,C0E920,通霄漁港,24.498589,120.673876
+2026-01-02,False,15.0,False,12.5,True,73.0,False,C0E920,通霄漁港,24.498589,120.673876

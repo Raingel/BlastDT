@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,11.8,False,8.4,True,89.0,True,C2H9Q0,北東眼山,24.120939,121.189303
-2026-01-02,False,,False,6.9,True,99.0,True,C2H9Q0,北東眼山,24.120939,121.189303
+2026-01-02,False,9.7,False,5.7,True,95.0,True,C2H9Q0,北東眼山,24.120939,121.189303
+2026-01-03,False,,False,2.3,True,85.0,True,C2H9Q0,北東眼山,24.120939,121.189303

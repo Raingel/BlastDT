@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,22.3,True,16.2,True,83.0,True,CAH030,茶改場竹圍站,23.860083,120.637528
-2026-01-02,False,,False,13.6,True,85.0,True,CAH030,茶改場竹圍站,23.860083,120.637528
+2026-01-02,False,15.0,False,12.1,True,80.0,True,CAH030,茶改場竹圍站,23.860083,120.637528
+2026-01-03,False,,False,9.9,True,83.0,True,CAH030,茶改場竹圍站,23.860083,120.637528

@@ -1,2 +1,3 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,21.1,True,16.0,True,74.0,True,C0M820,達邦,23.453994,120.749517
+2026-01-02,False,16.6,False,13.2,True,85.0,True,C0M820,達邦,23.453994,120.749517

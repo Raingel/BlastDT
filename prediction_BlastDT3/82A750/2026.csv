@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,14.3,False,12.7,True,97.0,True,82A750,茶改北部分場,24.955778,121.631222
-2026-01-02,False,,False,11.0,True,97.0,True,82A750,茶改北部分場,24.955778,121.631222
+2026-01-02,False,11.3,False,8.7,True,94.0,True,82A750,茶改北部分場,24.955778,121.631222
+2026-01-03,False,,False,8.3,True,76.0,True,82A750,茶改北部分場,24.955778,121.631222

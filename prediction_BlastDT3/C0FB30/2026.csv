@@ -1,2 +1,3 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,20.8,True,15.6,True,77.0,True,C0FB30,八仙山苗圃,24.192719,121.001366
+2026-01-02,False,15.5,False,10.6,True,91.0,True,C0FB30,八仙山苗圃,24.192719,121.001366
