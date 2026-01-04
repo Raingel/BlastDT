@@ -1,4 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2025-12-31,,,,,75.0,False,0.0,C2M410,馬頭山,23.324361,120.582017
 2026-01-01,False,27.7,True,1.0,77.0,False,0.0,C2M410,馬頭山,23.324361,120.582017
-2026-01-02,,,,,87.0,True,1.0,C2M410,馬頭山,23.324361,120.582017
+2026-01-02,False,23.0,False,0.0,80.0,True,1.0,C2M410,馬頭山,23.324361,120.582017
+2026-01-03,,,,,92.0,True,1.0,C2M410,馬頭山,23.324361,120.582017

@@ -1,3 +1,4 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2025-12-31,,,,,93.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
 2026-01-01,False,14.7,False,0.0,100.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
+2026-01-02,False,10.7,False,0.0,100.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293

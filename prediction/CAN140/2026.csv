@@ -1,4 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2025-12-31,,,,,76.0,False,0.0,CAN140,六官養殖協會,23.22881,120.29962
 2026-01-01,False,23.8,True,1.0,72.0,False,0.0,CAN140,六官養殖協會,23.22881,120.29962
-2026-01-02,,,,,74.0,False,0.0,CAN140,六官養殖協會,23.22881,120.29962
+2026-01-02,False,17.7,False,0.0,66.0,False,0.0,CAN140,六官養殖協會,23.22881,120.29962
+2026-01-03,,,,,71.0,False,0.0,CAN140,六官養殖協會,23.22881,120.29962

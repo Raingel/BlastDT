@@ -1,4 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2025-12-31,,,,,83.0,True,1.0,B2E890,畜試北區分所,24.527806,120.770972
 2026-01-01,False,17.6,False,0.0,81.0,True,1.0,B2E890,畜試北區分所,24.527806,120.770972
-2026-01-02,,,,,80.0,True,1.0,B2E890,畜試北區分所,24.527806,120.770972
+2026-01-02,False,14.2,False,0.0,75.0,False,0.0,B2E890,畜試北區分所,24.527806,120.770972
+2026-01-03,,,,,62.0,False,0.0,B2E890,畜試北區分所,24.527806,120.770972

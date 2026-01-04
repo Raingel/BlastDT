@@ -1,3 +1,4 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2025-12-31,,,,,98.0,True,1.0,C0AH30,五分山,25.07125,121.780794
-2026-01-01,,,,,98.0,True,1.0,C0AH30,五分山,25.07125,121.780794
+2026-01-01,False,14.266666666666666,False,0.0,98.0,True,1.0,C0AH30,五分山,25.07125,121.780794
+2026-01-02,False,12.1,False,0.0,97.0,True,1.0,C0AH30,五分山,25.07125,121.780794

@@ -1,3 +1,4 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2025-12-31,,,,,81.0,True,1.0,C0R730,大坪頂,22.024633,120.69355
 2026-01-01,False,26.0,True,1.0,78.0,False,0.0,C0R730,大坪頂,22.024633,120.69355
+2026-01-02,False,21.8,False,0.0,75.0,False,0.0,C0R730,大坪頂,22.024633,120.69355

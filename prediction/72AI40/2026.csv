@@ -1,4 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2025-12-31,,,,,90.0,True,1.0,72AI40,桃改樹林分場,24.944503,121.386972
 2026-01-01,False,16.6,False,0.0,90.0,True,1.0,72AI40,桃改樹林分場,24.944503,121.386972
-2026-01-02,,,,,91.0,True,1.0,72AI40,桃改樹林分場,24.944503,121.386972
+2026-01-02,False,13.3,False,0.0,81.0,True,1.0,72AI40,桃改樹林分場,24.944503,121.386972
+2026-01-03,,,,,62.0,False,0.0,72AI40,桃改樹林分場,24.944503,121.386972
