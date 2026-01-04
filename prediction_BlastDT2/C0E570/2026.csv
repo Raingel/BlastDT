@@ -1,3 +1,4 @@
 Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
 2025-12-31,,17.5,True,1.0,,,,84.0,True,1.0,C0E570,白沙屯,24.549447,120.696803
 2026-01-01,False,16.1,True,1.0,17.9,False,0.0,82.0,True,1.0,C0E570,白沙屯,24.549447,120.696803
+2026-01-02,False,12.6,True,1.0,15.0,False,0.0,73.0,False,0.0,C0E570,白沙屯,24.549447,120.696803
