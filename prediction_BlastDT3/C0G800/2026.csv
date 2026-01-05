@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,20.8,True,17.6,True,79.0,True,C0G800,埔鹽,24.000394,120.431683
 2026-01-02,False,16.2,False,13.8,True,73.0,False,C0G800,埔鹽,24.000394,120.431683
+2026-01-03,False,19.4,False,15.2,True,66.0,False,C0G800,埔鹽,24.000394,120.431683

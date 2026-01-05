@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,21.6,True,20.0,True,70.0,False,C0TA10,花蓮漁港,23.995322,121.638331
 2026-01-02,False,19.2,False,16.9,True,63.0,False,C0TA10,花蓮漁港,23.995322,121.638331
+2026-01-03,False,18.9,False,16.5,True,55.0,False,C0TA10,花蓮漁港,23.995322,121.638331

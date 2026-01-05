@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,3.7,False,1.1,True,91.0,True,C0H990,昆陽,24.121322,121.273642
-2026-01-02,False,,False,-2.7,True,93.0,True,C0H990,昆陽,24.121322,121.273642
+2026-01-02,False,4.35,False,-2.7,True,93.0,True,C0H990,昆陽,24.121322,121.273642
+2026-01-03,False,5.0,False,,False,,False,C0H990,昆陽,24.121322,121.273642

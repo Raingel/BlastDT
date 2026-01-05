@@ -1,4 +1,5 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,25.5,True,22.0,True,66.0,False,12Q980,恆春工作站,22.079678,120.714425
 2026-01-02,False,21.8,True,19.3,True,63.0,False,12Q980,恆春工作站,22.079678,120.714425
-2026-01-03,False,,False,16.7,True,63.0,False,12Q980,恆春工作站,22.079678,120.714425
+2026-01-03,False,20.8,True,18.0,True,59.0,False,12Q980,恆春工作站,22.079678,120.714425
+2026-01-04,False,,False,17.3,True,63.0,False,12Q980,恆春工作站,22.079678,120.714425

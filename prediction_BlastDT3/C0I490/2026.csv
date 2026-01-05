@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,17.1,False,11.4,True,82.0,True,C0I490,萬大林道,23.928228,121.091411
 2026-01-02,False,12.8,False,8.3,True,92.0,True,C0I490,萬大林道,23.928228,121.091411
+2026-01-03,False,15.0,False,8.1,True,70.0,False,C0I490,萬大林道,23.928228,121.091411

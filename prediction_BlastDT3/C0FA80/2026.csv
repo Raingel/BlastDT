@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,8.0,False,4.1,True,91.0,True,C0FA80,小雪山天池,24.28025,121.02627
 2026-01-02,False,5.4,False,1.8,True,82.0,True,C0FA80,小雪山天池,24.28025,121.02627
+2026-01-03,False,6.0,False,1.5,True,55.0,False,C0FA80,小雪山天池,24.28025,121.02627

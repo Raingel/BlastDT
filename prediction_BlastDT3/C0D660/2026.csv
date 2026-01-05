@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,16.2,False,14.6,True,85.0,True,C0D660,新竹市東區,24.798681,120.986942
 2026-01-02,False,13.6,False,11.0,True,76.0,True,C0D660,新竹市東區,24.798681,120.986942
+2026-01-03,False,17.0,False,13.4,True,61.0,False,C0D660,新竹市東區,24.798681,120.986942

@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,25.3,True,18.3,True,78.0,True,C0O970,虎頭埤,23.021375,120.347878
 2026-01-02,False,19.3,False,15.0,True,78.0,True,C0O970,虎頭埤,23.021375,120.347878
+2026-01-03,True,22.9,True,14.9,True,77.0,True,C0O970,虎頭埤,23.021375,120.347878

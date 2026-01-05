@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,20.6,False,17.3,True,80.0,True,C0G730,二林,23.903325,120.376081
 2026-01-02,False,15.9,False,13.6,True,71.0,False,C0G730,二林,23.903325,120.376081
+2026-01-03,False,19.0,False,,False,,False,C0G730,二林,23.903325,120.376081

@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,24.2,True,18.8,True,79.0,True,C0S920,金峰嘉蘭,22.594789,120.960825
 2026-01-02,False,20.5,False,16.2,True,72.0,False,C0S920,金峰嘉蘭,22.594789,120.960825
+2026-01-03,False,19.6,False,15.2,True,65.0,False,C0S920,金峰嘉蘭,22.594789,120.960825

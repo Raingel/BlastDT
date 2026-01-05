@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,12.7,False,7.5,True,89.0,True,C0FA60,鞍馬山工作站,24.267064,121.000793
-2026-01-02,False,,False,4.8,True,91.0,True,C0FA60,鞍馬山工作站,24.267064,121.000793
+2026-01-02,False,11.05,False,4.8,True,91.0,True,C0FA60,鞍馬山工作站,24.267064,121.000793
+2026-01-03,False,9.4,False,,False,,False,C0FA60,鞍馬山工作站,24.267064,121.000793

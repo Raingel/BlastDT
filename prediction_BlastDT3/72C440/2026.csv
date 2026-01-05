@@ -1,4 +1,5 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,17.3,False,14.9,True,90.0,True,72C440,桃園農改場,24.950944,121.030583
 2026-01-02,False,13.9,False,11.7,True,76.0,True,72C440,桃園農改場,24.950944,121.030583
-2026-01-03,False,,False,11.0,True,65.0,False,72C440,桃園農改場,24.950944,121.030583
+2026-01-03,False,19.1,False,14.2,True,62.0,False,72C440,桃園農改場,24.950944,121.030583
+2026-01-04,False,,False,12.4,True,79.0,True,72C440,桃園農改場,24.950944,121.030583

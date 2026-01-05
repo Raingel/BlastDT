@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,17.8,False,16.1,True,85.0,True,C0E870,高鐵苗栗,24.60725,120.826094
 2026-01-02,False,14.9,False,12.4,True,75.0,True,C0E870,高鐵苗栗,24.60725,120.826094
+2026-01-03,False,19.0,False,14.1,True,62.0,False,C0E870,高鐵苗栗,24.60725,120.826094

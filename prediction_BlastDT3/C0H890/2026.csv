@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,23.4,True,17.9,True,77.0,True,C0H890,埔里,23.972169,120.952425
 2026-01-02,False,15.2,False,13.5,True,84.0,True,C0H890,埔里,23.972169,120.952425
+2026-01-03,False,19.5,False,13.4,True,77.0,True,C0H890,埔里,23.972169,120.952425

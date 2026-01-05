@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,7.7,False,5.7,True,100.0,True,C0U960,翠峰湖,24.510856,121.608044
 2026-01-02,False,3.6,False,0.9,True,100.0,True,C0U960,翠峰湖,24.510856,121.608044
+2026-01-03,False,2.6,False,0.3,True,100.0,True,C0U960,翠峰湖,24.510856,121.608044

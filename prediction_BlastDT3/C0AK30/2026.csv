@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,12.2,False,10.7,True,100.0,True,C0AK30,硬漢嶺,25.136097,121.426372
 2026-01-02,False,9.8,False,6.6,True,97.0,True,C0AK30,硬漢嶺,25.136097,121.426372
+2026-01-03,False,12.6,False,9.0,True,84.0,True,C0AK30,硬漢嶺,25.136097,121.426372

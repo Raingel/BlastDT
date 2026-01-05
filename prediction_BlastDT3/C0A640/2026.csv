@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,15.8,False,14.2,True,99.0,True,C0A640,石碇,24.993969,121.662917
 2026-01-02,False,12.9,False,10.2,True,99.0,True,C0A640,石碇,24.993969,121.662917
+2026-01-03,False,15.5,False,11.9,True,82.0,True,C0A640,石碇,24.993969,121.662917

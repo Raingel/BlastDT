@@ -1,4 +1,5 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,23.7,True,18.3,True,71.0,False,72M700,南改鹿草分場,23.416869,120.283061
 2026-01-02,False,17.9,False,14.4,True,63.0,False,72M700,南改鹿草分場,23.416869,120.283061
-2026-01-03,False,,False,11.6,True,64.0,False,72M700,南改鹿草分場,23.416869,120.283061
+2026-01-03,False,21.0,True,15.0,True,59.0,False,72M700,南改鹿草分場,23.416869,120.283061
+2026-01-04,False,,False,12.2,True,79.0,True,72M700,南改鹿草分場,23.416869,120.283061

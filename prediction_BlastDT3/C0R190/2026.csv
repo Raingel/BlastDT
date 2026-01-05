@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,27.7,True,20.7,True,85.0,True,C0R190,赤山,22.592333,120.614306
 2026-01-02,True,22.1,True,17.4,True,89.0,True,C0R190,赤山,22.592333,120.614306
+2026-01-03,False,23.3,True,,False,,False,C0R190,赤山,22.592333,120.614306

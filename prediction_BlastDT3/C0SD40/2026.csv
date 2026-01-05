@@ -1,3 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,True,22.0,True,20.6,True,80.0,True,C0SD40,牛頭山,22.676661,121.506944
 2026-01-02,False,19.7,False,18.0,True,77.0,True,C0SD40,牛頭山,22.676661,121.506944
+2026-01-03,False,18.8,False,17.5,True,67.0,False,C0SD40,牛頭山,22.676661,121.506944
