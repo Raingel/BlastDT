@@ -3,3 +3,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-01,False,25.0,True,1.0,79.0,False,0.0,C0V530,阿蓮,22.883208,120.327508
 2026-01-02,False,17.9,False,0.0,75.0,False,0.0,C0V530,阿蓮,22.883208,120.327508
 2026-01-03,False,21.1,False,0.0,71.0,False,0.0,C0V530,阿蓮,22.883208,120.327508
+2026-01-04,,,,,75.0,False,0.0,C0V530,阿蓮,22.883208,120.327508

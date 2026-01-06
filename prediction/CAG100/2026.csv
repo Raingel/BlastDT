@@ -3,4 +3,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-01,False,19.5,False,0.0,78.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
 2026-01-02,False,16.1,False,0.0,70.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
 2026-01-03,False,18.0,False,0.0,64.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
-2026-01-04,,,,,75.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
+2026-01-04,False,19.7,False,0.0,78.0,False,0.0,CAG100,王功漁港,23.96824,120.32586
+2026-01-05,,,,,89.0,True,1.0,CAG100,王功漁港,23.96824,120.32586
