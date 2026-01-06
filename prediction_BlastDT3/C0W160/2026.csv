@@ -1,4 +1,5 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2026-01-01,False,14.1,False,12.8,True,80.0,True,C0W160,烏坵,24.9944,119.44956
 2026-01-02,False,12.5,False,11.1,True,68.0,False,C0W160,烏坵,24.9944,119.44956
-2026-01-03,False,11.5,False,,False,,False,C0W160,烏坵,24.9944,119.44956
+2026-01-03,False,11.5,False,10.2,True,71.0,False,C0W160,烏坵,24.9944,119.44956
+2026-01-04,False,14.6,False,12.7,True,76.0,True,C0W160,烏坵,24.9944,119.44956

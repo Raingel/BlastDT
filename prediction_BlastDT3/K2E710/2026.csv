@@ -2,4 +2,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-01,False,17.4,False,14.5,True,83.0,True,K2E710,苗改生物防治研究中心,24.422861,120.871833
 2026-01-02,False,12.8,False,10.2,True,79.0,True,K2E710,苗改生物防治研究中心,24.422861,120.871833
 2026-01-03,False,18.7,False,11.4,True,70.0,False,K2E710,苗改生物防治研究中心,24.422861,120.871833
-2026-01-04,False,,False,6.2,True,97.0,True,K2E710,苗改生物防治研究中心,24.422861,120.871833
+2026-01-04,True,21.3,True,11.5,True,78.0,True,K2E710,苗改生物防治研究中心,24.422861,120.871833
+2026-01-05,False,,False,7.6,True,97.0,True,K2E710,苗改生物防治研究中心,24.422861,120.871833

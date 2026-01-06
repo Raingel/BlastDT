@@ -2,3 +2,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-01,False,15.0,False,14.1,True,90.0,True,C0C700,中壢,24.977661,121.256375
 2026-01-02,False,13.2,False,10.8,True,78.0,True,C0C700,中壢,24.977661,121.256375
 2026-01-03,False,16.0,False,13.2,True,64.0,False,C0C700,中壢,24.977661,121.256375
+2026-01-04,False,21.3,True,16.2,True,62.0,False,C0C700,中壢,24.977661,121.256375

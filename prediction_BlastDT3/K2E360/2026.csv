@@ -2,4 +2,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-01,False,17.1,False,15.3,True,82.0,True,K2E360,苗栗農改場,24.495722,120.829111
 2026-01-02,False,13.8,False,11.0,True,80.0,True,K2E360,苗栗農改場,24.495722,120.829111
 2026-01-03,False,18.8,False,12.6,True,67.0,False,K2E360,苗栗農改場,24.495722,120.829111
-2026-01-04,False,,False,7.7,True,96.0,True,K2E360,苗栗農改場,24.495722,120.829111
+2026-01-04,True,22.5,True,13.4,True,78.0,True,K2E360,苗栗農改場,24.495722,120.829111
+2026-01-05,False,,False,10.6,True,96.0,True,K2E360,苗栗農改場,24.495722,120.829111
