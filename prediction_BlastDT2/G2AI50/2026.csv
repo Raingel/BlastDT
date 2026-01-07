@@ -4,4 +4,5 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2026-01-02,False,12.6,True,1.0,14.6,False,0.0,68.0,False,0.0,G2AI50,關渡,25.11575,121.492
 2026-01-03,False,14.8,True,1.0,17.8,False,0.0,56.0,False,0.0,G2AI50,關渡,25.11575,121.492
 2026-01-04,False,17.3,True,1.0,23.5,True,1.0,59.0,False,0.0,G2AI50,關渡,25.11575,121.492
-2026-01-05,,11.3,True,1.0,,,,88.0,True,1.0,G2AI50,關渡,25.11575,121.492
+2026-01-05,False,15.4,True,1.0,20.7,True,1.0,75.0,False,0.0,G2AI50,關渡,25.11575,121.492
+2026-01-06,,14.8,True,1.0,,,,65.0,False,0.0,G2AI50,關渡,25.11575,121.492
