@@ -4,3 +4,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-02,False,20.0,False,0.0,83.0,True,1.0,C0Z100,東華,23.89525,121.549833
 2026-01-03,False,20.3,False,0.0,86.0,True,1.0,C0Z100,東華,23.89525,121.549833
 2026-01-04,False,23.1,False,0.0,89.0,True,1.0,C0Z100,東華,23.89525,121.549833
+2026-01-05,True,25.2,True,1.0,88.0,True,1.0,C0Z100,東華,23.89525,121.549833

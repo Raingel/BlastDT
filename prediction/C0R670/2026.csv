@@ -4,3 +4,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-02,False,22.8,False,0.0,66.0,False,0.0,C0R670,楓港,22.190131,120.692156
 2026-01-03,False,20.5,False,0.0,57.0,False,0.0,C0R670,楓港,22.190131,120.692156
 2026-01-04,False,22.7,False,0.0,54.0,False,0.0,C0R670,楓港,22.190131,120.692156
+2026-01-05,False,24.7,True,1.0,63.0,False,0.0,C0R670,楓港,22.190131,120.692156

@@ -4,4 +4,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-02,False,9.2,False,0.0,96.0,True,1.0,C2H9K0,屯原,24.067969,121.209389
 2026-01-03,False,9.7,False,0.0,53.0,False,0.0,C2H9K0,屯原,24.067969,121.209389
 2026-01-04,False,14.1,False,0.0,47.0,False,0.0,C2H9K0,屯原,24.067969,121.209389
-2026-01-05,,,,,45.0,False,0.0,C2H9K0,屯原,24.067969,121.209389
+2026-01-05,False,11.4,False,0.0,58.0,False,0.0,C2H9K0,屯原,24.067969,121.209389
+2026-01-06,,,,,68.0,False,0.0,C2H9K0,屯原,24.067969,121.209389
