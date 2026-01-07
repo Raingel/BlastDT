@@ -3,3 +3,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-02,False,15.6,False,13.4,True,71.0,False,C0K480,莿桐,23.761192,120.502372
 2026-01-03,False,19.9,False,14.2,True,63.0,False,C0K480,莿桐,23.761192,120.502372
 2026-01-04,False,21.8,True,16.2,True,73.0,False,C0K480,莿桐,23.761192,120.502372
+2026-01-05,True,20.8,True,16.0,True,81.0,True,C0K480,莿桐,23.761192,120.502372
