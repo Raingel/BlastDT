@@ -8,4 +8,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-07,False,14.4,False,12.1,True,64.0,False,C2D730,寶山農場,24.732444,120.976153
 2026-01-08,False,17.6,False,13.7,True,56.0,False,C2D730,寶山農場,24.732444,120.976153
 2026-01-09,False,20.5,False,13.4,True,59.0,False,C2D730,寶山農場,24.732444,120.976153
-2026-01-10,False,,False,8.2,True,90.0,True,C2D730,寶山農場,24.732444,120.976153
+2026-01-10,False,22.7,True,15.0,True,68.0,False,C2D730,寶山農場,24.732444,120.976153
+2026-01-11,False,,False,15.5,True,63.0,False,C2D730,寶山農場,24.732444,120.976153
