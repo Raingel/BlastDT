@@ -1,5 +1,6 @@
 Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2025-11-11,,25.5,True,1.0,,,,91.0,True,1.0,C0SD40,牛頭山,22.676661,121.506944
+2025-11-10,,,,,,,,,,,C0SD40,牛頭山,22.676661,121.506944
+2025-11-11,True,25.5,True,1.0,27.2,True,1.0,91.0,True,1.0,C0SD40,牛頭山,22.676661,121.506944
 2025-11-12,True,26.4,True,1.0,28.5,True,1.0,83.0,True,1.0,C0SD40,牛頭山,22.676661,121.506944
 2025-11-13,True,25.6,True,1.0,27.9,True,1.0,81.0,True,1.0,C0SD40,牛頭山,22.676661,121.506944
 2025-11-14,False,24.5,True,1.0,25.2,True,1.0,76.0,False,0.0,C0SD40,牛頭山,22.676661,121.506944
