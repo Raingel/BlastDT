@@ -9,4 +9,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-08,False,20.3,False,13.4,True,62.0,False,C0G620,芬園,24.015678,120.6213
 2026-01-09,False,19.9,False,14.0,True,56.0,False,C0G620,芬園,24.015678,120.6213
 2026-01-10,False,21.5,True,15.3,True,67.0,False,C0G620,芬園,24.015678,120.6213
-2026-01-11,False,,False,15.7,True,60.0,False,C0G620,芬園,24.015678,120.6213
+2026-01-11,False,21.45,True,15.7,True,60.0,False,C0G620,芬園,24.015678,120.6213
+2026-01-12,False,21.4,True,15.8,True,69.0,False,C0G620,芬園,24.015678,120.6213
