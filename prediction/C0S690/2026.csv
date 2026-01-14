@@ -11,3 +11,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-09,False,15.4,False,0.0,78.0,False,0.0,C0S690,太麻里,22.60902,120.98533
 2026-01-10,False,21.9,False,0.0,78.0,False,0.0,C0S690,太麻里,22.60902,120.98533
 2026-01-11,False,15.5,False,0.0,78.0,False,0.0,C0S690,太麻里,22.60902,120.98533
+2026-01-12,False,25.4,True,1.0,71.0,False,0.0,C0S690,太麻里,22.60902,120.98533

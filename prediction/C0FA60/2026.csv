@@ -11,3 +11,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-09,False,8.3,False,0.0,49.0,False,0.0,C0FA60,鞍馬山工作站,24.267064,121.000793
 2026-01-10,False,8.4,False,0.0,65.0,False,0.0,C0FA60,鞍馬山工作站,24.267064,121.000793
 2026-01-11,False,13.2,False,0.0,65.0,False,0.0,C0FA60,鞍馬山工作站,24.267064,121.000793
+2026-01-12,False,8.3,False,0.0,84.0,True,1.0,C0FA60,鞍馬山工作站,24.267064,121.000793
