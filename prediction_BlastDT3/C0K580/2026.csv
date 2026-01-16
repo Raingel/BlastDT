@@ -11,3 +11,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-10,False,21.4,True,16.1,True,69.0,False,C0K580,高鐵雲林,23.737456,120.417944
 2026-01-11,False,24.4,True,17.0,True,59.0,False,C0K580,高鐵雲林,23.737456,120.417944
 2026-01-12,False,22.0,True,16.4,True,70.0,False,C0K580,高鐵雲林,23.737456,120.417944
+2026-01-13,False,24.3,True,17.8,True,67.0,False,C0K580,高鐵雲林,23.737456,120.417944
+2026-01-14,True,25.5,True,16.9,True,76.0,True,C0K580,高鐵雲林,23.737456,120.417944
