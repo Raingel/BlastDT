@@ -14,3 +14,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2026-01-12,False,16.8,True,1.0,20.8,True,1.0,73.0,False,0.0,C0G800,埔鹽,24.000394,120.431683
 2026-01-13,False,17.9,True,1.0,22.0,True,1.0,71.0,False,0.0,C0G800,埔鹽,24.000394,120.431683
 2026-01-14,False,17.9,True,1.0,23.8,True,1.0,74.0,False,0.0,C0G800,埔鹽,24.000394,120.431683
+2026-01-15,True,18.8,True,1.0,22.5,True,1.0,79.0,True,1.0,C0G800,埔鹽,24.000394,120.431683
