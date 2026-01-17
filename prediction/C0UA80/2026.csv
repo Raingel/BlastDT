@@ -14,3 +14,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-12,False,20.1,False,0.0,65.0,False,0.0,C0UA80,大溪漁港,24.941801,121.902955
 2026-01-13,False,21.0,False,0.0,49.0,False,0.0,C0UA80,大溪漁港,24.941801,121.902955
 2026-01-14,False,22.4,False,0.0,66.0,False,0.0,C0UA80,大溪漁港,24.941801,121.902955
+2026-01-15,False,24.7,True,1.0,69.0,False,0.0,C0UA80,大溪漁港,24.941801,121.902955
