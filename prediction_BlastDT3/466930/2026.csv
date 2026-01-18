@@ -14,4 +14,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-13,False,16.6,False,12.6,True,59.0,False,466930,竹子湖,25.162078,121.544547
 2026-01-14,False,18.9,False,14.3,True,73.0,False,466930,竹子湖,25.162078,121.544547
 2026-01-15,False,19.8,False,14.7,True,66.0,False,466930,竹子湖,25.162078,121.544547
-2026-01-16,False,,False,15.1,True,73.0,False,466930,竹子湖,25.162078,121.544547
+2026-01-16,False,17.3,False,15.1,True,84.0,True,466930,竹子湖,25.162078,121.544547
+2026-01-17,False,,False,14.9,True,66.0,False,466930,竹子湖,25.162078,121.544547
