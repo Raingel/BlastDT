@@ -14,4 +14,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-13,False,0.3,False,-2.2,True,93.0,True,C0H9C0,合歡山,24.143442,121.272547
 2026-01-14,False,0.75,False,2.6,True,35.0,False,C0H9C0,合歡山,24.143442,121.272547
 2026-01-15,False,1.2,False,-0.2,True,94.0,True,C0H9C0,合歡山,24.143442,121.272547
-2026-01-16,False,,False,2.5,True,100.0,True,C0H9C0,合歡山,24.143442,121.272547
+2026-01-16,False,2.8,False,2.5,True,100.0,True,C0H9C0,合歡山,24.143442,121.272547
+2026-01-17,False,4.4,False,2.4,True,100.0,True,C0H9C0,合歡山,24.143442,121.272547
