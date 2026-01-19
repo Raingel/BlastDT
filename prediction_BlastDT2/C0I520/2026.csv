@@ -16,3 +16,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2026-01-14,False,0.5,True,1.0,6.5,False,0.0,59.0,False,0.0,C0I520,玉山風口,23.470489,120.955994
 2026-01-15,False,1.1,True,1.0,7.8,False,0.0,67.0,False,0.0,C0I520,玉山風口,23.470489,120.955994
 2026-01-16,False,4.0,True,1.0,9.4,False,0.0,80.0,True,1.0,C0I520,玉山風口,23.470489,120.955994
+2026-01-17,False,-0.3,True,1.0,2.5,False,0.0,91.0,True,1.0,C0I520,玉山風口,23.470489,120.955994
