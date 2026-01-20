@@ -16,4 +16,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-15,False,23.0,True,19.3,True,66.0,False,466990,花蓮,23.975128,121.613275
 2026-01-16,True,22.4,True,19.8,True,84.0,True,466990,花蓮,23.975128,121.613275
 2026-01-17,True,23.3,True,20.3,True,78.0,True,466990,花蓮,23.975128,121.613275
-2026-01-18,False,,False,19.4,True,81.0,True,466990,花蓮,23.975128,121.613275
+2026-01-18,False,24.7,True,20.7,True,73.0,False,466990,花蓮,23.975128,121.613275
+2026-01-19,False,,False,19.8,True,74.0,True,466990,花蓮,23.975128,121.613275
