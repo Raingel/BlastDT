@@ -17,3 +17,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-15,False,23.0,False,0.0,76.0,False,0.0,C0K440,二崙,23.772797,120.408944
 2026-01-16,False,23.2,False,0.0,75.0,False,0.0,C0K440,二崙,23.772797,120.408944
 2026-01-17,False,25.3,True,1.0,73.0,False,0.0,C0K440,二崙,23.772797,120.408944
+2026-01-18,False,21.4,False,0.0,81.0,True,1.0,C0K440,二崙,23.772797,120.408944

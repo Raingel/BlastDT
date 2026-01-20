@@ -17,3 +17,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-15,False,23.9,True,1.0,76.0,False,0.0,C0A530,坪林,24.938183,121.70975
 2026-01-16,False,16.8,False,0.0,93.0,True,1.0,C0A530,坪林,24.938183,121.70975
 2026-01-17,False,22.9,False,0.0,87.0,True,1.0,C0A530,坪林,24.938183,121.70975
+2026-01-18,True,23.5,True,1.0,89.0,True,1.0,C0A530,坪林,24.938183,121.70975
