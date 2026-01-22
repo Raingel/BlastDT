@@ -19,3 +19,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-17,False,23.5,True,1.0,68.0,False,0.0,C0V850,蚵仔寮,22.7256,120.2527
 2026-01-18,False,23.7,True,1.0,77.0,False,0.0,C0V850,蚵仔寮,22.7256,120.2527
 2026-01-19,False,24.7,True,1.0,79.0,False,0.0,C0V850,蚵仔寮,22.7256,120.2527
+2026-01-20,False,23.0,False,0.0,72.0,False,0.0,C0V850,蚵仔寮,22.7256,120.2527
