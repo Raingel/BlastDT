@@ -19,3 +19,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-18,True,21.7,True,18.4,True,78.0,True,C0K450,大埤,23.646074,120.431537
 2026-01-19,True,23.8,True,17.9,True,80.0,True,C0K450,大埤,23.646074,120.431537
 2026-01-20,False,21.9,True,17.0,True,71.0,False,C0K450,大埤,23.646074,120.431537
+2026-01-21,False,18.0,False,14.0,True,71.0,False,C0K450,大埤,23.646074,120.431537

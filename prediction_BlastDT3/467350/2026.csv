@@ -19,4 +19,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-18,True,22.1,True,19.9,True,77.0,True,467350,澎湖,23.565503,119.563094
 2026-01-19,True,21.6,True,19.7,True,77.0,True,467350,澎湖,23.565503,119.563094
 2026-01-20,False,19.6,False,17.7,True,75.0,True,467350,澎湖,23.565503,119.563094
-2026-01-21,False,,False,16.0,True,72.0,False,467350,澎湖,23.565503,119.563094
+2026-01-21,False,16.5,False,15.3,True,75.0,True,467350,澎湖,23.565503,119.563094
+2026-01-22,False,,False,14.4,True,76.0,True,467350,澎湖,23.565503,119.563094

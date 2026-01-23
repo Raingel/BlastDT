@@ -19,3 +19,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-18,True,21.0,True,17.9,True,82.0,True,C0C730,中大臨海站,24.966126,121.008581
 2026-01-19,False,20.1,False,17.4,True,83.0,True,C0C730,中大臨海站,24.966126,121.008581
 2026-01-20,False,16.5,False,14.3,True,81.0,True,C0C730,中大臨海站,24.966126,121.008581
+2026-01-21,False,,False,11.7,True,83.0,True,C0C730,中大臨海站,24.966126,121.008581
