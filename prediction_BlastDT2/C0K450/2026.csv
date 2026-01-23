@@ -20,3 +20,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2026-01-18,True,18.4,True,1.0,21.7,True,1.0,78.0,True,1.0,C0K450,大埤,23.646074,120.431537
 2026-01-19,True,17.9,True,1.0,23.8,True,1.0,80.0,True,1.0,C0K450,大埤,23.646074,120.431537
 2026-01-20,False,17.0,True,1.0,21.9,True,1.0,71.0,False,0.0,C0K450,大埤,23.646074,120.431537
+2026-01-21,False,14.0,True,1.0,18.0,False,0.0,71.0,False,0.0,C0K450,大埤,23.646074,120.431537
