@@ -20,4 +20,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-19,True,22.0,True,20.1,True,77.0,True,467300,東吉島,23.25727,119.66762
 2026-01-20,False,20.1,False,18.3,True,77.0,True,467300,東吉島,23.25727,119.66762
 2026-01-21,False,17.1,False,16.2,True,76.0,True,467300,東吉島,23.25727,119.66762
-2026-01-22,False,,False,15.5,True,80.0,True,467300,東吉島,23.25727,119.66762
+2026-01-22,False,16.5,False,15.8,True,80.0,True,467300,東吉島,23.25727,119.66762
+2026-01-23,False,,False,16.2,True,79.0,True,467300,東吉島,23.25727,119.66762

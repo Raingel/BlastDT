@@ -20,3 +20,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-19,True,26.4,True,19.6,True,81.0,True,C0X160,仁德,22.968258,120.257689
 2026-01-20,True,25.9,True,19.1,True,76.0,True,C0X160,仁德,22.968258,120.257689
 2026-01-21,True,21.7,True,16.2,True,74.0,True,C0X160,仁德,22.968258,120.257689
+2026-01-22,False,22.7,True,16.3,True,73.0,False,C0X160,仁德,22.968258,120.257689
