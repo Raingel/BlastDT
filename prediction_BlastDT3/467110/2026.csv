@@ -21,4 +21,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-20,False,17.1,False,13.7,True,68.0,False,467110,金門,24.407306,118.289281
 2026-01-21,False,14.1,False,11.2,True,64.0,False,467110,金門,24.407306,118.289281
 2026-01-22,False,12.6,False,9.9,True,63.0,False,467110,金門,24.407306,118.289281
-2026-01-23,False,,False,9.4,True,65.0,False,467110,金門,24.407306,118.289281
+2026-01-23,False,16.5,False,11.7,True,68.0,False,467110,金門,24.407306,118.289281
+2026-01-24,False,,False,9.8,True,88.0,True,467110,金門,24.407306,118.289281
