@@ -23,3 +23,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-22,False,12.4,False,11.5,True,89.0,True,C0AK10,太平里,25.134937,121.364899
 2026-01-23,False,18.1,False,14.9,True,84.0,True,C0AK10,太平里,25.134937,121.364899
 2026-01-24,False,18.0,False,16.3,True,87.0,True,C0AK10,太平里,25.134937,121.364899
+2026-01-25,False,23.9,True,20.1,True,71.0,False,C0AK10,太平里,25.134937,121.364899

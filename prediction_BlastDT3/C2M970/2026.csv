@@ -23,4 +23,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-22,False,17.5,False,11.0,True,88.0,True,C2M970,碧湖,23.568632,120.624165
 2026-01-23,False,20.1,False,11.7,True,89.0,True,C2M970,碧湖,23.568632,120.624165
 2026-01-24,True,21.8,True,14.3,True,80.0,True,C2M970,碧湖,23.568632,120.624165
-2026-01-25,False,,False,12.4,True,97.0,True,C2M970,碧湖,23.568632,120.624165
+2026-01-25,True,21.6,True,14.9,True,83.0,True,C2M970,碧湖,23.568632,120.624165
+2026-01-26,False,,False,14.9,True,67.0,False,C2M970,碧湖,23.568632,120.624165
