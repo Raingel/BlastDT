@@ -26,3 +26,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-24,False,20.5,False,0.0,93.0,True,1.0,C0R690,墾丁,21.966756,120.810269
 2026-01-25,True,23.5,True,1.0,94.0,True,1.0,C0R690,墾丁,21.966756,120.810269
 2026-01-26,True,25.4,True,1.0,86.0,True,1.0,C0R690,墾丁,21.966756,120.810269
+2026-01-27,True,26.7,True,1.0,86.0,True,1.0,C0R690,墾丁,21.966756,120.810269
