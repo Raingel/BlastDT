@@ -26,3 +26,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-25,True,20.7,True,18.5,True,83.0,True,C0B020,基隆嶼,25.19141,121.78391
 2026-01-26,True,22.4,True,18.2,True,86.0,True,C0B020,基隆嶼,25.19141,121.78391
 2026-01-27,False,17.7,False,15.8,True,91.0,True,C0B020,基隆嶼,25.19141,121.78391
+2026-01-28,False,,False,15.1,True,82.0,True,C0B020,基隆嶼,25.19141,121.78391
