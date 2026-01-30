@@ -27,3 +27,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-25,True,23.9,True,1.0,96.0,True,1.0,C0Z330,安通山,23.290728,121.348528
 2026-01-26,True,24.4,True,1.0,92.0,True,1.0,C0Z330,安通山,23.290728,121.348528
 2026-01-27,False,21.8,False,0.0,93.0,True,1.0,C0Z330,安通山,23.290728,121.348528
+2026-01-28,False,19.1,False,0.0,97.0,True,1.0,C0Z330,安通山,23.290728,121.348528
