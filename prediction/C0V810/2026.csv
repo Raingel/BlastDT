@@ -28,3 +28,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-26,True,23.6,True,1.0,83.0,True,1.0,C0V810,左營,22.67491,120.28491
 2026-01-27,False,24.5,True,1.0,77.0,False,0.0,C0V810,左營,22.67491,120.28491
 2026-01-28,False,22.3,False,0.0,78.0,False,0.0,C0V810,左營,22.67491,120.28491
+2026-01-29,False,22.2,False,0.0,75.0,False,0.0,C0V810,左營,22.67491,120.28491
