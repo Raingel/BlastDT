@@ -32,3 +32,4 @@ Date,BlastDT2,Tx,Tx_condition,Tx_condition_rolling,TxMaxAbs,TxMaxAbs_condition,T
 2026-01-30,True,18.9,True,1.0,21.9,True,1.0,95.0,True,1.0,C0S730,綠島,22.6672,121.47533
 2026-01-31,True,20.8,True,1.0,25.3,True,1.0,91.0,True,1.0,C0S730,綠島,22.6672,121.47533
 2026-02-01,False,18.8,True,1.0,20.0,False,0.0,89.0,True,1.0,C0S730,綠島,22.6672,121.47533
+2026-02-02,False,19.1,True,1.0,20.5,False,0.0,90.0,True,1.0,C0S730,綠島,22.6672,121.47533
