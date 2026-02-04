@@ -31,4 +31,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-30,True,21.8,True,18.4,True,89.0,True,12J990,口湖工作站,23.589978,120.180394
 2026-01-31,True,20.8,True,17.7,True,86.0,True,12J990,口湖工作站,23.589978,120.180394
 2026-02-01,False,17.7,False,16.0,True,84.0,True,12J990,口湖工作站,23.589978,120.180394
-2026-02-02,False,,False,15.3,True,90.0,True,12J990,口湖工作站,23.589978,120.180394
+2026-02-02,False,18.5,False,15.6,True,86.0,True,12J990,口湖工作站,23.589978,120.180394
+2026-02-03,False,,False,14.7,True,82.0,True,12J990,口湖工作站,23.589978,120.180394

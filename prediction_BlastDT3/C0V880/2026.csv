@@ -31,3 +31,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-30,True,26.4,True,20.4,True,82.0,True,C0V880,興達,22.8778,120.2127
 2026-01-31,True,26.2,True,20.0,True,81.0,True,C0V880,興達,22.8778,120.2127
 2026-02-01,False,20.4,False,17.6,True,80.0,True,C0V880,興達,22.8778,120.2127
+2026-02-02,True,22.9,True,18.0,True,80.0,True,C0V880,興達,22.8778,120.2127
