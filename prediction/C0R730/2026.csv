@@ -33,3 +33,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-31,True,27.7,True,1.0,90.0,True,1.0,C0R730,大坪頂,22.024633,120.69355
 2026-02-01,False,22.8,False,0.0,78.0,False,0.0,C0R730,大坪頂,22.024633,120.69355
 2026-02-02,False,25.2,True,1.0,76.0,False,0.0,C0R730,大坪頂,22.024633,120.69355
+2026-02-03,False,22.9,False,0.0,78.0,False,0.0,C0R730,大坪頂,22.024633,120.69355

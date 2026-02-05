@@ -33,3 +33,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-01-31,False,18.3,False,0.0,88.0,True,1.0,C0E740,造橋,24.637056,120.864778
 2026-02-01,False,15.8,False,0.0,90.0,True,1.0,C0E740,造橋,24.637056,120.864778
 2026-02-02,False,14.4,False,0.0,92.0,True,1.0,C0E740,造橋,24.637056,120.864778
+2026-02-03,False,24.2,True,1.0,70.0,False,0.0,C0E740,造橋,24.637056,120.864778
