@@ -32,3 +32,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-31,True,24.4,True,21.5,True,80.0,True,C0SB20,富岡,22.792467,121.192669
 2026-02-01,False,21.5,True,20.1,True,72.0,False,C0SB20,富岡,22.792467,121.192669
 2026-02-02,True,22.5,True,20.3,True,74.0,True,C0SB20,富岡,22.792467,121.192669
+2026-02-03,False,21.9,True,19.7,True,68.0,False,C0SB20,富岡,22.792467,121.192669
