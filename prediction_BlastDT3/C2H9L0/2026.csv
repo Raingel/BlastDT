@@ -33,4 +33,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-01,False,13.9,False,9.5,True,92.0,True,C2H9L0,馬烈霸,24.1512,121.201772
 2026-02-02,False,13.8,False,8.8,True,90.0,True,C2H9L0,馬烈霸,24.1512,121.201772
 2026-02-03,False,18.5,False,10.4,True,76.0,True,C2H9L0,馬烈霸,24.1512,121.201772
-2026-02-04,False,,False,7.8,True,74.0,True,C2H9L0,馬烈霸,24.1512,121.201772
+2026-02-04,False,18.7,False,11.3,True,67.0,False,C2H9L0,馬烈霸,24.1512,121.201772
+2026-02-05,False,,False,10.0,True,79.0,True,C2H9L0,馬烈霸,24.1512,121.201772

@@ -33,4 +33,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-01,False,19.8,False,17.6,True,85.0,True,72T250,花蓮農改場,23.975222,121.563889
 2026-02-02,False,19.7,False,17.7,True,86.0,True,72T250,花蓮農改場,23.975222,121.563889
 2026-02-03,False,18.2,False,17.0,True,80.0,True,72T250,花蓮農改場,23.975222,121.563889
-2026-02-04,False,,False,15.9,True,92.0,True,72T250,花蓮農改場,23.975222,121.563889
+2026-02-04,True,23.8,True,18.5,True,82.0,True,72T250,花蓮農改場,23.975222,121.563889
+2026-02-05,False,,False,17.6,True,86.0,True,72T250,花蓮農改場,23.975222,121.563889

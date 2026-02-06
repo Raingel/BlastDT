@@ -32,4 +32,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-01-31,False,25.85,True,22.8,True,70.0,False,C0V720,林園,22.507747,120.394511
 2026-02-01,False,26.775,True,20.7,True,70.0,False,C0V720,林園,22.507747,120.394511
 2026-02-02,False,27.7,True,20.6,True,70.0,False,C0V720,林園,22.507747,120.394511
-2026-02-03,False,,False,20.0,True,72.0,False,C0V720,林園,22.507747,120.394511
+2026-02-03,False,26.5,True,20.0,True,72.0,False,C0V720,林園,22.507747,120.394511
+2026-02-04,False,25.3,True,21.8,True,73.0,False,C0V720,林園,22.507747,120.394511

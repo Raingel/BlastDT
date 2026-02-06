@@ -33,4 +33,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-01,False,20.3,False,16.6,True,82.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
 2026-02-02,False,19.8,False,16.0,True,85.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
 2026-02-03,True,24.9,True,17.5,True,76.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
-2026-02-04,False,,False,14.5,True,92.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
+2026-02-04,True,26.3,True,19.2,True,79.0,True,C2G9A0,畜試所彰化,23.86045,120.557964
+2026-02-05,False,,False,17.4,True,93.0,True,C2G9A0,畜試所彰化,23.86045,120.557964

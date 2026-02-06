@@ -33,4 +33,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-01,True,23.9,True,18.4,True,89.0,True,C2M410,馬頭山,23.324361,120.582017
 2026-02-02,True,29.2,True,19.3,True,82.0,True,C2M410,馬頭山,23.324361,120.582017
 2026-02-03,True,26.9,True,19.0,True,80.0,True,C2M410,馬頭山,23.324361,120.582017
-2026-02-04,False,,False,15.5,True,96.0,True,C2M410,馬頭山,23.324361,120.582017
+2026-02-04,True,29.8,True,20.5,True,76.0,True,C2M410,馬頭山,23.324361,120.582017
+2026-02-05,False,,False,16.7,True,95.0,True,C2M410,馬頭山,23.324361,120.582017

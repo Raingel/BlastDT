@@ -33,3 +33,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-01,False,13.4,False,11.9,True,100.0,True,C0U520,雙連埤,24.753033,121.641303
 2026-02-02,False,13.4,False,12.0,True,100.0,True,C0U520,雙連埤,24.753033,121.641303
 2026-02-03,False,11.9,False,10.9,True,100.0,True,C0U520,雙連埤,24.753033,121.641303
+2026-02-04,True,21.0,True,15.1,True,92.0,True,C0U520,雙連埤,24.753033,121.641303
