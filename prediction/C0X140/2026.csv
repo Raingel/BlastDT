@@ -34,3 +34,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-02-01,False,18.6,False,0.0,80.0,True,1.0,C0X140,西港,23.125608,120.203108
 2026-02-02,False,20.9,False,0.0,83.0,True,1.0,C0X140,西港,23.125608,120.203108
 2026-02-03,False,24.4,True,1.0,75.0,False,0.0,C0X140,西港,23.125608,120.203108
+2026-02-04,False,25.1,True,1.0,78.0,False,0.0,C0X140,西港,23.125608,120.203108
