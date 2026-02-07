@@ -34,4 +34,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-02,False,14.1,False,13.1,True,93.0,True,C2C410,中央大學,24.967652,121.185165
 2026-02-03,False,19.3,False,16.1,True,72.0,False,C2C410,中央大學,24.967652,121.185165
 2026-02-04,True,22.7,True,17.1,True,84.0,True,C2C410,中央大學,24.967652,121.185165
-2026-02-05,False,,False,16.6,True,95.0,True,C2C410,中央大學,24.967652,121.185165
+2026-02-05,True,25.3,True,19.7,True,77.0,True,C2C410,中央大學,24.967652,121.185165
+2026-02-06,False,,False,19.7,True,75.0,True,C2C410,中央大學,24.967652,121.185165

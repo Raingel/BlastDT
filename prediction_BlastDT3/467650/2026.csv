@@ -34,4 +34,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-02,False,19.7,False,14.7,True,90.0,True,467650,日月潭,23.881325,120.90805
 2026-02-03,True,21.4,True,16.1,True,76.0,True,467650,日月潭,23.881325,120.90805
 2026-02-04,False,21.9,True,16.5,True,72.0,False,467650,日月潭,23.881325,120.90805
-2026-02-05,False,,False,15.9,True,74.0,True,467650,日月潭,23.881325,120.90805
+2026-02-05,True,22.5,True,17.2,True,75.0,True,467650,日月潭,23.881325,120.90805
+2026-02-06,False,,False,15.1,True,90.0,True,467650,日月潭,23.881325,120.90805
