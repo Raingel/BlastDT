@@ -36,3 +36,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-02-03,False,21.5,False,0.0,77.0,False,0.0,C0F9X0,大雅(中科園區),24.21528,120.62445
 2026-02-04,False,23.9,True,1.0,77.0,False,0.0,C0F9X0,大雅(中科園區),24.21528,120.62445
 2026-02-05,False,27.1,True,1.0,68.0,False,0.0,C0F9X0,大雅(中科園區),24.21528,120.62445
+2026-02-06,True,25.2,True,1.0,84.0,True,1.0,C0F9X0,大雅(中科園區),24.21528,120.62445
