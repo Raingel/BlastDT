@@ -35,3 +35,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-03,False,19.5,False,12.8,True,73.0,False,C0I010,廬山,24.033311,121.181808
 2026-02-04,False,19.8,False,13.9,True,65.0,False,C0I010,廬山,24.033311,121.181808
 2026-02-05,False,21.6,True,15.1,True,73.0,False,C0I010,廬山,24.033311,121.181808
+2026-02-06,True,21.1,True,14.0,True,77.0,True,C0I010,廬山,24.033311,121.181808
