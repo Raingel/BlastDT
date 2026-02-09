@@ -155,4 +155,356 @@
     }
 
     function yearsBetween(startDateStr, endDateStr) {
-      const start = parseDateLocal(startDat
+      const start = parseDateLocal(startDateStr);
+      const end = parseDateLocal(endDateStr);
+      const years = [];
+      for (let y = start.getFullYear(); y <= end.getFullYear(); y++) years.push(y);
+      return years;
+    }
+
+    function setStatus(msg, show = true) {
+      if (show) $("#statusMsg").text(msg).show();
+      else $("#statusMsg").hide().text("");
+    }
+
+    function parseCSV(text) {
+      const lines = text.trim().split('\n');
+      if (lines.length === 0) return [];
+
+      let headers = lines[0].split(',').map(h => h.trim());
+      if (headers.length >= 2 && headers[1] === "StnPres") {
+        if (headers[0] === "") headers[0] = "日期";
+      }
+
+      const result = [];
+      for (let i = 1; i < lines.length; i++) {
+        if (!lines[i].trim()) continue;
+        const cols = lines[i].split(',');
+        const obj = {};
+        for (let j = 0; j < headers.length; j++) obj[headers[j]] = cols[j] ? cols[j].trim() : "";
+        result.push(obj);
+      }
+      return result;
+    }
+
+    function fillGapsCubic(data) {
+      let filled = data.slice();
+      let i = 0;
+      while (i < filled.length) {
+        if (filled[i] === null) {
+          let start = i;
+          while (i < filled.length && filled[i] === null) i++;
+          const gapLength = i - start;
+
+          if (gapLength <= 3) {
+            const i1 = start - 1;
+            const i2 = i;
+            if (i1 < 0 || i2 >= filled.length) continue;
+            if (filled[i1] === null || filled[i2] === null) continue;
+
+            const P1 = filled[i1];
+            const P2 = filled[i2];
+            const P0 = (i1 - 1 >= 0 && filled[i1 - 1] !== null) ? filled[i1 - 1] : P1;
+            const P3 = (i2 + 1 < filled.length && filled[i2 + 1] !== null) ? filled[i2 + 1] : P2;
+
+            for (let j = 0; j < gapLength; j++) {
+              const t = (j + 1) / (gapLength + 1);
+              const interpolated = 0.5 * (
+                2 * P1 +
+                (P2 - P0) * t +
+                (2 * P0 - 5 * P1 + 4 * P2 - P3) * t * t +
+                (-P0 + 3 * P1 - 3 * P2 + P3) * t * t * t
+              );
+              filled[start + j] = interpolated;
+            }
+          }
+        } else {
+          i++;
+        }
+      }
+      return filled;
+    }
+
+    function fetchWeatherYear(stationId, year) {
+      const url = `${WEATHER_BASE_URL}/${stationId}/${stationId}_${year}_daily.csv?v=${CACHE_BUST}`;
+      return $.ajax({ url, dataType: "text", cache: false })
+        .then(text => parseCSV(text))
+        .catch(() => []);
+    }
+
+    function mergeDedupSortByDate(rowsList) {
+      const map = new Map();
+      for (const rows of rowsList) {
+        for (const r of rows) {
+          const dt = r["日期"];
+          if (!dt) continue;
+          map.set(dt, r);
+        }
+      }
+      const merged = Array.from(map.values());
+      merged.sort((a, b) => a["日期"] < b["日期"] ? -1 : (a["日期"] > b["日期"] ? 1 : 0));
+      return merged;
+    }
+
+    function loadStationList() {
+      const url = `${STATION_LIST_URL_BASE}?v=${CACHE_BUST}`;
+
+      $.ajax({
+        url,
+        dataType: "text",
+        cache: false,
+        success: function (data) {
+          stationData = parseCSV(data).filter(sta => {
+            const id = sta["新站號"] || sta["站號"];
+            if (!id) return false;
+            if (id.startsWith("C1")) return false;
+            if (sta["撤站日期"]) return false;
+            return true;
+          });
+
+          const counties = [...new Set(stationData.map(sta => sta["城市"]).filter(Boolean))];
+
+          $("#county").empty().append(`<option value="" selected disabled>請選擇縣市</option>`);
+          counties.forEach(county => $("#county").append(`<option value="${county}">${county}</option>`));
+
+          $("#county").off("change").on("change", function () {
+            const selectedCounty = $(this).val();
+            const stationsInCounty = stationData.filter(sta => sta["城市"] === selectedCounty);
+
+            $("#station").empty().append(`<option value="" selected disabled>請選擇氣象站</option>`);
+            stationsInCounty.forEach(sta => {
+              const id = sta["新站號"] || sta["站號"];
+              const displayText = `${sta["站名"]} (${id})`;
+              $("#station").append(`<option value="${id}">${displayText}</option>`);
+            });
+
+            const hasDefault = stationsInCounty.some(sta => (sta["新站號"] || sta["站號"]) === "C0G910");
+            if (hasDefault) $("#station").val("C0G910");
+            else if (stationsInCounty.length > 0) $("#station").val(stationsInCounty[0]["新站號"] || stationsInCounty[0]["站號"]);
+          });
+
+          $("#county").val("彰化縣").trigger("change");
+        },
+        error: function () {
+          alert("讀取氣象站列表失敗！");
+        }
+      });
+    }
+
+    async function queryWeatherData() {
+      const stationId = $("#station").val();
+      if (!stationId) return alert("請先選擇氣象站！");
+
+      const transplantDateStr = $("#transplantDate").val();
+      const startDateStr = $("#startDate").val();
+      const endDateStr = $("#endDate").val();
+      if (!transplantDateStr || !startDateStr || !endDateStr) return alert("請完整輸入日期！");
+
+      const startD = parseDateLocal(startDateStr);
+      const endD = parseDateLocal(endDateStr);
+      if (endD < startD) return alert("結束日期不能早於起始日期！");
+
+      const years = yearsBetween(startDateStr, endDateStr);
+      setStatus(`讀取資料中：${stationId} 年份 ${years.join(", ")}，避免快取 ${CACHE_BUST}`, true);
+
+      const rowsList = await Promise.all(years.map(y => fetchWeatherYear(stationId, y)));
+      const merged = mergeDedupSortByDate(rowsList);
+
+      const filtered = merged.filter(row => {
+        const dt = row["日期"];
+        return dt >= startDateStr && dt <= endDateStr;
+      });
+
+      if (filtered.length === 0) {
+        setStatus("", false);
+        return alert("指定日期區間內無資料！");
+      }
+
+      const transplantDate = parseDateLocal(transplantDateStr);
+
+      const labels = [];
+      const dateStrArr = [];
+      const diffDaysArr = [];
+      const rawHighTempData = [];
+      const rawAvgTempData = [];
+      const rawHumidityData = [];
+
+      filtered.forEach(row => {
+        const dtStr = row["日期"];
+        const curDate = parseDateLocal(dtStr);
+        const diffDays = (curDate - transplantDate) / (1000 * 3600 * 24);
+        const diffDaysInt = Math.floor(diffDays);
+
+        labels.push(`${dtStr} (${diffDaysInt}天)`);
+        dateStrArr.push(dtStr);
+        diffDaysArr.push(diffDays);
+
+        let highTemp = parseFloat(row["TxMaxAbs"]);
+        let avgTemp = parseFloat(row["Tx"]);
+        if (!Number.isFinite(highTemp) || highTemp < -90) highTemp = null;
+        if (!Number.isFinite(avgTemp) || avgTemp < -90) avgTemp = null;
+
+        rawHighTempData.push(highTemp);
+        rawAvgTempData.push(avgTemp);
+
+        let rh = parseFloat(row["RH"]);
+        if (!Number.isFinite(rh) || rh < -90) rh = null;
+        rawHumidityData.push(rh);
+      });
+
+      const highTempData = fillGapsCubic(rawHighTempData);
+      const avgTempData = fillGapsCubic(rawAvgTempData);
+      const humidityData = fillGapsCubic(rawHumidityData);
+
+      const highTempColors = [];
+      const avgTempColors = [];
+      const humidityColors = [];
+
+      const ignoreAvgTemp = $("#ignoreAvgTemp").is(":checked");
+
+      for (let i = 0; i < labels.length; i++) {
+        const diffDays = diffDaysArr[i];
+        const highTemp = highTempData[i];
+        const avgTemp = avgTempData[i];
+        const rh = humidityData[i];
+
+        let meetsTemp = false;
+        if (ignoreAvgTemp) {
+          if (highTemp !== null) meetsTemp = (highTemp >= 20.7);
+        } else {
+          if (highTemp !== null && avgTemp !== null) meetsTemp = (highTemp >= 20.7 && avgTemp < 30.8);
+        }
+
+        let meetsHumidity = false;
+        if (diffDays >= 0 && rh !== null) {
+          let threshold = 67;
+          if (diffDays < 40) threshold = 77;
+          else if (diffDays <= 50) threshold = 74;
+          meetsHumidity = (rh >= threshold);
+        }
+
+        const risk = (meetsTemp && meetsHumidity);
+
+        if (risk) {
+          highTempColors.push("rgba(231, 76, 60, 0.9)");
+          avgTempColors.push("rgba(231, 76, 60, 0.9)");
+          humidityColors.push("rgba(231, 76, 60, 0.7)");
+        } else {
+          highTempColors.push("rgba(52, 152, 219, 0.7)");
+          avgTempColors.push("rgba(46, 204, 113, 0.7)");
+          humidityColors.push("rgba(52, 152, 219, 0.7)");
+        }
+      }
+
+      if (myChart) myChart.destroy();
+
+      const ctx = document.getElementById('myChart').getContext('2d');
+
+      myChart = new Chart(ctx, {
+        data: {
+          labels: labels,
+          datasets: [
+            {
+              type: 'line',
+              label: '日高溫 (°C)',
+              data: highTempData,
+              borderColor: "rgba(52, 152, 219, 0.35)",
+              backgroundColor: "rgba(52, 152, 219, 0.12)",
+              borderDash: [5, 5],
+              yAxisID: 'y-temp',
+              tension: 0.3,
+              fill: false,
+              pointRadius: 5,
+              pointBackgroundColor: highTempColors,
+              pointBorderColor: highTempColors
+            },
+            {
+              type: 'line',
+              label: '日均溫 (°C)',
+              data: avgTempData,
+              borderColor: "rgba(46, 204, 113, 0.35)",
+              backgroundColor: "rgba(46, 204, 113, 0.12)",
+              pointStyle: 'rectRot',
+              yAxisID: 'y-temp',
+              tension: 0.3,
+              fill: false,
+              pointRadius: 5,
+              pointBackgroundColor: avgTempColors,
+              pointBorderColor: avgTempColors
+            },
+            {
+              type: 'bar',
+              label: '日均濕度 (%)',
+              data: humidityData,
+              backgroundColor: humidityColors,
+              borderColor: humidityColors,
+              borderWidth: 1,
+              yAxisID: 'y-hum'
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            title: {
+              display: true,
+              text: `氣象資料：${stationId} ${startDateStr} ~ ${endDateStr}`
+            },
+            tooltip: {
+              callbacks: {
+                title: (items) => {
+                  const idx = items[0].dataIndex;
+                  const dt = dateStrArr[idx];
+                  const dd = Math.floor(diffDaysArr[idx]);
+                  return `${dt} 插秧後第 ${dd} 天`;
+                }
+              }
+            }
+          },
+          scales: {
+            x: {
+              ticks: {
+                autoSkip: true,
+                maxTicksLimit: (ctx) => (ctx.chart.width < 480 ? 6 : (ctx.chart.width < 900 ? 10 : 14)),
+                maxRotation: 0,
+                callback: (value, index) => {
+                  const dt = dateStrArr[index] || "";
+                  const mmdd = dt.length >= 10 ? dt.slice(5, 7) + "/" + dt.slice(8, 10) : dt;
+                  return mmdd;
+                },
+                font: (ctx) => ({ size: ctx.chart.width < 480 ? 10 : 12 })
+              }
+            },
+            "y-temp": {
+              type: 'linear',
+              position: 'left',
+              title: { display: true, text: "溫度 (°C)" },
+              ticks: { font: (ctx) => ({ size: ctx.chart.width < 480 ? 10 : 12 }) }
+            },
+            "y-hum": {
+              type: 'linear',
+              position: 'right',
+              title: { display: true, text: "濕度 (%)" },
+              grid: { drawOnChartArea: false },
+              ticks: { font: (ctx) => ({ size: ctx.chart.width < 480 ? 10 : 12 }) }
+            }
+          }
+        }
+      });
+
+      setStatus(`完成：共 ${filtered.length} 天資料`, true);
+      setTimeout(() => setStatus("", false), 2000);
+    }
+
+    $(document).ready(function () {
+      loadStationList();
+      $("#queryBtn").on("click", function () {
+        queryWeatherData();
+      });
+    });
+  </script>
+</body>
+
+</html>
