@@ -36,4 +36,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-04,True,24.0,True,17.4,True,85.0,True,C2K620,馬光農場,23.721453,120.378864
 2026-02-05,True,27.9,True,20.5,True,77.0,True,C2K620,馬光農場,23.721453,120.378864
 2026-02-06,True,24.2,True,19.6,True,84.0,True,C2K620,馬光農場,23.721453,120.378864
-2026-02-07,False,,False,17.0,True,95.0,True,C2K620,馬光農場,23.721453,120.378864
+2026-02-07,False,20.2,False,16.1,True,79.0,True,C2K620,馬光農場,23.721453,120.378864
+2026-02-08,False,,False,12.7,True,78.0,True,C2K620,馬光農場,23.721453,120.378864
