@@ -37,4 +37,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-05,True,23.8,True,21.2,True,84.0,True,466950,彭佳嶼,25.627975,122.079744
 2026-02-06,True,23.0,True,19.7,True,89.0,True,466950,彭佳嶼,25.627975,122.079744
 2026-02-07,False,16.7,False,13.7,True,79.0,True,466950,彭佳嶼,25.627975,122.079744
-2026-02-08,False,,False,11.6,True,69.0,False,466950,彭佳嶼,25.627975,122.079744
+2026-02-08,False,12.1,False,9.7,True,67.0,False,466950,彭佳嶼,25.627975,122.079744
+2026-02-09,False,,False,9.8,True,67.0,False,466950,彭佳嶼,25.627975,122.079744

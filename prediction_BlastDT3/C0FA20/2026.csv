@@ -37,3 +37,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-05,True,23.7,True,19.6,True,80.0,True,C0FA20,溫寮,24.372177,120.583125
 2026-02-06,True,20.7,True,18.3,True,89.0,True,C0FA20,溫寮,24.372177,120.583125
 2026-02-07,False,17.1,False,14.6,True,83.0,True,C0FA20,溫寮,24.372177,120.583125
+2026-02-08,False,13.2,False,11.5,True,60.0,False,C0FA20,溫寮,24.372177,120.583125
