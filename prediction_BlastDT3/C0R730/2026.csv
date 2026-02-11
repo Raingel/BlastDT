@@ -38,3 +38,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-06,True,28.6,True,23.6,True,84.0,True,C0R730,大坪頂,22.024633,120.69355
 2026-02-07,True,23.6,True,19.9,True,84.0,True,C0R730,大坪頂,22.024633,120.69355
 2026-02-08,False,19.9,False,16.2,True,74.0,True,C0R730,大坪頂,22.024633,120.69355
+2026-02-09,False,19.8,False,15.7,True,68.0,False,C0R730,大坪頂,22.024633,120.69355

@@ -38,4 +38,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-06,True,24.7,True,21.9,True,85.0,True,467620,蘭嶼,22.0369,121.55843
 2026-02-07,True,21.1,True,18.3,True,94.0,True,467620,蘭嶼,22.0369,121.55843
 2026-02-08,False,16.8,False,14.8,True,84.0,True,467620,蘭嶼,22.0369,121.55843
-2026-02-09,False,,False,13.6,True,74.0,True,467620,蘭嶼,22.0369,121.55843
+2026-02-09,False,17.2,False,14.6,True,77.0,True,467620,蘭嶼,22.0369,121.55843
+2026-02-10,False,,False,15.7,True,84.0,True,467620,蘭嶼,22.0369,121.55843
