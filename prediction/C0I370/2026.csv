@@ -39,3 +39,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-02-06,True,23.7,True,1.0,81.0,True,1.0,C0I370,魚池,23.895703,120.94135
 2026-02-07,True,24.2,True,1.0,81.0,True,1.0,C0I370,魚池,23.895703,120.94135
 2026-02-08,False,14.5,False,0.0,90.0,True,1.0,C0I370,魚池,23.895703,120.94135
+2026-02-09,False,18.6,False,0.0,79.0,False,0.0,C0I370,魚池,23.895703,120.94135
