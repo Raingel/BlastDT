@@ -38,4 +38,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-06,True,22.5,True,20.0,True,88.0,True,C0K590,雲林東勢,23.674192,120.255721
 2026-02-07,False,18.7,False,16.2,True,83.0,True,C0K590,雲林東勢,23.674192,120.255721
 2026-02-08,False,14.6,False,12.4,True,67.0,False,C0K590,雲林東勢,23.674192,120.255721
-2026-02-09,False,,False,14.8,True,70.0,False,C0K590,雲林東勢,23.674192,120.255721
+2026-02-09,False,18.55,False,14.8,True,70.0,False,C0K590,雲林東勢,23.674192,120.255721
+2026-02-10,True,22.5,True,17.6,True,77.0,True,C0K590,雲林東勢,23.674192,120.255721

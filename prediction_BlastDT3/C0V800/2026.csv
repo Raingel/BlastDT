@@ -39,3 +39,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-07,True,27.6,True,20.5,True,78.0,True,C0V800,六龜,22.997889,120.633583
 2026-02-08,False,20.5,False,17.5,True,79.0,True,C0V800,六龜,22.997889,120.633583
 2026-02-09,True,21.5,True,17.3,True,75.0,True,C0V800,六龜,22.997889,120.633583
+2026-02-10,False,,False,17.9,True,74.0,True,C0V800,六龜,22.997889,120.633583
