@@ -40,4 +40,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-08,False,13.1,False,11.4,True,71.0,False,467080,宜蘭,24.763975,121.756528
 2026-02-09,False,16.1,False,12.8,True,70.0,False,467080,宜蘭,24.763975,121.756528
 2026-02-10,False,23.0,True,17.0,True,72.0,False,467080,宜蘭,24.763975,121.756528
-2026-02-11,False,,False,16.0,True,85.0,True,467080,宜蘭,24.763975,121.756528
+2026-02-11,True,24.1,True,17.5,True,80.0,True,467080,宜蘭,24.763975,121.756528
+2026-02-12,False,,False,16.1,True,85.0,True,467080,宜蘭,24.763975,121.756528

@@ -40,3 +40,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-08,False,15.5,False,12.6,True,65.0,False,C0M520,東後寮,23.369908,120.248065
 2026-02-09,False,19.0,False,14.1,True,69.0,False,C0M520,東後寮,23.369908,120.248065
 2026-02-10,False,23.0,True,17.3,True,73.0,False,C0M520,東後寮,23.369908,120.248065
+2026-02-11,True,24.5,True,18.0,True,75.0,True,C0M520,東後寮,23.369908,120.248065

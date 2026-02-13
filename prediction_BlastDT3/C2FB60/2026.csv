@@ -40,4 +40,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-08,False,13.4,False,9.6,True,96.0,True,C2FB60,頭櫃山,24.129842,120.858925
 2026-02-09,False,15.6,False,10.1,True,89.0,True,C2FB60,頭櫃山,24.129842,120.858925
 2026-02-10,False,17.8,False,12.3,True,70.0,False,C2FB60,頭櫃山,24.129842,120.858925
-2026-02-11,False,,False,11.2,True,76.0,True,C2FB60,頭櫃山,24.129842,120.858925
+2026-02-11,True,21.1,True,11.2,True,76.0,True,C2FB60,頭櫃山,24.129842,120.858925
