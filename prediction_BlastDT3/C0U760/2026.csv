@@ -40,4 +40,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-08,False,12.5,False,11.2,True,75.0,True,C0U760,東澳,24.52196,121.83318
 2026-02-09,False,16.2,False,12.9,True,79.0,True,C0U760,東澳,24.52196,121.83318
 2026-02-10,True,23.5,True,16.2,True,82.0,True,C0U760,東澳,24.52196,121.83318
-2026-02-11,False,,False,16.5,True,90.0,True,C0U760,東澳,24.52196,121.83318
+2026-02-11,True,21.95,True,16.5,True,90.0,True,C0U760,東澳,24.52196,121.83318
+2026-02-12,False,20.4,False,17.0,True,90.0,True,C0U760,東澳,24.52196,121.83318
