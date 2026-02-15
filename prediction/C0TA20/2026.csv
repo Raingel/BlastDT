@@ -43,3 +43,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-02-10,False,24.1,True,1.0,66.0,False,0.0,C0TA20,加灣,24.082025,121.608944
 2026-02-11,False,24.4,True,1.0,72.0,False,0.0,C0TA20,加灣,24.082025,121.608944
 2026-02-12,False,22.0,False,0.0,77.0,False,0.0,C0TA20,加灣,24.082025,121.608944
+2026-02-13,True,24.7,True,1.0,80.0,True,1.0,C0TA20,加灣,24.082025,121.608944

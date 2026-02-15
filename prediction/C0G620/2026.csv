@@ -43,3 +43,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-02-10,False,24.3,True,1.0,75.0,False,0.0,C0G620,芬園,24.015678,120.6213
 2026-02-11,False,25.5,True,1.0,76.0,False,0.0,C0G620,芬園,24.015678,120.6213
 2026-02-12,True,26.6,True,1.0,82.0,True,1.0,C0G620,芬園,24.015678,120.6213
+2026-02-13,False,26.9,True,1.0,77.0,False,0.0,C0G620,芬園,24.015678,120.6213

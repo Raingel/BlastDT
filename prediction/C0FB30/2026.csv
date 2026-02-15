@@ -43,3 +43,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-02-10,False,18.9,False,0.0,74.0,False,0.0,C0FB30,八仙山苗圃,24.192719,121.001366
 2026-02-11,False,21.0,False,0.0,71.0,False,0.0,C0FB30,八仙山苗圃,24.192719,121.001366
 2026-02-12,False,22.4,False,0.0,67.0,False,0.0,C0FB30,八仙山苗圃,24.192719,121.001366
+2026-02-13,False,25.1,True,1.0,55.0,False,0.0,C0FB30,八仙山苗圃,24.192719,121.001366
