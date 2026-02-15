@@ -42,4 +42,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-10,True,22.0,True,16.9,True,80.0,True,C2G640,鹿港,24.0753,120.430481
 2026-02-11,True,22.1,True,12.7,True,97.0,True,C2G640,鹿港,24.0753,120.430481
 2026-02-12,True,21.7,True,17.4,True,82.0,True,C2G640,鹿港,24.0753,120.430481
-2026-02-13,False,,False,15.2,True,95.0,True,C2G640,鹿港,24.0753,120.430481
+2026-02-13,True,23.2,True,17.8,True,87.0,True,C2G640,鹿港,24.0753,120.430481
+2026-02-14,False,,False,14.9,True,98.0,True,C2G640,鹿港,24.0753,120.430481
