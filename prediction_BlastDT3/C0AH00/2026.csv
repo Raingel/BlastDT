@@ -46,3 +46,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-14,True,29.1,True,21.0,True,78.0,True,C0AH00,汐止,25.066881,121.658778
 2026-02-15,True,28.3,True,22.1,True,79.0,True,C0AH00,汐止,25.066881,121.658778
 2026-02-16,True,25.6,True,19.3,True,90.0,True,C0AH00,汐止,25.066881,121.658778
+2026-02-17,False,16.9,False,15.1,True,93.0,True,C0AH00,汐止,25.066881,121.658778
