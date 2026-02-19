@@ -47,3 +47,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-02-14,True,24.9,True,1.0,83.0,True,1.0,C0E570,白沙屯,24.549447,120.696803
 2026-02-15,False,23.6,True,1.0,77.0,False,0.0,C0E570,白沙屯,24.549447,120.696803
 2026-02-16,False,21.6,False,0.0,90.0,True,1.0,C0E570,白沙屯,24.549447,120.696803
+2026-02-17,False,16.7,False,0.0,85.0,True,1.0,C0E570,白沙屯,24.549447,120.696803
