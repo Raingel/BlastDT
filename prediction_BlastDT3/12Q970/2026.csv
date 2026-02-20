@@ -47,4 +47,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-15,False,28.3,True,23.9,True,69.0,False,12Q970,東港工作站,22.479997,120.466058
 2026-02-16,True,28.1,True,23.2,True,78.0,True,12Q970,東港工作站,22.479997,120.466058
 2026-02-17,True,24.9,True,21.6,True,74.0,True,12Q970,東港工作站,22.479997,120.466058
-2026-02-18,False,,False,19.3,True,74.0,True,12Q970,東港工作站,22.479997,120.466058
+2026-02-18,False,24.2,True,20.4,True,70.0,False,12Q970,東港工作站,22.479997,120.466058
+2026-02-19,False,,False,18.5,True,72.0,False,12Q970,東港工作站,22.479997,120.466058
