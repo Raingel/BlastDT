@@ -48,4 +48,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-16,True,29.8,True,23.0,True,78.0,True,467441,高雄,22.730432,120.312516
 2026-02-17,True,27.5,True,20.9,True,75.0,True,467441,高雄,22.730432,120.312516
 2026-02-18,False,26.6,True,19.7,True,69.0,False,467441,高雄,22.730432,120.312516
-2026-02-19,False,,False,16.8,True,71.0,False,467441,高雄,22.730432,120.312516
+2026-02-19,False,26.8,True,19.9,True,71.0,False,467441,高雄,22.730432,120.312516
+2026-02-20,False,,False,16.6,True,89.0,True,467441,高雄,22.730432,120.312516
