@@ -50,4 +50,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-18,False,17.0,False,14.2,True,74.0,True,C2E540,龍溪,24.606489,120.783933
 2026-02-19,True,22.2,True,16.6,True,75.0,True,C2E540,龍溪,24.606489,120.783933
 2026-02-20,True,22.7,True,16.6,True,85.0,True,C2E540,龍溪,24.606489,120.783933
-2026-02-21,False,,False,12.6,True,95.0,True,C2E540,龍溪,24.606489,120.783933
+2026-02-21,True,24.7,True,16.9,True,86.0,True,C2E540,龍溪,24.606489,120.783933
+2026-02-22,False,,False,14.9,True,96.0,True,C2E540,龍溪,24.606489,120.783933
