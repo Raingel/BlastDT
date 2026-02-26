@@ -53,4 +53,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-21,True,22.6,True,19.4,True,82.0,True,CAL110,布袋國中,23.35893,120.18026
 2026-02-22,True,25.8,True,21.2,True,77.0,True,CAL110,布袋國中,23.35893,120.18026
 2026-02-23,True,25.4,True,21.0,True,83.0,True,CAL110,布袋國中,23.35893,120.18026
-2026-02-24,False,,False,20.0,True,89.0,True,CAL110,布袋國中,23.35893,120.18026
+2026-02-24,True,24.2,True,21.9,True,82.0,True,CAL110,布袋國中,23.35893,120.18026
+2026-02-25,False,,False,21.4,True,87.0,True,CAL110,布袋國中,23.35893,120.18026
