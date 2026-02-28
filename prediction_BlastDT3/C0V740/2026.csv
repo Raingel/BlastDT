@@ -55,3 +55,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-23,False,31.2,True,24.0,True,71.0,False,C0V740,旗山,22.888614,120.483597
 2026-02-24,True,30.5,True,24.4,True,76.0,True,C0V740,旗山,22.888614,120.483597
 2026-02-25,False,31.2,True,25.4,True,73.0,False,C0V740,旗山,22.888614,120.483597
+2026-02-26,False,,False,23.7,True,79.0,True,C0V740,旗山,22.888614,120.483597
