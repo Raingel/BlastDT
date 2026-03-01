@@ -56,3 +56,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-02-24,True,30.2,True,24.9,True,77.0,True,C0R580,南州,22.48591,120.50274
 2026-02-25,True,29.6,True,25.8,True,75.0,True,C0R580,南州,22.48591,120.50274
 2026-02-26,True,29.0,True,25.1,True,76.0,True,C0R580,南州,22.48591,120.50274
+2026-02-27,False,30.9,True,25.9,True,69.0,False,C0R580,南州,22.48591,120.50274
