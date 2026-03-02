@@ -58,3 +58,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-02-25,True,24.6,True,1.0,80.0,True,1.0,C0F9R0,龍井,24.184536,120.528972
 2026-02-26,True,25.8,True,1.0,80.0,True,1.0,C0F9R0,龍井,24.184536,120.528972
 2026-02-27,False,26.0,True,1.0,77.0,False,0.0,C0F9R0,龍井,24.184536,120.528972
+2026-02-28,False,22.5,False,0.0,82.0,True,1.0,C0F9R0,龍井,24.184536,120.528972
