@@ -59,3 +59,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-02-26,True,25.8,True,1.0,80.0,True,1.0,C0V630,茄萣,22.906642,120.182608
 2026-02-27,False,29.2,True,1.0,70.0,False,0.0,C0V630,茄萣,22.906642,120.182608
 2026-02-28,False,23.2,False,0.0,90.0,True,1.0,C0V630,茄萣,22.906642,120.182608
+2026-03-01,True,28.7,True,1.0,81.0,True,1.0,C0V630,茄萣,22.906642,120.182608
