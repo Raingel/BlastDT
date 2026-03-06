@@ -61,4 +61,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-03-01,True,29.4,True,22.3,True,88.0,True,C2H9H0,苗改南投蜂場,23.852589,120.693481
 2026-03-02,True,31.1,True,25.0,True,80.0,True,C2H9H0,苗改南投蜂場,23.852589,120.693481
 2026-03-03,True,22.8,True,18.7,True,93.0,True,C2H9H0,苗改南投蜂場,23.852589,120.693481
-2026-03-04,False,,False,16.7,True,90.0,True,C2H9H0,苗改南投蜂場,23.852589,120.693481
+2026-03-04,True,22.9,True,18.2,True,86.0,True,C2H9H0,苗改南投蜂場,23.852589,120.693481
+2026-03-05,False,,False,17.1,True,98.0,True,C2H9H0,苗改南投蜂場,23.852589,120.693481
