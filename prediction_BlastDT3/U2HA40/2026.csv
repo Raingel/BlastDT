@@ -62,4 +62,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-03-02,True,23.45,True,22.5,True,81.0,True,U2HA40,臺大內茅埔,23.689722,120.851117
 2026-03-03,True,20.7,True,18.7,True,96.0,True,U2HA40,臺大內茅埔,23.689722,120.851117
 2026-03-04,False,19.9,False,17.1,True,96.0,True,U2HA40,臺大內茅埔,23.689722,120.851117
-2026-03-05,False,,False,16.2,True,98.0,True,U2HA40,臺大內茅埔,23.689722,120.851117
+2026-03-05,False,20.6,False,18.0,True,94.0,True,U2HA40,臺大內茅埔,23.689722,120.851117
+2026-03-06,False,,False,15.5,True,95.0,True,U2HA40,臺大內茅埔,23.689722,120.851117
