@@ -64,3 +64,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-03-03,False,23.2,False,0.0,91.0,True,1.0,C0M520,東後寮,23.369908,120.248065
 2026-03-04,False,20.6,False,0.0,85.0,True,1.0,C0M520,東後寮,23.369908,120.248065
 2026-03-05,False,21.8,False,0.0,95.0,True,1.0,C0M520,東後寮,23.369908,120.248065
+2026-03-06,True,23.7,True,1.0,83.0,True,1.0,C0M520,東後寮,23.369908,120.248065
