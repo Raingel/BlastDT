@@ -65,3 +65,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-03-04,False,23.0,False,0.0,80.0,True,1.0,C0R780,滿州,22.024403,120.839892
 2026-03-05,True,24.9,True,1.0,86.0,True,1.0,C0R780,滿州,22.024403,120.839892
 2026-03-06,True,25.7,True,1.0,80.0,True,1.0,C0R780,滿州,22.024403,120.839892
+2026-03-07,False,22.7,False,0.0,73.0,False,0.0,C0R780,滿州,22.024403,120.839892
