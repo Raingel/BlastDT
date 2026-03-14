@@ -69,3 +69,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-03-09,True,27.5,True,20.5,True,82.0,True,C0R160,鹽埔,22.739558,120.530778
 2026-03-10,True,20.8,True,17.4,True,86.0,True,C0R160,鹽埔,22.739558,120.530778
 2026-03-11,True,26.7,True,20.9,True,77.0,True,C0R160,鹽埔,22.739558,120.530778
+2026-03-12,False,28.2,True,21.1,True,69.0,False,C0R160,鹽埔,22.739558,120.530778
