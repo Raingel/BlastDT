@@ -70,4 +70,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-03-10,True,22.5,True,17.7,True,74.0,True,C0V350,溪埔,22.738578,120.446797
 2026-03-11,False,29.0,True,21.3,True,65.0,False,C0V350,溪埔,22.738578,120.446797
 2026-03-12,False,31.0,True,20.7,True,64.0,False,C0V350,溪埔,22.738578,120.446797
-2026-03-13,False,,False,18.4,True,64.0,False,C0V350,溪埔,22.738578,120.446797
+2026-03-13,False,29.75,True,18.4,True,64.0,False,C0V350,溪埔,22.738578,120.446797
+2026-03-14,False,28.5,True,19.9,True,63.0,False,C0V350,溪埔,22.738578,120.446797

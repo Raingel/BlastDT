@@ -71,4 +71,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-03-11,True,25.7,True,17.7,True,80.0,True,C2H9U0,鳳鵬,23.763919,120.788061
 2026-03-12,False,26.3,True,17.5,True,72.0,False,C2H9U0,鳳鵬,23.763919,120.788061
 2026-03-13,False,23.7,True,15.2,True,70.0,False,C2H9U0,鳳鵬,23.763919,120.788061
-2026-03-14,False,,False,11.2,True,94.0,True,C2H9U0,鳳鵬,23.763919,120.788061
+2026-03-14,False,25.4,True,17.4,True,72.0,False,C2H9U0,鳳鵬,23.763919,120.788061
+2026-03-15,False,,False,13.0,True,94.0,True,C2H9U0,鳳鵬,23.763919,120.788061
