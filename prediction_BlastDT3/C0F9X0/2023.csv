@@ -1,5 +1,5 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
-2023-01-01,True,23.0,True,18.9,True,83.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
+2023-01-01,True,23.0,True,18.8,True,82.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-01-02,True,21.4,True,18.2,True,87.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-01-03,False,19.1,False,16.7,True,81.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-01-04,True,23.2,True,17.6,True,77.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
@@ -68,7 +68,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-03-08,False,26.8,True,19.8,True,67.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-03-09,False,26.8,True,20.2,True,63.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-03-10,False,27.1,True,22.0,True,61.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
-2023-03-11,False,27.2,True,22.4,True,66.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
+2023-03-11,False,27.2,True,22.5,True,66.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-03-12,False,26.8,True,20.6,True,73.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-03-13,False,18.7,False,15.3,True,72.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-03-14,True,24.5,True,18.3,True,75.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
@@ -76,7 +76,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-03-16,True,27.3,True,21.7,True,77.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-03-17,True,24.9,True,21.3,True,76.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-03-18,True,26.3,True,20.7,True,74.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
-2023-03-19,True,26.5,True,20.2,True,78.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
+2023-03-19,True,26.5,True,20.3,True,78.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-03-20,True,26.9,True,22.7,True,74.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-03-21,True,28.7,True,24.3,True,74.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-03-22,False,29.5,True,25.2,True,73.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
@@ -332,8 +332,8 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-11-27,True,24.8,True,20.6,True,74.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-11-28,False,30.0,True,22.3,True,62.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-11-29,False,26.1,True,23.1,True,69.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
-2023-11-30,False,24.2,True,21.3,True,71.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
-2023-12-01,False,19.9,False,17.7,True,78.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
+2023-11-30,False,24.2,True,21.2,True,71.0,False,C0F9X0,大雅(中科園區),24.21528,120.62445
+2023-12-01,False,19.9,False,17.6,True,78.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-12-02,True,22.8,True,17.9,True,76.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-12-03,True,21.3,True,18.5,True,84.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445
 2023-12-04,True,21.5,True,19.2,True,92.0,True,C0F9X0,大雅(中科園區),24.21528,120.62445

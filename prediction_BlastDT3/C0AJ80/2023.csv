@@ -1,5 +1,4 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
-2023-01-02,False,20.3,False,18.4,True,85.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-01-03,False,17.2,False,15.7,True,87.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-01-04,False,17.7,False,15.9,True,87.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-01-05,True,21.7,True,18.8,True,88.0,True,C0AJ80,板橋,25.0107,121.4489
@@ -12,7 +11,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-01-12,True,25.6,True,20.9,True,79.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-01-13,False,29.5,True,22.7,True,73.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-01-14,True,27.6,True,23.3,True,76.0,True,C0AJ80,板橋,25.0107,121.4489
-2023-01-15,True,20.8,True,15.4,True,79.0,True,C0AJ80,板橋,25.0107,121.4489
+2023-01-15,True,20.8,True,15.5,True,79.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-01-16,False,12.8,False,12.1,True,82.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-01-17,False,16.1,False,14.5,True,85.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-01-18,False,14.2,False,13.6,True,84.0,True,C0AJ80,板橋,25.0107,121.4489
@@ -68,7 +67,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-03-09,False,24.9,True,19.3,True,59.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-03-10,False,25.6,True,21.3,True,57.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-03-11,False,27.6,True,22.7,True,54.0,False,C0AJ80,板橋,25.0107,121.4489
-2023-03-12,False,26.4,True,19.8,True,67.0,False,C0AJ80,板橋,25.0107,121.4489
+2023-03-12,False,26.4,True,19.9,True,67.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-03-13,False,15.6,False,14.5,True,72.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-03-14,False,22.4,True,18.7,True,66.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-03-15,False,25.6,True,20.2,True,68.0,False,C0AJ80,板橋,25.0107,121.4489
@@ -156,7 +155,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-06-05,True,32.8,True,28.6,True,75.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-06-06,False,32.6,True,29.6,True,67.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-06-07,False,33.4,True,29.3,True,72.0,False,C0AJ80,板橋,25.0107,121.4489
-2023-06-08,False,32.8,True,29.9,True,71.0,False,C0AJ80,板橋,25.0107,121.4489
+2023-06-08,False,32.8,True,29.8,True,71.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-06-09,True,31.8,True,28.6,True,77.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-06-10,True,31.0,True,27.1,True,80.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-06-11,True,28.6,True,26.5,True,84.0,True,C0AJ80,板橋,25.0107,121.4489
@@ -233,7 +232,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-08-21,True,33.2,True,28.9,True,77.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-08-22,True,35.4,True,28.9,True,75.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-08-23,False,34.0,True,28.9,True,73.0,False,C0AJ80,板橋,25.0107,121.4489
-2023-08-24,False,32.2,True,29.2,True,73.0,False,C0AJ80,板橋,25.0107,121.4489
+2023-08-24,False,32.2,True,29.3,True,73.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-08-25,False,33.6,True,30.0,True,68.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-08-26,False,34.2,True,30.7,True,64.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-08-27,False,34.0,True,29.4,True,72.0,False,C0AJ80,板橋,25.0107,121.4489
@@ -277,7 +276,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-10-04,True,26.8,True,25.9,True,91.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-10-05,True,29.5,True,26.9,True,82.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-10-06,True,29.5,True,27.4,True,79.0,True,C0AJ80,板橋,25.0107,121.4489
-2023-10-07,True,30.2,True,26.4,True,86.0,True,C0AJ80,板橋,25.0107,121.4489
+2023-10-07,True,30.2,True,26.7,True,84.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-10-08,True,27.7,True,25.3,True,87.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-10-09,True,26.5,True,25.0,True,86.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-10-10,True,26.2,True,24.1,True,85.0,True,C0AJ80,板橋,25.0107,121.4489
@@ -309,7 +308,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-11-05,False,31.0,True,26.0,True,71.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-11-06,False,31.5,True,25.4,True,71.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-11-07,False,24.0,True,22.6,True,63.0,False,C0AJ80,板橋,25.0107,121.4489
-2023-11-08,False,29.0,True,25.2,True,63.0,False,C0AJ80,板橋,25.0107,121.4489
+2023-11-08,False,29.0,True,25.4,True,63.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-11-09,False,31.7,True,26.2,True,69.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-11-10,True,29.9,True,24.5,True,81.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-11-11,True,23.9,True,22.0,True,85.0,True,C0AJ80,板橋,25.0107,121.4489
@@ -331,7 +330,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-11-27,True,23.4,True,21.1,True,76.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-11-28,False,24.3,True,21.6,True,58.0,False,C0AJ80,板橋,25.0107,121.4489
 2023-11-29,False,25.8,True,23.2,True,61.0,False,C0AJ80,板橋,25.0107,121.4489
-2023-11-30,True,21.8,True,19.8,True,81.0,True,C0AJ80,板橋,25.0107,121.4489
+2023-11-30,True,21.8,True,19.8,True,82.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-12-01,False,18.3,False,16.5,True,86.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-12-02,False,19.7,False,17.3,True,84.0,True,C0AJ80,板橋,25.0107,121.4489
 2023-12-03,False,19.9,False,18.8,True,88.0,True,C0AJ80,板橋,25.0107,121.4489

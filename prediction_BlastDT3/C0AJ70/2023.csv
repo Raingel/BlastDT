@@ -1,6 +1,6 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
 2023-01-01,False,19.6,False,18.3,True,89.0,True,C0AJ70,田寮,25.2698,121.4886
-2023-01-02,False,19.4,False,17.3,True,94.0,True,C0AJ70,田寮,25.2698,121.4886
+2023-01-02,False,19.4,False,17.4,True,94.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-01-03,False,16.6,False,15.1,True,93.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-01-04,False,17.2,False,15.7,True,90.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-01-05,False,19.3,False,18.3,True,94.0,True,C0AJ70,田寮,25.2698,121.4886
@@ -30,10 +30,10 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-01-29,False,14.9,False,12.7,True,65.0,False,C0AJ70,田寮,25.2698,121.4886
 2023-01-30,False,16.7,False,13.7,True,60.0,False,C0AJ70,田寮,25.2698,121.4886
 2023-01-31,False,17.6,False,13.6,True,75.0,True,C0AJ70,田寮,25.2698,121.4886
-2023-02-01,False,20.1,False,15.6,True,77.0,True,C0AJ70,田寮,25.2698,121.4886
+2023-02-01,False,20.1,False,15.7,True,77.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-02-02,False,17.5,False,16.5,True,84.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-02-03,False,18.1,False,16.4,True,85.0,True,C0AJ70,田寮,25.2698,121.4886
-2023-02-04,False,17.9,False,16.4,True,95.0,True,C0AJ70,田寮,25.2698,121.4886
+2023-02-04,False,17.9,False,16.5,True,95.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-02-05,False,19.4,False,17.1,True,99.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-02-06,False,16.6,False,15.4,True,99.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-02-07,False,18.3,False,16.7,True,98.0,True,C0AJ70,田寮,25.2698,121.4886
@@ -77,7 +77,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-03-17,False,19.5,False,17.8,True,96.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-03-18,False,17.9,False,16.7,True,92.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-03-19,True,22.0,True,18.8,True,91.0,True,C0AJ70,田寮,25.2698,121.4886
-2023-03-20,False,19.4,False,17.8,True,94.0,True,C0AJ70,田寮,25.2698,121.4886
+2023-03-20,False,19.4,False,17.9,True,94.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-03-21,True,24.7,True,22.1,True,87.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-03-22,True,26.2,True,23.9,True,80.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-03-23,True,27.7,True,23.3,True,79.0,True,C0AJ70,田寮,25.2698,121.4886
@@ -278,7 +278,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-10-04,True,26.8,True,25.8,True,95.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-10-05,True,26.0,True,24.5,True,97.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-10-06,True,25.6,True,24.5,True,97.0,True,C0AJ70,田寮,25.2698,121.4886
-2023-10-07,True,27.6,True,25.6,True,95.0,True,C0AJ70,田寮,25.2698,121.4886
+2023-10-07,True,27.6,True,25.8,True,94.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-10-08,True,25.4,True,24.8,True,93.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-10-09,True,24.8,True,23.9,True,95.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-10-10,True,25.5,True,23.8,True,90.0,True,C0AJ70,田寮,25.2698,121.4886
@@ -310,7 +310,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-11-05,True,26.6,True,23.8,True,86.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-11-06,True,28.9,True,25.1,True,74.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-11-07,False,23.5,True,22.2,True,66.0,False,C0AJ70,田寮,25.2698,121.4886
-2023-11-08,False,27.5,True,24.2,True,73.0,False,C0AJ70,田寮,25.2698,121.4886
+2023-11-08,False,27.5,True,24.3,True,73.0,False,C0AJ70,田寮,25.2698,121.4886
 2023-11-09,True,28.4,True,24.2,True,82.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-11-10,True,26.6,True,23.5,True,90.0,True,C0AJ70,田寮,25.2698,121.4886
 2023-11-11,True,21.4,True,20.7,True,96.0,True,C0AJ70,田寮,25.2698,121.4886

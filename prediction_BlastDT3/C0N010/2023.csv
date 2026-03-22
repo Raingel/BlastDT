@@ -40,7 +40,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-02-08,False,19.9,False,17.8,True,92.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-02-09,False,19.5,False,17.6,True,91.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-02-10,True,24.2,True,19.9,True,89.0,True,C0N010,鯤鯓國小,23.1879,120.0889
-2023-02-11,True,20.7,True,18.7,True,92.0,True,C0N010,鯤鯓國小,23.1879,120.0889
+2023-02-11,True,20.7,True,18.8,True,92.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-02-12,True,26.1,True,21.9,True,88.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-02-13,True,26.8,True,23.0,True,88.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-02-14,False,18.9,False,15.5,True,83.0,True,C0N010,鯤鯓國小,23.1879,120.0889
@@ -85,7 +85,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-03-25,True,24.5,True,22.0,True,85.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-03-26,True,24.5,True,20.5,True,85.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-03-27,True,22.5,True,19.2,True,82.0,True,C0N010,鯤鯓國小,23.1879,120.0889
-2023-03-28,True,22.7,True,19.8,True,84.0,True,C0N010,鯤鯓國小,23.1879,120.0889
+2023-03-28,True,22.7,True,19.9,True,84.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-03-29,True,22.6,True,20.5,True,89.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-03-30,True,23.2,True,20.8,True,87.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-03-31,True,23.4,True,20.4,True,83.0,True,C0N010,鯤鯓國小,23.1879,120.0889
@@ -207,7 +207,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-07-25,True,31.7,True,30.1,True,79.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-07-26,True,30.4,True,28.7,True,86.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-07-27,True,28.1,True,26.7,True,92.0,True,C0N010,鯤鯓國小,23.1879,120.0889
-2023-07-28,True,28.1,True,25.7,True,94.0,True,C0N010,鯤鯓國小,23.1879,120.0889
+2023-07-28,True,28.1,True,25.5,True,94.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-07-29,True,29.8,True,28.5,True,87.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-07-30,True,30.6,True,28.2,True,87.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-07-31,True,30.3,True,28.6,True,85.0,True,C0N010,鯤鯓國小,23.1879,120.0889
@@ -234,7 +234,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-08-21,True,31.1,True,29.3,True,83.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-08-22,True,31.2,True,29.1,True,84.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-08-23,True,31.9,True,29.5,True,80.0,True,C0N010,鯤鯓國小,23.1879,120.0889
-2023-08-24,True,31.9,True,29.5,True,81.0,True,C0N010,鯤鯓國小,23.1879,120.0889
+2023-08-24,True,31.9,True,29.6,True,80.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-08-25,True,31.6,True,29.4,True,81.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-08-26,True,31.6,True,29.0,True,83.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-08-27,True,31.2,True,29.1,True,79.0,True,C0N010,鯤鯓國小,23.1879,120.0889
@@ -278,7 +278,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-10-04,True,27.8,True,27.1,True,85.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-10-05,True,28.5,True,26.9,True,84.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-10-06,True,28.3,True,26.1,True,92.0,True,C0N010,鯤鯓國小,23.1879,120.0889
-2023-10-07,True,29.3,True,26.2,True,92.0,True,C0N010,鯤鯓國小,23.1879,120.0889
+2023-10-07,True,29.3,True,26.3,True,92.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-10-08,True,28.8,True,26.4,True,88.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-10-09,True,28.8,True,26.7,True,87.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-10-10,True,28.4,True,26.3,True,85.0,True,C0N010,鯤鯓國小,23.1879,120.0889
@@ -310,7 +310,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-11-05,True,28.0,True,25.8,True,82.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-11-06,True,29.1,True,26.5,True,78.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-11-07,True,27.5,True,25.0,True,80.0,True,C0N010,鯤鯓國小,23.1879,120.0889
-2023-11-08,True,27.8,True,25.0,True,79.0,True,C0N010,鯤鯓國小,23.1879,120.0889
+2023-11-08,True,27.8,True,25.1,True,79.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-11-09,True,27.9,True,25.6,True,87.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-11-10,True,28.9,True,26.2,True,85.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-11-11,True,26.8,True,24.6,True,84.0,True,C0N010,鯤鯓國小,23.1879,120.0889
@@ -332,7 +332,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-11-27,True,24.0,True,22.0,True,80.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-11-28,True,26.1,True,22.8,True,76.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-11-29,True,25.5,True,23.9,True,80.0,True,C0N010,鯤鯓國小,23.1879,120.0889
-2023-11-30,True,25.1,True,22.8,True,82.0,True,C0N010,鯤鯓國小,23.1879,120.0889
+2023-11-30,True,25.1,True,22.7,True,82.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-12-01,True,22.0,True,20.4,True,82.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-12-02,True,22.5,True,19.8,True,80.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-12-03,True,23.0,True,20.8,True,85.0,True,C0N010,鯤鯓國小,23.1879,120.0889
@@ -351,7 +351,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-12-16,True,24.6,True,20.1,True,81.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-12-17,False,18.6,False,16.2,True,75.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-12-18,True,22.1,True,19.3,True,82.0,True,C0N010,鯤鯓國小,23.1879,120.0889
-2023-12-19,True,22.7,True,20.4,True,87.0,True,C0N010,鯤鯓國小,23.1879,120.0889
+2023-12-19,True,22.7,True,20.5,True,87.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-12-20,False,19.2,False,17.6,True,77.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-12-21,False,16.3,False,14.6,True,77.0,True,C0N010,鯤鯓國小,23.1879,120.0889
 2023-12-22,False,15.4,False,12.6,True,69.0,False,C0N010,鯤鯓國小,23.1879,120.0889

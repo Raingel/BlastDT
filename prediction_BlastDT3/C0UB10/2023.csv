@@ -117,7 +117,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-07-25,True,30.9,True,29.1,True,76.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-07-26,True,29.9,True,28.0,True,86.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-07-27,True,29.4,True,27.6,True,82.0,True,C0UB10,蘇澳,24.5969,121.8571
-2023-07-28,True,30.0,True,28.2,True,74.0,True,C0UB10,蘇澳,24.5969,121.8571
+2023-07-28,False,30.0,True,28.3,True,73.0,False,C0UB10,蘇澳,24.5969,121.8571
 2023-07-29,True,31.7,True,28.7,True,74.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-07-30,True,30.6,True,28.2,True,81.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-07-31,True,32.1,True,28.4,True,78.0,True,C0UB10,蘇澳,24.5969,121.8571
@@ -145,7 +145,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-08-22,True,33.0,True,28.7,True,78.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-08-23,True,34.1,True,28.3,True,84.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-08-24,True,31.8,True,28.4,True,85.0,True,C0UB10,蘇澳,24.5969,121.8571
-2023-08-25,True,32.5,True,28.6,True,81.0,True,C0UB10,蘇澳,24.5969,121.8571
+2023-08-25,True,32.5,True,28.7,True,80.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-08-26,True,31.8,True,28.6,True,79.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-08-27,True,31.2,True,28.6,True,78.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-08-28,True,31.8,True,28.6,True,75.0,True,C0UB10,蘇澳,24.5969,121.8571
@@ -261,7 +261,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-12-16,True,22.9,True,16.3,True,87.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-12-17,False,14.4,False,13.2,True,91.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-12-18,True,21.2,True,17.7,True,92.0,True,C0UB10,蘇澳,24.5969,121.8571
-2023-12-19,True,23.9,True,18.3,True,86.0,True,C0UB10,蘇澳,24.5969,121.8571
+2023-12-19,True,23.9,True,18.4,True,86.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-12-20,False,17.3,False,15.6,True,90.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-12-21,False,13.8,False,11.6,True,94.0,True,C0UB10,蘇澳,24.5969,121.8571
 2023-12-22,False,12.3,False,10.8,True,75.0,True,C0UB10,蘇澳,24.5969,121.8571

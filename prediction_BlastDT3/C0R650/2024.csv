@@ -1,5 +1,5 @@
 Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號,站名,lat,lon
-2024-01-01,True,24.1,True,20.7,True,88.0,True,C0R650,竹田,22.58486,120.54344
+2024-01-01,True,24.1,True,20.6,True,89.0,True,C0R650,竹田,22.58486,120.54344
 2024-01-02,True,24.8,True,20.2,True,89.0,True,C0R650,竹田,22.58486,120.54344
 2024-01-03,True,25.5,True,19.3,True,85.0,True,C0R650,竹田,22.58486,120.54344
 2024-01-04,True,22.7,True,17.7,True,84.0,True,C0R650,竹田,22.58486,120.54344

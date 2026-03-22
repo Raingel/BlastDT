@@ -25,7 +25,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-01-24,False,15.8,False,10.7,True,73.0,False,C0AJ60,六塊厝,25.24,121.4481
 2023-01-25,False,14.6,False,11.2,True,67.0,False,C0AJ60,六塊厝,25.24,121.4481
 2023-01-26,False,17.3,False,14.8,True,80.0,True,C0AJ60,六塊厝,25.24,121.4481
-2023-01-27,False,16.2,False,12.2,True,61.0,False,C0AJ60,六塊厝,25.24,121.4481
+2023-01-27,False,16.2,False,12.3,True,61.0,False,C0AJ60,六塊厝,25.24,121.4481
 2023-01-28,False,10.5,False,9.6,True,54.0,False,C0AJ60,六塊厝,25.24,121.4481
 2023-01-29,False,15.8,False,12.7,True,64.0,False,C0AJ60,六塊厝,25.24,121.4481
 2023-01-30,False,17.8,False,13.0,True,63.0,False,C0AJ60,六塊厝,25.24,121.4481
@@ -108,7 +108,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-04-17,True,26.6,True,22.8,True,82.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-04-18,True,27.4,True,23.0,True,84.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-04-19,True,29.8,True,23.8,True,89.0,True,C0AJ60,六塊厝,25.24,121.4481
-2023-04-20,True,23.4,True,21.7,True,92.0,True,C0AJ60,六塊厝,25.24,121.4481
+2023-04-20,True,23.4,True,21.8,True,92.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-04-21,True,22.1,True,20.7,True,88.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-04-22,True,21.6,True,20.0,True,82.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-04-23,True,24.0,True,21.3,True,86.0,True,C0AJ60,六塊厝,25.24,121.4481
@@ -196,7 +196,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-07-14,False,34.5,True,30.9,False,67.0,False,C0AJ60,六塊厝,25.24,121.4481
 2023-07-15,False,35.0,True,31.3,False,66.0,False,C0AJ60,六塊厝,25.24,121.4481
 2023-07-16,False,36.5,True,32.0,False,60.0,False,C0AJ60,六塊厝,25.24,121.4481
-2023-07-17,True,32.6,True,29.8,True,78.0,True,C0AJ60,六塊厝,25.24,121.4481
+2023-07-17,True,32.6,True,29.7,True,79.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-07-18,True,31.8,True,28.0,True,86.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-07-19,True,33.0,True,28.7,True,82.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-07-20,True,32.1,True,29.4,True,79.0,True,C0AJ60,六塊厝,25.24,121.4481
@@ -207,7 +207,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-07-25,False,35.1,True,30.7,True,67.0,False,C0AJ60,六塊厝,25.24,121.4481
 2023-07-26,True,30.4,True,28.2,True,83.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-07-27,False,32.6,True,30.2,True,65.0,False,C0AJ60,六塊厝,25.24,121.4481
-2023-07-28,False,32.9,True,29.3,True,70.0,False,C0AJ60,六塊厝,25.24,121.4481
+2023-07-28,False,32.9,True,29.2,True,71.0,False,C0AJ60,六塊厝,25.24,121.4481
 2023-07-29,True,32.4,True,28.6,True,80.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-07-30,True,30.5,True,28.2,True,85.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-07-31,True,30.1,True,27.8,True,86.0,True,C0AJ60,六塊厝,25.24,121.4481
@@ -235,7 +235,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-08-22,True,32.3,True,28.9,True,80.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-08-23,True,32.4,True,28.7,True,79.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-08-24,True,31.6,True,28.4,True,82.0,True,C0AJ60,六塊厝,25.24,121.4481
-2023-08-25,True,33.3,True,29.1,True,77.0,True,C0AJ60,六塊厝,25.24,121.4481
+2023-08-25,True,33.3,True,29.2,True,77.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-08-26,True,33.6,True,29.5,True,76.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-08-27,True,33.1,True,29.0,True,79.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-08-28,True,31.8,True,28.8,True,82.0,True,C0AJ60,六塊厝,25.24,121.4481
@@ -253,7 +253,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-09-09,True,30.0,True,26.3,True,74.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-09-10,True,29.7,True,25.8,True,80.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-09-11,True,31.7,True,25.8,True,76.0,True,C0AJ60,六塊厝,25.24,121.4481
-2023-09-12,True,32.0,True,26.7,True,76.0,True,C0AJ60,六塊厝,25.24,121.4481
+2023-09-12,True,32.0,True,26.7,True,77.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-09-13,True,29.5,True,26.3,True,80.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-09-14,True,29.9,True,26.6,True,82.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-09-15,True,30.0,True,27.3,True,85.0,True,C0AJ60,六塊厝,25.24,121.4481
@@ -278,7 +278,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-10-04,True,27.2,True,25.9,True,93.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-10-05,True,26.7,True,24.7,True,95.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-10-06,True,25.6,True,24.7,True,95.0,True,C0AJ60,六塊厝,25.24,121.4481
-2023-10-07,True,28.0,True,25.6,True,93.0,True,C0AJ60,六塊厝,25.24,121.4481
+2023-10-07,True,28.0,True,25.7,True,93.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-10-08,True,25.6,True,24.6,True,92.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-10-09,True,24.5,True,23.6,True,96.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-10-10,True,25.4,True,23.4,True,91.0,True,C0AJ60,六塊厝,25.24,121.4481
@@ -310,7 +310,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-11-05,True,27.4,True,23.7,True,87.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-11-06,True,29.8,True,25.0,True,75.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-11-07,False,24.1,True,22.4,True,64.0,False,C0AJ60,六塊厝,25.24,121.4481
-2023-11-08,True,29.7,True,23.5,True,77.0,True,C0AJ60,六塊厝,25.24,121.4481
+2023-11-08,True,29.7,True,23.9,True,76.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-11-09,True,27.9,True,24.2,True,83.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-11-10,True,26.7,True,23.6,True,89.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-11-11,True,21.2,True,20.6,True,96.0,True,C0AJ60,六塊厝,25.24,121.4481
@@ -332,7 +332,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-11-27,True,24.2,True,20.7,True,80.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-11-28,False,24.0,True,21.2,True,60.0,False,C0AJ60,六塊厝,25.24,121.4481
 2023-11-29,True,24.4,True,21.5,True,74.0,True,C0AJ60,六塊厝,25.24,121.4481
-2023-11-30,True,22.1,True,19.3,True,89.0,True,C0AJ60,六塊厝,25.24,121.4481
+2023-11-30,True,22.1,True,19.2,True,89.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-12-01,False,17.8,False,15.6,True,93.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-12-02,False,19.7,False,16.7,True,89.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-12-03,False,18.8,False,17.9,True,97.0,True,C0AJ60,六塊厝,25.24,121.4481
@@ -351,7 +351,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-12-16,True,21.6,True,14.4,True,92.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-12-17,False,14.9,False,12.6,True,88.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-12-18,True,20.8,True,17.8,True,92.0,True,C0AJ60,六塊厝,25.24,121.4481
-2023-12-19,False,20.2,False,17.1,True,92.0,True,C0AJ60,六塊厝,25.24,121.4481
+2023-12-19,False,20.2,False,17.2,True,92.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-12-20,False,16.1,False,14.5,True,89.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-12-21,False,12.9,False,10.9,True,86.0,True,C0AJ60,六塊厝,25.24,121.4481
 2023-12-22,False,13.5,False,11.0,True,68.0,False,C0AJ60,六塊厝,25.24,121.4481

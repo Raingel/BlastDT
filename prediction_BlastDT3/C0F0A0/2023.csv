@@ -67,10 +67,10 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-03-07,False,,False,0.7,True,26.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-08,False,,False,0.2,True,67.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-09,False,,False,-0.6,True,70.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
-2023-03-10,False,,False,0.7,True,19.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
+2023-03-10,False,,False,0.6,True,19.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-11,False,,False,2.3,True,32.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-12,False,,False,1.1,True,75.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
-2023-03-13,False,,False,-1.4,True,97.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
+2023-03-13,False,,False,-1.3,True,97.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-14,False,,False,-1.4,True,70.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-15,False,,False,3.1,True,53.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-16,False,,False,2.8,True,52.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
@@ -84,7 +84,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-03-24,False,,False,3.3,True,57.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-25,False,,False,3.2,True,66.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-26,False,,False,0.5,True,96.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
-2023-03-27,False,,False,0.6,True,99.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
+2023-03-27,False,,False,0.5,True,99.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-28,False,,False,1.3,True,97.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-29,False,,False,2.4,True,96.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-03-30,False,,False,2.4,True,100.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
@@ -105,7 +105,7 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2023-04-14,False,,False,6.9,True,57.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-04-15,False,,False,3.7,True,91.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-04-16,False,,False,3.8,True,29.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
-2023-04-17,False,,False,5.2,True,42.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
+2023-04-17,False,,False,4.9,True,42.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-04-18,False,,False,5.8,True,69.0,False,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-04-19,False,,False,4.6,True,97.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
 2023-04-20,False,,False,4.1,True,100.0,True,C0F0A0,雪山圈谷,24.388594,121.236339
