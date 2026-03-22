@@ -1,5 +1,5 @@
 Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,RH_condition,RH_condition_rolling,站號,站名,lat,lon
-2023-12-31,,,,,66.0,False,0.0,C0F970,大坑,24.173142,120.722289
+2023-12-31,,,,,67.0,False,0.0,C0F970,大坑,24.173142,120.722289
 2024-01-01,False,24.1,True,1.0,69.0,False,0.0,C0F970,大坑,24.173142,120.722289
 2024-01-02,False,25.7,True,1.0,74.0,False,0.0,C0F970,大坑,24.173142,120.722289
 2024-01-03,False,20.7,False,0.0,79.0,False,0.0,C0F970,大坑,24.173142,120.722289
