@@ -82,3 +82,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-03-21,False,27.6,True,1.0,77.0,False,0.0,C0F9N0,大里,24.092464,120.701378
 2026-03-22,False,28.8,True,1.0,78.0,False,0.0,C0F9N0,大里,24.092464,120.701378
 2026-03-23,False,29.3,True,1.0,78.0,False,0.0,C0F9N0,大里,24.092464,120.701378
+2026-03-24,True,28.3,True,1.0,81.0,True,1.0,C0F9N0,大里,24.092464,120.701378
+2026-03-25,False,30.4,True,1.0,69.0,False,0.0,C0F9N0,大里,24.092464,120.701378

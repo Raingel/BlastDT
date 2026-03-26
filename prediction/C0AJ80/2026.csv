@@ -82,3 +82,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-03-21,False,22.0,False,0.0,84.0,True,1.0,C0AJ80,板橋,25.0107,121.4489
 2026-03-22,True,26.2,True,1.0,83.0,True,1.0,C0AJ80,板橋,25.0107,121.4489
 2026-03-23,True,27.2,True,1.0,82.0,True,1.0,C0AJ80,板橋,25.0107,121.4489
+2026-03-24,True,26.4,True,1.0,83.0,True,1.0,C0AJ80,板橋,25.0107,121.4489
+2026-03-25,False,26.4,True,1.0,78.0,False,0.0,C0AJ80,板橋,25.0107,121.4489
