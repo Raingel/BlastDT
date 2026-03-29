@@ -85,3 +85,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-03-25,True,30.6,True,24.5,True,75.0,True,C0X320,柳營,23.253328,120.375253
 2026-03-26,True,30.4,True,23.8,True,75.0,True,C0X320,柳營,23.253328,120.375253
 2026-03-27,True,30.1,True,24.3,True,74.0,True,C0X320,柳營,23.253328,120.375253
+2026-03-28,False,31.1,True,24.5,True,73.0,False,C0X320,柳營,23.253328,120.375253
