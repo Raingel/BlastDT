@@ -88,3 +88,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-03-27,False,20.8,False,0.0,99.0,True,1.0,C0UA40,西德山,24.560647,121.752608
 2026-03-28,False,15.9,False,0.0,100.0,True,1.0,C0UA40,西德山,24.560647,121.752608
 2026-03-29,False,22.2,False,0.0,99.0,True,1.0,C0UA40,西德山,24.560647,121.752608
+2026-03-30,True,26.0,True,1.0,91.0,True,1.0,C0UA40,西德山,24.560647,121.752608
