@@ -88,3 +88,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-03-28,False,13.3,False,11.1,True,95.0,True,C0I480,梅峰,24.085272,121.173572
 2026-03-29,False,16.6,False,11.2,True,95.0,True,C0I480,梅峰,24.085272,121.173572
 2026-03-30,False,19.0,False,13.0,True,82.0,True,C0I480,梅峰,24.085272,121.173572
+2026-03-31,False,21.0,True,13.8,True,64.0,False,C0I480,梅峰,24.085272,121.173572
