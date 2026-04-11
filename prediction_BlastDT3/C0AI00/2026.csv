@@ -98,3 +98,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-04-07,True,24.5,True,20.5,True,92.0,True,C0AI00,五股,25.07445,121.42728
 2026-04-08,True,24.0,True,21.3,True,93.0,True,C0AI00,五股,25.07445,121.42728
 2026-04-09,True,30.5,True,25.3,True,90.0,True,C0AI00,五股,25.07445,121.42728
+2026-04-10,False,31.5,True,26.6,True,73.0,False,C0AI00,五股,25.07445,121.42728
