@@ -100,4 +100,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-04-09,True,31.4,True,23.9,True,90.0,True,C2D720,關西工作站,24.757275,121.184792
 2026-04-10,True,32.1,True,24.4,True,81.0,True,C2D720,關西工作站,24.757275,121.184792
 2026-04-11,True,30.7,True,23.7,True,85.0,True,C2D720,關西工作站,24.757275,121.184792
-2026-04-12,False,,False,21.9,True,98.0,True,C2D720,關西工作站,24.757275,121.184792
+2026-04-12,True,30.2,True,24.1,True,84.0,True,C2D720,關西工作站,24.757275,121.184792
+2026-04-13,False,,False,19.4,True,98.0,True,C2D720,關西工作站,24.757275,121.184792
