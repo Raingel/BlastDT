@@ -102,3 +102,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-04-10,True,29.6,True,1.0,80.0,True,1.0,466990,花蓮,23.975128,121.613275
 2026-04-11,True,28.8,True,1.0,80.0,True,1.0,466990,花蓮,23.975128,121.613275
 2026-04-12,False,30.5,True,1.0,77.0,False,0.0,466990,花蓮,23.975128,121.613275
+2026-04-13,False,30.1,True,1.0,77.0,False,0.0,466990,花蓮,23.975128,121.613275
