@@ -105,4 +105,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-04-14,True,32.0,True,25.9,True,77.0,True,C2D730,寶山農場,24.732444,120.976153
 2026-04-15,True,31.0,True,25.1,True,85.0,True,C2D730,寶山農場,24.732444,120.976153
 2026-04-16,True,29.7,True,24.8,True,90.0,True,C2D730,寶山農場,24.732444,120.976153
-2026-04-17,False,,False,22.1,True,98.0,True,C2D730,寶山農場,24.732444,120.976153
+2026-04-17,True,29.3,True,24.0,True,88.0,True,C2D730,寶山農場,24.732444,120.976153
+2026-04-18,False,,False,21.2,True,97.0,True,C2D730,寶山農場,24.732444,120.976153
