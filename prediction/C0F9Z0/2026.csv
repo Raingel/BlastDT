@@ -108,4 +108,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-04-16,False,13.9,False,0.0,73.0,False,0.0,C0F9Z0,雪山東峰,24.388792,121.268675
 2026-04-17,False,14.05,False,0.0,62.0,False,0.0,C0F9Z0,雪山東峰,24.388792,121.268675
 2026-04-18,False,14.2,False,0.0,77.0,False,0.0,C0F9Z0,雪山東峰,24.388792,121.268675
-2026-04-19,,,,,55.0,False,0.0,C0F9Z0,雪山東峰,24.388792,121.268675
+2026-04-19,False,15.05,False,0.0,55.0,False,0.0,C0F9Z0,雪山東峰,24.388792,121.268675
+2026-04-20,False,15.9,False,0.0,55.0,False,0.0,C0F9Z0,雪山東峰,24.388792,121.268675
