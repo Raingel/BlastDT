@@ -113,3 +113,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-04-22,True,30.0,True,24.3,True,86.0,True,C0T900,西林,23.8119,121.441458
 2026-04-23,True,30.9,True,24.8,True,84.0,True,C0T900,西林,23.8119,121.441458
 2026-04-24,True,23.0,True,20.5,True,98.0,True,C0T900,西林,23.8119,121.441458
+2026-04-25,False,20.5,False,19.4,True,100.0,True,C0T900,西林,23.8119,121.441458
