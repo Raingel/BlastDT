@@ -115,3 +115,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-04-24,True,28.3,True,24.3,True,88.0,True,C0V370,古亭坑,22.893178,120.401947
 2026-04-25,True,25.7,True,22.2,True,92.0,True,C0V370,古亭坑,22.893178,120.401947
 2026-04-26,True,33.0,True,24.1,True,79.0,True,C0V370,古亭坑,22.893178,120.401947
+2026-04-27,False,32.5,True,24.9,True,72.0,False,C0V370,古亭坑,22.893178,120.401947

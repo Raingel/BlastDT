@@ -115,3 +115,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-04-24,True,25.6,True,23.4,True,86.0,True,C0S810,東河,22.972672,121.303986
 2026-04-25,True,23.1,True,21.4,True,94.0,True,C0S810,東河,22.972672,121.303986
 2026-04-26,True,27.8,True,23.5,True,80.0,True,C0S810,東河,22.972672,121.303986
+2026-04-27,False,31.0,True,24.8,True,73.0,False,C0S810,東河,22.972672,121.303986
