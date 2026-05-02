@@ -119,4 +119,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-04-28,False,29.2,True,23.6,True,64.0,False,K2F750,種苗改良場,24.225972,120.800917
 2026-04-29,True,28.1,True,23.0,True,82.0,True,K2F750,種苗改良場,24.225972,120.800917
 2026-04-30,True,21.2,True,18.3,True,96.0,True,K2F750,種苗改良場,24.225972,120.800917
-2026-05-01,False,,False,17.4,True,95.0,True,K2F750,種苗改良場,24.225972,120.800917
+2026-05-01,True,27.6,True,22.0,True,82.0,True,K2F750,種苗改良場,24.225972,120.800917
+2026-05-02,False,,False,21.4,True,88.0,True,K2F750,種苗改良場,24.225972,120.800917
