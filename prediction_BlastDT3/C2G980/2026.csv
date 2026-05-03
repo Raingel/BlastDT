@@ -120,4 +120,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-04-29,True,30.7,True,25.2,True,84.0,True,C2G980,田頭村,23.8263,120.444175
 2026-04-30,True,24.1,True,21.0,True,90.0,True,C2G980,田頭村,23.8263,120.444175
 2026-05-01,True,28.1,True,23.0,True,82.0,True,C2G980,田頭村,23.8263,120.444175
-2026-05-02,False,,False,22.6,True,94.0,True,C2G980,田頭村,23.8263,120.444175
+2026-05-02,True,29.9,True,25.4,True,83.0,True,C2G980,田頭村,23.8263,120.444175
+2026-05-03,False,,False,23.1,True,96.0,True,C2G980,田頭村,23.8263,120.444175
