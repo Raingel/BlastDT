@@ -123,3 +123,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-05-01,False,25.0,True,1.0,77.0,False,0.0,C0K530,臺西,23.701547,120.197559
 2026-05-02,False,27.7,True,1.0,79.0,False,0.0,C0K530,臺西,23.701547,120.197559
 2026-05-03,True,30.6,True,1.0,84.0,True,1.0,C0K530,臺西,23.701547,120.197559
+2026-05-04,,,,,75.0,False,0.0,C0K530,臺西,23.701547,120.197559
