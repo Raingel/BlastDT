@@ -121,4 +121,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-04-30,True,23.65,True,17.7,True,97.0,True,C0AH30,五分山,25.07125,121.780794
 2026-05-01,False,18.9,False,17.0,True,98.0,True,C0AH30,五分山,25.07125,121.780794
 2026-05-02,True,28.4,True,21.6,True,92.0,True,C0AH30,五分山,25.07125,121.780794
-2026-05-03,False,,False,23.3,True,89.0,True,C0AH30,五分山,25.07125,121.780794
+2026-05-03,True,23.9,True,23.3,True,89.0,True,C0AH30,五分山,25.07125,121.780794
+2026-05-04,False,19.4,False,17.2,True,97.0,True,C0AH30,五分山,25.07125,121.780794
