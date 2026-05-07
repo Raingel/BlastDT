@@ -125,3 +125,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-05-03,True,31.0,True,1.0,86.0,True,1.0,C0A640,石碇,24.993969,121.662917
 2026-05-04,False,20.9,False,0.0,87.0,True,1.0,C0A640,石碇,24.993969,121.662917
 2026-05-05,False,19.0,False,0.0,96.0,True,1.0,C0A640,石碇,24.993969,121.662917
+2026-05-06,,,,,,,,C0A640,石碇,24.993969,121.662917
