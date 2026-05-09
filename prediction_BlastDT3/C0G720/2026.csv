@@ -126,3 +126,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-05-05,True,23.5,True,21.4,True,91.0,True,C0G720,溪州,23.851589,120.499093
 2026-05-06,True,28.4,True,24.1,True,83.0,True,C0G720,溪州,23.851589,120.499093
 2026-05-07,True,31.2,True,26.2,True,77.0,True,C0G720,溪州,23.851589,120.499093
+2026-05-08,False,31.3,True,26.0,True,73.0,False,C0G720,溪州,23.851589,120.499093
