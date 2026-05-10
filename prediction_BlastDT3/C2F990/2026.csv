@@ -127,4 +127,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-05-06,True,27.3,True,20.4,True,84.0,True,C2F990,摩天嶺,24.322458,120.936819
 2026-05-07,True,27.1,True,21.3,True,82.0,True,C2F990,摩天嶺,24.322458,120.936819
 2026-05-08,True,26.7,True,21.7,True,82.0,True,C2F990,摩天嶺,24.322458,120.936819
-2026-05-09,False,,False,20.3,True,90.0,True,C2F990,摩天嶺,24.322458,120.936819
+2026-05-09,True,26.3,True,21.5,True,84.0,True,C2F990,摩天嶺,24.322458,120.936819
+2026-05-10,False,,False,19.5,True,90.0,True,C2F990,摩天嶺,24.322458,120.936819
