@@ -128,4 +128,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-05-07,True,33.6,True,27.1,True,76.0,True,C2M910,嘉義大學,23.471325,120.485903
 2026-05-08,True,32.9,True,27.0,True,75.0,True,C2M910,嘉義大學,23.471325,120.485903
 2026-05-09,True,31.3,True,25.4,True,74.0,True,C2M910,嘉義大學,23.471325,120.485903
-2026-05-10,False,,False,22.4,True,82.0,True,C2M910,嘉義大學,23.471325,120.485903
+2026-05-10,True,31.9,True,26.0,True,77.0,True,C2M910,嘉義大學,23.471325,120.485903
+2026-05-11,False,,False,24.0,True,89.0,True,C2M910,嘉義大學,23.471325,120.485903
