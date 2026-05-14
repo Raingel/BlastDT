@@ -131,4 +131,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-05-10,True,32.0,True,25.8,True,78.0,True,C2N160,西拉雅風管處,23.189481,120.335297
 2026-05-11,True,33.3,True,26.6,True,80.0,True,C2N160,西拉雅風管處,23.189481,120.335297
 2026-05-12,True,32.0,True,27.0,True,77.0,True,C2N160,西拉雅風管處,23.189481,120.335297
-2026-05-13,False,,False,24.2,True,89.0,True,C2N160,西拉雅風管處,23.189481,120.335297
+2026-05-13,True,33.1,True,27.6,True,75.0,True,C2N160,西拉雅風管處,23.189481,120.335297
+2026-05-14,False,,False,24.8,True,89.0,True,C2N160,西拉雅風管處,23.189481,120.335297
