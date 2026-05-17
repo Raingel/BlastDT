@@ -134,3 +134,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-05-13,True,27.6,True,24.6,True,86.0,True,C0E730,頭份,24.688247,120.912206
 2026-05-14,True,24.8,True,23.3,True,92.0,True,C0E730,頭份,24.688247,120.912206
 2026-05-15,True,32.4,True,26.6,True,74.0,True,C0E730,頭份,24.688247,120.912206
+2026-05-16,False,32.9,True,27.4,True,62.0,False,C0E730,頭份,24.688247,120.912206
