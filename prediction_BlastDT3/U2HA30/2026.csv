@@ -147,4 +147,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-05-26,True,32.7,True,25.3,True,82.0,True,U2HA30,臺大和社,23.590856,120.888864
 2026-05-27,True,33.6,True,25.8,True,83.0,True,U2HA30,臺大和社,23.590856,120.888864
 2026-05-28,True,34.2,True,26.4,True,78.0,True,U2HA30,臺大和社,23.590856,120.888864
-2026-05-29,False,,False,21.3,True,97.0,True,U2HA30,臺大和社,23.590856,120.888864
+2026-05-29,True,34.2,True,25.4,True,84.0,True,U2HA30,臺大和社,23.590856,120.888864
+2026-05-30,False,,False,21.6,True,99.0,True,U2HA30,臺大和社,23.590856,120.888864
