@@ -148,4 +148,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-05-27,True,35.6,True,29.5,True,79.0,True,72N100,臺南農改場,23.0605,120.342194
 2026-05-28,True,35.4,True,30.0,True,77.0,True,72N100,臺南農改場,23.0605,120.342194
 2026-05-29,True,37.4,True,29.2,True,83.0,True,72N100,臺南農改場,23.0605,120.342194
-2026-05-30,False,,False,25.8,True,98.0,True,72N100,臺南農改場,23.0605,120.342194
+2026-05-30,True,34.2,True,28.5,True,83.0,True,72N100,臺南農改場,23.0605,120.342194
+2026-05-31,False,,False,26.3,True,94.0,True,72N100,臺南農改場,23.0605,120.342194
