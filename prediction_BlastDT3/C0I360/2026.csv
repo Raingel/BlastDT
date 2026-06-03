@@ -151,3 +151,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-05-30,True,30.6,True,27.3,True,79.0,True,C0I360,水里,23.812553,120.849792
 2026-05-31,True,31.0,True,26.8,True,77.0,True,C0I360,水里,23.812553,120.849792
 2026-06-01,True,32.6,True,26.8,True,74.0,True,C0I360,水里,23.812553,120.849792
+2026-06-02,False,33.7,True,27.5,True,68.0,False,C0I360,水里,23.812553,120.849792

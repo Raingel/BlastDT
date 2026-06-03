@@ -151,3 +151,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-05-30,True,32.1,True,28.1,True,80.0,True,467290,古坑,23.633536,120.551906
 2026-05-31,True,32.6,True,27.0,True,76.0,True,467290,古坑,23.633536,120.551906
 2026-06-01,True,33.4,True,27.1,True,79.0,True,467290,古坑,23.633536,120.551906
+2026-06-02,False,34.8,True,28.6,True,70.0,False,467290,古坑,23.633536,120.551906
