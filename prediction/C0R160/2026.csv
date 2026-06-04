@@ -153,3 +153,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-05-31,True,32.6,True,1.0,91.0,True,1.0,C0R160,鹽埔,22.739558,120.530778
 2026-06-01,True,34.6,True,1.0,84.0,True,1.0,C0R160,鹽埔,22.739558,120.530778
 2026-06-02,False,34.1,True,1.0,74.0,False,0.0,C0R160,鹽埔,22.739558,120.530778
+2026-06-03,False,34.3,True,1.0,79.0,False,0.0,C0R160,鹽埔,22.739558,120.530778
