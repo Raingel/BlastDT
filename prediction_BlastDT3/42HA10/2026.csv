@@ -152,4 +152,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-05-31,True,27.9,True,23.0,True,83.0,True,42HA10,萬大發電廠,23.978875,121.139639
 2026-06-01,True,29.2,True,23.7,True,77.0,True,42HA10,萬大發電廠,23.978875,121.139639
 2026-06-02,True,30.2,True,23.3,True,76.0,True,42HA10,萬大發電廠,23.978875,121.139639
-2026-06-03,False,,False,19.7,True,92.0,True,42HA10,萬大發電廠,23.978875,121.139639
+2026-06-03,True,30.1,True,23.8,True,76.0,True,42HA10,萬大發電廠,23.978875,121.139639
+2026-06-04,False,,False,21.0,True,89.0,True,42HA10,萬大發電廠,23.978875,121.139639
