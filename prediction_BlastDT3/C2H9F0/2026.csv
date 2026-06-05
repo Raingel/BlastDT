@@ -153,4 +153,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-06-01,False,34.8,True,27.6,True,72.0,False,C2H9F0,柑林,24.018658,120.847072
 2026-06-02,False,36.2,True,28.0,True,70.0,False,C2H9F0,柑林,24.018658,120.847072
 2026-06-03,False,35.9,True,28.8,True,68.0,False,C2H9F0,柑林,24.018658,120.847072
-2026-06-04,False,,False,24.7,True,88.0,True,C2H9F0,柑林,24.018658,120.847072
+2026-06-04,True,33.2,True,26.4,True,85.0,True,C2H9F0,柑林,24.018658,120.847072
+2026-06-05,False,,False,23.9,True,98.0,True,C2H9F0,柑林,24.018658,120.847072
