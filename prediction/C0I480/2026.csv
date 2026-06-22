@@ -171,3 +171,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-06-18,False,21.2,False,0.0,90.0,True,1.0,C0I480,梅峰,24.085272,121.173572
 2026-06-19,False,21.6,False,0.0,80.0,True,1.0,C0I480,梅峰,24.085272,121.173572
 2026-06-20,False,24.0,True,1.0,70.0,False,0.0,C0I480,梅峰,24.085272,121.173572
+2026-06-21,False,26.0,True,1.0,71.0,False,0.0,C0I480,梅峰,24.085272,121.173572
