@@ -170,4 +170,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-06-18,False,17.9,False,11.1,True,84.0,True,C0F9Z0,雪山東峰,24.388792,121.268675
 2026-06-19,False,19.4,False,12.8,True,54.0,False,C0F9Z0,雪山東峰,24.388792,121.268675
 2026-06-20,False,19.8,False,14.4,True,42.0,False,C0F9Z0,雪山東峰,24.388792,121.268675
-2026-06-21,False,,False,13.9,True,54.0,False,C0F9Z0,雪山東峰,24.388792,121.268675
+2026-06-21,False,20.55,False,13.9,True,54.0,False,C0F9Z0,雪山東峰,24.388792,121.268675
+2026-06-22,False,21.3,True,13.2,True,70.0,False,C0F9Z0,雪山東峰,24.388792,121.268675
+2026-06-23,False,18.7,False,12.4,True,65.0,False,C0F9Z0,雪山東峰,24.388792,121.268675

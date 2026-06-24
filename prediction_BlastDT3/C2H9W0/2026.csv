@@ -171,4 +171,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-06-19,True,31.3,True,25.1,True,79.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
 2026-06-20,True,31.0,True,25.3,True,78.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
 2026-06-21,True,31.7,True,25.8,True,78.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
-2026-06-22,False,,False,22.2,True,100.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
+2026-06-22,True,32.0,True,26.1,True,82.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
+2026-06-23,True,31.6,True,26.0,True,81.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
+2026-06-24,False,,False,23.0,True,100.0,True,C2H9W0,大坪頂農水,24.043122,120.932781
