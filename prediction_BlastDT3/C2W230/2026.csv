@@ -175,4 +175,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-06-23,True,31.2,True,28.2,True,91.0,True,C2W230,畜試所澎湖,23.628342,119.513206
 2026-06-24,True,31.6,True,28.4,True,92.0,True,C2W230,畜試所澎湖,23.628342,119.513206
 2026-06-25,True,30.7,True,27.6,True,94.0,True,C2W230,畜試所澎湖,23.628342,119.513206
-2026-06-26,False,,False,26.7,True,100.0,True,C2W230,畜試所澎湖,23.628342,119.513206
+2026-06-26,True,28.5,True,26.7,True,98.0,True,C2W230,畜試所澎湖,23.628342,119.513206
+2026-06-27,False,,False,25.7,True,100.0,True,C2W230,畜試所澎湖,23.628342,119.513206
