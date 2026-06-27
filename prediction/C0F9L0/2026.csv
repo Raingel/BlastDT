@@ -176,3 +176,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-06-23,False,34.2,True,1.0,68.0,False,0.0,C0F9L0,后里,24.310436,120.729725
 2026-06-24,False,36.5,True,1.0,69.0,False,0.0,C0F9L0,后里,24.310436,120.729725
 2026-06-25,True,33.6,True,1.0,84.0,True,1.0,C0F9L0,后里,24.310436,120.729725
+2026-06-26,True,29.0,True,1.0,88.0,True,1.0,C0F9L0,后里,24.310436,120.729725
