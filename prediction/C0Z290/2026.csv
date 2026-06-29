@@ -178,3 +178,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-06-25,True,28.3,True,1.0,92.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
 2026-06-26,True,25.3,True,1.0,99.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
 2026-06-27,False,22.9,False,0.0,100.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
+2026-06-28,True,24.8,True,1.0,98.0,True,1.0,C0Z290,赤柯山,23.36893,121.38293
