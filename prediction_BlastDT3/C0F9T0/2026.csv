@@ -179,3 +179,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-06-27,True,27.5,True,25.2,True,92.0,True,C0F9T0,西屯,24.179494,120.641275
 2026-06-28,True,30.0,True,28.3,True,78.0,True,C0F9T0,西屯,24.179494,120.641275
 2026-06-29,True,32.5,True,29.1,True,76.0,True,C0F9T0,西屯,24.179494,120.641275
+2026-06-30,False,33.2,True,29.5,True,72.0,False,C0F9T0,西屯,24.179494,120.641275

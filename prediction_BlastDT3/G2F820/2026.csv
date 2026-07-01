@@ -179,4 +179,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-06-27,True,27.8,True,25.3,True,97.0,True,G2F820,農試所(霧峰),24.031261,120.688133
 2026-06-28,True,32.7,True,28.0,True,85.0,True,G2F820,農試所(霧峰),24.031261,120.688133
 2026-06-29,True,34.0,True,29.1,True,83.0,True,G2F820,農試所(霧峰),24.031261,120.688133
-2026-06-30,False,,False,26.0,True,94.0,True,G2F820,農試所(霧峰),24.031261,120.688133
+2026-06-30,True,34.5,True,29.5,True,79.0,True,G2F820,農試所(霧峰),24.031261,120.688133
+2026-07-01,False,,False,26.3,True,89.0,True,G2F820,農試所(霧峰),24.031261,120.688133

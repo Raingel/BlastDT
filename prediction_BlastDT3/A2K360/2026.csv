@@ -179,4 +179,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-06-27,True,27.9,True,29.566666666666666,True,77.33333333333334,True,A2K360,水試臺西試驗場,23.717231,120.190522
 2026-06-28,True,32.3,True,30.6,True,94.0,True,A2K360,水試臺西試驗場,23.717231,120.190522
 2026-06-29,False,32.5,True,30.8,False,88.0,True,A2K360,水試臺西試驗場,23.717231,120.190522
-2026-06-30,False,,False,,False,,False,A2K360,水試臺西試驗場,23.717231,120.190522
+2026-06-30,False,31.7,True,31.0,False,83.0,True,A2K360,水試臺西試驗場,23.717231,120.190522
+2026-07-01,False,,False,,False,,False,A2K360,水試臺西試驗場,23.717231,120.190522
