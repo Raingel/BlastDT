@@ -183,3 +183,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-07-01,True,34.7,True,29.6,True,92.0,True,C0O900,善化,23.112883,120.297219
 2026-07-02,True,34.9,True,30.0,True,93.0,True,C0O900,善化,23.112883,120.297219
 2026-07-03,True,36.3,True,30.3,True,88.0,True,C0O900,善化,23.112883,120.297219
+2026-07-04,False,36.7,True,30.9,False,84.0,True,C0O900,善化,23.112883,120.297219

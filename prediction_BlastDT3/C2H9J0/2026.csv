@@ -183,4 +183,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-07-01,True,34.0,True,27.7,True,80.0,True,C2H9J0,中台,23.9996,120.938739
 2026-07-02,True,34.6,True,27.8,True,80.0,True,C2H9J0,中台,23.9996,120.938739
 2026-07-03,True,35.4,True,27.5,True,80.0,True,C2H9J0,中台,23.9996,120.938739
-2026-07-04,False,,False,23.8,True,99.0,True,C2H9J0,中台,23.9996,120.938739
+2026-07-04,True,35.0,True,28.0,True,78.0,True,C2H9J0,中台,23.9996,120.938739
+2026-07-05,False,,False,23.6,True,99.0,True,C2H9J0,中台,23.9996,120.938739
