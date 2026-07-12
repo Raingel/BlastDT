@@ -190,4 +190,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-07-08,False,35.0,True,30.7,True,70.0,False,C2R170,屏東,22.66027,120.49403
 2026-07-09,False,35.5,True,31.0,False,68.0,False,C2R170,屏東,22.66027,120.49403
 2026-07-10,True,36.0,True,30.5,True,74.0,True,C2R170,屏東,22.66027,120.49403
-2026-07-11,False,,False,29.0,True,75.0,True,C2R170,屏東,22.66027,120.49403
+2026-07-11,True,29.4,True,26.6,True,92.0,True,C2R170,屏東,22.66027,120.49403
+2026-07-12,False,,False,28.0,True,96.0,True,C2R170,屏東,22.66027,120.49403

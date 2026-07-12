@@ -190,4 +190,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-07-08,True,33.5,True,29.5,True,80.0,True,C2G870,芳苑,23.922303,120.320025
 2026-07-09,True,33.0,True,29.5,True,79.0,True,C2G870,芳苑,23.922303,120.320025
 2026-07-10,True,32.4,True,29.1,True,80.0,True,C2G870,芳苑,23.922303,120.320025
-2026-07-11,False,,False,27.5,True,90.0,True,C2G870,芳苑,23.922303,120.320025
+2026-07-11,False,,False,27.0,True,91.0,True,C2G870,芳苑,23.922303,120.320025
+2026-07-12,False,,False,27.5,True,90.0,True,C2G870,芳苑,23.922303,120.320025
