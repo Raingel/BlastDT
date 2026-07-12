@@ -191,3 +191,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-07-08,True,29.0,True,1.0,81.0,True,1.0,C0SA20,金崙山,22.567419,120.959667
 2026-07-09,True,28.7,True,1.0,82.0,True,1.0,C0SA20,金崙山,22.567419,120.959667
 2026-07-10,False,29.9,True,1.0,71.0,False,0.0,C0SA20,金崙山,22.567419,120.959667
+2026-07-11,False,28.7,True,1.0,68.0,False,0.0,C0SA20,金崙山,22.567419,120.959667
