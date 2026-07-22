@@ -200,4 +200,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-07-18,True,32.4,True,26.0,True,83.0,True,C2H9T0,名間竹圍,23.859914,120.637572
 2026-07-19,True,29.5,True,25.9,True,85.0,True,C2H9T0,名間竹圍,23.859914,120.637572
 2026-07-20,True,32.9,True,27.3,True,76.0,True,C2H9T0,名間竹圍,23.859914,120.637572
-2026-07-21,False,,False,24.7,True,89.0,True,C2H9T0,名間竹圍,23.859914,120.637572
+2026-07-21,True,33.4,True,26.6,True,80.0,True,C2H9T0,名間竹圍,23.859914,120.637572
+2026-07-22,False,,False,23.4,True,91.0,True,C2H9T0,名間竹圍,23.859914,120.637572
