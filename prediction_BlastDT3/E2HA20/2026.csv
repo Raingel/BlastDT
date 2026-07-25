@@ -202,4 +202,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-07-20,False,20.4,False,15.5,True,92.0,True,E2HA20,林試畢祿溪站,24.226944,121.308522
 2026-07-21,True,24.2,True,15.1,True,92.0,True,E2HA20,林試畢祿溪站,24.226944,121.308522
 2026-07-22,True,23.1,True,15.4,True,92.0,True,E2HA20,林試畢祿溪站,24.226944,121.308522
-2026-07-23,False,,False,11.8,True,99.0,True,E2HA20,林試畢祿溪站,24.226944,121.308522
+2026-07-23,True,22.8,True,15.3,True,90.0,True,E2HA20,林試畢祿溪站,24.226944,121.308522
+2026-07-24,True,25.0,True,11.4,True,99.0,True,E2HA20,林試畢祿溪站,24.226944,121.308522
