@@ -212,3 +212,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-07-30,True,33.03333333333333,True,29.8,True,77.0,True,C0R220,潮州,22.534361,120.54
 2026-07-31,True,33.266666666666666,True,29.8,True,77.0,True,C0R220,潮州,22.534361,120.54
 2026-08-01,True,33.5,True,29.8,True,78.0,True,C0R220,潮州,22.534361,120.54
+2026-08-02,False,,False,30.0,True,76.0,True,C0R220,潮州,22.534361,120.54
