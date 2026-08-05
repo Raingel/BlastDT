@@ -214,4 +214,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-08-01,True,31.9,True,28.9,True,79.0,True,G2P820,農試鳳山分所,22.646611,120.356083
 2026-08-02,True,34.8,True,29.3,True,77.0,True,G2P820,農試鳳山分所,22.646611,120.356083
 2026-08-03,True,33.5,True,29.6,True,75.0,True,G2P820,農試鳳山分所,22.646611,120.356083
-2026-08-04,False,,False,28.2,True,85.0,True,G2P820,農試鳳山分所,22.646611,120.356083
+2026-08-04,True,34.8,True,30.0,True,74.0,True,G2P820,農試鳳山分所,22.646611,120.356083
+2026-08-05,False,,False,28.2,True,83.0,True,G2P820,農試鳳山分所,22.646611,120.356083
