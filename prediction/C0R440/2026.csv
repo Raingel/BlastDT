@@ -214,3 +214,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-07-31,False,23.3,False,0.0,81.0,True,1.0,C0R440,大漢山,22.405264,120.753181
 2026-08-01,False,22.4,False,0.0,82.0,True,1.0,C0R440,大漢山,22.405264,120.753181
 2026-08-02,False,22.8,False,0.0,88.0,True,1.0,C0R440,大漢山,22.405264,120.753181
+2026-08-03,True,23.5,True,1.0,83.0,True,1.0,C0R440,大漢山,22.405264,120.753181
+2026-08-04,True,23.9,True,1.0,84.0,True,1.0,C0R440,大漢山,22.405264,120.753181
