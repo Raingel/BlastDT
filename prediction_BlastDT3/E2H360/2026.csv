@@ -216,4 +216,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-08-03,True,30.7,True,26.0,True,83.0,True,E2H360,蓮華池,23.918333,120.885278
 2026-08-04,True,31.2,True,26.2,True,85.0,True,E2H360,蓮華池,23.918333,120.885278
 2026-08-05,True,30.9,True,26.1,True,81.0,True,E2H360,蓮華池,23.918333,120.885278
-2026-08-06,False,,False,23.9,True,93.0,True,E2H360,蓮華池,23.918333,120.885278
+2026-08-06,True,31.2,True,26.1,True,83.0,True,E2H360,蓮華池,23.918333,120.885278
+2026-08-07,False,,False,24.4,True,96.0,True,E2H360,蓮華池,23.918333,120.885278
