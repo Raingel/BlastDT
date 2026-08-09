@@ -217,3 +217,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-08-04,True,30.3,True,24.1,True,82.0,True,C0UA50,西帽山,24.555361,121.802628
 2026-08-05,True,31.2,True,25.4,True,79.0,True,C0UA50,西帽山,24.555361,121.802628
 2026-08-06,True,31.7,True,25.1,True,85.0,True,C0UA50,西帽山,24.555361,121.802628
+2026-08-07,False,30.8,True,26.2,True,68.0,False,C0UA50,西帽山,24.555361,121.802628
+2026-08-08,False,30.9,True,25.3,True,71.0,False,C0UA50,西帽山,24.555361,121.802628
