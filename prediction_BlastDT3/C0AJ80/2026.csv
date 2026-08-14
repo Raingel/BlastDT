@@ -223,3 +223,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-08-10,True,34.2,True,29.3,True,77.0,True,C0AJ80,板橋,25.0107,121.4489
 2026-08-11,True,34.8,True,29.9,True,78.0,True,C0AJ80,板橋,25.0107,121.4489
 2026-08-12,True,34.7,True,30.6,True,74.0,True,C0AJ80,板橋,25.0107,121.4489
+2026-08-13,False,34.7,True,30.5,True,72.0,False,C0AJ80,板橋,25.0107,121.4489
