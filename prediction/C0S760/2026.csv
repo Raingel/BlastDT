@@ -224,3 +224,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-08-10,False,23.7,True,1.0,75.0,False,0.0,C0S760,紅石,23.069131,121.126219
 2026-08-11,True,26.9,True,1.0,85.0,True,1.0,C0S760,紅石,23.069131,121.126219
 2026-08-12,True,26.5,True,1.0,86.0,True,1.0,C0S760,紅石,23.069131,121.126219
+2026-08-13,True,26.2,True,1.0,91.0,True,1.0,C0S760,紅石,23.069131,121.126219
