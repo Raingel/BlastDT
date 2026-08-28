@@ -236,3 +236,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-08-23,True,32.0,True,28.4,True,83.0,True,C0AH70,松山,25.04871,121.55042
 2026-08-24,True,30.2,True,28.0,True,82.0,True,C0AH70,松山,25.04871,121.55042
 2026-08-25,True,30.0,True,27.4,True,88.0,True,C0AH70,松山,25.04871,121.55042
+2026-08-26,True,31.7,True,28.3,True,83.0,True,C0AH70,松山,25.04871,121.55042
+2026-08-27,False,35.0,True,30.9,False,70.0,False,C0AH70,松山,25.04871,121.55042
