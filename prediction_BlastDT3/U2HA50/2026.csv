@@ -239,4 +239,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-08-26,True,32.4,True,27.2,True,92.0,True,U2HA50,臺大竹山,23.756972,120.681556
 2026-08-27,True,30.6,True,26.3,True,97.0,True,U2HA50,臺大竹山,23.756972,120.681556
 2026-08-28,True,30.8,True,26.7,True,97.0,True,U2HA50,臺大竹山,23.756972,120.681556
-2026-08-29,False,,False,25.3,True,99.0,True,U2HA50,臺大竹山,23.756972,120.681556
+2026-08-29,True,33.9,True,28.1,True,88.0,True,U2HA50,臺大竹山,23.756972,120.681556
+2026-08-30,False,,False,25.5,True,99.0,True,U2HA50,臺大竹山,23.756972,120.681556
