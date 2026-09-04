@@ -245,3 +245,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-08-31,True,27.6,True,1.0,87.0,True,1.0,C0V650,彌陀,22.783806,120.246361
 2026-09-01,True,26.6,True,1.0,91.0,True,1.0,C0V650,彌陀,22.783806,120.246361
 2026-09-02,False,30.6,True,1.0,77.0,False,0.0,C0V650,彌陀,22.783806,120.246361
+2026-09-03,False,29.0,True,1.0,63.0,False,0.0,C0V650,彌陀,22.783806,120.246361
