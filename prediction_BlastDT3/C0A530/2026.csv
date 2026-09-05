@@ -245,3 +245,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-09-01,True,27.5,True,24.8,True,94.0,True,C0A530,坪林,24.938183,121.70975
 2026-09-02,True,28.6,True,25.1,True,93.0,True,C0A530,坪林,24.938183,121.70975
 2026-09-03,False,,False,25.0,True,94.0,True,C0A530,坪林,24.938183,121.70975
+2026-09-04,False,,False,,False,,False,C0A530,坪林,24.938183,121.70975
