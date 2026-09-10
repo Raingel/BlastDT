@@ -251,3 +251,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-09-06,True,26.8,True,1.0,90.0,True,1.0,C2H9N0,仁愛東眼,24.026875,121.1205
 2026-09-07,True,24.5,True,1.0,93.0,True,1.0,C2H9N0,仁愛東眼,24.026875,121.1205
 2026-09-08,False,27.7,True,1.0,79.0,False,0.0,C2H9N0,仁愛東眼,24.026875,121.1205
+2026-09-09,True,27.5,True,1.0,80.0,True,1.0,C2H9N0,仁愛東眼,24.026875,121.1205
+2026-09-10,,,,,86.0,True,1.0,C2H9N0,仁愛東眼,24.026875,121.1205
