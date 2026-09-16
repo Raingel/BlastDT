@@ -256,3 +256,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-09-12,True,35.4,True,30.1,True,75.0,True,C0G660,溪湖,23.94835,120.479122
 2026-09-13,True,37.1,True,30.7,True,77.0,True,C0G660,溪湖,23.94835,120.479122
 2026-09-14,True,33.9,True,30.0,True,76.0,True,C0G660,溪湖,23.94835,120.479122
+2026-09-15,False,34.4,True,29.7,True,68.0,False,C0G660,溪湖,23.94835,120.479122
