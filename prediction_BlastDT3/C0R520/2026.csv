@@ -260,3 +260,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-09-16,True,32.5,True,28.7,True,79.0,True,C0R520,崁頂,22.514781,120.506914
 2026-09-17,True,32.0,True,29.3,True,76.0,True,C0R520,崁頂,22.514781,120.506914
 2026-09-18,False,,False,29.4,True,75.0,True,C0R520,崁頂,22.514781,120.506914
+2026-09-19,False,,False,29.9,True,73.0,False,C0R520,崁頂,22.514781,120.506914
