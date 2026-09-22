@@ -262,3 +262,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-09-18,True,32.6,True,26.9,True,79.0,True,C0E780,銅鑼,24.489681,120.790853
 2026-09-19,True,32.7,True,26.4,True,74.0,True,C0E780,銅鑼,24.489681,120.790853
 2026-09-20,True,32.7,True,27.0,True,75.0,True,C0E780,銅鑼,24.489681,120.790853
+2026-09-21,False,,False,27.0,True,68.0,False,C0E780,銅鑼,24.489681,120.790853
