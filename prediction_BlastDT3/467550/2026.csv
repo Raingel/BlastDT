@@ -264,3 +264,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-09-20,True,21.5,True,9.6,True,81.0,True,467550,玉山,23.48718,120.95943
 2026-09-21,False,19.0,False,8.4,True,86.0,True,467550,玉山,23.48718,120.95943
 2026-09-22,False,20.2,False,9.0,True,82.0,True,467550,玉山,23.48718,120.95943
+2026-09-23,False,18.8,False,8.1,True,75.0,True,467550,玉山,23.48718,120.95943
+2026-09-24,False,22.4,True,8.3,True,64.0,False,467550,玉山,23.48718,120.95943
+2026-09-25,False,21.6,True,8.8,True,64.0,False,467550,玉山,23.48718,120.95943
