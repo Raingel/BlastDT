@@ -273,4 +273,6 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-09-29,False,13.4,False,9.2,True,50.0,False,C0F0E0,南湖圈谷,24.363714,121.444667
 2026-09-30,False,13.6,False,8.7,True,54.0,False,C0F0E0,南湖圈谷,24.363714,121.444667
 2026-10-01,False,12.8,False,8.5,True,68.0,False,C0F0E0,南湖圈谷,24.363714,121.444667
-2026-10-02,False,,False,8.3,True,77.0,True,C0F0E0,南湖圈谷,24.363714,121.444667
+2026-10-02,False,13.55,False,8.3,True,77.0,True,C0F0E0,南湖圈谷,24.363714,121.444667
+2026-10-03,False,14.3,False,8.3,True,89.0,True,C0F0E0,南湖圈谷,24.363714,121.444667
+2026-10-04,False,11.5,False,8.4,True,74.0,True,C0F0E0,南湖圈谷,24.363714,121.444667
