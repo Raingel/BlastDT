@@ -277,3 +277,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-10-03,True,32.7,True,28.3,True,80.0,True,C0K440,二崙,23.772797,120.408944
 2026-10-04,True,32.1,True,28.0,True,79.0,True,C0K440,二崙,23.772797,120.408944
 2026-10-05,True,31.5,True,27.0,True,83.0,True,C0K440,二崙,23.772797,120.408944
+2026-10-06,False,29.7,True,25.1,True,72.0,False,C0K440,二崙,23.772797,120.408944
