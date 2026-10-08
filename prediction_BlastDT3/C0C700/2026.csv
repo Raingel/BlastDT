@@ -278,3 +278,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-10-04,True,31.6,True,27.4,True,76.0,True,C0C700,中壢,24.977661,121.256375
 2026-10-05,True,27.7,True,24.3,True,85.0,True,C0C700,中壢,24.977661,121.256375
 2026-10-06,True,24.5,True,22.4,True,76.0,True,C0C700,中壢,24.977661,121.256375
+2026-10-07,False,25.7,True,23.6,True,63.0,False,C0C700,中壢,24.977661,121.256375
