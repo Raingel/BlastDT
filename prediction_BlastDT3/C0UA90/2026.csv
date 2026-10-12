@@ -281,3 +281,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-10-07,False,26.1,True,24.3,True,65.0,False,C0UA90,石城,24.980444,121.951214
 2026-10-08,False,25.5,True,24.8,True,68.0,False,C0UA90,石城,24.980444,121.951214
 2026-10-09,False,28.6,True,25.9,True,73.0,False,C0UA90,石城,24.980444,121.951214
+2026-10-10,True,27.8,True,25.4,True,82.0,True,C0UA90,石城,24.980444,121.951214
+2026-10-11,True,28.4,True,24.9,True,79.0,True,C0UA90,石城,24.980444,121.951214
