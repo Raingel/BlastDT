@@ -283,4 +283,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-10-09,False,31.8,True,26.0,True,71.0,False,E2S960,林試太麻里2,22.598,120.99775
 2026-10-10,True,31.5,True,26.8,True,75.0,True,E2S960,林試太麻里2,22.598,120.99775
 2026-10-11,True,31.3,True,25.4,True,83.0,True,E2S960,林試太麻里2,22.598,120.99775
-2026-10-12,False,,False,22.9,True,90.0,True,E2S960,林試太麻里2,22.598,120.99775
+2026-10-12,True,31.3,True,26.2,True,75.0,True,E2S960,林試太麻里2,22.598,120.99775
+2026-10-13,False,,False,24.8,True,84.0,True,E2S960,林試太麻里2,22.598,120.99775
