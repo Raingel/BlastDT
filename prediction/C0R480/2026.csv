@@ -288,3 +288,5 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-10-13,False,31.25,True,1.0,73.0,False,0.0,C0R480,長治,22.693128,120.542622
 2026-10-14,False,31.0,True,1.0,73.0,False,0.0,C0R480,長治,22.693128,120.542622
 2026-10-15,False,33.5,True,1.0,72.0,False,0.0,C0R480,長治,22.693128,120.542622
+2026-10-16,False,33.8,True,1.0,77.0,False,0.0,C0R480,長治,22.693128,120.542622
+2026-10-17,,,,,80.0,True,1.0,C0R480,長治,22.693128,120.542622
