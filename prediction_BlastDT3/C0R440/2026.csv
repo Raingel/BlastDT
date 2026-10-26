@@ -295,3 +295,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-10-21,True,22.3,True,18.1,True,74.0,True,C0R440,大漢山,22.405264,120.753181
 2026-10-22,False,23.2,True,19.1,True,71.0,False,C0R440,大漢山,22.405264,120.753181
 2026-10-23,True,22.4,True,17.8,True,84.0,True,C0R440,大漢山,22.405264,120.753181
+2026-10-24,False,17.2,False,16.1,True,100.0,True,C0R440,大漢山,22.405264,120.753181
+2026-10-25,True,20.8,True,17.2,True,98.0,True,C0R440,大漢山,22.405264,120.753181
