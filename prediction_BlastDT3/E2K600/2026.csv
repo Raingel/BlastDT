@@ -298,4 +298,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-10-24,True,26.7,True,24.3,True,89.0,True,E2K600,四湖植物園,23.676986,120.163433
 2026-10-25,True,29.9,True,25.7,True,76.0,True,E2K600,四湖植物園,23.676986,120.163433
 2026-10-26,True,30.2,True,25.8,True,78.0,True,E2K600,四湖植物園,23.676986,120.163433
-2026-10-27,False,,False,24.7,True,78.0,True,E2K600,四湖植物園,23.676986,120.163433
+2026-10-27,False,28.7,True,25.2,True,67.0,False,E2K600,四湖植物園,23.676986,120.163433
+2026-10-28,False,,False,22.2,True,71.0,False,E2K600,四湖植物園,23.676986,120.163433

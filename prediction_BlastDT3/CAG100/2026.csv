@@ -298,4 +298,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-10-24,True,26.1,True,24.5,True,86.0,True,CAG100,王功漁港,23.96824,120.32586
 2026-10-25,True,28.8,True,25.7,True,75.0,True,CAG100,王功漁港,23.96824,120.32586
 2026-10-26,True,28.1,True,25.4,True,77.0,True,CAG100,王功漁港,23.96824,120.32586
-2026-10-27,False,,False,24.3,True,77.0,True,CAG100,王功漁港,23.96824,120.32586
+2026-10-27,False,27.0,True,24.8,True,66.0,False,CAG100,王功漁港,23.96824,120.32586
+2026-10-28,False,,False,23.1,True,64.0,False,CAG100,王功漁港,23.96824,120.32586
