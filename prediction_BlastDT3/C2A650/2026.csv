@@ -311,4 +311,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-11-06,True,21.3,True,19.5,True,97.0,True,C2A650,火燒寮,25.002719,121.742892
 2026-11-07,True,21.4,True,19.6,True,97.0,True,C2A650,火燒寮,25.002719,121.742892
 2026-11-08,True,25.6,True,20.5,True,90.0,True,C2A650,火燒寮,25.002719,121.742892
-2026-11-09,False,,False,18.7,True,99.0,True,C2A650,火燒寮,25.002719,121.742892
+2026-11-09,False,19.6,False,17.0,True,97.0,True,C2A650,火燒寮,25.002719,121.742892
+2026-11-10,False,,False,13.1,True,80.0,True,C2A650,火燒寮,25.002719,121.742892
