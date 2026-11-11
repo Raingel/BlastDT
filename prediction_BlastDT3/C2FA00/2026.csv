@@ -312,4 +312,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-11-07,True,27.8,True,20.5,True,85.0,True,C2FA00,烏石坑,24.273503,120.947617
 2026-11-08,True,28.4,True,20.7,True,84.0,True,C2FA00,烏石坑,24.273503,120.947617
 2026-11-09,True,23.2,True,16.4,True,89.0,True,C2FA00,烏石坑,24.273503,120.947617
-2026-11-10,False,,False,12.5,True,100.0,True,C2FA00,烏石坑,24.273503,120.947617
+2026-11-10,False,19.3,False,14.6,True,91.0,True,C2FA00,烏石坑,24.273503,120.947617
+2026-11-11,False,,False,14.5,True,97.0,True,C2FA00,烏石坑,24.273503,120.947617

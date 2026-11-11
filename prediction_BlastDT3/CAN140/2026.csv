@@ -312,4 +312,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-11-07,True,31.0,True,26.3,True,77.0,True,CAN140,六官養殖協會,23.22881,120.29962
 2026-11-08,True,30.4,True,26.5,True,79.0,True,CAN140,六官養殖協會,23.22881,120.29962
 2026-11-09,True,27.3,True,23.1,True,75.0,True,CAN140,六官養殖協會,23.22881,120.29962
-2026-11-10,False,,False,19.1,True,69.0,False,CAN140,六官養殖協會,23.22881,120.29962
+2026-11-10,False,21.9,True,19.4,True,68.0,False,CAN140,六官養殖協會,23.22881,120.29962
+2026-11-11,False,,False,19.4,True,80.0,True,CAN140,六官養殖協會,23.22881,120.29962

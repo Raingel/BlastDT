@@ -312,3 +312,4 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-11-07,True,29.0,True,26.4,True,81.0,True,C0N020,城西,23.0568,120.0956
 2026-11-08,True,29.1,True,26.7,True,83.0,True,C0N020,城西,23.0568,120.0956
 2026-11-09,True,27.2,True,23.6,True,75.0,True,C0N020,城西,23.0568,120.0956
+2026-11-10,False,23.4,True,19.9,True,65.0,False,C0N020,城西,23.0568,120.0956
