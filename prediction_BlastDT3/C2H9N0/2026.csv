@@ -316,4 +316,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-11-11,True,24.1,True,15.8,True,84.0,True,C2H9N0,仁愛東眼,24.026875,121.1205
 2026-11-12,True,25.4,True,16.5,True,80.0,True,C2H9N0,仁愛東眼,24.026875,121.1205
 2026-11-13,False,26.1,True,17.4,True,71.0,False,C2H9N0,仁愛東眼,24.026875,121.1205
-2026-11-14,False,,False,14.1,True,89.0,True,C2H9N0,仁愛東眼,24.026875,121.1205
+2026-11-14,True,21.7,True,15.3,True,86.0,True,C2H9N0,仁愛東眼,24.026875,121.1205
+2026-11-15,False,,False,16.0,True,96.0,True,C2H9N0,仁愛東眼,24.026875,121.1205
