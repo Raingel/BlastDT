@@ -317,3 +317,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-11-11,False,28.3,True,1.0,71.0,False,0.0,C0K500,元長,23.642858,120.31966
 2026-11-12,True,28.5,True,1.0,80.0,True,1.0,C0K500,元長,23.642858,120.31966
 2026-11-13,True,29.7,True,1.0,80.0,True,1.0,C0K500,元長,23.642858,120.31966
+2026-11-14,True,24.6,True,1.0,90.0,True,1.0,C0K500,元長,23.642858,120.31966
