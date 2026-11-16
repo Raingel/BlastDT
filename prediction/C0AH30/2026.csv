@@ -318,3 +318,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-11-12,True,23.6,True,1.0,94.0,True,1.0,C0AH30,五分山,25.07125,121.780794
 2026-11-13,True,23.8,True,1.0,93.0,True,1.0,C0AH30,五分山,25.07125,121.780794
 2026-11-14,True,27.4,True,1.0,83.0,True,1.0,C0AH30,五分山,25.07125,121.780794
+2026-11-15,False,21.4,False,0.0,94.0,True,1.0,C0AH30,五分山,25.07125,121.780794
