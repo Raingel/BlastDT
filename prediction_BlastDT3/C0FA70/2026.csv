@@ -316,5 +316,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-11-11,False,17.8,False,11.1,True,49.0,False,C0FA70,大雪山埡口,24.26867,121.03062
 2026-11-12,False,19.1,False,12.4,True,65.0,False,C0FA70,大雪山埡口,24.26867,121.03062
 2026-11-13,False,18.3,False,12.5,True,65.0,False,C0FA70,大雪山埡口,24.26867,121.03062
-2026-11-14,False,13.9,False,10.3,True,66.0,False,C0FA70,大雪山埡口,24.26867,121.03062
-2026-11-15,False,,False,9.9,True,,False,C0FA70,大雪山埡口,24.26867,121.03062
+2026-11-14,False,13.9,False,10.3,True,80.0,True,C0FA70,大雪山埡口,24.26867,121.03062
+2026-11-15,False,16.5,False,10.3,True,93.0,True,C0FA70,大雪山埡口,24.26867,121.03062

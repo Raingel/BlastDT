@@ -316,4 +316,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-11-11,False,20.2,False,16.4,True,86.0,True,C0FB10,出雲山苗圃,24.23105,120.90475
 2026-11-12,False,20.5,False,16.5,True,88.0,True,C0FB10,出雲山苗圃,24.23105,120.90475
 2026-11-13,True,23.5,True,17.7,True,82.0,True,C0FB10,出雲山苗圃,24.23105,120.90475
-2026-11-14,False,,False,17.0,True,88.0,True,C0FB10,出雲山苗圃,24.23105,120.90475
+2026-11-14,True,22.0,True,17.0,True,88.0,True,C0FB10,出雲山苗圃,24.23105,120.90475
+2026-11-15,False,20.5,False,17.8,True,94.0,True,C0FB10,出雲山苗圃,24.23105,120.90475
