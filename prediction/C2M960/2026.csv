@@ -319,3 +319,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-11-13,False,26.1,True,1.0,72.0,False,0.0,C2M960,外寮,23.562643,120.665688
 2026-11-14,False,22.4,False,0.0,82.0,True,1.0,C2M960,外寮,23.562643,120.665688
 2026-11-15,,,,,98.0,True,1.0,C2M960,外寮,23.562643,120.665688
+2026-11-16,,,,,,,,C2M960,外寮,23.562643,120.665688
