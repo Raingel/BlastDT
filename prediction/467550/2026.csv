@@ -323,3 +323,4 @@ Date,nian_prediction,TxMaxAbs,TxMaxAbs_condition,TxMaxAbs_condition_rolling,RH,R
 2026-11-17,False,13.0,False,0.0,35.0,False,0.0,467550,玉山,23.48718,120.95943
 2026-11-18,False,14.4,False,0.0,58.0,False,0.0,467550,玉山,23.48718,120.95943
 2026-11-19,False,4.7,False,0.0,100.0,True,1.0,467550,玉山,23.48718,120.95943
+2026-11-20,False,-0.1,False,0.0,100.0,True,1.0,467550,玉山,23.48718,120.95943
