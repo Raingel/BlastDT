@@ -327,4 +327,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-11-22,True,26.6,True,19.1,True,79.0,True,B2N890,畜產試驗所,23.058972,120.336406
 2026-11-23,True,28.1,True,21.9,True,81.0,True,B2N890,畜產試驗所,23.058972,120.336406
 2026-11-24,True,24.7,True,20.0,True,89.0,True,B2N890,畜產試驗所,23.058972,120.336406
-2026-11-25,False,,False,15.5,True,91.0,True,B2N890,畜產試驗所,23.058972,120.336406
+2026-11-25,True,21.0,True,18.1,True,91.0,True,B2N890,畜產試驗所,23.058972,120.336406
+2026-11-26,False,,False,18.5,True,92.0,True,B2N890,畜產試驗所,23.058972,120.336406
