@@ -328,4 +328,5 @@ Date,BlastDT3,TxMaxAbs,TxMaxAbs_condition,Tx,Tx_condition,RH,RH_condition,站號
 2026-11-23,True,26.5,True,21.5,True,78.0,True,C2M920,朴子農改,23.469889,120.259383
 2026-11-24,True,22.3,True,19.5,True,81.0,True,C2M920,朴子農改,23.469889,120.259383
 2026-11-25,True,21.3,True,18.2,True,74.0,True,C2M920,朴子農改,23.469889,120.259383
-2026-11-26,False,,False,18.2,True,84.0,True,C2M920,朴子農改,23.469889,120.259383
+2026-11-26,True,24.2,True,20.6,True,82.0,True,C2M920,朴子農改,23.469889,120.259383
+2026-11-27,False,,False,20.6,True,92.0,True,C2M920,朴子農改,23.469889,120.259383
